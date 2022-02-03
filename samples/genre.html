@@ -1,0 +1,82 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    * {
+      box-sizing: border-box;
+    }
+    
+    /* Create two equal columns that floats next to each other */
+    .column {
+      float: left;
+      width: 50%;
+      padding: 10px;
+    }
+    
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    </style>
+    </head>
+    <body>
+    
+                <h1>Sample 1</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>There was very great disdain between <a href="https://wikidata.org/wiki/Q5592">Michelagnolo Buonarroti</a> and him, on account of which <a href="https://wikidata.org/wiki/Q5592">Michelagnolo</a> departed from <a href="https://wikidata.org/wiki/Q2044">Florence</a>, with the excuse of <a href="https://wikidata.org/wiki/Q333340">Duke Giuliano</a>, having been summoned by the <a href="https://wikidata.org/wiki/Q49237">Pope</a> to the competition for the facade of <a href="https://wikidata.org/wiki/Q573881">S. Lorenzo</a>.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>There was very great disdain between <a href="https://wikidata.org/wiki/Q21507056">Michelagnolo Buonarroti</a> and him, on account of which <a href="https://wikidata.org/wiki/Q2395209">Michelagnolo</a> departed from <a href="https://wikidata.org/wiki/Q2044">Florence</a>, with the excuse of <a href="https://wikidata.org/wiki/Q333340">Duke Giuliano</a>, having been summoned by the <a href="https://wikidata.org/wiki/Q19546">Pope</a> to the competition for the facade of S. <a href="https://wikidata.org/wiki/Q177854">Lorenzo</a>.</p></p>
+                </div>
+                </div>
+                
+                <h1>Sample 2</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>Truly marvellous and celestial was <a href="https://wikidata.org/wiki/Q762">Leonardo</a>, the son of <a href="https://wikidata.org/wiki/Q371916">Ser Piero da Vinci</a>; and in learning and in the rudiments of letters he would have made great proficience, if he had not been so variable and unstable, for he set himself to learn many things, and then, after having begun them, abandoned them.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>Truly marvellous and celestial was <a href="https://wikidata.org/wiki/Q762">Leonardo</a>, the son of <a href="https://wikidata.org/wiki/Q262212">Ser Piero da Vinci</a>; and in learning and in the rudiments of letters he would have made great proficience, if he had not been so variable and unstable, for he set himself to learn many things, and then, after having begun them, abandoned them.</p></p>
+                </div>
+                </div>
+                
+                <h1>Sample 3</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>He made at this time, for Messer <a href="https://wikidata.org/wiki/Q3633263">Baldassarre Turini</a> da Pescia, who was Datary to <a href="https://wikidata.org/wiki/Q49237">Pope Leo</a>, a little picture of the <a href="https://wikidata.org/wiki/Q9309699">Madonna with the Child</a> in her arms, with infinite diligence and art; but whether through the fault of whoever primed the panel with gesso, or because of his innumerable and capricious mixtures of grounds and colours, it is now much spoilt.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>He made at this time, for <a href="https://wikidata.org/wiki/Q6785312">Messer Baldassarre Turini da Pescia</a>, who was <a href="https://wikidata.org/wiki/Q620020">Datary</a> to <a href="https://wikidata.org/wiki/Q43954">Pope Leo</a>, a little picture of the <a href="https://wikidata.org/wiki/Q926743">Madonna</a> with the Child in her arms, with infinite diligence and art; but whether through the fault of whoever primed the panel with gesso, or because of his innumerable and capricious mixtures of grounds and colours, it is now much spoilt.</p></p>
+                </div>
+                </div>
+                
+                <h1>Sample 4</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p><a href="https://wikidata.org/wiki/Q762">Leonardo</a> undertook to execute, for <a href="https://wikidata.org/wiki/Q1395822">Francesco del Giocondo</a>, the portrait of <a href="https://wikidata.org/wiki/Q153032">Monna Lisa</a><a href="https://wikidata.org/wiki/Q12418">Monna Lisa</a>, his wife; and after toiling over it for four years, he left it unfinished; and the work is now in the collection of <a href="https://wikidata.org/wiki/Q129857">King Francis of France</a>, at <a href="https://wikidata.org/wiki/Q201428">Fontainebleau</a>.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p><a href="https://wikidata.org/wiki/Q762">Leonardo</a> undertook to execute, for <a href="https://wikidata.org/wiki/Q704594">Francesco del Giocondo</a>, the portrait of <a href="https://wikidata.org/wiki/Q12418">Monna Lisa</a>, his wife; and after toiling over it for four years, he left it unfinished; and the work is now in the collection of King <a href="https://wikidata.org/wiki/Q129857">Francis</a> of <a href="https://wikidata.org/wiki/Q142">France</a>, at <a href="https://wikidata.org/wiki/Q201428">Fontainebleau</a>.</p></p>
+                </div>
+                </div>
+                
+                <h1>Sample 5</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>For Antonio Segni, who was very much his friend, he made, on a sheet of paper, a <a href="https://wikidata.org/wiki/Q3954">Neptune</a> executed with such careful draughtsmanship that it seemed absolutely alive.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>For <a href="https://wikidata.org/wiki/Q1240">Antonio Segni</a>, who was very much his friend, he made, on a sheet of paper, a <a href="https://wikidata.org/wiki/Q3954">Neptune</a> executed with such careful draughtsmanship that it seemed absolutely alive.</p></p>
+                </div>
+                </div>
+                </body>

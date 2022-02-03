@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<h1>Sample 1</h1>
+<div class="row">
+    <div class="column">
+        <p><em>Ground Truth</em> <br/>Fu discepolo di <a href="https://wikidata.org/wiki/Q762">Lionardo</a> <a href="https://wikidata.org/wiki/Q442528">Giovanantonio Boltraffio</a> milanese, persona molto pratica et intendente: e cosi <a href="https://wikidata.org/wiki/Q982274">Marco Uggioni</a>, che in <a href="https://wikidata.org/wiki/Q3673878">Santa Maria della Pace</a> fece il Transito di <a href="https://wikidata.org/wiki/Q345">Nostra Donna</a> e le <a href="https://wikidata.org/wiki/Q32066758">Nozze di Canagalilee</a><a href="https://wikidata.org/wiki/Q625140">Nozze di Canagalilee</a></p>.
+    </div>
+    <div class="column">
+        <p><em>Generated result</em> <br/>Fu discepolo di <a href="https://wikidata.org/wiki/Q442528">Lionardo Giovanantonio Boltraffio</a> milanese, persona molto pratica et intendente: e cosi <a href="https://wikidata.org/wiki/Q3845343">Marco Uggioni</a>, che in <a href="https://wikidata.org/wiki/Q3673878">Santa Maria della Pace</a> fece il <a href="https://wikidata.org/wiki/Q3673878">Transito di Nostra Donna</a> e le <a href="https://wikidata.org/wiki/Q201873">Nozze di Canagalilee</a>.</p>.
+    </div>
+</div>
+<h1>Sample 2</h1>
+<div class="row">
+<div class="column">
+    <p><em>Ground Truth</em> <br/>Fece ancora in <a href="https://wikidata.org/wiki/Q490">Milano</a> ne' <a href="https://wikidata.org/wiki/Q131479">frati di San Domenico</a> a <a href="https://wikidata.org/wiki/Q244952">Santa Maria de le Grazie</a> un <a href="https://wikidata.org/wiki/Q51633">Cenacolo</a>, cosa bellissima e maravigliosa, et alle teste de gli <a href="https://wikidata.org/wiki/Q4155679">Apostoli</a> diede tanta maestà e bellezza, che quella del <a href="https://wikidata.org/wiki/Q302">Cristo</a> lasciò imperfetta, non pensando poterle dare quella divinità celeste, che a l'imagine di <a href="https://wikidata.org/wiki/Q302">Cristo</a> si richiede.</p>.
+</div>
+<div class="column">
+    <p><em>Generated result</em> <br/>Fece ancora in <a href="https://wikidata.org/wiki/Q490">Milano</a> ne' frati di <a href="https://wikidata.org/wiki/Q44091">San Domenico</a> a <a href="https://wikidata.org/wiki/Q244952">Santa Maria de le</a> <a href="https://wikidata.org/wiki/Q244952">Grazie un Cenacolo, cosa bellissima e maravigliosa, et alle teste de gli Apostoli</a> diede tanta maestà e bellezza, che quella del <a href="https://wikidata.org/wiki/Q642420">Cristo</a> lasciò imperfetta, non pensando poterle dare quella divinità celeste, che a l'imagine di <a href="https://wikidata.org/wiki/Q642420">Cristo</a> si richiede.</p>
+</div>
+</div>
+
+<h1>Sample 3</h1>
+<div class="row">
+    <div class="column">
+        <p><em>Ground Truth</em> <br/>Fu <a href="https://wikidata.org/wiki/Q296265">Filippo</a> figliuolo di <a href="https://wikidata.org/wiki/Q205148">fra' Filippo del Carmino</a>; e seguitando nella pittura le vestigie del padre morto mentre che egli era ancor giovinetto, fu tenuto in governo et amaestrato da <a href="https://wikidata.org/wiki/Q5669">Sandro di Botticello</a>; et avendolo <a href="https://wikidata.org/wiki/Q205148">fra' Filippo</a> alla morte sua raccomandato a <a href="https://wikidata.org/wiki/Q280940">fra' Diamante</a>, et a lui datolo, chei modi dell'arte buoni gli insegnasse, egli fu di tanto ingegno e di si copiosa invenzione nella pittura, e tanto bizzarro e nuovo ne' suoi ornamenti, che fu il primo il quale a' moderni mostrasse il nuovo modo di variare <a href="https://wikidata.org/wiki/Q11460">abiti</a> et abbellisse ornatamente con antichi abiti e veste soccinte le figure che e' faceva.</p>.
+    </div>
+    <div class="column">
+        <p><em>Generated result</em> <br/>Fu <a href="https://wikidata.org/wiki/Q1055843">Filippo</a> figliuolo di <a href="https://wikidata.org/wiki/Q3745373">fra' Filippo del Carmino</a>; e seguitando nella pittura le vestigie del padre morto mentre che egli era ancor giovinetto, fu tenuto in governo et amaestrato da <a href="https://wikidata.org/wiki/Q5669">Sandro di Botticello</a>; et avendolo fra' <a href="https://wikidata.org/wiki/Q15727164">Filippo</a> alla morte sua raccomandato a <a href="https://wikidata.org/wiki/Q280940">fra' Diamante</a>, et a lui datolo, chei modi dell'arte buoni gli insegnasse, egli fu di tanto ingegno e di si copiosa invenzione nella pittura, e tanto bizzarro e nuovo ne' suoi ornamenti, che fu il primo il quale a' moderni mostrasse il nuovo modo di variare abiti et abbellisse ornatamente con antichi abiti e veste soccinte le figure che e' faceva.</p>
+    </div>
+</div>
+
+<h1>Sample 4</h1>
+<div class="row">
+    <div class="column">
+        <p><em>Ground Truth</em> <br/>Andò a <a href="https://wikidata.org/wiki/Q220">Roma</a> col <a href="https://wikidata.org/wiki/Q333340">Duca Giuliano de' Medici</a> nella creazione di <a href="https://wikidata.org/wiki/Q49237">Papa Leone</a>, che attendeva molto a cose filosofiche, e massimamente alla alchimia, dove formando una pasta di una cera, mentre ch'e' caminava faceva animali sottilissimi pieni di vento, ne i quali soffiando, gli faceva volare per l'aria; ma cessando il vento, cadevano in terra.</p>
+    </div>
+    <div class="column">
+        <p><em>Generated result</em> <br/>Andò a <a href="https://wikidata.org/wiki/Q220">Roma</a> col <a href="https://wikidata.org/wiki/Q166886">Duca</a> <a href="https://wikidata.org/wiki/Q298877">Giuliano de' Medici</a> nella creazione di <a href="https://wikidata.org/wiki/Q43954">Papa Leone</a>, che attendeva molto a cose filosofiche, e massimamente alla alchimia, dove formando una pasta di una cera, mentre ch'e' caminava faceva animali sottilissimi pieni di vento, ne i quali soffiando, gli faceva volare per l'aria; ma cessando il vento, cadevano in terra.</p>
+    </div>
+</div>
+
+
+<h1>Sample 5</h1>
+<div class="row">
+    <div class="column">
+        <p><em>Ground Truth</em> <br/>Avvenne che la <a href="https://wikidata.org/wiki/Q4948">Signoria di Vinezia</a> avendo avuto molte vittorie per la virtù di <a href="https://wikidata.org/wiki/Q809506">Bartolomeo da Bergamo</a>, volendo onorare la virtù di quel signore e dare animo a gli altri loro capitani, deliberò in Senato che e' se gli facessi una <a href="https://wikidata.org/wiki/Q179700">statua</a> a <a href="https://wikidata.org/wiki/Q726">cavallo</a> di <a href="https://wikidata.org/wiki/Q34095">bronzo</a> e <a href="https://wikidata.org/wiki/Q208045">dorata</a> per porsi in su la <a href="https://wikidata.org/wiki/Q3654630">piazza di Santo Giovanni e Polo</a>, e trovando il nome d'<a href="https://wikidata.org/wiki/Q183458">Andrea</a> sparso per tutta <a href="https://wikidata.org/wiki/Q38">Italia</a> efuora sopra ogni altro, mandarono per lui a <a href="https://wikidata.org/wiki/Q2044">Fiorenza</a>, e condottolo a <a href="https://wikidata.org/wiki/Q641">Venezia</a> con grandissima provisione gli fecion fare un modello di terra, grande appunto quanto aveva da essere.</p>
+    </div>
+    <div class="column">
+        <p><em>Generated result</em> <br/>Avvenne che la <a href="https://wikidata.org/wiki/Q914425">Signoria di Vinezia</a> avendo avuto molte vittorie per la virtù di <a href="https://wikidata.org/wiki/Q38239872">Bartolomeo da Bergamo</a>, volendo onorare la virtù di quel signore e dare animo a gli altri loro capitani, deliberò in <a href="https://wikidata.org/wiki/Q2570643">Senato</a> che e' se gli facessi una statua a cavallo di bronzo e dorata per porsi in su la piazza di Santo Giovanni e Polo, e trovando il nome d'<a href="https://wikidata.org/wiki/Q493293">Andrea</a> sparso per tutta <a href="https://wikidata.org/wiki/Q38">Italia</a> efuora sopra ogni altro, mandarono per lui a <a href="https://wikidata.org/wiki/Q1418626">Fiorenza</a>, e condottolo a <a href="https://wikidata.org/wiki/Q641">Venezia</a> con grandissima provisione gli fecion fare un modello di terra, grande appunto quanto aveva da essere.</p>
+    </div>
+    
+</div>
+
+</body>

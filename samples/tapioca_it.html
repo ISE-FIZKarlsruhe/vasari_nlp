@@ -1,0 +1,82 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    * {
+      box-sizing: border-box;
+    }
+    
+    /* Create two equal columns that floats next to each other */
+    .column {
+      float: left;
+      width: 50%;
+      padding: 10px;
+    }
+    
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    </style>
+    </head>
+    <body>
+    
+                <h1>Sample 1</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>F u pronto et arguto, e con una perfetta arte di persuasione mostrava le difficultà del suo ingegno, che nelle cose de' numeri faceva muovere i monti, tirava i pesi, e fra le altre parole mostrava volere alzare il <a href="https://wikidata.org/wiki/Q732511">tempio di San Giovanni</a> di <a href="https://wikidata.org/wiki/Q2044">Fiorenza</a> e sottomettervi le scalee, senza ruinarlo, e con si forti ragioni lo persuadeva, che pareva possibile, quantunque ciascuno, poi che e' si era partito, conoscesse per se medesimo la impossibilità di cotanta impresa.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>F u pronto et arguto, e con una perfetta arte di persuasione mostrava le difficultà del suo ingegno, che nelle cose de' numeri faceva muovere i monti, tirava i pesi, e fra le altre parole mostrava volere alzare il tempio di San Giovanni di <a href="https://wikidata.org/wiki/Q2044">Fiorenza</a> e sottomettervi le scalee, senza ruinarlo, e con si forti ragioni lo persuadeva, che pareva possibile, quantunque ciascuno, poi che e' si era partito, conoscesse per se medesimo la impossibilità di cotanta impresa.</p></p>
+                </div>
+                </div>
+                
+                <h1>Sample 2</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>Acconciossi per via di <a href="https://wikidata.org/wiki/Q371916">Ser Piero</a> suo zio nella sua fanciullezza a l'arte con <a href="https://wikidata.org/wiki/Q183458">Andrea del Verocchio</a>, il quale faccendo una <a href="https://wikidata.org/wiki/Q1059211">tavola</a> dove <a href="https://wikidata.org/wiki/Q40662">San Giovanni</a> battezzava <a href="https://wikidata.org/wiki/Q302">Cristo</a>, <a href="https://wikidata.org/wiki/Q762">Lionardo</a> lavorò uno <a href="https://wikidata.org/wiki/Q235113">angelo</a>, che teneva alcune <a href="https://wikidata.org/wiki/Q11460">vesti</a>; e benché fosse giovanetto, lo condusse di tal maniera, che molto meglio de le figure d'<a href="https://wikidata.org/wiki/Q183458">And rea</a> stava l'angelo di <a href="https://wikidata.org/wiki/Q672">Lionardo</a>.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>Acconciossi per via di Ser Piero suo zio nella sua fanciullezza a l'arte con <a href="https://wikidata.org/wiki/Q183458">Andrea del Verocchio</a>, il quale faccendo una tavola dove San Giovanni battezzava <a href="https://wikidata.org/wiki/Q302">Cristo</a>, <a href="https://wikidata.org/wiki/Q762">Lionardo</a> lavorò uno angelo, che teneva alcune vesti; e benché fosse giovanetto, lo condusse di <a href="https://wikidata.org/wiki/Q2">tal</a> maniera, che molto meglio de le figure d'And rea stava l'angelo di <a href="https://wikidata.org/wiki/Q762">Lionardo</a>.</p></p>
+                </div>
+                </div>
+                
+                <h1>Sample 3</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>Aveva preso <a href="https://wikidata.org/wiki/Q5597">Raffaello</a> amicizia grandissima con <a href="https://wikidata.org/wiki/Q21618043">Lorenzo Nasi</a>, il quale avendo tolto donna in que' giorni fecesi che <a href="https://wikidata.org/wiki/Q5597">Rafaello</a> gli dipinse un quadro d'una <a href="https://wikidata.org/wiki/Q345">Nostra Donna</a>, per tenere in camera sua; nel quale fece a quella fra le gambe un <a href="https://wikidata.org/wiki/Q284865">puto</a>, al quale un <a href="https://wikidata.org/wiki/Q40662">San Giovanni</a> fanciulino egli ancora porge uno <a href="https://wikidata.org/wiki/Q5113">uccello</a> con gran festa e giuoco de l'uno e de l'altro.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>Aveva preso Raffaello amicizia grandissima con Lorenzo Nasi, il quale avendo tolto donna in que' giorni fecesi che Rafaello gli dipinse un quadro d'una Nostra Donna, per tenere in camera sua; nel quale fece a quella fra le gambe un puto, al quale un San Giovanni fanciulino egli ancora porge uno uccello con gran festa e giuoco de l'uno e de l'altro.</p></p>
+                </div>
+                </div>
+                
+                <h1>Sample 4</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>Adunque mirabile e celeste fu <a href="https://wikidata.org/wiki/Q762">Lionardo</a>, nipote di <a href="https://wikidata.org/wiki/Q371916">ser Piero da Vinci</a>, che veramente bonissimo zio e parente gli fu, nell'aiutarlo in giovanezza.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>Adunque mirabile e celeste fu <a href="https://wikidata.org/wiki/Q762">Lionardo</a>, nipote di ser <a href="https://wikidata.org/wiki/Q371916">Piero da Vinci</a>, che veramente bonissimo zio e parente gli fu, nell'aiutarlo in giovanezza.</p></p>
+                </div>
+                </div>
+                
+                <h1>Sample 5</h1>
+                
+                <div class="row">
+                <div class="column">
+                <p><em>Ground-truth</em><br/><p>Veduto questo <a href="https://wikidata.org/wiki/Q371916">Ser Piero</a>, e considerato la elevazione di quello ingegno, preso un giorno alcuni de' suoi disegni, gli portò ad <a href="https://wikidata.org/wiki/Q183458">Andrea del Verrocchio</a>, che era molto amico suo, e lo pregò strettamente che gli dovesse dire se <a href="https://wikidata.org/wiki/Q762">Lionardo</a>, attendendo al <a href="https://wikidata.org/wiki/Q1228609">disegno</a>, farebbe alcun profitto.</p></p>
+                </div>
+                <div class="column">
+                <p><em>Generated output</em><br/><p>Veduto questo Ser Piero, e considerato la elevazione di quello ingegno, preso un giorno alcuni de' suoi disegni, gli portò ad <a href="https://wikidata.org/wiki/Q183458">Andrea del Verrocchio</a>, che era molto amico suo, e lo pregò strettamente che gli dovesse dire se <a href="https://wikidata.org/wiki/Q762">Lionardo</a>, attendendo al disegno, farebbe alcun profitto.</p></p>
+                </div>
+                </div>
+                </body>
