@@ -15,7 +15,8 @@
                             "value": "Arno"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 639,
@@ -29,7 +30,8 @@
                             "value": "Pisa"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 647,
@@ -43,7 +45,8 @@
                             "value": "Florence"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             }
         ]
     },
@@ -63,7 +66,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 56,
@@ -77,7 +81,8 @@
                             "value": "Ser Piero da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -97,7 +102,8 @@
                             "value": "Ser Piero da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 103,
@@ -111,7 +117,8 @@
                             "value": "Andrea del Verrocchio"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 160,
@@ -132,7 +139,8 @@
                             "value": "Baptism of Jesus"
                         }
                     }
-                ]
+                ],
+                "type": "WORK"
             },
             {
                 "start_pos": 191,
@@ -146,7 +154,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 211,
@@ -160,7 +169,8 @@
                             "value": "angel"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 326,
@@ -174,7 +184,8 @@
                             "value": "angel"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 279,
@@ -188,7 +199,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 368,
@@ -202,7 +214,8 @@
                             "value": "Andrea del Verrocchio"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 402,
@@ -216,7 +229,8 @@
                             "value": "Andrea del Verrocchio"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -236,7 +250,8 @@
                             "value": "Florence"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 172,
@@ -250,7 +265,8 @@
                             "value": "Florence Baptistery"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 197,
@@ -264,7 +280,8 @@
                             "value": "Florence"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             }
         ]
     },
@@ -284,7 +301,8 @@
                             "value": "Flanders"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 136,
@@ -298,7 +316,8 @@
                             "value": "King of Portugal"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 157,
@@ -312,7 +331,8 @@
                             "value": "Adam and Eve"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 185,
@@ -326,7 +346,8 @@
                             "value": "Garden of Eden"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 211,
@@ -340,7 +361,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -360,7 +382,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 32,
@@ -381,7 +404,8 @@
                             "value": "Virgin Mary"
                         }
                     }
-                ]
+                ],
+                "type": "WORK"
             },
             {
                 "start_pos": 96,
@@ -395,7 +419,8 @@
                             "value": "Clement VII"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -415,7 +440,8 @@
                             "value": "Palazzo Medici Riccardi"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 93,
@@ -449,7 +475,8 @@
                             "value": "Neptune"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             }
         ]
     },
@@ -476,7 +503,8 @@
                             "value": "Adoration of the Magi"
                         }
                     }
-                ]
+                ],
+                "type": "WORK"
             },
             {
                 "start_pos": 139,
@@ -490,7 +518,8 @@
                             "value": "Amerigo Benci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 167,
@@ -504,7 +533,8 @@
                             "value": "Loggia dei Peruzzi"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             }
         ]
     },
@@ -524,7 +554,8 @@
                             "value": "Gian Galeazzo Sforza"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 69,
@@ -538,7 +569,8 @@
                             "value": "Ludovico Sforza"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 128,
@@ -552,7 +584,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 153,
@@ -566,7 +599,8 @@
                             "value": "Milan"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 274,
@@ -580,7 +614,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -600,7 +635,8 @@
                             "value": "Milan"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 34,
@@ -614,7 +650,8 @@
                             "value": "Dominican Order"
                         }
                     }
-                ]
+                ],
+                "type": "ORG"
             },
             {
                 "start_pos": 59,
@@ -628,7 +665,8 @@
                             "value": "Santa Maria delle Grazie"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 84,
@@ -649,7 +687,8 @@
                             "value": "Last Supper"
                         }
                     }
-                ]
+                ],
+                "type": "WORK"
             },
             {
                 "start_pos": 160,
@@ -663,7 +702,8 @@
                             "value": "Twelve Apostles"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 227,
@@ -677,7 +717,8 @@
                             "value": "Jesus"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 339,
@@ -691,7 +732,8 @@
                             "value": "Jesus"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -711,7 +753,8 @@
                             "value": "prior"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 100,
@@ -725,7 +768,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 149,
@@ -739,7 +783,8 @@
                             "value": "Judas Iscariot"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 229,
@@ -753,7 +798,8 @@
                             "value": "Jesus"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -780,7 +826,8 @@
                             "value": "Last Supper"
                         }
                     }
-                ]
+                ],
+                "type": "WORK"
             },
             {
                 "start_pos": 91,
@@ -794,7 +841,8 @@
                             "value": "Passion"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 118,
@@ -808,7 +856,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 146,
@@ -822,7 +871,8 @@
                             "value": "Ludovico Sforza"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 161,
@@ -836,7 +886,8 @@
                             "value": "Maximilian Sforza"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 219,
@@ -850,7 +901,8 @@
                             "value": "Beatrice d’Este"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 242,
@@ -864,7 +916,8 @@
                             "value": "Francesco II Sforza"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -884,7 +937,8 @@
                             "value": "Marcantonio della Torre"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 210,
@@ -898,7 +952,8 @@
                             "value": "Pavia"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 369,
@@ -912,7 +967,8 @@
                             "value": "Galen"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -932,7 +988,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 54,
@@ -974,7 +1031,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -994,7 +1052,8 @@
                             "value": "Milan"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 48,
@@ -1008,7 +1067,8 @@
                             "value": "Salaì"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 145,
@@ -1022,7 +1082,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 232,
@@ -1036,7 +1097,8 @@
                             "value": "Milan"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 263,
@@ -1050,7 +1112,8 @@
                             "value": "Salaì"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 288,
@@ -1064,7 +1127,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -1084,7 +1148,8 @@
                             "value": "Virgin Mary"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 57,
@@ -1098,7 +1163,8 @@
                             "value": "Saint Anne"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 73,
@@ -1112,7 +1178,8 @@
                             "value": "Jesus"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 328,
@@ -1126,7 +1193,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 406,
@@ -1140,7 +1208,8 @@
                             "value": "Virgin Mary"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 526,
@@ -1154,7 +1223,8 @@
                             "value": "Virgin Mary"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 639,
@@ -1168,7 +1238,8 @@
                             "value": "Virgin Mary"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 816,
@@ -1182,7 +1253,8 @@
                             "value": "John the Baptist"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 896,
@@ -1196,7 +1268,8 @@
                             "value": "Saint Anne"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 1027,
@@ -1210,7 +1283,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -1230,7 +1304,8 @@
                             "value": "Florence"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 49,
@@ -1244,7 +1319,8 @@
                             "value": "Servite Order"
                         }
                     }
-                ]
+                ],
+                "type": "ORG"
             },
             {
                 "start_pos": 81,
@@ -1258,7 +1334,8 @@
                             "value": "Filippino Lippi"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 143,
@@ -1272,7 +1349,8 @@
                             "value": "Basilica of the Annunciation of Mary"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 163,
@@ -1286,7 +1364,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -1306,7 +1385,8 @@
                             "value": "Gonfaloniere of Justice"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 71,
@@ -1320,7 +1400,8 @@
                             "value": "Salone dei Cinquecento"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 196,
@@ -1334,7 +1415,8 @@
                             "value": "Giuliano da Sangallo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 219,
@@ -1348,7 +1430,8 @@
                             "value": "Simone del Pollaiolo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 245,
@@ -1362,7 +1445,8 @@
                             "value": "Simone del Pollaiolo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 257,
@@ -1376,7 +1460,8 @@
                             "value": "Michelangelo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 286,
@@ -1390,7 +1475,8 @@
                             "value": "Baccio D'Agnolo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 441,
@@ -1404,7 +1490,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 540,
@@ -1418,7 +1505,8 @@
                             "value": "Piero Soderini"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 561,
@@ -1432,7 +1520,8 @@
                             "value": "Gonfaloniere of Justice"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -1452,7 +1541,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 35,
@@ -1466,7 +1556,8 @@
                             "value": "Francesco del Giocondo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 75,
@@ -1487,7 +1578,8 @@
                             "value": "Lisa del Giocondo"
                         }
                     }
-                ]
+                ],
+                "type": "WORK"
             },
             {
                 "start_pos": 203,
@@ -1501,7 +1593,8 @@
                             "value": "Francis I of France"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 230,
@@ -1515,7 +1608,8 @@
                             "value": "Fontainebleau"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             }
         ]
     },
@@ -1535,7 +1629,8 @@
                             "value": "Rome"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 21,
@@ -1549,7 +1644,8 @@
                             "value": "Giuliano de' Medici, Duke of Nemours"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 66,
@@ -1563,7 +1659,8 @@
                             "value": "Leo X"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -1583,7 +1680,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 77,
@@ -1597,7 +1695,8 @@
                             "value": "Cappella dei Papi in Santa Maria Novella in Florence"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 108,
@@ -1611,7 +1710,8 @@
                             "value": "Basilica of Our Lady"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 152,
@@ -1625,7 +1725,8 @@
                             "value": "Niccolò Piccinino"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 182,
@@ -1639,7 +1740,8 @@
                             "value": "Filippo Maria Visconti"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -1659,7 +1761,8 @@
                             "value": "Michelangelo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 90,
@@ -1673,7 +1776,8 @@
                             "value": "Michelangelo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 117,
@@ -1687,7 +1791,8 @@
                             "value": "Florence"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 146,
@@ -1701,7 +1806,8 @@
                             "value": "Giuliano de' Medici, Duke of Nemours"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 189,
@@ -1715,7 +1821,8 @@
                             "value": "pope"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 231,
@@ -1729,7 +1836,8 @@
                             "value": "Basilica of San Lorenzo"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             }
         ]
     },
@@ -1749,7 +1857,8 @@
                             "value": "Baldassarre Turini"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 55,
@@ -1763,7 +1872,8 @@
                             "value": "Pescia"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 71,
@@ -1777,7 +1887,8 @@
                             "value": "Apostolic Dataria"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 81,
@@ -1791,7 +1902,8 @@
                             "value": "Leo X"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 115,
@@ -1805,7 +1917,8 @@
                             "value": "Madonna"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             }
         ]
     },
@@ -1825,7 +1938,8 @@
                             "value": "Giovan Battista Strozzi"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 286,
@@ -1839,7 +1953,8 @@
                             "value": "Phidias"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 300,
@@ -1853,7 +1968,8 @@
                             "value": "Apelles"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -1873,7 +1989,8 @@
                             "value": "Florence Baptistery"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 150,
@@ -1887,7 +2004,8 @@
                             "value": "Giovanni Francesco Rustici"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 209,
@@ -1901,7 +2019,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -1921,7 +2040,8 @@
                             "value": "Marco d'Oggiono"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 62,
@@ -1935,7 +2055,8 @@
                             "value": "Santa Maria della Pace"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 87,
@@ -1949,7 +2070,8 @@
                             "value": "Death of the Virgin Mary"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 115,
@@ -1970,7 +2092,8 @@
                             "value": "Marriage at Cana"
                         }
                     }
-                ]
+                ],
+                "type": "WORK"
             }
         ]
     },
@@ -1990,7 +2113,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 27,
@@ -2004,7 +2128,8 @@
                             "value": "Giovanni Antonio Boltraffio"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 56,
@@ -2018,7 +2143,8 @@
                             "value": "Milan"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 202,
@@ -2032,7 +2158,8 @@
                             "value": "Bologna"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 238,
@@ -2046,7 +2173,8 @@
                             "value": "Madonna"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 275,
@@ -2060,7 +2188,8 @@
                             "value": "John the Baptist"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 296,
@@ -2074,7 +2203,8 @@
                             "value": "Saint Sebastian"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 482,
@@ -2088,7 +2218,8 @@
                             "value": "Leonardo da Vinci"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -2108,7 +2239,8 @@
                             "value": "Cimabué"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 100,
@@ -2122,7 +2254,8 @@
                             "value": "Assisi"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 118,
@@ -2136,7 +2269,8 @@
                             "value": "Umbria"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 185,
@@ -2150,7 +2284,8 @@
                             "value": "Basilica of San Francesco d'Assisi"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 296,
@@ -2164,7 +2299,8 @@
                             "value": "Francis of Assisi"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 263,
@@ -2178,7 +2314,8 @@
                             "value": "Life of Christ"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             }
         ]
     },
@@ -2198,7 +2335,8 @@
                             "value": "Masolino da Panicale"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 75,
@@ -2212,7 +2350,8 @@
                             "value": "Brancacci Chapel"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 118,
@@ -2226,7 +2365,8 @@
                             "value": "Florence"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 186,
@@ -2240,7 +2380,8 @@
                             "value": "Filippo Brunelleschi"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 198,
@@ -2254,7 +2395,8 @@
                             "value": "Donatello"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -2274,7 +2416,8 @@
                             "value": "Girolamo Savonarola"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 116,
@@ -2288,7 +2431,8 @@
                             "value": "Ferrara"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             }
         ]
     },
@@ -2308,7 +2452,8 @@
                             "value": "Rome"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 58,
@@ -2322,7 +2467,8 @@
                             "value": "Donato Bramante"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 70,
@@ -2336,7 +2482,8 @@
                             "value": "Urbania"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 102,
@@ -2350,7 +2497,8 @@
                             "value": "Lombardy"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 256,
@@ -2364,7 +2512,8 @@
                             "value": "Baldassare Peruzzi"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 277,
@@ -2378,7 +2527,8 @@
                             "value": "Raphael"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -2398,7 +2548,8 @@
                             "value": "Vallombrosa"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 162,
@@ -2412,7 +2563,8 @@
                             "value": "John the Baptist"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 183,
@@ -2426,7 +2578,8 @@
                             "value": "John Gualbert"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 222,
@@ -2440,7 +2593,8 @@
                             "value": "Vallumbrosan Order"
                         }
                     }
-                ]
+                ],
+                "type": "ORG"
             },
             {
                 "start_pos": 229,
@@ -2454,7 +2608,8 @@
                             "value": "Michael the Archangel"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 250,
@@ -2468,7 +2623,8 @@
                             "value": "Bernard degli Uberti"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 292,
@@ -2482,7 +2638,8 @@
                             "value": "Vallumbrosan Order"
                         }
                     }
-                ]
+                ],
+                "type": "ORG"
             },
             {
                 "start_pos": 265,
@@ -2496,7 +2653,8 @@
                             "value": "cardinal"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -2516,7 +2674,8 @@
                             "value": "Florence"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 59,
@@ -2530,7 +2689,8 @@
                             "value": "Perino del Vaga"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 137,
@@ -2544,7 +2704,8 @@
                             "value": "Tuscania"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 167,
@@ -2558,7 +2719,8 @@
                             "value": "Rome"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             }
         ]
     },
@@ -2578,7 +2740,8 @@
                             "value": "Saturn"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 105,
@@ -2592,7 +2755,8 @@
                             "value": "Mars"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 145,
@@ -2606,7 +2770,8 @@
                             "value": "Virgo"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 74,
@@ -2620,7 +2785,8 @@
                             "value": "Capricorn"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 129,
@@ -2634,7 +2800,8 @@
                             "value": "Leo"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 169,
@@ -2648,7 +2815,8 @@
                             "value": "angel"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 222,
@@ -2662,7 +2830,8 @@
                             "value": "Villa Medici at Careggi"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             }
         ]
     },
@@ -2682,7 +2851,8 @@
                             "value": "Tintoretto"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 72,
@@ -2696,7 +2866,8 @@
                             "value": "Paolo Veronese"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 195,
@@ -2710,7 +2881,8 @@
                             "value": "Orazio Vecellio"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 214,
@@ -2724,7 +2896,8 @@
                             "value": "Titian"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 232,
@@ -2738,7 +2911,8 @@
                             "value": "Tintoretto"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 264,
@@ -2752,7 +2926,8 @@
                             "value": "Frederick I"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 306,
@@ -2766,7 +2941,8 @@
                             "value": "pope"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 395,
@@ -2780,7 +2956,8 @@
                             "value": "cardinal"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 474,
@@ -2788,13 +2965,14 @@
                 "surf_form": "Pope",
                 "entity": [
                     {
-                        "wb_id": "Q132845",
+                        "wb_id": "Q19546",
                         "label": {
                             "language": "en",
-                            "value": "Adrian IV"
+                            "value": "pope"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     },
@@ -2814,7 +2992,8 @@
                             "value": "Michelangelo"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 89,
@@ -2828,7 +3007,8 @@
                             "value": "Jacopo Galli"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 149,
@@ -2842,7 +3022,8 @@
                             "value": "Cupid"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             },
             {
                 "start_pos": 206,
@@ -2856,7 +3037,8 @@
                             "value": "Bacchus"
                         }
                     }
-                ]
+                ],
+                "type": "MISC"
             }
         ]
     },
@@ -2870,13 +3052,14 @@
                 "surf_form": "Michelagnolo",
                 "entity": [
                     {
-                        "wb_id": "Q2943",
+                        "wb_id": "Q5592",
                         "label": {
                             "language": "en",
-                            "value": "Sistine Chapel"
+                            "value": "Michelangelo"
                         }
-                    }
-                ]
+                    }     
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 118,
@@ -2890,7 +3073,8 @@
                             "value": "Raphael"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 129,
@@ -2904,7 +3088,8 @@
                             "value": "Polidoro da Caravaggio"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 143,
@@ -2918,7 +3103,8 @@
                             "value": "Baldassare Peruzzi"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             },
             {
                 "start_pos": 210,
@@ -2932,7 +3118,8 @@
                             "value": "Francesco de' Rossi"
                         }
                     }
-                ]
+                ],
+                "type": "PER"
             }
         ]
     }
