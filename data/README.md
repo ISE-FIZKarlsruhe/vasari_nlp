@@ -4,7 +4,7 @@ This evaluation dataset provides a set of sentences in English and Italian taken
 
 The editions referred to are:
 
-* **IT**: Giorgio Vasari. Le Vite de' Piu Eccellenti Pittori, Scultori, et Architettori (1. ed. 1550). Einaudi (2000). [archive.org] (https://archive.org/details/vitedepiueccellentipittoriscultoriedarchitettilegiorgiovasari) \[OCR transcribed\]
+* **IT**: Giorgio Vasari. Le Vite de' Piu Eccellenti Pittori, Scultori, et Architettori (1. ed. 1550). Einaudi (2000). [archive.org](https://archive.org/details/vitedepiueccellentipittoriscultoriedarchitettilegiorgiovasari) \[OCR transcribed\]
 * **EN**: Lives of the Most Eminent Painters, Sculptors and Architects. Translated by Gaston du C. De Vere from the 1568 edition. Macmillan and the Medici Society (1912-1915). [Project Gutenber](https://onlinebooks.library.upenn.edu/webbin/metabook?id=livespainters) \[Digital transcription\]
 
 
