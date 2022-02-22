@@ -1,0 +1,1937 @@
+[
+    {
+        "id": 406,
+        "data": "Adunque mirabile e celeste fu Lionardo, nipote di ser Piero da Vinci, che veramente bonissimo zio e parente gli fu, nell'aiutarlo in giovanezza.",
+        "entities": [
+            {
+                "start_pos": 30,
+                "end_pos": 38,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 54,
+                "end_pos": 68,
+                "surf_form": "Piero da Vinci",
+                "entity": [
+                    {
+                        "wb_id": "Q371916",
+                        "label": {
+                            "language": "en",
+                            "value": "Ser Piero da Vinci"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "data": "Veduto questo Ser Piero, e considerato la elevazione di quello ingegno, preso un giorno alcuni de' suoi disegni, gli portò ad Andrea del Verrocchio, che era molto amico suo, e lo pregò strettamente che gli dovesse dire se Lionardo, attendendo al disegno, farebbe alcun profitto.",
+        "entities": [
+            {
+                "start_pos": 14,
+                "end_pos": 23,
+                "surf_form": "Ser Piero",
+                "entity": [
+                    {
+                        "wb_id": "Q371916",
+                        "label": {
+                            "language": "en",
+                            "value": "Ser Piero da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 126,
+                "end_pos": 147,
+                "surf_form": "Andrea del Verrocchio",
+                "entity": [
+                    {
+                        "wb_id": "Q183458",
+                        "label": {
+                            "language": "en",
+                            "value": "Andrea del Verrocchio"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 222,
+                "end_pos": 230,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 408,
+        "data": "F u pronto et arguto, e con una perfetta arte di persuasione mostrava le difficultà del suo ingegno, che nelle cose de' numeri faceva muovere i monti, tirava i pesi, e fra le altre parole mostrava volere alzare il tempio di San Giovanni di Fiorenza e sottomettervi le scalee, senza ruinarlo, e con si forti ragioni lo persuadeva, che pareva possibile, quantunque ciascuno, poi che e' si era partito, conoscesse per se medesimo la impossibilità di cotanta impresa.",
+        "entities": [
+            {
+                "start_pos": 214,
+                "end_pos": 236,
+                "surf_form": "tempio di San Giovanni",
+                "entity": [
+                    {
+                        "wb_id": "Q732511",
+                        "label": {
+                            "language": "en",
+                            "value": "Florence Baptistery"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 240,
+                "end_pos": 248,
+                "surf_form": "Fiorenza",
+                "entity": [
+                    {
+                        "wb_id": "Q2044",
+                        "label": {
+                            "language": "en",
+                            "value": "Florence"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 409,
+        "data": "Acconciossi per via di Ser Piero suo zio nella sua fanciullezza a l'arte con Andrea del Verocchio, il quale faccendo una tavola dove San Giovanni battezzava Cristo, Lionardo lavorò uno angelo, che teneva alcune vesti; e benché fosse giovanetto, lo condusse di tal maniera, che molto meglio de le figure d'And rea stava l'angelo di Lionardo.",
+        "entities": [
+            {
+                "start_pos": 23,
+                "end_pos": 32,
+                "surf_form": "Ser Piero",
+                "entity": [
+                    {
+                        "wb_id": "Q371916",
+                        "label": {
+                            "language": "en",
+                            "value": "Ser Piero da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 77,
+                "end_pos": 97,
+                "surf_form": "Andrea del Verocchio",
+                "entity": [
+                    {
+                        "wb_id": "Q183458",
+                        "label": {
+                            "language": "en",
+                            "value": "Andrea del Verrocchio"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 133,
+                "end_pos": 145,
+                "surf_form": "San Giovanni",
+                "entity": [
+                    {
+                        "wb_id": "Q40662",
+                        "label": {
+                            "language": "en",
+                            "value": "John the Baptist"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 157,
+                "end_pos": 163,
+                "surf_form": "Cristo",
+                "entity": [
+                    {
+                        "wb_id": "Q302",
+                        "label": {
+                            "language": "en",
+                            "value": "Jesus"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 165,
+                "end_pos": 173,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 305,
+                "end_pos": 312,
+                "surf_form": "And rea",
+                "entity": [
+                    {
+                        "wb_id": "Q183458",
+                        "label": {
+                            "language": "en",
+                            "value": "Andrea del Verrocchio"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 410,
+        "data": "Li fu allogato per una portiera, che si aveva a fare in Fiandra d'oro e di seta tessuta, per mandare al Re di Portogallo un cartone d'Adamo e d'Èva, quando nel Paradiso terrestre peccano: dove col pennello fece Lionardo di chiaro e scuro lumeggiato di biacca un prato di erbe infinite con alcuni animali, che invero può dirsi che in diligenza e naturalità al mondo divino ingegno far non la possa si simile.",
+        "entities": [
+            {
+                "start_pos": 56,
+                "end_pos": 63,
+                "surf_form": "Fiandra",
+                "entity": [
+                    {
+                        "wb_id": "Q234",
+                        "label": {
+                            "language": "en",
+                            "value": "Flanders"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 104,
+                "end_pos": 120,
+                "surf_form": "Re di Portogallo",
+                "entity": [
+                    {
+                        "wb_id": "Q51711012",
+                        "label": {
+                            "language": "en",
+                            "value": "King of Portugal"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 134,
+                "end_pos": 139,
+                "surf_form": "Adamo",
+                "entity": [
+                    {
+                        "wb_id": "Q70899",
+                        "label": {
+                            "language": "en",
+                            "value": "Adam"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 144,
+                "end_pos": 147,
+                "surf_form": "Èva",
+                "entity": [
+                    {
+                        "wb_id": "Q830183",
+                        "label": {
+                            "language": "en",
+                            "value": "Eve"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 160,
+                "end_pos": 178,
+                "surf_form": "Paradiso terrestre",
+                "entity": [
+                    {
+                        "wb_id": "Q19014",
+                        "label": {
+                            "language": "en",
+                            "value": "Garden of Eden"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 211,
+                "end_pos": 219,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 411,
+        "data": "Fece poi Lionardo una Nostra Donna in un quadro, ch'era appresso Papa Clemente VII, molto eccellente.",
+        "entities": [
+            {
+                "start_pos": 9,
+                "end_pos": 17,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 22,
+                "end_pos": 34,
+                "surf_form": "Nostra Donna",
+                "entity": [
+                    {
+                        "wb_id": "Q345",
+                        "label": {
+                            "language": "en",
+                            "value": "Virgin Mary"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 65,
+                "end_pos": 82,
+                "surf_form": "Papa Clemente VII",
+                "entity": [
+                    {
+                        "wb_id": "Q83159",
+                        "label": {
+                            "language": "en",
+                            "value": "Clement VII"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 412,
+        "data": "Fu condotto a Milano con gran riputazione Lionardo a 'I Duca Francesco, il quale molto si dilettava del suono de la lira, perché sonasse: e Lionardo portò quello strumento, ch'egli aveva di sua mano fabricato d'argento gran parte, accioché l'armonia fosse con maggior tuba e più sonora di voce.",
+        "entities": [
+            {
+                "start_pos": 14,
+                "end_pos": 20,
+                "surf_form": "Milano",
+                "entity": [
+                    {
+                        "wb_id": "Q490",
+                        "label": {
+                            "language": "en",
+                            "value": "Milan"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 42,
+                "end_pos": 50,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 56,
+                "end_pos": 70,
+                "surf_form": "Duca Francesco",
+                "entity": [
+                    {
+                        "wb_id": "Q310536",
+                        "label": {
+                            "language": "en",
+                            "value": "Francesco I Sforza"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 140,
+                "end_pos": 148,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 413,
+        "data": "Ad Antonio Segni, suo amicissimo, fece in su un foglio un Nettuno condotto cosi di disegno con tanta diligenzia, che e' pareva del tutto vivo.",
+        "entities": [
+            {
+                "start_pos": 58,
+                "end_pos": 65,
+                "surf_form": "Nettuno",
+                "entity": [
+                    {
+                        "wb_id": "Q3954",
+                        "label": {
+                            "language": "en",
+                            "value": "Neptune"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 414,
+        "data": "E pregatolo, gli fece fare in pittura una tavola d'altare, dentrovi una Natività che fu mandata dal duca a l'imperatore.",
+        "entities": [
+            {
+                "start_pos": 72,
+                "end_pos": 80,
+                "surf_form": "Natività",
+                "entity": [
+                    {
+                        "wb_id": "Q51628",
+                        "label": {
+                            "language": "en",
+                            "value": "Nativity of Jesus"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 415,
+        "data": "Fece ancora in Milano ne' frati di San Domenico a Santa Maria de le Grazie un Cenacolo, cosa bellissima e maravigliosa, et alle teste de gli Apostoli diede tanta maestà e bellezza, che quella del Cristo lasciò imperfetta, non pensando poterle dare quella divinità celeste, che a l'imagine di Cristo si richiede.",
+        "entities": [
+            {
+                "start_pos": 15,
+                "end_pos": 21,
+                "surf_form": "Milano",
+                "entity": [
+                    {
+                        "wb_id": "Q490",
+                        "label": {
+                            "language": "en",
+                            "value": "Milan"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 26,
+                "end_pos": 47,
+                "surf_form": "frati di San Domenico",
+                "entity": [
+                    {
+                        "wb_id": "Q131479",
+                        "label": {
+                            "language": "en",
+                            "value": "Dominican Order"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 50,
+                "end_pos": 74,
+                "surf_form": "Santa Maria de le Grazie",
+                "entity": [
+                    {
+                        "wb_id": "Q244952",
+                        "label": {
+                            "language": "en",
+                            "value": "Santa Maria delle Grazie"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 78,
+                "end_pos": 86,
+                "surf_form": "Cenacolo",
+                "entity": [
+                    {
+                        "wb_id": "Q128910",
+                        "label": {
+                            "language": "en",
+                            "value": "The Last Supper"
+                        }
+                    },
+                    {
+                        "wb_id": "Q51633",
+                        "label": {
+                            "language": "en",
+                            "value": "Last Supper"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 141,
+                "end_pos": 149,
+                "surf_form": "Apostoli",
+                "entity": [
+                    {
+                        "wb_id": "Q4155679",
+                        "label": {
+                            "language": "en",
+                            "value": "Twelve Apostles"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 196,
+                "end_pos": 202,
+                "surf_form": "Cristo",
+                "entity": [
+                    {
+                        "wb_id": "Q302",
+                        "label": {
+                            "language": "en",
+                            "value": "Jesus"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 292,
+                "end_pos": 298,
+                "surf_form": "Cristo",
+                "entity": [
+                    {
+                        "wb_id": "Q302",
+                        "label": {
+                            "language": "en",
+                            "value": "Jesus"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 416,
+        "data": "Prese in Milano Salai Mdanese per suo creato, il quale era vaghissimo di grazia e di bellezza, avendo begli capegli, ricci et inanellati, de' quali Lionardo si dilettò molto; et a lui insegnò molte cose dell'arte, e certi lavori che in Milano si dicono essere di Salai, furono ritocchi da Lionardo.",
+        "entities": [
+            {
+                "start_pos": 9,
+                "end_pos": 15,
+                "surf_form": "Milano",
+                "entity": [
+                    {
+                        "wb_id": "Q490",
+                        "label": {
+                            "language": "en",
+                            "value": "Milan"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 16,
+                "end_pos": 21,
+                "surf_form": "Salai",
+                "entity": [
+                    {
+                        "wb_id": "Q954126",
+                        "label": {
+                            "language": "en",
+                            "value": "Salaì"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 148,
+                "end_pos": 156,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 236,
+                "end_pos": 242,
+                "surf_form": "Milano",
+                "entity": [
+                    {
+                        "wb_id": "Q490",
+                        "label": {
+                            "language": "en",
+                            "value": "Milan"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 263,
+                "end_pos": 268,
+                "surf_form": "Salai",
+                "entity": [
+                    {
+                        "wb_id": "Q954126",
+                        "label": {
+                            "language": "en",
+                            "value": "Salaì"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 289,
+                "end_pos": 297,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 417,
+        "data": "Ritornò a Fiorenza, dove trovò che i frati de' Servi avevano allogato a Filippino l'opere della tavola dello aitar maggiore della Nunziata; per il che fu detto da Lionardo che volentieri avrebbe fatto unasimil cosa.",
+        "entities": [
+            {
+                "start_pos": 10,
+                "end_pos": 18,
+                "surf_form": "Fiorenza",
+                "entity": [
+                    {
+                        "wb_id": "Q2044",
+                        "label": {
+                            "language": "en",
+                            "value": "Florence"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 37,
+                "end_pos": 52,
+                "surf_form": "frati de' Servi",
+                "entity": [
+                    {
+                        "wb_id": "Q615923",
+                        "label": {
+                            "language": "en",
+                            "value": "Servite Order"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 72,
+                "end_pos": 81,
+                "surf_form": "Filippino",
+                "entity": [
+                    {
+                        "wb_id": "Q296265",
+                        "label": {
+                            "language": "en",
+                            "value": "Filippino Lippi"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 130,
+                "end_pos": 138,
+                "surf_form": "Nunziata",
+                "entity": [
+                    {
+                        "wb_id": "Q2287001",
+                        "label": {
+                            "language": "en",
+                            "value": "Basilica of the Annunciation of Mary"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 163,
+                "end_pos": 171,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 418,
+        "data": "I n questo mezzo fece un cartone dentrovi una Nostra Donna et una Santa Anna, con un Cristo, la quale non pure fece maravigliare tutti gli artefici, ma finita ch'ella fu, nella stanza durarono duoi giorni di andare a vederla gli uomini e le donne, i giovani eti vecchi, come si va a le feste solenni, per vedere le maraviglie di Lionardo, che fecero stupire tutto quel popolo.",
+        "entities": [
+            {
+                "start_pos": 46,
+                "end_pos": 58,
+                "surf_form": "Nostra Donna",
+                "entity": [
+                    {
+                        "wb_id": "Q345",
+                        "label": {
+                            "language": "en",
+                            "value": "Virgin Mary"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 66,
+                "end_pos": 76,
+                "surf_form": "Santa Anna",
+                "entity": [
+                    {
+                        "wb_id": "Q164294",
+                        "label": {
+                            "language": "en",
+                            "value": "Saint Anne"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 85,
+                "end_pos": 91,
+                "surf_form": "Cristo",
+                "entity": [
+                    {
+                        "wb_id": "Q302",
+                        "label": {
+                            "language": "en",
+                            "value": "Jesus"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 329,
+                "end_pos": 337,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 419,
+        "data": "Perché si vedeva nel viso di quella Nostra Donna tutto quello che di semplice e di bello può con semplicità e bellezza dare grazia a una madre di Cristo; volendo mostrare quella modestia e quella umiltà che in una vergine contentissima di allegrezza del vedere la bellezza del suo figliuolo, che con tenerezza sosteneva in grembo; e mentre che ella con onestissima guardatura a basso scorgeva un santo Giovanni piccol fanciullo che si andava trastullando con un pecorino, non senza un ghigno d'una Santa Anna che, colma di letizia, vedeva la sua progenieterrena esser divenuta celeste.",
+        "entities": [
+            {
+                "start_pos": 36,
+                "end_pos": 48,
+                "surf_form": "Nostra Donna",
+                "entity": [
+                    {
+                        "wb_id": "Q345",
+                        "label": {
+                            "language": "en",
+                            "value": "Virgin Mary"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 137,
+                "end_pos": 152,
+                "surf_form": "madre di Cristo",
+                "entity": [
+                    {
+                        "wb_id": "Q345",
+                        "label": {
+                            "language": "en",
+                            "value": "Virgin Mary"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 396,
+                "end_pos": 410,
+                "surf_form": "santo Giovanni",
+                "entity": [
+                    {
+                        "wb_id": "Q40662",
+                        "label": {
+                            "language": "en",
+                            "value": "John the Baptist"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 498,
+                "end_pos": 508,
+                "surf_form": "Santa Anna",
+                "entity": [
+                    {
+                        "wb_id": "Q164294",
+                        "label": {
+                            "language": "en",
+                            "value": "Saint Anne"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 420,
+        "data": "Prese Lionardo afare per Francesco del Giocondo il ritratto di Mona Lisa sua moglie; e quattro anni penatovi lo lasciò imperfetto, la quale opera oggi è appresso il Re Francesco di Francia in Fontanableo; nella qual testa chi voleva vedere quanto l'arte potesse imitar la natura, agevolmente si poteva comprendere, perché quivi erano contrafatte tutte le minuzie che si possono con sottigliezza dipignere.",
+        "entities": [
+            {
+                "start_pos": 6,
+                "end_pos": 14,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 25,
+                "end_pos": 47,
+                "surf_form": "Francesco del Giocondo",
+                "entity": [
+                    {
+                        "wb_id": "Q1395822",
+                        "label": {
+                            "language": "en",
+                            "value": "Francesco del Giocondo"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 63,
+                "end_pos": 72,
+                "surf_form": "Mona Lisa",
+                "entity": [
+                    {
+                        "wb_id": "Q12418",
+                        "label": {
+                            "language": "en",
+                            "value": "Mona Lisa"
+                        }
+                    },
+                    {
+                        "wb_id": "Q153032",
+                        "label": {
+                            "language": "en",
+                            "value": "Lisa del Giocondo"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 165,
+                "end_pos": 188,
+                "surf_form": "Re Francesco di Francia",
+                "entity": [
+                    {
+                        "wb_id": "Q129857",
+                        "label": {
+                            "language": "en",
+                            "value": "Francis I of France"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 192,
+                "end_pos": 203,
+                "surf_form": "Fontanableo",
+                "entity": [
+                    {
+                        "wb_id": "Q182872",
+                        "label": {
+                            "language": "en",
+                            "value": "Fontainebleau"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 421,
+        "data": "Per il che volendola condurre Lionardo, cominciò un cartone alla sala del papa, luogo in Santa Maria Novella, dentrovi la storia di Niccolò Piccinino capitano del Duca Filippo di Milano, nel quale disegnò un groppo di cavalli che combattevano una bandiera, cosa che eccellentissima e di gran magisterio fu tenuta per le mirabilissime considerazioni che egli ebbe nel far quella fuga.",
+        "entities": [
+            {
+                "start_pos": 30,
+                "end_pos": 38,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 65,
+                "end_pos": 78,
+                "surf_form": "sala del papa",
+                "entity": [
+                    {
+                        "wb_id": "Q3657394",
+                        "label": {
+                            "language": "en",
+                            "value": "Cappella dei Papi in Santa Maria Novella in Florence"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 89,
+                "end_pos": 108,
+                "surf_form": "Santa Maria Novella",
+                "entity": [
+                    {
+                        "wb_id": "Q51175",
+                        "label": {
+                            "language": "en",
+                            "value": "Basilica of Our Lady"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 132,
+                "end_pos": 149,
+                "surf_form": "Niccolò Piccinino",
+                "entity": [
+                    {
+                        "wb_id": "Q979543",
+                        "label": {
+                            "language": "en",
+                            "value": "Niccolò Piccinino"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 163,
+                "end_pos": 185,
+                "surf_form": "Duca Filippo di Milano",
+                "entity": [
+                    {
+                        "wb_id": "Q289285",
+                        "label": {
+                            "language": "en",
+                            "value": "Filippo Maria Visconti"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 422,
+        "data": "Andò a Roma col Duca Giuliano de' Medici nella creazione di Papa Leone, che attendeva molto a cose filosofiche, e massimamente alla alchimia, dove formando una pasta di una cera, mentre ch'e' caminava faceva animali sottilissimi pieni di vento, ne i quali soffiando, gli faceva volare per l'aria; ma cessando il vento, cadevano in terra.",
+        "entities": [
+            {
+                "start_pos": 7,
+                "end_pos": 11,
+                "surf_form": "Roma",
+                "entity": [
+                    {
+                        "wb_id": "Q220",
+                        "label": {
+                            "language": "en",
+                            "value": "Rome"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 16,
+                "end_pos": 40,
+                "surf_form": "Duca Giuliano de' Medici",
+                "entity": [
+                    {
+                        "wb_id": "Q333340",
+                        "label": {
+                            "language": "en",
+                            "value": "Giuliano de' Medici, Duke of Nemours"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 60,
+                "end_pos": 70,
+                "surf_form": "Papa Leone",
+                "entity": [
+                    {
+                        "wb_id": "Q49237",
+                        "label": {
+                            "language": "en",
+                            "value": "Leo X"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 423,
+        "data": "E ra sdegno grandissimo fra Micheie Agnolo Buonaruoti e lui; per il che parti di Fiorenza Michelagnolo per la concorrenza, con la scusa del Duca Giuliano, essendo chiamato dal papa per la facciata di San Lorenzo.",
+        "entities": [
+            {
+                "start_pos": 28,
+                "end_pos": 53,
+                "surf_form": "Micheie Agnolo Buonaruoti",
+                "entity": [
+                    {
+                        "wb_id": "Q5592",
+                        "label": {
+                            "language": "en",
+                            "value": "Michelangelo"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 81,
+                "end_pos": 89,
+                "surf_form": "Fiorenza",
+                "entity": [
+                    {
+                        "wb_id": "Q2044",
+                        "label": {
+                            "language": "en",
+                            "value": "Florence"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 90,
+                "end_pos": 102,
+                "surf_form": "Michelagnolo",
+                "entity": [
+                    {
+                        "wb_id": "Q5592",
+                        "label": {
+                            "language": "en",
+                            "value": "Michelangelo"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 140,
+                "end_pos": 153,
+                "surf_form": "Duca Giuliano",
+                "entity": [
+                    {
+                        "wb_id": "Q333340",
+                        "label": {
+                            "language": "en",
+                            "value": "Giuliano de' Medici, Duke of Nemours"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 200,
+                "end_pos": 211,
+                "surf_form": "San Lorenzo",
+                "entity": [
+                    {
+                        "wb_id": "Q573881",
+                        "label": {
+                            "language": "en",
+                            "value": "Basilica of San Lorenzo"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 424,
+        "data": "Lionardo intendendo ciò parti, et andò in Francia, dove il re avendo avuto opere sue, gli era molto affezzionato, e desiderava ch'e' colorisse il cartone della Santa Anna; ma egli, secondo il suo costume, lo tenne gran tempo in parole.",
+        "entities": [
+            {
+                "start_pos": 0,
+                "end_pos": 8,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 42,
+                "end_pos": 49,
+                "surf_form": "Francia",
+                "entity": [
+                    {
+                        "wb_id": "Q142",
+                        "label": {
+                            "language": "en",
+                            "value": "France"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 146,
+                "end_pos": 170,
+                "surf_form": "cartone della Santa Anna",
+                "entity": [
+                    {
+                        "wb_id": "Q2471531",
+                        "label": {
+                            "language": "en",
+                            "value": "The Virgin and Child with Saint Anne and Saint John the Baptist"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 425,
+        "data": "E nella statuaria fece pruove nelle tre figure di bronzo che sono sopra la porta di San Giovanni da la parte di tramontana, fatte da Giovan Francesco Rustici ma ordinate col consiglio di Lionardo, le quali sono il più bel getto e di disegno e di perfezzione, che modernamente si sia ancor visto.",
+        "entities": [
+            {
+                "start_pos": 84,
+                "end_pos": 96,
+                "surf_form": "San Giovanni",
+                "entity": [
+                    {
+                        "wb_id": "Q732511",
+                        "label": {
+                            "language": "en",
+                            "value": "Florence Baptistery"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 133,
+                "end_pos": 157,
+                "surf_form": "Giovan Francesco Rustici",
+                "entity": [
+                    {
+                        "wb_id": "Q720384",
+                        "label": {
+                            "language": "en",
+                            "value": "Giovanni Francesco Rustici"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 187,
+                "end_pos": 195,
+                "surf_form": "Lionardo",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 427,
+        "data": "Fu discepolo di Lionardo Giovanantonio Boltraffio milanese, persona molto pratica et intendente: e cosi Marco Uggioni, che in Santa Maria della Pace fece il Transito di Nostra Donna e le Nozze di Canagalilee.",
+        "entities": [
+            {
+                "start_pos": 25,
+                "end_pos": 49,
+                "surf_form": "Giovanantonio Boltraffio",
+                "entity": [
+                    {
+                        "wb_id": "Q762",
+                        "label": {
+                            "language": "en",
+                            "value": "Leonardo da Vinci"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 104,
+                "end_pos": 117,
+                "surf_form": "Marco Uggioni",
+                "entity": [
+                    {
+                        "wb_id": "Q982274",
+                        "label": {
+                            "language": "en",
+                            "value": "Marco d'Oggiono"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 126,
+                "end_pos": 148,
+                "surf_form": "Santa Maria della Pace",
+                "entity": [
+                    {
+                        "wb_id": "Q3673878",
+                        "label": {
+                            "language": "en",
+                            "value": "Santa Maria della Pace"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 157,
+                "end_pos": 181,
+                "surf_form": "Transito di Nostra Donna",
+                "entity": [
+                    {
+                        "wb_id": "Q1245512",
+                        "label": {
+                            "language": "en",
+                            "value": "Death of the Virgin Mary"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 187,
+                "end_pos": 207,
+                "surf_form": "Nozze di Canagalilee",
+                "entity": [
+                    {
+                        "wb_id": "Q32066758",
+                        "label": {
+                            "language": "en",
+                            "value": "Marriage at Cana"
+                        }
+                    },
+                    {
+                        "wb_id": "Q625140",
+                        "label": {
+                            "language": "en",
+                            "value": "Marriage at Cana"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 428,
+        "data": "Indi nella facciata maggiore sono tre storie di Santa Caterina martire, quando disputa co 'Itiranno in un tempio, e nel mezzo la Passion di Cristo con i ladroni in croce e le Marie da basso, che sostengono la Vergine Maria venutasi meno.",
+        "entities": [
+            {
+                "start_pos": 48,
+                "end_pos": 62,
+                "surf_form": "Santa Caterina",
+                "entity": [
+                    {
+                        "wb_id": "Q229190",
+                        "label": {
+                            "language": "en",
+                            "value": "Catherine of Siena"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 129,
+                "end_pos": 146,
+                "surf_form": "Passion di Cristo",
+                "entity": [
+                    {
+                        "wb_id": "Q623306",
+                        "label": {
+                            "language": "en",
+                            "value": "Passion"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 175,
+                "end_pos": 180,
+                "surf_form": "Marie",
+                "entity": [
+                    {
+                        "wb_id": "Q3254109",
+                        "label": {
+                            "language": "en",
+                            "value": "The Three Marys"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 209,
+                "end_pos": 222,
+                "surf_form": "Vergine Maria",
+                "entity": [
+                    {
+                        "wb_id": "Q345",
+                        "label": {
+                            "language": "en",
+                            "value": "Virgin Mary"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 429,
+        "data": "Avendo cominciato Cimabue a dare all'arte della pittura disegno e forma migliore, fu di non poca maraviglia a quegli che l'arte per pratica, più che per istudio o per scienza, esercitavano, non usandosi in que' tempi mettere in opera altro, che il modo vecchio della maniera goffa greca, e non la profondità de l'arte della pittura, poco nota ad Andrea Taffi fiorentino, eccellente maestro nel musaico di que' tempi, et in quella professione tenuto divino da que' popoli inetti, non pensando eglino che in tale arte meglio operare si potesse.",
+        "entities": [
+            {
+                "start_pos": 18,
+                "end_pos": 25,
+                "surf_form": "Cimabue",
+                "entity": [
+                    {
+                        "wb_id": "Q15790",
+                        "label": {
+                            "language": "en",
+                            "value": "Cimabué"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 346,
+                "end_pos": 358,
+                "surf_form": "Andrea Taffi",
+                "entity": [
+                    {
+                        "wb_id": "Q495164",
+                        "label": {
+                            "language": "en",
+                            "value": "Andrea Tafi"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 430,
+        "data": "Furono discepoli di Pietro, Lorentino d'Angelo aretino, il quale imitando quella maniera, fece in Arezzo molte pitture, e quelle che cominciate aveva Pietro a ulti ma fine ridusse; come ancora nel chiostro di Santa Mariadelle Graziefuor di Arezzo, vicino al San Donato che Pietro vi lavorò, son le storie di San Donato da Laurentino lavorate in fresco.",
+        "entities": [
+            {
+                "start_pos": 28,
+                "end_pos": 46,
+                "surf_form": "Lorentino d'Angelo",
+                "entity": [
+                    {
+                        "wb_id": "Q3617296",
+                        "label": {
+                            "language": "en",
+                            "value": "Angelo di Lorentino"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 98,
+                "end_pos": 104,
+                "surf_form": "Arezzo",
+                "entity": [
+                    {
+                        "wb_id": "Q13378",
+                        "label": {
+                            "language": "en",
+                            "value": "Arezzo"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 209,
+                "end_pos": 246,
+                "surf_form": "Santa Mariadelle Graziefuor di Arezzo",
+                "entity": [
+                    {
+                        "wb_id": "Q2223152",
+                        "label": {
+                            "language": "en",
+                            "value": "Santa Maria delle Grazie"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 258,
+                "end_pos": 268,
+                "surf_form": "San Donato",
+                "entity": [
+                    {
+                        "wb_id": "Q2360539",
+                        "label": {
+                            "language": "en",
+                            "value": "Donatus of Arezzo"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 308,
+                "end_pos": 332,
+                "surf_form": "San Donato da Laurentino",
+                "entity": [
+                    {
+                        "wb_id": "Q2360539",
+                        "label": {
+                            "language": "en",
+                            "value": "Donatus of Arezzo"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 431,
+        "data": "Sono di mano di Mino a Monte Cassino, luogo de' monaci neri nel Regno di Napoli, alcune sepolture, et in Napoli alcune cose di marmo.",
+        "entities": [
+            {
+                "start_pos": 16,
+                "end_pos": 20,
+                "surf_form": "Mino",
+                "entity": [
+                    {
+                        "wb_id": "Q3842943",
+                        "label": {
+                            "language": "en",
+                            "value": "Maestro Mino"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 23,
+                "end_pos": 36,
+                "surf_form": "Monte Cassino",
+                "entity": [
+                    {
+                        "wb_id": "Q154372",
+                        "label": {
+                            "language": "en",
+                            "value": "Monte Cassino"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 64,
+                "end_pos": 79,
+                "surf_form": "Regno di Napoli",
+                "entity": [
+                    {
+                        "wb_id": "Q173065",
+                        "label": {
+                            "language": "en",
+                            "value": "Kingdom of Naples"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 105,
+                "end_pos": 111,
+                "surf_form": "Napoli",
+                "entity": [
+                    {
+                        "wb_id": "Q2634",
+                        "label": {
+                            "language": "en",
+                            "value": "Naples"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 432,
+        "data": "Aveva preso Raffaello amicizia grandissima con Lorenzo Nasi, il quale avendo tolto donna in que' giorni fecesi che Rafaello gli dipinse un quadro d'una Nostra Donna, per tenere in camera sua; nel quale fece a quella fra le gambe un puto, al quale un San Giovanni fanciulino egli ancora porge uno uccello con gran festa e giuoco de l'uno e de l'altro.",
+        "entities": [
+            {
+                "start_pos": 12,
+                "end_pos": 21,
+                "surf_form": "Raffaello",
+                "entity": [
+                    {
+                        "wb_id": "Q5597",
+                        "label": {
+                            "language": "en",
+                            "value": "Raphael"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 47,
+                "end_pos": 59,
+                "surf_form": "Lorenzo Nasi",
+                "entity": [
+                    {
+                        "wb_id": "Q21618043",
+                        "label": {
+                            "language": "en",
+                            "value": "Lorenzo Nasi"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 115,
+                "end_pos": 123,
+                "surf_form": "Rafaello",
+                "entity": [
+                    {
+                        "wb_id": "Q5597",
+                        "label": {
+                            "language": "en",
+                            "value": "Raphael"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 152,
+                "end_pos": 164,
+                "surf_form": "Nostra Donna",
+                "entity": [
+                    {
+                        "wb_id": "Q345",
+                        "label": {
+                            "language": "en",
+                            "value": "Virgin Mary"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 250,
+                "end_pos": 262,
+                "surf_form": "San Giovanni",
+                "entity": [
+                    {
+                        "wb_id": "Q40662",
+                        "label": {
+                            "language": "en",
+                            "value": "John the Baptist"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 433,
+        "data": "Avvenne che la Signoria di Vinezia avendo avuto molte vittorie per la virtù di Bartolomeo da Bergamo, volendo onorare la virtù di quel signore e dare animo a gli altri loro capitani, deliberò in Senato che e' se gli facessi una statua a cavallo di bronzo e dorata per porsi in su la piazza di Santo Giovanni e Polo, e trovando il nome d'Andrea sparso per tutta Italia efuora sopra ogni altro, mandarono per lui a Fiorenza, e condottolo a Venezia con grandissima provisione gli fecion fare un modello di terra, grande appunto quanto aveva da essere.",
+        "entities": [
+            {
+                "start_pos": 15,
+                "end_pos": 34,
+                "surf_form": "Signoria di Vinezia",
+                "entity": [
+                    {
+                        "wb_id": "Q4948",
+                        "label": {
+                            "language": "en",
+                            "value": "Republic of Venice"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 79,
+                "end_pos": 100,
+                "surf_form": "Bartolomeo da Bergamo",
+                "entity": [
+                    {
+                        "wb_id": "Q809506",
+                        "label": {
+                            "language": "en",
+                            "value": "Bartolomeo Colleoni"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 195,
+                "end_pos": 201,
+                "surf_form": "Senato",
+                "entity": [
+                    {
+                        "wb_id": "Q2570643",
+                        "label": {
+                            "language": "en",
+                            "value": "senate"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 293,
+                "end_pos": 314,
+                "surf_form": "Santo Giovanni e Polo",
+                "entity": [
+                    {
+                        "wb_id": "Q3654630",
+                        "label": {
+                            "language": "en",
+                            "value": "campo Santi Giovanni e Paolo"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 413,
+                "end_pos": 421,
+                "surf_form": "Fiorenza",
+                "entity": [
+                    {
+                        "wb_id": "Q2044",
+                        "label": {
+                            "language": "en",
+                            "value": "Florence"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 438,
+                "end_pos": 445,
+                "surf_form": "Venezia",
+                "entity": [
+                    {
+                        "wb_id": "Q641",
+                        "label": {
+                            "language": "en",
+                            "value": "Venice"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 434,
+        "data": "Et adviene bene spesso che continuando poi questi tali, per lo instinto che ve gli tira, fanno ammirare e stupire insieme l'arte e la natura; come a ragion le fece stupire Domenico di Tommaso Ghirlandaio, il quale fu posto all'arte dello orefice, e non piacendoli quella, non restò di continuo di disegnare.",
+        "entities": [
+            {
+                "start_pos": 172,
+                "end_pos": 203,
+                "surf_form": "Domenico di Tommaso Ghirlandaio",
+                "entity": [
+                    {
+                        "wb_id": "Q191423",
+                        "label": {
+                            "language": "en",
+                            "value": "Domenico Ghirlandaio"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 435,
+        "data": "Fu Filippo figliuolo di fra' Filippo del Carmino; e seguitando nella pittura le vestigie del padre morto mentre che egli era ancor giovinetto, fu tenuto in governo et amaestrato da Sandro di Botticello; et avendolo fra' Filippo alla morte sua raccomandato a fra' Diamante, et a lui datolo, chei modi dell'arte buoni gli insegnasse, egli fu di tanto ingegno e di si copiosa invenzione nella pittura, e tanto bizzarro e nuovo ne' suoi ornamenti, che fu il primo il quale a' moderni mostrasse il nuovo modo di variare abiti et abbellisse ornatamente con antichi abiti e veste soccinte le figure che e' faceva.",
+        "entities": [
+            {
+                "start_pos": 3,
+                "end_pos": 10,
+                "surf_form": "Filippo",
+                "entity": [
+                    {
+                        "wb_id": "Q296265",
+                        "label": {
+                            "language": "en",
+                            "value": "Filippino Lippi"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 181,
+                "end_pos": 201,
+                "surf_form": "Sandro di Botticello",
+                "entity": [
+                    {
+                        "wb_id": "Q5669",
+                        "label": {
+                            "language": "en",
+                            "value": "Sandro Botticelli"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 215,
+                "end_pos": 227,
+                "surf_form": "fra' Filippo",
+                "entity": [
+                    {
+                        "wb_id": "Q205148",
+                        "label": {
+                            "language": "en",
+                            "value": "Filippo Lippi"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 24,
+                "end_pos": 48,
+                "surf_form": "fra' Filippo del Carmino",
+                "entity": [
+                    {
+                        "wb_id": "Q205148",
+                        "label": {
+                            "language": "en",
+                            "value": "Filippo Lippi"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 258,
+                "end_pos": 271,
+                "surf_form": "fra' Diamante",
+                "entity": [
+                    {
+                        "wb_id": "Q280940",
+                        "label": {
+                            "language": "en",
+                            "value": "Fra Diamante"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 436,
+        "data": "M olti sono aiutati dalla fortuna, che non hanno virtute in loro, et infiniti que' virtuosi che la mala sorte sempre perseguita, dimostrando apertissimamente conoscere per suo figliuolo chi depende tutto da lei senza aiuto alcuno di virtù, e che sommamente le piace di inalzare la dappocaggine di certi che senza il favore di lei non sarebbono pure conosciuti; come avvenne de 'I Pinturicchio, il quale ancora che facesse molti lavori aiutato da diversi, ebbe certo più nome assai, che per le opere sue non aveva meritato.",
+        "entities": [
+            {
+                "start_pos": 380,
+                "end_pos": 392,
+                "surf_form": "Pinturicchio",
+                "entity": [
+                    {
+                        "wb_id": "Q5591",
+                        "label": {
+                            "language": "en",
+                            "value": "Pinturicchio"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 437,
+        "data": "E certo quando il cielo forma que' primi, forma un vaso capace di molte cose, una memoria che le ritenga et una mano che graziatamente e con buon giudizio le sappia esprimere, come bene esprimere le seppe ne' tempi suoi Masolino da Panicaledi Valdelsa, il quale fu discepolo di Lorenzo di Bartoluccio Ghiberti, e nella sua fanciullezza bonissimo orefice, e nel lavoro suo delle porte il miglior rinettatore che Lorenzo avesse; ne' panni delle figure era molto destro e valente, e nel rinettare aveva molto buona maniera et intelligenza.",
+        "entities": [
+            {
+                "start_pos": 278,
+                "end_pos": 309,
+                "surf_form": "Lorenzo di Bartoluccio Ghiberti",
+                "entity": [
+                    {
+                        "wb_id": "Q208125",
+                        "label": {
+                            "language": "en",
+                            "value": "Lorenzo Ghiberti"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 411,
+                "end_pos": 418,
+                "surf_form": "Lorenzo",
+                "entity": [
+                    {
+                        "wb_id": "Q208125",
+                        "label": {
+                            "language": "en",
+                            "value": "Lorenzo Ghiberti"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 220,
+                "end_pos": 242,
+                "surf_form": "Masolino da Panicaledi",
+                "entity": [
+                    {
+                        "wb_id": "Q318117",
+                        "label": {
+                            "language": "en",
+                            "value": "Masolino da Panicale"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 243,
+                "end_pos": 251,
+                "surf_form": "Valdelsa",
+                "entity": [
+                    {
+                        "wb_id": "Q3553503",
+                        "label": {
+                            "language": "en",
+                            "value": "Val di Elsa"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 438,
+        "data": "E tra il gonfalonieri et i cittadini grandi si praticò che, essendosi fatta di nuovo la gran sala del Consiglio, vi si dovesse dargli a dipignere qualche opera bella; e cosi da Piero Soderini Gonfaloniere allora di giustizia, gli fu allogata la detta sala.",
+        "entities": [
+            {
+                "start_pos": 93,
+                "end_pos": 111,
+                "surf_form": "sala del Consiglio",
+                "entity": [
+                    {
+                        "wb_id": "Q2198705",
+                        "label": {
+                            "language": "en",
+                            "value": "Salone dei Cinquecento"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 177,
+                "end_pos": 191,
+                "surf_form": "Piero Soderini",
+                "entity": [
+                    {
+                        "wb_id": "Q289104",
+                        "label": {
+                            "language": "en",
+                            "value": "Piero Soderini"
+                        }
+                    }
+                ]
+            },
+            {
+                "start_pos": 192,
+                "end_pos": 204,
+                "surf_form": "Gonfaloniere",
+                "entity": [
+                    {
+                        "wb_id": "Q913260",
+                        "label": {
+                            "language": "en",
+                            "value": "Gonfaloniere of Justice"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
