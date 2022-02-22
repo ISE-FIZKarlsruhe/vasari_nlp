@@ -5,7 +5,7 @@ This evaluation dataset provides a set of sentences in English and Italian taken
 The editions referred to are:
 
 * **IT**: Giorgio Vasari. Le Vite de' Piu Eccellenti Pittori, Scultori, et Architettori (1. ed. 1550). Einaudi (2000). [archive.org](https://archive.org/details/vitedepiueccellentipittoriscultoriedarchitettilegiorgiovasari) \[OCR transcribed\]
-* **EN**: Lives of the Most Eminent Painters, Sculptors and Architects. Translated by Gaston du C. De Vere from the 1568 edition. Macmillan and the Medici Society (1912-1915). [Project Gutenber](https://onlinebooks.library.upenn.edu/webbin/metabook?id=livespainters) \[Digital transcription\]
+* **EN**: Lives of the Most Eminent Painters, Sculptors and Architects. Translated by Gaston du C. De Vere from the 1568 edition. Macmillan and the Medici Society (1912-1915). [Project Gutenberg](https://onlinebooks.library.upenn.edu/webbin/metabook?id=livespainters) \[Digital transcription\]
 
 
 ## Norms for the annotation
@@ -19,6 +19,10 @@ In this evaluation dataset, we do not consider overlapping entities. We solved t
 ```
 Leonardo painted an [ Adoration of the Magi ] (Adoration of the Magi - painting | Adoration of the Magi - subject )
 ```
+
+## Details
+
+In order to remove errors derived from OCR transcriptions from the Italian text, we preliminarily applied regular expression to the sampled sentences. More specifically, 1) we automatically removed whitespaces between First Name initials and the rest of the name, and 2) we added whitespaces between two merged nouns which were both capitalized. In the first strategy, we do not remove whitespace if the uppercase letter is at the beginning of the sentence or in a word-boundary.
 
 
 
