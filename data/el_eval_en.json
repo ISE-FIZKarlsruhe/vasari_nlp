@@ -1003,7 +1003,8 @@
                             "value": "Milan"
                         }
                     }
-                ]
+                ],
+                "type": "LOC"
             },
             {
                 "start_pos": 78,
@@ -1017,7 +1018,8 @@
                             "value": "King of France"
                         }
                     }
-                ]
+                ],
+                "type":"PER"
             },
             {
                 "start_pos": 104,
