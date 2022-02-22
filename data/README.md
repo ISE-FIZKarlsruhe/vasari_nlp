@@ -15,7 +15,7 @@ A specific named entity is considered in our annotation if:
 
 In this evaluation dataset, we do not consider overlapping entities. However, many artworks are mentioned in the text by using a surface form which denotes also their subject. For this specific case, we considered multiple entities, i.e. the subject and the artwork, to be the correct entity to link.<br/>
 ```
-Leonardo painted an \[ Adoration of the Magi \] \(Adoration of the Magi - painting | Adoration of the Magi - subject \)
+Leonardo painted an [ Adoration of the Magi ] (Adoration of the Magi - painting | Adoration of the Magi - subject )
 ```
 
 
