@@ -22,7 +22,7 @@ Leonardo painted an [ Adoration of the Magi ] (Adoration of the Magi - painting 
 
 ## Details
 
-In order to remove errors derived from OCR transcriptions from the Italian text, we preliminarily applied regular expression to the sampled sentences. More specifically, 1) we automatically removed whitespaces between First Name initials and the rest of the name, and 2) we added whitespaces between two merged nouns which were both capitalized. In the first strategy, we do not remove whitespace if the uppercase letter is at the beginning of the sentence or in a word-boundary.
+In order to remove errors derived from OCR transcriptions from the Italian text, we preliminarily applied regular expression to the sampled sentences. More specifically, 1) we automatically removed whitespaces between First Name initials and the rest of the name, and 2) we added whitespaces between two merged nouns which were both capitalized. In the first step, we do not remove whitespace if the uppercase letter is at the beginning of the sentence or at a word-boundary.
 
 
 
