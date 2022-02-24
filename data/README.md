@@ -15,10 +15,10 @@ A specific named entity is considered in our annotation if:
 * It has a related Wikipedia page.<br/>
 
 In this evaluation dataset, we do not consider overlapping entities. We solved the problems of nested entities by considering only the longest surface form. However, many artworks are mentioned in the text by using a surface form which denotes also their subject. For this specific case, we adopt the following rules:<br/>
-* if the surface form is preceeded by an undefinite article, we will link it to the subject entity
-* if the surface form is preceeded by a definite article, we will link it to the creative work
+* if the surface form is preceeded by an undefinite article, we will link it to the subject entity, except when taking co-reference into account.
+* if the surface form is preceeded by a definite article, we will link it to the creative work, except when taking co-reference into account
 
-However these rules may not always be correct and depend on the information provided by the context.
+Co-reference resolution is important since these rules may not always be correct and depend on the information provided by the context.
 ```
 Leonardo painted an [ Adoration of the Magi ] (Adoration of the Magi - subject )
 ```
