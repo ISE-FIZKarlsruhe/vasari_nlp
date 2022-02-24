@@ -126,13 +126,6 @@
                 "surf_form": "S. John baptizing Christ",
                 "entity": [
                     {
-                        "wb_id": "Q1059211",
-                        "label": {
-                            "language": "en",
-                            "value": "The Baptism of Christ"
-                        }
-                    },
-                    {
                         "wb_id": "Q217048",
                         "label": {
                             "language": "en",
@@ -140,7 +133,7 @@
                         }
                     }
                 ],
-                "type": "WORK"
+                "type": "MISC"
             },
             {
                 "start_pos": 191,
@@ -391,13 +384,6 @@
                 "surf_form": "Our Lady",
                 "entity": [
                     {
-                        "wb_id": "Q698015",
-                        "label": {
-                            "language": "en",
-                            "value": "Madonna of the Carnation"
-                        }
-                    },
-                    {
                         "wb_id": "Q345",
                         "label": {
                             "language": "en",
@@ -405,7 +391,7 @@
                         }
                     }
                 ],
-                "type": "WORK"
+                "type": "PER"
             },
             {
                 "start_pos": 96,
@@ -490,13 +476,6 @@
                 "surf_form": "Adoration of the Magi",
                 "entity": [
                     {
-                        "wb_id": "Q1638622",
-                        "label": {
-                            "language": "en",
-                            "value": "Adoration of the Magi"
-                        }
-                    },
-                    {
                         "wb_id": "Q488841",
                         "label": {
                             "language": "en",
@@ -504,7 +483,7 @@
                         }
                     }
                 ],
-                "type": "WORK"
+                "type": "MISC"
             },
             {
                 "start_pos": 139,
@@ -679,13 +658,6 @@
                             "language": "en",
                             "value": "The Last Supper"
                         }
-                    },
-                    {
-                        "wb_id": "Q51633",
-                        "label": {
-                            "language": "en",
-                            "value": "Last Supper"
-                        }
                     }
                 ],
                 "type": "WORK"
@@ -817,13 +789,6 @@
                         "label": {
                             "language": "en",
                             "value": "The Last Supper"
-                        }
-                    },
-                    {
-                        "wb_id": "Q51633",
-                        "label": {
-                            "language": "en",
-                            "value": "Last Supper"
                         }
                     }
                 ],
@@ -1567,13 +1532,6 @@
                 "surf_form": "Monna Lisa",
                 "entity": [
                     {
-                        "wb_id": "Q12418",
-                        "label": {
-                            "language": "en",
-                            "value": "Mona Lisa"
-                        }
-                    },
-                    {
                         "wb_id": "Q153032",
                         "label": {
                             "language": "en",
@@ -1581,7 +1539,7 @@
                         }
                     }
                 ],
-                "type": "WORK"
+                "type": "PER"
             },
             {
                 "start_pos": 203,
@@ -2080,13 +2038,6 @@
                 "end_pos": 142,
                 "surf_form": "Marriage of Cana in Galilee",
                 "entity": [
-                    {
-                        "wb_id": "Q32066758",
-                        "label": {
-                            "language": "en",
-                            "value": "Marriage at Cana"
-                        }
-                    },
                     {
                         "wb_id": "Q625140",
                         "label": {

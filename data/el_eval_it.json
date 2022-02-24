@@ -533,13 +533,6 @@
                             "language": "en",
                             "value": "The Last Supper"
                         }
-                    },
-                    {
-                        "wb_id": "Q51633",
-                        "label": {
-                            "language": "en",
-                            "value": "Last Supper"
-                        }
                     }
                 ],
                 "type": "WORK"
@@ -940,13 +933,6 @@
                 "surf_form": "Mona Lisa",
                 "entity": [
                     {
-                        "wb_id": "Q12418",
-                        "label": {
-                            "language": "en",
-                            "value": "Mona Lisa"
-                        }
-                    },
-                    {
                         "wb_id": "Q153032",
                         "label": {
                             "language": "en",
@@ -954,7 +940,7 @@
                         }
                     }
                 ],
-                "type": "WORK"
+                "type": "PER"
             },
             {
                 "start_pos": 165,
@@ -1374,13 +1360,6 @@
                 "entity": [
                     {
                         "wb_id": "Q32066758",
-                        "label": {
-                            "language": "en",
-                            "value": "Marriage at Cana"
-                        }
-                    },
-                    {
-                        "wb_id": "Q625140",
                         "label": {
                             "language": "en",
                             "value": "Marriage at Cana"
