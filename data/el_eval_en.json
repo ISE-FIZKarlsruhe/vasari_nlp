@@ -91,6 +91,21 @@
         "data": "He was placed, then, as has been said, in his boyhood, at the instance of Ser Piero, to learn art with Andrea del Verrocchio, who was making a panel-picture of S. John baptizing Christ, when Leonardo painted an angel who was holding some garments; and although he was but a lad, Leonardo executed it in such a manner that his angel was much better than the figures of Andrea; which was the reason that Andrea would never again touch colour, in disdain that a child should know more than he.",
         "entities": [
             {
+                "start_pos":238,
+                "end_pos":246,
+                "surf_form":"garments",
+                "entity":[
+                    {
+                        "wb_id":"Q11460",
+                        "label": {
+                            "language": "en",
+                            "value": "clothing"
+                        }
+                    }
+                ],
+                "type":"MISC"
+            },
+            {
                 "start_pos": 74,
                 "end_pos": 83,
                 "surf_form": "Ser Piero",
@@ -283,6 +298,32 @@
         "data": "He was commissioned to make a cartoon for a door-hanging that was to be executed in Flanders, woven in gold and silk, to be sent to the King of Portugal, of Adam and Eve sinning in the Earthly Paradise; wherein Leonardo drew with the brush in chiaroscuro, with the lights in lead-white, a meadow of infinite kinds of herbage, with some animals, of which, in truth, it may be said that for diligence and truth to nature divine wit could not make it so perfect.",
         "entities": [
             {
+                "start_pos":289,
+                "end_pos":295,
+                "surf_form":"meadow",
+                "entity":[{
+                    "wb_id":"Q7777019",
+                    "label": {
+                        "language": "en",
+                        "value": "meadow"
+                    }
+                }],
+                "type":"MISC"
+            },
+            {
+                "start_pos":336,
+                "end_pos":343,
+                "surf_form":"animals",
+                "entity":[{
+                    "wb_id":"Q729",
+                    "label": {
+                        "language": "en",
+                        "value": "animal"
+                    }
+                }],
+                "type":"MISC"
+            },
+            {
                 "start_pos": 84,
                 "end_pos": 92,
                 "surf_form": "Flanders",
@@ -364,6 +405,45 @@
         "data": "Leonardo then made a picture of Our Lady, a most excellent work, which was in the possession of Pope Clement VII; and, among other things painted therein, he counterfeited a glass vase full of water, containing some flowers, in which, besides its marvellous naturalness, he had imitated the dew-drops on the flowers, so that it seemed more real than the reality.",
         "entities": [
             {
+                "start_pos":180,
+                "end_pos":184,
+                "entity":[{
+                    "wb_id":"Q191851",
+                    "label":{
+                        "language": "en",
+                        "value": "vase"
+                    }
+                }],
+                "surf_form":"vase",
+                "type":"MISC"
+            },
+            {
+                "start_pos":216,
+                "end_pos":223,
+                "entity":[{
+                    "wb_id":"Q506",
+                    "label":{
+                        "language": "en",
+                        "value": "flower"
+                    }
+                }],
+                "surf_form":"flowers",
+                "type":"MISC"
+            },
+            {
+                "start_pos":308,
+                "end_pos":315,
+                "entity":[{
+                    "wb_id":"Q506",
+                    "label":{
+                        "language": "en",
+                        "value": "flower"
+                    }
+                }],
+                "surf_form":"flowers",
+                "type":"MISC"
+            },
+            {
                 "start_pos": 0,
                 "end_pos": 8,
                 "surf_form": "Leonardo",
@@ -441,7 +521,8 @@
                             "value": "angel"
                         }
                     }
-                ]
+                ],
+                "type":"MISC"
             }
         ]
     },
@@ -653,14 +734,14 @@
                 "surf_form": "Last Supper",
                 "entity": [
                     {
-                        "wb_id": "Q128910",
+                        "wb_id": "Q51633",
                         "label": {
                             "language": "en",
-                            "value": "The Last Supper"
+                            "value": "Last Supper"
                         }
                     }
                 ],
-                "type": "WORK"
+                "type": "MISC"
             },
             {
                 "start_pos": 160,
@@ -1103,6 +1184,22 @@
         "id": 384,
         "data": "In the end, he made a cartoon containing a Madonna and a S. Anne, with a Christ, which not only caused all the craftsmen to marvel, but, when it was finished, men and women, young and old, continued for two days to flock for a sight of it to the room where it was, as if to a solemn festival, in order to gaze at the marvels of Leonardo, which caused all those people to be amazed; for in the face of that Madonna was seen whatever of the simple and the beautiful can by simplicity and beauty confer grace on a picture of the Mother of Christ, since he wished to show that modesty and that humility which are looked for in an image of the Virgin, supremely content with gladness at seeing the beauty of her Son, whom she was holding with tenderness in her lap, while with most chastened gaze she was looking down at S. John, as a little boy, who was playing with a lamb; not without a smile from S. Anne, who, overflowing with joy, was beholding her earthly progeny become divine--ideas truly worthy of the brain and genius of Leonardo.",
         "entities": [
+            {
+                "start_pos":865,
+                "end_pos":869,
+                "surf_form":"lamb",
+                "entity":[
+                    {
+                        "wb_id":"Q7368",
+                        "label": {
+                            "language": "en",
+                            "value": "sheep"
+                        }
+
+                    }
+                ],
+                "type":"MISC"
+            },
             {
                 "start_pos": 43,
                 "end_pos": 50,
@@ -1628,6 +1725,47 @@
         "id": 389,
         "data": "Whereupon Leonardo, determining to execute this work, began a cartoon in the Sala del Papa, an apartment in S. Maria Novella, representing the story of Niccolo Piccinino, Captain of Duke Filippo of Milan; wherein he designed a group of horsemen who were fighting for a standard, a work that was held to be very excellent and of great mastery, by reason of the marvellous ideas that he had in composing that battle",
         "entities": [
+            {
+                "start_pos":236,
+                "end_pos":244,
+                "surf_form":"horsemen",
+                "entity":[
+                    {
+                        "wb_id":"Q47315",
+                        "label": {
+                            "language": "en",
+                            "value": "cavalry"
+                        }
+                    }
+                ],
+                "type":"MISC"
+            },
+            {
+                "start_pos":269,
+                "end_pos":277,
+                "surf_form":"standard",
+                "entity":[{
+                    "wb_id":"Q14660",
+                    "label": {
+                        "language": "en",
+                        "value": "flag"
+                    }
+                }],
+                "type":"MISC"
+            },
+            {
+                "start_pos":407,
+                "end_pos":413,
+                "surf_form":"battle",
+                "entity":[{
+                    "wb_id":"Q178561",
+                    "label": {
+                        "language": "en",
+                        "value": "battle"
+                    }
+                }],
+                "type":"MISC"
+            },
             {
                 "start_pos": 10,
                 "end_pos": 18,
@@ -2933,6 +3071,34 @@
         "id": 404,
         "data": "The talent of Michelagnolo was then clearly recognized by a Roman gentleman named Messer Jacopo Galli, an ingenious person, who caused him to make a Cupid of marble as large as life, and then a figure of a Bacchus ten palms high, who has a cup in the right hand, and in the left hand the skin of a tiger, with a bunch of grapes at which a little satyr is trying to nibble.",
         "entities": [
+            {
+                "start_pos":240,
+                "end_pos":243,
+                "surf_form":"cup",
+                "entity":[
+                    {
+                        "wb_id":"Q81727",
+                        "label": {
+                            "language": "en",
+                            "value": "cup"
+                        }
+                    }
+                ],
+                "type":"MISC"
+            },
+            {
+                "start_pos":321,
+                "end_pos":327,
+                "surf_form":"grapes",
+                "entity":[{
+                    "wb_id":"Q10978",
+                    "label": {
+                        "language": "en",
+                        "value": "grape"
+                    }
+                }],
+                "type":"MISC"
+            },
             {
                 "start_pos": 14,
                 "end_pos": 26,

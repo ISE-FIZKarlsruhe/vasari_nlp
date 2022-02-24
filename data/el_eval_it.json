@@ -127,6 +127,51 @@
         "data": "Acconciossi per via di Ser Piero suo zio nella sua fanciullezza a l'arte con Andrea del Verocchio, il quale faccendo una tavola dove San Giovanni battezzava Cristo, Lionardo lavorò uno angelo, che teneva alcune vesti; e benché fosse giovanetto, lo condusse di tal maniera, che molto meglio de le figure d'And rea stava l'angelo di Lionardo.",
         "entities": [
             {
+                "start_pos": 321,
+                "end_pos": 327,
+                "surf_form": "angelo",
+                "entity": [
+                    {
+                        "wb_id": "Q235113",
+                        "label": {
+                            "language": "en",
+                            "value": "angel"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "start_pos": 185,
+                "end_pos": 191,
+                "surf_form": "angelo",
+                "entity": [
+                    {
+                        "wb_id": "Q235113",
+                        "label": {
+                            "language": "en",
+                            "value": "angel"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "start_pos": 211,
+                "end_pos": 216,
+                "surf_form": "vesti",
+                "entity": [
+                    {
+                        "wb_id": "Q11460",
+                        "label": {
+                            "language": "en",
+                            "value": "clothing"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
                 "start_pos": 23,
                 "end_pos": 32,
                 "surf_form": "Ser Piero",
@@ -222,6 +267,36 @@
         "id": 410,
         "data": "Li fu allogato per una portiera, che si aveva a fare in Fiandra d'oro e di seta tessuta, per mandare al Re di Portogallo un cartone d'Adamo e d'Èva, quando nel Paradiso terrestre peccano: dove col pennello fece Lionardo di chiaro e scuro lumeggiato di biacca un prato di erbe infinite con alcuni animali, che invero può dirsi che in diligenza e naturalità al mondo divino ingegno far non la possa si simile.",
         "entities": [
+            {
+                "start_pos": 262,
+                "end_pos": 267,
+                "surf_form": "prato",
+                "entity": [
+                    {
+                        "wb_id": "Q7777019",
+                        "label": {
+                            "language": "en",
+                            "value": "meadow"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "start_pos": 296,
+                "end_pos": 303,
+                "surf_form": "animali",
+                "entity": [
+                    {
+                        "wb_id": "Q729",
+                        "label": {
+                            "language": "en",
+                            "value": "animal"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
             {
                 "start_pos": 56,
                 "end_pos": 63,
@@ -528,14 +603,14 @@
                 "surf_form": "Cenacolo",
                 "entity": [
                     {
-                        "wb_id": "Q128910",
+                        "wb_id": "Q318972",
                         "label": {
                             "language": "en",
-                            "value": "The Last Supper"
+                            "value": "Cenacle"
                         }
                     }
                 ],
-                "type": "WORK"
+                "type": "MISC"
             },
             {
                 "start_pos": 141,
@@ -832,6 +907,21 @@
         "data": "Perché si vedeva nel viso di quella Nostra Donna tutto quello che di semplice e di bello può con semplicità e bellezza dare grazia a una madre di Cristo; volendo mostrare quella modestia e quella umiltà che in una vergine contentissima di allegrezza del vedere la bellezza del suo figliuolo, che con tenerezza sosteneva in grembo; e mentre che ella con onestissima guardatura a basso scorgeva un santo Giovanni piccol fanciullo che si andava trastullando con un pecorino, non senza un ghigno d'una Santa Anna che, colma di letizia, vedeva la sua progenieterrena esser divenuta celeste.",
         "entities": [
             {
+                "start_pos": 462,
+                "end_pos": 470,
+                "surf_form": "pecorino",
+                "entity": [
+                    {
+                        "wb_id": "Q7368",
+                        "label": {
+                            "language": "en",
+                            "value": "sheep"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
                 "start_pos": 36,
                 "end_pos": 48,
                 "surf_form": "Nostra Donna",
@@ -978,6 +1068,36 @@
         "id": 421,
         "data": "Per il che volendola condurre Lionardo, cominciò un cartone alla sala del papa, luogo in Santa Maria Novella, dentrovi la storia di Niccolò Piccinino capitano del Duca Filippo di Milano, nel quale disegnò un groppo di cavalli che combattevano una bandiera, cosa che eccellentissima e di gran magisterio fu tenuta per le mirabilissime considerazioni che egli ebbe nel far quella fuga.",
         "entities": [
+            {
+                "start_pos": 218,
+                "end_pos": 225,
+                "surf_form": "cavalli",
+                "entity": [
+                    {
+                        "wb_id": "Q726",
+                        "label": {
+                            "language": "en",
+                            "value": "horse"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
+            {
+                "start_pos": 247,
+                "end_pos": 255,
+                "surf_form": "bandiera",
+                "entity": [
+                    {
+                        "wb_id": "Q14660",
+                        "label": {
+                            "language": "en",
+                            "value": "flag"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
             {
                 "start_pos": 30,
                 "end_pos": 38,
@@ -1375,6 +1495,21 @@
         "data": "Indi nella facciata maggiore sono tre storie di Santa Caterina martire, quando disputa co 'Itiranno in un tempio, e nel mezzo la Passion di Cristo con i ladroni in croce e le Marie da basso, che sostengono la Vergine Maria venutasi meno.",
         "entities": [
             {
+                "start_pos": 153,
+                "end_pos": 160,
+                "surf_form": "ladroni",
+                "entity": [
+                    {
+                        "wb_id": "Q2258167",
+                        "label": {
+                            "language": "en",
+                            "value": "penitent and impenitent thieves"
+                        }
+                    }
+                ],
+                "type": "PER"
+            },
+            {
                 "start_pos": 48,
                 "end_pos": 62,
                 "surf_form": "Santa Caterina",
@@ -1704,6 +1839,21 @@
         "id": 433,
         "data": "Avvenne che la Signoria di Vinezia avendo avuto molte vittorie per la virtù di Bartolomeo da Bergamo, volendo onorare la virtù di quel signore e dare animo a gli altri loro capitani, deliberò in Senato che e' se gli facessi una statua a cavallo di bronzo e dorata per porsi in su la piazza di Santo Giovanni e Polo, e trovando il nome d'Andrea sparso per tutta Italia efuora sopra ogni altro, mandarono per lui a Fiorenza, e condottolo a Venezia con grandissima provisione gli fecion fare un modello di terra, grande appunto quanto aveva da essere.",
         "entities": [
+            {
+                "start_pos": 228,
+                "end_pos": 244,
+                "surf_form": "statua a cavallo",
+                "entity": [
+                    {
+                        "wb_id": "Q659396",
+                        "label": {
+                            "language": "en",
+                            "value": "equestrian statue"
+                        }
+                    }
+                ],
+                "type": "MISC"
+            },
             {
                 "start_pos": 15,
                 "end_pos": 34,
