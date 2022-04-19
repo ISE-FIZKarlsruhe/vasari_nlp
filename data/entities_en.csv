@@ -430,7 +430,7 @@ id;start_pos;end_pos;surface;label;wb_id;motif;broader;narrower;related;exact;cl
 31;324;330;rabbit;MISC;Q9394;1;0;0;0;1;0
 31;355;360;Doves;MISC;Q10856;1;0;0;0;1;0
 31;364;369;Venus;MISC;Q47652;1;0;0;0;1;0
-31;395;399;Love;MISC;Q316;1;0;0;0;0;1
+31;395;399;Love;MISC;Q5011;1;0;0;0;1;0
 31;384;391;emblems;MISC;Q112110;0;0;0;0;1;0
 32;4;21;Giovanni Vespucci;PER;Q17064119;0;0;0;0;1;0
 32;38;43;house;MISC;Q3947;0;0;0;0;1;0

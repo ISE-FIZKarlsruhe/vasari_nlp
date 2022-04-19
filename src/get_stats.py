@@ -18,9 +18,15 @@ def get_statistics(path, lang):
     
     entity_dict = {}
     labels_dict = {}
+    mappings_dict = {"broader":0,
+    "narrower":0,
+    "related":0,
+    "exact":0,
+    "close":0}
     sentences = 1
-    id = 0
+    id = 1
     for item in data:
+        print(item)
         if int(item["id"]) != id:
             sentences+=1
             id = int(item["id"])
@@ -29,10 +35,21 @@ def get_statistics(path, lang):
             entity_dict[item["wb_id"]] += 1
         else:
             entity_dict[item["wb_id"]] = 1
-        if item["type"] in labels_dict.keys():
-            labels_dict[item["type"]] += 1
+        if item["label"] in labels_dict.keys():
+            labels_dict[item["label"]] += 1
         else:
-            labels_dict[item["type"]] = 1
+            labels_dict[item["label"]] = 1
+        if int(item["broader"]) != 0:
+            mappings_dict["broader"] += 1
+        if int(item["narrower"]) != 0:
+            mappings_dict["narrower"] += 1
+        if int(item["related"]) != 0:
+            mappings_dict["related"] += 1
+        if int(item["exact"]) != 0:
+            mappings_dict["exact"] += 1
+        if int(item["close"]) != 0:
+            mappings_dict["close"] += 1
+            
     
     
     total_entities = len(data)
@@ -51,17 +68,18 @@ def get_statistics(path, lang):
         f.write("Minimum occurrence of entity in data: "+ str(min_value)+"\n")
         f.write("Entities with maximum occurrence: "+ str(max_entities)+"\n")
         f.write("Entities with minimum occurrence: "+ str(len(min_entities))+"\n")
-        f.write("Average occurrence per entity: " + str(avg_value)+"\n\n")
-        
-        
-        f.write("Entities with type PER: " + str(labels_dict["PER"]) +"\n")
-        
-        f.write("Entities with type ORG: "+  str(labels_dict["ORG"])+"\n")
-        
+        f.write("Average occurrence per entity: " + str(avg_value)+"\n")
+        f.write("Entities Out Of Vocabulary: "+str(entity_dict["OOV"])+"\n")
+        f.write("Entities with type PER: " + str(labels_dict["PER"]) +"\n")   
+        f.write("Entities with type ORG: "+  str(labels_dict["ORG"])+"\n")   
         f.write("Entities with type LOC: "+ str(labels_dict["LOC"])+"\n")
-        
         f.write("Entities with type MISC: "+ str(labels_dict["MISC"])+"\n")
         f.write("Entities with type WORK: "+ str(labels_dict.get("WORK", None))+"\n")
+        f.write("Broader mappings: "+ str(mappings_dict["broader"])+"\n")
+        f.write("Narrower mappings: "+ str(mappings_dict["narrower"])+"\n")
+        f.write("Related mappings: "+ str(mappings_dict["related"])+"\n")
+        f.write("Exact mappings: "+ str(mappings_dict["exact"])+"\n")
+        f.write("Close mappings: "+ str(mappings_dict["close"])+"\n")
     f.close()
     
 get_statistics("../data/", "it")
