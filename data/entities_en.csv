@@ -52,7 +52,7 @@ id;start_pos;end_pos;surface;label;wb_id;motif;broader;narrower;related;exact;cl
 3;131;137;things;MISC;Q35120;0;0;0;0;1;0
 3;354;361;reality;MISC;Q9510;0;0;0;0;1;0
 4;21;33;works of art;MISC;Q17537576;0;0;0;0;1;0
-4;41;62;Palace of Duke Cosimo;LOC;OOV;0;0;0;0;0;0
+4;41;62;Palace of Duke Cosimo;LOC;Q911047;0;0;0;0;0;0
 4;82;86;head;MISC;Q23640;1;0;0;0;1;0
 4;93;98;angel;MISC;Q235113;1;0;0;0;1;0
 4;119;122;arm;MISC;Q43471;1;0;0;0;1;0
