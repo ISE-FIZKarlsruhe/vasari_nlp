@@ -1,9 +1,9 @@
 import csv
 
-def eval_nel(path_data, path_model):
+def eval_nel(path_data, path_results):
     with open(path_data+"entities_en.csv", "r") as f1:
         data = list(csv.DictReader(f1, delimiter=";"))
-    with open(path_model+"output_nel.csv", "r") as f2:
+    with open(path_results+"output_nel.csv", "r") as f2:
         model_result = list(csv.DictReader(f2, delimiter=","))
     
     tp = []
@@ -27,7 +27,7 @@ def eval_nel(path_data, path_model):
                 tp.append(entity2)
             
     for entity1 in data:
-        if entity1 not in matches:
+        if entity1 not in matches and entity1["wb_id"] != "OOV":
             fn.append(entity1)
 
     for entity2 in model_result:
@@ -37,7 +37,7 @@ def eval_nel(path_data, path_model):
     precision = len(tp)/(len(tp)+len(fp))
     recall = len(tp)/(len(tp)+len(fn))
     f1 = (2*precision*recall)/(precision+recall)
-    with open(path_model+"result.txt", "w") as output:
+    with open(path_results+"result.txt", "w") as output:
         output.write("True Positives: "+str(len(tp))+"\n\n")
         output.write("False Positives: "+str(len(fp))+"\n\n")
         output.write("False Negatives: "+str(len(fn))+"\n\n")
@@ -49,25 +49,26 @@ def eval_nel(path_data, path_model):
     p_keys = tp[0].keys()
     n_keys = fn[0].keys()
 
-    tp_file = open(path_model+"tp.csv", "w")
+    tp_file = open(path_results+"tp.csv", "w")
     dict_writer = csv.DictWriter(tp_file, p_keys)
     dict_writer.writeheader()
     dict_writer.writerows(tp)
     tp_file.close()
     
-    fp_file = open(path_model+"fp.csv", "w")
+    fp_file = open(path_results+"fp.csv", "w")
     dict_writer = csv.DictWriter(fp_file, p_keys)
     dict_writer.writeheader()
     dict_writer.writerows(fp)
     fp_file.close()
 
-    fn_file = open(path_model+"fn.csv", "w")
+    fn_file = open(path_results+"fn.csv", "w")
     dict_writer = csv.DictWriter(fn_file, n_keys)
     dict_writer.writeheader()
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_nel(path_data="../data/", path_model="../mgenre_babel/")
+eval_nel(path_data="../data/", path_results="../results/mgenre_en/")
+
 
 
 
