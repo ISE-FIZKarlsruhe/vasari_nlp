@@ -1,0 +1,131 @@
+id,start_pos,end_pos,label,alias,wb_id,score
+1,74,83,PER,Piero della Francesca >> en,,-0.5173174738883972
+1,103,124,PER,Andrea del Verrocchio >> en,,-0.08489657938480377
+1,160,167,PER,John the Apostle >> en,,-0.18978573381900787
+1,178,184,PER,Jesus >> en,,-0.29557740688323975
+1,191,199,PER,Leonardo da Vinci >> en,,-0.1001410186290741
+1,279,287,PER,Leonardo da Vinci >> en,,-0.10504470020532608
+1,368,374,PER,Andrea del Verrocchio >> en,,-0.11570771038532257
+1,402,408,PER,Andrea del Verrocchio >> en,,-0.08953219652175903
+2,84,92,LOC,Flanders >> en,,-0.09711757302284241
+2,185,201,LOC,Paradise >> en,,-0.19408130645751953
+2,211,219,PER,Leonardo da Vinci >> en,,-0.08694291859865189
+2,157,161,PER,Adam >> en,,-0.13162952661514282
+2,166,169,PER,Eve >> en,,-0.12981832027435303
+3,0,8,PER,Leonardo da Vinci >> en,,-0.09873340278863907
+3,32,40,PER,Veneration of Mary in the Catholic Church >> en,,-0.1662360280752182
+5,4,17,PER,Antonio Segni >> en,,-0.138189896941185
+5,81,88,MISC,Neptune (mythology) >> en,,-0.08790472149848938
+6,32,53,MISC,Adoration of the Magi >> en,,-0.09543608129024506
+6,139,152,PER,Amerigo >> en,,-1.6352628469467163
+6,167,185,ORG,Loggia dei Peruzzi >> it,,-0.49565020203590393
+7,19,24,LOC,Milan >> en,,-0.09548254311084747
+7,59,80,LOC,Santa Maria delle Grazie (Milan) >> en,,-0.16653196513652802
+7,84,95,MISC,Last Supper >> en,,-0.08597453683614731
+7,227,233,PER,Jesus >> en,,-0.18769176304340363
+7,339,345,PER,Jesus >> en,,-0.22792941331863403
+8,51,62,MISC,Last Supper >> en,,-0.09059473872184753
+8,118,126,PER,Leonardo da Vinci >> en,,-0.08732288330793381
+8,146,154,PER,Ludovico Sforza >> en,,-0.26503786444664
+8,161,173,PER,Massimiliano Sforza >> en,,-0.1315164715051651
+8,242,251,PER,Francesco I Sforza >> en,,-0.1697922796010971
+9,30,38,PER,Leonardo da Vinci >> en,,-0.09552783519029617
+9,54,59,LOC,Milan >> en,,-0.10249662399291992
+9,104,112,PER,Leonardo da Vinci >> en,,-0.10951187461614609
+10,43,50,PER,Madonna (art) >> en,,-0.10486636310815811
+10,57,64,PER,Saint Anne >> en,,-0.118438720703125
+10,73,79,PER,Jesus >> en,,-0.22698736190795898
+10,328,336,PER,Leonardo da Vinci >> en,,-0.09927470237016678
+10,406,413,PER,Madonna (art) >> en,,-0.10289782285690308
+10,816,823,PER,Basilica of Saint John Lateran >> en,,-0.4112749695777893
+10,1027,1035,PER,Leonardo da Vinci >> en,,-0.09380629658699036
+11,0,8,PER,Leonardo da Vinci >> en,,-0.09489744901657104
+11,35,57,PER,Francesco del Giocondo >> en,,-0.09938056766986847
+11,75,85,PER,Mona Lisa >> en,,-0.304554283618927
+11,230,243,LOC,Fontainebleau >> en,,-0.15426385402679443
+12,11,15,LOC,Rome >> en,,-0.12057177722454071
+13,10,18,PER,Leonardo da Vinci >> en,,-0.08809884637594223
+13,77,90,LOC,Papal household >> en,,-0.9369214177131653
+13,108,124,LOC,Santa Maria Novella >> en,,-0.07506225258111954
+13,152,169,PER,Niccolò Piccinino >> en,,-0.07355290651321411
+15,31,44,PER,Marco d'Oggiono >> en,,-0.8665592670440674
+15,62,81,LOC,Santa Maria della Pace >> en,,-0.0894136130809784
+15,87,106,MISC,Veneration of Mary in the Catholic Church >> en,,-0.5828991532325745
+15,115,131,MISC,Marriage in Judaism >> en,,-1.0691661834716797
+15,135,142,LOC,Galilee >> en,,-0.0884786993265152
+16,14,22,PER,Leonardo da Vinci >> en,,-0.10702681541442871
+16,27,52,PER,Giovanni Antonio Boltraffio >> en,,-0.08532940596342087
+16,56,61,LOC,Milan >> en,,-0.09766567498445511
+16,166,192,ORG,Church of the Misericordia >> en,,-0.48877614736557007
+16,202,209,LOC,Bologna >> en,,-0.10709692537784576
+16,275,294,PER,John the Baptist >> en,,-0.10565567016601562
+16,296,308,PER,Saint Sebastian >> en,,-0.08665148913860321
+16,482,490,PER,Leonardo da Vinci >> en,,-0.13620026409626007
+17,44,51,PER,Cimabue >> en,,-0.08058348298072815
+17,100,106,LOC,Assisi >> en,,-0.09671592712402344
+17,118,124,LOC,Umbria >> en,,-0.0904681459069252
+17,185,207,ORG,Basilica of Saint Francis of Assisi >> en,,-0.12061356753110886
+17,296,306,PER,Francis of Assisi >> en,,-0.11285699903964996
+18,162,181,PER,John the Baptist >> en,,-0.09577091783285141
+18,183,204,PER,John Gualbert >> en,,-0.266670286655426
+18,229,244,PER,San Michele in Isola >> en,,-0.5377012491226196
+18,250,261,PER,Bernard of Clairvaux >> en,,-0.3524833917617798
+18,103,114,LOC,Vallombrosa >> en,,-0.0931093767285347
+19,14,26,PER,Michelangelo >> en,,-0.42837318778038025
+19,149,154,MISC,Cupid >> en,,-0.08744893968105316
+19,206,213,MISC,Dionysus >> en,,-0.09578611701726913
+20,48,57,PER,Fortitude >> en,,-0.40433812141418457
+20,112,119,PER,Virtue >> en,,-0.1537144035100937
+20,141,148,PER,Antonio del Pollaiolo >> en,,-0.0927414819598198
+20,153,173,PER,Piero del Pollaiolo >> en,,-0.08929404616355896
+21,23,33,MISC,"Ognissanti, Florence >> en",,-0.10660864412784576
+21,93,101,PER,Amerigo Vespucci >> en,,-0.14931778609752655
+21,104,116,PER,Augustine of Hippo >> en,,-0.0914461687207222
+21,231,251,PER,Domenico Ghirlandaio >> en,,-0.07382310181856155
+21,268,277,PER,Jerome >> en,,-0.09452618658542633
+22,121,129,LOC,Castello >> en,,-0.45862311124801636
+22,261,267,MISC,Cupid >> en,,-0.08205314725637436
+22,290,295,PER,Venus (mythology) >> en,,-0.11540594696998596
+22,306,312,MISC,Charites >> en,,-0.09991608560085297
+23,84,90,MISC,Pallas >> en,,-0.5334938764572144
+23,197,209,PER,Saint Sebastian >> en,,-0.09404759109020233
+24,3,20,LOC,Santa Maria Maggiore >> en,,-0.10110754519701004
+24,24,32,LOC,Florence >> en,,-0.09599944949150085
+24,45,70,ORG,"Santa Maria Maggiore, Florence >> en",,-0.5640743970870972
+25,20,25,PER,Pucci >> en,,-0.1183239072561264
+25,68,77,PER,Giovanni Boccaccio >> en,,-0.07608415186405182
+25,88,109,PER,Nastagio degli Onesti >> en,,-0.07380709052085876
+25,186,194,MISC,Epiphany (holiday) >> en,,-0.08752264082431793
+26,13,19,PER,Sandro >> en,,-0.8211584091186523
+26,273,294,MISC,Adoration of the Magi >> en,,-0.0892474427819252
+27,12,34,PER,Cappella Capponi >> en,,-0.25968116521835327
+27,43,63,LOC,"Santo Spirito, Florence >> en",,-0.27342426776885986
+27,67,75,LOC,Florence >> en,,-0.09453675895929337
+27,111,133,MISC,Visitation (Christianity) >> en,,-0.07434633374214172
+28,40,45,PER,Piero della Francesca >> en,,-0.20321421325206757
+28,131,152,ORG,"San Filippo Neri, Genoa >> en",,-0.8102445006370544
+28,258,266,PER,"Mary, mother of Jesus >> en",,-0.14549620449543
+28,421,432,PER,Holy Spirit >> en,,-0.10757362842559814
+29,102,113,PER,Margaret the Virgin >> en,,-0.18008804321289062
+29,144,150,MISC,Dragon >> en,,-0.17209213972091675
+30,0,5,PER,Piero della Francesca >> en,,-0.2691326439380646
+30,79,86,PER,Perseus >> en,,-0.08982949703931808
+30,98,107,LOC,Andromeda (mythology) >> en,,-0.09061595797538757
+30,117,124,PER,Monster >> en,,-0.2284298986196518
+31,46,51,PER,Venus (mythology) >> en,,-0.1134670078754425
+31,60,64,PER,Mars (mythology) >> en,,-0.1052992045879364
+31,153,158,MISC,Lovers (stock characters) >> en,,-0.35981786251068115
+31,257,261,LOC,Mars (mythology) >> en,,-0.13090328872203827
+31,298,303,MISC,Cupid >> en,,-0.08893363177776337
+32,4,21,PER,Giovanni Vespucci >> pt,,-0.972262442111969
+32,61,75,PER,Piero de' Medici >> en,,-2.086273193359375
+32,89,99,PER,San Michele in Isola >> en,,-0.30693987011909485
+32,108,121,LOC,Via dei Servi >> it,,-0.28630661964416504
+33,0,5,PER,Piero della Francesca >> en,,-0.227738618850708
+33,33,55,PER,Francesco da Sangallo >> en,,-0.1782287061214447
+33,126,131,PER,Piero della Francesca >> en,,-0.3189907371997833
+33,147,156,PER,Francesco di Paola >> en,,-0.9675838351249695
+33,189,194,PER,Piero della Francesca >> en,,-0.27409231662750244
+33,245,254,PER,Cleopatra >> en,,-0.08677149564027786
+33,327,335,PER,Giuliano da San Gallo >> en,,-0.23888123035430908
+33,370,389,PER,Francesco Giamberti >> it,,-0.4397968351840973

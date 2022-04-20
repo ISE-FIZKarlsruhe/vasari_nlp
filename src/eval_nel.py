@@ -1,10 +1,10 @@
 import csv
 
 def eval_nel(path_data, path_results):
-    with open(path_data+"entities_en.csv", "r") as f1:
+    with open(path_data+"entities_it.csv", "r") as f1:
         data = list(csv.DictReader(f1, delimiter=";"))
     with open(path_results+"output_nel.csv", "r") as f2:
-        model_result = list(csv.DictReader(f2, delimiter=","))
+        model_result = list(csv.DictReader(f2, delimiter=";"))
     
     tp = []
     fp = []
@@ -37,13 +37,15 @@ def eval_nel(path_data, path_results):
     precision = len(tp)/(len(tp)+len(fp))
     recall = len(tp)/(len(tp)+len(fn))
     f1 = (2*precision*recall)/(precision+recall)
+    motifs = [item for item in matches if int(item["motif"])==1]
     with open(path_results+"result.txt", "w") as output:
         output.write("True Positives: "+str(len(tp))+"\n\n")
         output.write("False Positives: "+str(len(fp))+"\n\n")
         output.write("False Negatives: "+str(len(fn))+"\n\n")
         output.write("Precision: "+ str(precision)+ "\n\n")
         output.write("Recall: "+ str(recall)+ "\n\n")
-        output.write("F1: "+ str(f1))
+        output.write("F1: "+ str(f1)+"\n\n")
+        output.write("Motifs matched: "+str(len(motifs)))
     
     
     p_keys = tp[0].keys()
@@ -67,7 +69,7 @@ def eval_nel(path_data, path_results):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_nel(path_data="../data/", path_results="../results/mgenre_en/")
+eval_nel(path_data="../data/", path_results="../results/mgenre_babel_it/")
 
 
 

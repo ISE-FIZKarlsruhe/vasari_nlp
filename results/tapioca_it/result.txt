@@ -1,0 +1,13 @@
+True Positives: 32
+
+False Positives: 29
+
+False Negatives: 264
+
+Precision: 0.5245901639344263
+
+Recall: 0.10810810810810811
+
+F1: 0.1792717086834734
+
+Motifs matched: 9

@@ -1,0 +1,45 @@
+id,start_pos,end_pos,label,alias,wb_id,score
+2,144,152,LOC,Portugal >> en,,-0.14376132190227509
+3,101,112,PER,Pope Clement VII >> en,,-0.0856800451874733
+4,56,62,PER,"Cosimo I de' Medici, Grand Duke of Tuscany >> en",,-0.10392896831035614
+7,44,45,PER,Basilica of San Domenico >> en,,-0.4774707555770874
+7,47,54,PER,Saint Dominic >> en,,-0.14648427069187164
+8,227,235,PER,Beatrice d'Este >> en,,-0.2502592206001282
+8,310,315,LOC,Milan >> en,,-0.14846402406692505
+9,86,92,LOC,France >> en,,-0.1329498589038849
+10,533,542,PER,"Mary, mother of Jesus >> en",,-0.4223836362361908
+10,896,897,PER,Holy Spirit in Christianity >> en,,-0.411689817905426
+10,899,903,PER,Anne >> en,,-0.31359827518463135
+11,203,215,PER,Francis I of France >> en,,-0.15478508174419403
+11,219,225,LOC,France >> en,,-0.18584002554416656
+12,26,45,PER,"Giuliano de' Medici, Duke of Nemours >> en",,-0.09454593062400818
+12,71,74,PER,Pope Leo I >> en,,-0.31815364956855774
+13,18,19,LOC,Niccolò Piccinino >> en,,-0.3261462152004242
+13,187,194,PER,Filippo Buondelmonti >> en,,-0.4437454640865326
+13,198,203,LOC,Milan >> en,,-0.13034702837467194
+13,277,278,LOC,Horses in warfare >> en,,-0.41462263464927673
+14,33,61,PER,Baldassare Turini >> en,,-0.3087213635444641
+14,81,85,PER,Pope >> en,,-0.11613702774047852
+14,86,89,PER,Pope Leo I >> en,,-0.268352210521698
+14,115,122,PER,Madonna (art) >> en,,-0.10960914194583893
+16,238,246,PER,"Mary, mother of Jesus >> en",,-0.13441558182239532
+17,157,162,MISC,Greeks >> en,,-0.14924326539039612
+17,271,283,PER,Jesus >> en,,-0.09991828352212906
+19,60,65,MISC,Rome >> en,,-0.18515168130397797
+19,82,101,PER,Jacopo Galli >> en,,-0.6219094395637512
+20,65,88,MISC,The Merchant's Tale >> en,,-1.4268685579299927
+22,147,153,PER,"Cosimo I de' Medici, Grand Duke of Tuscany >> en",,-0.09975873678922653
+22,187,192,PER,Venus (mythology) >> en,,-0.10925690829753876
+23,39,45,PER,House of Medici >> en,,-0.08558209985494614
+23,60,67,PER,Lorenzo de' Medici >> en,,-0.11647262424230576
+26,175,176,LOC,Sanctuary >> en,,-0.5850731134414673
+26,178,191,LOC,Santa Maria Novella >> en,,-0.11343211680650711
+27,140,141,PER,Holy Spirit in Christianity >> en,,-0.5378475189208984
+27,143,151,PER,Saint Nicholas >> en,,-0.09222884476184845
+27,159,160,PER,Holy Spirit in Christianity >> en,,-0.3850933611392975
+27,162,169,PER,Anthony the Great >> en,,-0.15119153261184692
+28,94,122,ORG,Servite Order >> en,,-0.41713008284568787
+28,200,201,PER,Holy Spirit in Christianity >> en,,-0.4800788462162018
+28,203,210,PER,Philip the Apostle >> en,,-0.31771308183670044
+30,29,44,PER,Filippo Strozzi the Elder >> en,,-0.09698594361543655
+31,355,369,MISC,Venus (mythology) >> en,,-0.3772590160369873

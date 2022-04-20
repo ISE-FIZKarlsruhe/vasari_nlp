@@ -38,7 +38,7 @@ def eval_ner(path_data, path_model):
 
     matched_types = 0
     for x1, x2 in zip(matches, tp):
-        if x1["type"]==x2["type"]:
+        if x1["label"]==x2["label"]:
             matched_types += 1
 
 
@@ -73,7 +73,7 @@ def eval_ner(path_data, path_model):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_ner(path_data="../data/", path_model="../tapioca_en/")
+eval_ner(path_data="../data/", path_model="../results/mgenre_babel_en/")
 
 
 

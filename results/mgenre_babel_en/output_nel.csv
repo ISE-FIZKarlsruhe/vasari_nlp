@@ -1,4 +1,4 @@
-id,start_pos,end_pos,type,alias,wb_id,score
+id,start_pos,end_pos,label,alias,wb_id,score
 1,74,83,PER,Piero della Francesca >> en,Q5822,-1.4631946086883545
 1,103,124,PER,Andrea del Verrocchio >> en,Q183458,-0.06226620078086853
 1,160,167,PER,John the Apostle >> en,Q44015,-0.502124547958374
