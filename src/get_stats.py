@@ -27,7 +27,6 @@ def get_statistics(path, lang):
     id = 1
     motifs = 0
     for item in data:
-        print(item)
         if int(item["id"]) != id:
             sentences+=1
             id = int(item["id"])
@@ -83,6 +82,7 @@ def get_statistics(path, lang):
         f.write("Related mappings: "+ str(mappings_dict["related"])+"\n")
         f.write("Exact mappings: "+ str(mappings_dict["exact"])+"\n")
         f.write("Close mappings: "+ str(mappings_dict["close"])+"\n")
+        f.write("Motifs: "+ str(motifs)+"\n")
     f.close()
     
-get_statistics("../data/", "en")
+get_statistics("../data/", "it")

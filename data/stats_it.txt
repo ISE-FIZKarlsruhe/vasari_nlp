@@ -17,3 +17,4 @@ Narrower mappings: 1
 Related mappings: 23
 Exact mappings: 269
 Close mappings: 4
+Motifs: 107
