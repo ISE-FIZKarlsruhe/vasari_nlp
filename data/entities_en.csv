@@ -70,8 +70,7 @@ id;start_pos;end_pos;surface;label;wb_id;motif;broader;narrower;related;exact;cl
 6;32;53;Adoration of the Magi;MISC;Q488841;1;0;0;0;1;0
 6;81;87;things;MISC;Q35120;0;0;0;0;1;0
 6;106;111;heads;MISC;Q23640;1;0;0;0;1;0
-6;130;135;house;MISC;Q3947;0;0;0;0;1;0
-6;139;152;Amerigo Benci;PER;Q89125988;0;0;0;0;1;0
+6;130;152;house of Amerigo Benci;LOC;Q16586386;0;0;0;0;1;0
 6;167;185;Loggia de' Peruzzi;LOC;Q20008396;0;0;0;0;1;0
 6;239;244;works;MISC;Q17537576;0;0;0;0;1;0
 7;182;189;majesty;MISC;OOV;0;0;0;0;0;0
