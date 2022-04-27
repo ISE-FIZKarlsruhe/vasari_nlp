@@ -1,20 +1,20 @@
 Sentences: 23
-Total entities in evaluation data: 304
-Average entities per sentence: 13.217391304347826
+Total entities in evaluation data: 302
+Average entities per sentence: 13.130434782608695
 Maximum occurrence of entity in data: 9
 Minimum occurrence of entity in data: 1
 Entities with maximum occurrence: ['Q762']
-Entities with minimum occurrence: 161
-Average occurrence per entity: 1.4545454545454546
+Entities with minimum occurrence: 163
+Average occurrence per entity: 1.444976076555024
 Entities Out Of Vocabulary: 8
-Entities with type PER: 79
+Entities with type PER: 77
 Entities with type ORG: 2
 Entities with type LOC: 33
 Entities with type MISC: 190
 Entities with type WORK: None
 Broader mappings: 0
-Narrower mappings: 1
-Related mappings: 23
-Exact mappings: 269
-Close mappings: 4
+Narrower mappings: 0
+Related mappings: 3
+Exact mappings: 291
+Close mappings: 1
 Motifs: 107
