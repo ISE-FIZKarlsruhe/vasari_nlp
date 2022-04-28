@@ -180,7 +180,8 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 13;77;90;Sala del Papa;LOC;Q3657394;0;0;0;1;0
 13;108;124;S. Maria Novella;LOC;Q51175;0;0;0;1;0
 13;143;148;story;MISC;Q1318295;0;0;0;1;0
-13;152;178;Niccolo Piccinino, Captain;PER;Q979543;0;0;0;1;0
+13;152;169;Niccolo Piccinino;PER;Q979543;0;0;0;1;0
+13;171;178;Captain;PER;Q273108;0;0;0;1;0
 13;182;203;Duke Filippo of Milan;PER;Q289285;0;0;0;1;0
 13;227;232;group;MISC;Q16887380;0;0;0;1;0
 13;236;244;horsemen;MISC;Q47315;0;0;0;1;0
@@ -309,7 +310,9 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 22;34;38;city;MISC;Q515;0;0;0;1;0
 22;56;64;pictures;MISC;Q478798;0;0;0;1;0
 22;82;87;nudes;MISC;Q40446;0;0;0;1;0
-22;121;155;Castello, a villa of Duke Cosimo's;LOC;Q2094778;0;0;0;1;0
+22;121;129;Castello;LOC;Q2094778;0;0;0;1;0
+22;133;138;villa;LOC;Q3950;0;0;0;1;0
+22;142;153;Duke Cosimo;PER;Q48547;0;0;0;1;0
 22;178;192;birth of Venus;MISC;Q19760026;0;0;0;1;0
 22;205;210;Winds;MISC;Q476682;0;0;0;1;0
 22;215;222;Zephyrs;MISC;Q467515;0;0;0;1;0
