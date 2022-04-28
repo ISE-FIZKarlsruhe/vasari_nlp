@@ -89,7 +89,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 7;219;223;head;MISC;Q23640;0;0;0;1;0
 7;227;233;Christ;PER;Q302;0;0;0;1;0
 7;300;303;air;MISC;Q1154226;0;0;1;0;0
-7;330;345;image of Christ;MISC;Q51667;0;0;0;1;0
+7;330;345;image of Christ;MISC;Q16564599;0;0;0;1;0
 8;12;21;refectory;LOC;Q568225;0;0;0;1;0
 8;51;62;Last Supper;MISC;Q51633;0;0;0;1;0
 8;75;79;wall;MISC;Q42948;0;0;0;1;0
@@ -320,7 +320,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 22;331;338;flowers;MISC;Q506;0;0;0;1;0
 22;345;351;symbol;MISC;Q80071;0;0;0;1;0
 22;355;361;spring;MISC;Q1312;0;0;0;1;0
-23;26;45;house of the Medici;LOC;Q2094778;0;0;0;1;0
+23;26;45;house of the Medici;LOC;Q911047;0;0;0;1;0
 23;54;67;elder Lorenzo;PER;Q932292;0;0;0;1;0
 23;84;90;Pallas;PER;Q457294;0;0;0;1;0
 23;112;120;branches;MISC;Q2923673;0;0;0;1;0
