@@ -25,7 +25,6 @@ def get_statistics(path, lang):
     "close":0}
     sentences = 1
     id = 1
-    motifs = 0
     for item in data:
         if int(item["id"]) != id:
             sentences+=1
@@ -35,10 +34,10 @@ def get_statistics(path, lang):
             entity_dict[item["wb_id"]] += 1
         else:
             entity_dict[item["wb_id"]] = 1
-        if item["label"] in labels_dict.keys():
-            labels_dict[item["label"]] += 1
+        if item["type"] in labels_dict.keys():
+            labels_dict[item["type"]] += 1
         else:
-            labels_dict[item["label"]] = 1
+            labels_dict[item["type"]] = 1
         if int(item["broader"]) != 0:
             mappings_dict["broader"] += 1
         if int(item["narrower"]) != 0:
@@ -49,8 +48,6 @@ def get_statistics(path, lang):
             mappings_dict["exact"] += 1
         if int(item["close"]) != 0:
             mappings_dict["close"] += 1
-        if int(item["motif"]) != 0:
-            motifs += 1
             
     
     
@@ -82,7 +79,6 @@ def get_statistics(path, lang):
         f.write("Related mappings: "+ str(mappings_dict["related"])+"\n")
         f.write("Exact mappings: "+ str(mappings_dict["exact"])+"\n")
         f.write("Close mappings: "+ str(mappings_dict["close"])+"\n")
-        f.write("Motifs: "+ str(motifs)+"\n")
     f.close()
     
-get_statistics("../data/", "it")
+get_statistics("../data/", "en")

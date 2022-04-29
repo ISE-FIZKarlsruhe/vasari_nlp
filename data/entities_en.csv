@@ -124,7 +124,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 10;227;232;sight;MISC;Q162668;0;0;0;1;0
 10;246;250;room;MISC;Q180516;0;0;0;1;0
 10;283;291;festival;MISC;Q132241;0;0;0;1;0
-10;317;324;marvels;MISC;Q333173;0;0;1;0;0
+10;317;324;marvels;MISC;Q11325731;0;0;0;0;1
 10;328;336;Leonardo;PER;Q762;0;0;0;1;0
 10;361;367;people;PER;Q5;0;0;0;1;0
 10;406;413;Madonna;PER;Q345;0;0;0;1;0
@@ -155,7 +155,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 10;738;748;tenderness;MISC;Q19816620;0;0;0;1;0
 11;0;8;Leonardo;PER;Q762;0;0;0;1;0
 11;35;57;Francesco del Giocondo;PER;Q1395822;0;0;0;1;0
-11;75;85;Monna Lisa;PER;Q153032;0;0;0;1;0
+11;63;85;portrait of Monna Lisa;MISC;Q12418;0;0;0;1;0
 11;91;95;wife;PER;Q188830;0;0;0;1;0
 11;170;174;work;MISC;Q17537576;0;0;0;1;0
 11;203;225;King Francis of France;PER;Q129857;0;0;0;1;0
@@ -226,7 +226,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 16;275;294;S. John the Baptist;PER;Q40662;0;0;0;1;0
 16;296;308;S. Sebastian;PER;Q183332;0;0;0;1;0
 16;324;330;patron;MISC;Q15472169;0;0;0;1;0
-16;380;384;life;MISC;Q3;0;0;0;0;1
+16;380;384;life;MISC;Q3;0;0;0;1;0
 16;393;398;knees;MISC;Q37425;0;0;0;1;0
 16;418;422;work;MISC;Q17537576;0;0;0;1;0
 16;446;450;name;MISC;Q82799;0;0;0;1;0
@@ -268,7 +268,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 19;116;122;person;PER;Q5;0;0;0;1;0
 19;149;154;Cupid;MISC;Q5011;0;0;0;1;0
 19;158;164;marble;MISC;Q40861;0;0;0;1;0
-19;177;181;life;MISC;Q3;0;0;0;0;1
+19;177;181;life;MISC;Q3;0;0;0;1;0
 19;194;200;figure;MISC;Q29527347;0;0;0;1;0
 19;206;213;Bacchus;MISC;Q645312;0;0;0;1;0
 19;240;243;cup;MISC;Q81727;0;0;0;1;0
@@ -331,9 +331,8 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 23;142;146;fire;MISC;Q3196;0;0;0;1;0
 23;197;209;S. Sebastian;PER;Q183332;0;0;0;1;0
 23;171;175;size;MISC;Q322481;0;0;0;1;0
-23;179;183;life;MISC;Q3;0;0;0;0;1
-24;3;20;S. Maria Maggiore;LOC;Q849356;0;0;0;1;0
-24;24;32;Florence;LOC;Q2044;0;0;0;1;0
+23;179;183;life;MISC;Q3;0;0;0;1;0
+24;3;32;S. Maria Maggiore in Florence;LOC;Q849356;0;0;0;1;0
 24;45;70;Chapel of the Panciatichi;LOC;OOV;0;0;0;0;0
 24;98;103;Pietà;MISC;Q223689;0;0;0;1;0
 24;116;123;figures;MISC;Q29527347;0;0;0;1;0
