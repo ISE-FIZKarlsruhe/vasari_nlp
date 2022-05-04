@@ -54,8 +54,6 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 5;24;30;tavola;MISC;Q55439;0;0;0;1;0
 5;114;119;veste;MISC;Q11460;0;0;0;1;0
 5;126;135;guanciale;MISC;Q99895;0;0;0;1;0
-5;139;146;Filippo;PER;Q141900;0;0;0;1;0
-5;151;156;frate;PER;Q548320;0;0;0;1;0
 5;216;221;terra;MISC;Q21152267;0;0;0;1;0
 5;228;232;dado;MISC;Q12014132;0;0;0;1;0
 5;242;247;libro;MISC;Q571;0;0;0;1;0
@@ -67,12 +65,14 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 5;36;56;cappella de' Tedaldi;LOC;OOV;0;0;0;0;0
 5;63;89;chiesa de' frati de' Servi;LOC;Q2287001;0;0;0;1;0
 5;179;196;Nostra Donnaritta;PER;Q345;0;0;0;1;0
+5;139;146;Filippo;PER;Q141900;0;0;0;1;0
+5;151;156;frate;MISC;Q548320;0;0;0;1;0
 6;11;19;Fiorenza;LOC;Q2044;0;0;0;1;0
 6;26;32;quadri;MISC;Q3305213;0;0;0;1;0
 6;39;48;cittadini;MISC;Q2472587;0;0;0;1;0
 6;68;72;case;MISC;Q3947;0;0;0;1;0
 6;122;126;cose;MISC;Q35120;0;0;0;1;0
-6;141;148;persone;PER;Q2472587;0;0;0;1;0
+6;141;148;persone;MISC;Q2472587;0;0;0;1;0
 6;158;193;chiesa di Santo Spirito di Fiorenza;LOC;Q1519975;0;0;0;1;0
 6;206;230;cappella di Gino Capponi;LOC;Q3657333;0;0;0;1;0
 6;235;241;tavola;MISC;Q55439;0;0;0;1;0
@@ -140,7 +140,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 10;165;173;Lionardo;PER;Q762;0;0;0;1;0
 10;185;191;angelo;MISC;Q235113;0;0;0;1;0
 10;211;216;vesti;MISC;Q11460;0;0;0;1;0
-10;233;243;giovanetto;PER;Q3010;0;0;0;1;0
+10;233;243;giovanetto;MISC;Q3010;0;0;0;1;0
 10;264;271;maniera;MISC;Q367293;0;0;0;1;0
 10;305;312;And rea;PER;Q183458;0;0;0;1;0
 10;321;327;angelo;MISC;Q235113;0;0;0;1;0
@@ -192,19 +192,17 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 15;66;76;Santa Anna;PER;Q164294;0;0;0;1;0
 15;11;16;mezzo;MISC;Q23595;0;0;0;1;0
 15;85;91;Cristo;PER;Q302;0;0;0;1;0
-15;139;147;artefici;PER;Q1294787;0;0;0;1;0
+15;139;147;artefici;MISC;Q1294787;0;0;0;1;0
 15;177;183;stanza;LOC;Q180516;0;0;0;1;0
 15;229;235;uomini;PER;Q8441;0;0;0;1;0
 15;241;246;donne;PER;Q467;0;0;0;1;0
 15;286;291;feste;MISC;Q200538;0;0;0;1;0
 15;315;325;maraviglie;MISC;Q333173;0;0;1;0;0
 15;329;337;Lionardo;PER;Q762;0;0;0;1;0
-15;369;375;popolo;PER;Q2472587;0;0;0;1;0
+15;369;375;popolo;MISC;Q2472587;0;0;0;1;0
 15;198;204;giorni;MISC;Q573;0;0;0;1;0
 16;6;14;Lionardo;PER;Q762;0;0;0;1;0
 16;25;47;Francesco del Giocondo;PER;Q1395822;0;0;0;1;0
-16;51;59;ritratto;MISC;Q134307;0;0;0;1;0
-16;63;72;Mona Lisa;PER;Q153032;0;0;0;1;0
 16;77;83;moglie;PER;Q188830;0;0;0;1;0
 16;165;188;Re Francesco di Francia;PER;Q129857;0;0;0;1;0
 16;192;203;Fontanableo;LOC;Q201428;0;0;0;1;0
@@ -215,6 +213,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 16;140;145;opera;MISC;Q838948;0;0;0;1;0
 16;95;99;anni;MISC;Q577;0;0;0;1;0
 16;382;394;sottigliezza;MISC;Q49396791;0;0;0;1;0
+16;51;72;ritratto di Mona Lisa;MISC;Q12418;0;0;0;1;0
 17;30;38;Lionardo;PER;Q762;0;0;0;1;0
 17;52;59;cartone;MISC;Q1416517;0;0;0;1;0
 17;65;78;sala del papa;LOC;Q3657394;0;0;0;1;0
@@ -245,7 +244,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 19;126;148;Santa Maria della Pace;LOC;Q3673878;0;0;0;1;0
 19;157;181;Transito di Nostra Donna;MISC;Q1245512;0;0;0;1;0
 19;187;207;Nozze di Canagalilee;MISC;Q32066758;0;0;0;1;0
-19;60;67;persona;PER;Q5;0;0;0;1;0
+19;60;67;persona;MISC;Q5;0;0;0;1;0
 20;11;19;facciata;MISC;Q183061;0;0;0;1;0
 20;38;44;storie;MISC;Q1318295;0;0;0;1;0
 20;92;99;tiranno;PER;Q180095;0;0;0;1;0
@@ -255,10 +254,11 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 20;164;169;croce;MISC;Q40843;0;0;0;1;0
 20;175;180;Marie;PER;Q3254109;0;0;0;1;0
 20;209;222;Vergine Maria;PER;Q345;0;0;0;1;0
-20;48;70;Santa Caterina martire;PER;Q179718;0;0;0;1;0
+20;48;62;Santa Caterina;PER;Q179718;0;0;0;1;0
+20;63;70;martire;MISC;Q6498826;0;0;0;1;0
 21;12;21;Raffaello;PER;Q5597;0;0;0;1;0
 21;47;59;Lorenzo Nasi;PER;Q21618043;0;0;0;1;0
-21;83;88;donna;PER;Q467;0;0;0;1;0
+21;83;88;donna;MISC;Q467;0;0;0;1;0
 21;115;123;Rafaello;PER;Q5597;0;0;0;1;0
 21;139;145;quadro;MISC;Q3305213;0;0;0;1;0
 21;152;164;Nostra Donna;PER;Q345;0;0;0;1;0
@@ -278,8 +278,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 22;135;142;signore;MISC;Q12826225;0;0;0;1;0
 22;150;155;animo;MISC;Q9165;0;0;0;1;0
 22;173;181;capitani;MISC;Q273108;0;0;0;1;0
-22;195;201;Senato;ORG;Q2570643;0;0;0;1;0
-22;228;244;statua a cavallo;MISC;Q659396;0;0;0;1;0
+22;195;201;Senato;LOC;Q2570643;0;0;0;1;0
 22;248;254;bronzo;MISC;Q34095;0;0;0;1;0
 22;283;314;piazza di Santo Giovanni e Polo;MISC;Q3654630;0;0;0;1;0
 22;361;367;Italia;LOC;Q38;0;0;0;1;0
@@ -290,6 +289,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 22;503;508;terra;MISC;Q21152267;0;0;0;1;0
 22;330;334;nome;MISC;Q82799;0;0;0;1;0
 22;337;343;Andrea;PER;Q183458;0;0;0;1;0
+22;228;244;statua a cavallo;MISC;Q659396;0;0;0;1;0
 23;7;12;città;MISC;Q515;0;0;0;1;0
 23;24;28;case;MISC;Q3947;0;0;0;1;0
 23;54;61;femmine;MISC;Q467;0;0;0;1;0
@@ -305,6 +305,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 23;335;344;Primavera;MISC;Q1312;0;0;0;1;0
 23;47;51;mano;MISC;Q33767;0;0;0;1;0
 23;366;372;grazia;MISC;Q17148382;0;0;0;1;0
+23;34;39;tondi;MISC;Q848330;0;0;0;1;0
 23;102;110;Castello;LOC;Q2094778;0;0;0;1;0
-23;112;117;luogo;LOC;Q3950;0;0;1;0;0
+23;112;117;luogo;MISC;Q3950;0;0;1;0;0
 23;122;133;Duca Cosimo;PER;Q48547;0;0;0;1;0
