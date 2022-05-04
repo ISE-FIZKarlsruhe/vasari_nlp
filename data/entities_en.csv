@@ -216,7 +216,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 14;299;307;mixtures;MISC;Q169336;0;0;0;1;0
 14;311;318;grounds;MISC;Q21152267;0;0;0;1;0
 14;323;330;colours;MISC;Q1075;0;0;0;1;0
-14;26;51;Messer Baldassarre Turini;PER;Q103971045;0;0;0;1;0
+14;33;51;Baldassarre Turini;PER;Q103971045;0;0;0;1;0
 15;16;25;disciples;MISC;Q385586;0;0;0;1;0
 15;31;44;Marco Oggioni;PER;Q982274;0;0;0;1;0
 15;62;81;S. Maria della Pace;LOC;Q3673878;0;0;0;1;0
@@ -278,7 +278,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 19;4;10;talent;MISC;Q1200995;0;0;0;1;0
 19;14;26;Michelagnolo;PER;Q5592;0;0;0;1;0
 19;66;75;gentleman;MISC;Q8441;0;0;0;1;0
-19;82;101;Messer Jacopo Galli;PER;Q21866988;0;0;0;1;0
+19;89;101;Jacopo Galli;PER;Q21866988;0;0;0;1;0
 19;116;122;person;PER;Q5;0;0;0;1;0
 19;149;154;Cupid;MISC;Q5011;0;0;0;1;0
 19;158;164;marble;MISC;Q40861;0;0;0;1;0
