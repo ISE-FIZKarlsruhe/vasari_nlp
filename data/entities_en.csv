@@ -89,7 +89,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 7;194;200;beauty;MISC;Q7242;0;0;0;1;0
 7;219;223;head;MISC;Q23640;0;0;0;1;0
 7;227;233;Christ;PER;Q302;0;0;0;1;0
-7;300;303;air;MISC;Q1154226;0;0;1;0;0
+7;300;303;air;MISC;Q3620816;0;0;1;0;0
 7;330;335;image;MISC;Q478798;0;0;0;1;0
 7;339;345;Christ;PER;Q302;0;0;0;1;0
 8;12;21;refectory;LOC;Q568225;0;0;0;1;0
@@ -371,7 +371,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 26;237;241;door;MISC;Q36794;0;0;0;1;0
 26;249;255;centre;MISC;Q23595;0;0;0;1;0
 26;273;294;Adoration of the Magi;MISC;Q488841;0;0;0;1;0
-26;339;346;old man;MISC;Q191089;0;0;1;0;0
+26;339;346;old man;MISC;Q191089;0;0;0;0;1
 26;310;317;feeling;MISC;Q205555;0;0;0;1;0
 26;365;369;foot;MISC;Q15807;0;0;0;1;0
 26;373;381;Our Lord;PER;Q302;0;0;0;1;0

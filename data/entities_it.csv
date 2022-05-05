@@ -41,7 +41,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 4;193;199;chiesa;LOC;Q16970;0;0;0;1;0
 4;222;227;porta;MISC;Q36794;0;0;0;1;0
 4;268;287;Adorazione de' Magi;MISC;Q488841;0;0;0;1;0
-4;326;333;vecchio;MISC;Q191089;0;0;1;0;0
+4;326;333;vecchio;MISC;Q191089;0;0;0;0;1
 4;351;356;piede;MISC;Q15807;0;0;0;1;0
 4;232;237;mezzo;MISC;Q23595;0;0;0;1;0
 4;308;315;affetto;MISC;Q159904;0;0;0;1;0
