@@ -307,5 +307,5 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 23;366;372;grazia;MISC;Q17148382;0;0;0;1;0
 23;34;39;tondi;MISC;Q848330;0;0;0;1;0
 23;102;110;Castello;LOC;Q2094778;0;0;0;1;0
-23;112;117;luogo;MISC;Q17334923;0;0;1;0;0
+23;112;117;luogo;MISC;Q17334923;0;0;0;1;0
 23;122;133;Duca Cosimo;PER;Q48547;0;0;0;1;0
