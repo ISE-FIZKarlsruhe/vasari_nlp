@@ -104,7 +104,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 8;11;26;Giovan Vespucci;PER;Q17064119;0;0;0;1;0
 8;51;61;S. Michele;LOC;OOV;0;0;0;0;0
 8;68;81;via de’ Servi;LOC;Q3556508;0;0;0;1;0
-8;91;104;Pier Salviati;PER;OOV;0;0;0;1;0
+8;91;104;Pier Salviati;PER;OOV;0;0;0;0;0
 8;154;160;camera;MISC;Q1906705;0;0;0;1;0
 8;189;194;fauni;MISC;Q223194;0;0;0;1;0
 8;196;202;satiri;MISC;Q163709;0;0;0;1;0
