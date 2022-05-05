@@ -55,7 +55,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 5;114;119;veste;MISC;Q11460;0;0;0;1;0
 5;126;135;guanciale;MISC;Q99895;0;0;0;1;0
 5;216;221;terra;MISC;Q21152267;0;0;0;1;0
-5;228;232;dado;MISC;Q12014132;0;0;0;1;0
+5;228;232;dado;MISC;Q284053;0;0;0;1;0
 5;242;247;libro;MISC;Q571;0;0;0;1;0
 5;251;255;mano;MISC;Q33767;0;0;0;1;0
 5;266;275;Figliuolo;PER;Q942467;0;0;0;1;0
@@ -72,7 +72,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 6;39;48;cittadini;MISC;Q2472587;0;0;0;1;0
 6;68;72;case;MISC;Q3947;0;0;0;1;0
 6;122;126;cose;MISC;Q35120;0;0;0;1;0
-6;141;148;persone;MISC;Q2472587;0;0;0;1;0
+6;141;148;persone;MISC;Q215627;0;0;0;1;0
 6;158;193;chiesa di Santo Spirito di Fiorenza;LOC;Q1519975;0;0;0;1;0
 6;206;230;cappella di Gino Capponi;LOC;Q3657333;0;0;0;1;0
 6;235;241;tavola;MISC;Q55439;0;0;0;1;0
@@ -244,7 +244,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 19;126;148;Santa Maria della Pace;LOC;Q3673878;0;0;0;1;0
 19;157;181;Transito di Nostra Donna;MISC;Q1245512;0;0;0;1;0
 19;187;207;Nozze di Canagalilee;MISC;Q32066758;0;0;0;1;0
-19;60;67;persona;MISC;Q5;0;0;0;1;0
+19;60;67;persona;MISC;Q215627;0;0;0;1;0
 20;11;19;facciata;MISC;Q183061;0;0;0;1;0
 20;38;44;storie;MISC;Q1318295;0;0;0;1;0
 20;92;99;tiranno;PER;Q180095;0;0;0;1;0
@@ -268,7 +268,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 21;250;262;San Giovanni;PER;Q40662;0;0;0;1;0
 21;296;303;uccello;MISC;Q5113;0;0;0;1;0
 21;313;318;festa;MISC;Q200538;0;0;0;1;0
-21;321;327;giuoco;MISC;Q11410;0;0;0;1;0
+21;321;327;giuoco;MISC;Q1150958;0;0;0;1;0
 21;97;103;giorni;MISC;Q573;0;0;0;1;0
 22;15;34;Signoria di Vinezia;ORG;Q4948;0;0;0;1;0
 22;54;62;vittorie;MISC;Q50000;0;0;0;1;0
