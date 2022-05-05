@@ -22,6 +22,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 4,468,475,viaggio,MISC,Q61509,0,0,0,1,0
 5,24,30,tavola,MISC,Q55439,0,0,0,1,0
 5,114,119,veste,MISC,Q11460,0,0,0,1,0
+5,228,232,dado,MISC,Q284053,0,0,0,1,0
 5,242,247,libro,MISC,Q571,0,0,0,1,0
 5,251,255,mano,MISC,Q33767,0,0,0,1,0
 5,289,294,testa,MISC,Q23640,0,0,0,1,0
@@ -29,6 +30,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 5,325,338,Spirito Santo,MISC,Q37302,0,0,0,1,0
 5,151,156,frate,MISC,Q548320,0,0,0,1,0
 6,68,72,case,MISC,Q3947,0,0,0,1,0
+6,141,148,persone,MISC,Q215627,0,0,0,1,0
 6,158,193,chiesa di Santo Spirito di Fiorenza,LOC,Q1519975,0,0,0,1,0
 6,206,230,cappella di Gino Capponi,LOC,Q3657333,0,0,0,1,0
 6,235,241,tavola,MISC,Q55439,0,0,0,1,0
@@ -111,6 +113,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 19,16,24,Lionardo,PER,Q762,0,0,0,1,0
 19,25,49,Giovanantonio Boltraffio,PER,Q442528,0,0,0,1,0
 19,126,148,Santa Maria della Pace,LOC,Q3673878,0,0,0,1,0
+19,60,67,persona,MISC,Q215627,0,0,0,1,0
 20,11,19,facciata,MISC,Q183061,0,0,0,1,0
 20,92,99,tiranno,PER,Q180095,0,0,0,1,0
 20,106,112,tempio,LOC,Q44539,0,0,0,1,0
@@ -124,6 +127,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 21,115,123,Rafaello,PER,Q5597,0,0,0,1,0
 21,152,164,Nostra Donna,PER,Q345,0,0,0,1,0
 21,296,303,uccello,MISC,Q5113,0,0,0,1,0
+21,321,327,giuoco,MISC,Q1150958,0,0,0,1,0
 21,97,103,giorni,MISC,Q573,0,0,0,1,0
 22,70,75,virtù,MISC,Q157811,0,0,0,1,0
 22,121,126,virtù,MISC,Q157811,0,0,0,1,0

@@ -79,10 +79,12 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 10,246,250,room,MISC,Q180516,0,0,0,1,0
 10,283,291,festival,MISC,Q132241,0,0,0,1,0
 10,328,336,Leonardo,PER,Q762,0,0,0,1,0
+10,361,367,people,MISC,Q2472587,0,0,0,1,0
 10,393,397,face,MISC,Q37017,0,0,0,1,0
 10,471,481,simplicity,MISC,Q508291,0,0,0,1,0
 10,486,492,beauty,MISC,Q7242,0,0,0,1,0
 10,526,542,Mother of Christ,PER,Q345,0,0,0,1,0
+10,573,580,modesty,MISC,Q11199149,0,0,0,1,0
 10,590,598,humility,MISC,Q1186677,0,0,0,1,0
 10,626,631,image,MISC,Q478798,0,0,0,1,0
 10,639,645,Virgin,PER,Q345,0,0,0,1,0
@@ -92,6 +94,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 10,837,840,boy,MISC,Q3010,0,0,0,1,0
 10,885,890,smile,MISC,Q487,0,0,0,1,0
 10,896,903,S. Anne,PER,Q164294,0,0,0,1,0
+10,958,965,progeny,MISC,Q239526,0,0,0,1,0
 10,1007,1012,brain,MISC,Q1073,0,0,0,1,0
 10,1017,1023,genius,MISC,Q185030,0,0,0,1,0
 10,1027,1035,Leonardo,PER,Q762,0,0,0,1,0
@@ -128,6 +131,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 16,14,22,Leonardo,PER,Q762,0,0,0,1,0
 16,27,52,Giovan Antonio Boltraffio,PER,Q442528,0,0,0,1,0
 16,56,61,Milan,LOC,Q490,0,0,0,1,0
+16,65,71,person,PER,Q215627,0,0,0,1,0
 16,81,86,skill,MISC,Q205961,0,0,0,1,0
 16,91,104,understanding,MISC,Q46744,0,0,0,1,0
 16,118,127,year 1500,MISC,Q6126,0,0,0,1,0
@@ -156,6 +160,8 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 18,280,284,monk,MISC,Q733786,0,0,0,1,0
 18,316,320,boys,MISC,Q3010,0,0,0,1,0
 19,14,26,Michelagnolo,PER,Q5592,0,0,0,1,0
+19,66,75,gentleman,MISC,Q749212,0,0,0,1,0
+19,116,122,person,PER,Q215627,0,0,0,1,0
 19,149,154,Cupid,MISC,Q5011,0,0,0,1,0
 19,158,164,marble,MISC,Q40861,0,0,0,1,0
 19,177,181,life,MISC,Q3,0,0,0,1,0
@@ -169,6 +175,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 20,153,173,Piero del Pollaiuolo,PER,Q707046,0,0,0,1,0
 21,23,33,Ognissanti,LOC,Q2778991,0,0,0,1,0
 21,42,46,door,MISC,Q36794,0,0,0,1,0
+21,67,72,choir,MISC,Q207707,0,0,0,1,0
 21,104,116,S. Augustine,PER,Q8018,0,0,0,1,0
 21,158,163,pains,MISC,Q81938,0,0,0,1,0
 21,208,212,time,MISC,Q11471,0,0,0,1,0
@@ -210,6 +217,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 26,223,229,church,MISC,Q16970,0,0,0,1,0
 26,237,241,door,MISC,Q36794,0,0,0,1,0
 26,273,294,Adoration of the Magi,MISC,Q488841,0,0,0,1,0
+26,339,346,old man,MISC,Q191089,0,0,0,0,1
 26,310,317,feeling,MISC,Q205555,0,0,0,1,0
 26,365,369,foot,MISC,Q15807,0,0,0,1,0
 26,373,381,Our Lord,PER,Q302,0,0,0,1,0
@@ -220,11 +228,13 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 27,111,133,Visitation of Our Lady,MISC,Q691810,0,0,0,1,0
 27,140,151,S. Nicholas,PER,Q44269,0,0,0,1,0
 27,200,210,spectacles,MISC,Q37501,0,0,0,1,0
+27,218,222,nose,MISC,Q2673594,0,0,0,1,0
 28,21,24,art,MISC,Q735,0,0,0,1,0
 28,81,86,panel,MISC,Q55439,0,0,0,1,0
 28,64,74,commission,MISC,Q760089,0,0,0,1,0
 28,174,181,garment,MISC,Q11460,0,0,0,1,0
 28,190,196,pillow,MISC,Q99895,0,0,0,1,0
+28,214,221,brother,MISC,Q16824629,0,0,0,1,0
 28,258,266,Our Lady,PER,Q345,0,0,0,1,0
 28,305,313,pedestal,MISC,Q12014132,0,0,0,1,0
 28,333,337,head,MISC,Q23640,0,0,0,1,0
@@ -273,6 +283,7 @@ id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
 33,181,185,hand,MISC,Q33767,0,0,0,1,0
 33,237,241,head,MISC,Q23640,0,0,0,1,0
 33,245,254,Cleopatra,PER,Q635,0,0,0,1,0
+33,264,267,asp,MISC,Q3226601,0,0,0,1,0
 33,284,288,neck,MISC,Q9633,0,0,0,1,0
 33,298,307,portraits,MISC,Q134307,0,0,0,1,0
 33,327,335,Giuliano,PER,Q312365,0,0,0,1,0
