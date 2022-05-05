@@ -111,7 +111,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 8;205;212;silvani;MISC;Q548445;0;0;0;1;0
 8;216;221;putti;MISC;Q284865;0;0;0;1;0
 8;224;232;baccanti;MISC;Q2878203;0;0;0;1;0
-8;244;254;maraviglia;MISC;Q333173;0;0;1;0;0
+8;244;254;maraviglia;MISC;Q977433;0;0;0;1;0
 8;267;276;diversità;MISC;Q36793538;0;0;0;1;0
 8;281;286;zaini;MISC;Q1380786;0;0;0;1;0
 8;295;300;vesti;MISC;Q11460;0;0;0;1;0
@@ -197,7 +197,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 15;229;235;uomini;PER;Q8441;0;0;0;1;0
 15;241;246;donne;PER;Q467;0;0;0;1;0
 15;286;291;feste;MISC;Q200538;0;0;0;1;0
-15;315;325;maraviglie;MISC;Q333173;0;0;1;0;0
+15;315;325;maraviglie;MISC;Q977433;0;0;0;1;0
 15;329;337;Lionardo;PER;Q762;0;0;0;1;0
 15;369;375;popolo;MISC;Q2472587;0;0;0;1;0
 15;198;204;giorni;MISC;Q573;0;0;0;1;0

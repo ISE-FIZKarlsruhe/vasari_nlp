@@ -129,7 +129,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 10;227;232;sight;MISC;Q162668;0;0;0;1;0
 10;246;250;room;MISC;Q180516;0;0;0;1;0
 10;283;291;festival;MISC;Q132241;0;0;0;1;0
-10;317;324;marvels;MISC;Q11325731;0;0;0;0;1
+10;317;324;marvels;MISC;Q977433;0;0;0;1;0
 10;328;336;Leonardo;PER;Q762;0;0;0;1;0
 10;361;367;people;MISC;Q2472587;0;0;0;1;0
 10;393;397;face;MISC;Q37017;0;0;0;1;0
@@ -460,7 +460,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 32;248;259;little boys;MISC;Q284865;0;0;0;1;0
 32;255;259;boys;MISC;Q3010;0;0;0;1;0
 32;265;275;bacchanals;MISC;Q331341;0;0;0;1;0
-32;290;296;marvel;MISC;Q333173;0;0;1;0;0
+32;290;296;marvel;MISC;Q977433;0;0;0;1;0
 32;308;317;diversity;MISC;Q36793538;0;0;0;1;0
 32;325;335;bay horses;MISC;Q900906;0;0;0;1;0
 32;340;348;garments;MISC;Q11460;0;0;0;1;0
