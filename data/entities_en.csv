@@ -155,7 +155,7 @@ id;start_pos;end_pos;surface;type;wb_id;broader;narrower;related;exact;close
 10;885;890;smile;MISC;Q487;0;0;0;1;0
 10;896;903;S. Anne;PER;Q164294;0;0;0;1;0
 10;927;930;joy;MISC;Q8;0;0;0;1;0
-10;958;965;progeny;MISC;Q239526;0;0;0;0;1
+10;958;965;progeny;MISC;Q239526;0;0;0;1;0
 10;981;986;ideas;MISC;Q131841;0;0;0;1;0
 10;1007;1012;brain;MISC;Q1073;0;0;0;1;0
 10;1017;1023;genius;MISC;Q185030;0;0;0;1;0
