@@ -81,4 +81,4 @@ def get_statistics(path, lang):
         f.write("Close mappings: "+ str(mappings_dict["close"])+"\n")
     f.close()
     
-get_statistics("../data/", "en")
+get_statistics("../data/", "it")
