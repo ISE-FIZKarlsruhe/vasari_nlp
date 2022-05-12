@@ -80,13 +80,17 @@ def get_surface(ids, langs):
                                     "prop": "wikitext",
                                     "format": "json"
                                     }).json()
-                    wikitext = r_wikitext["parse"]["wikitext"]["*"]
-                    capt_groups = re.findall("\[\[("+"|".join(links)+")\|(.*?)\]\]", wikitext)
-                    for group in capt_groups:
-                        a_t = group[-1]
-                        if a_t not in stop_words_eng and a_t not in stop_words_it and len(a_t) > 1: 
-                            a_t = re.sub(r'<.*?>', "", a_t)
-                            anchor_texts.add(a_t)
+                    try:
+                        wikitext = r_wikitext["parse"]["wikitext"]["*"]
+                        capt_groups = re.findall("\[\[("+"|".join(links)+")\|(.*?)\]\]", wikitext)
+                        for group in capt_groups:
+                            a_t = group[-1]
+                            if a_t not in stop_words_eng and a_t not in stop_words_it and len(a_t) > 1: 
+                                a_t = re.sub(r'<.*?>', "", a_t)
+                                anchor_texts.add(a_t)
+                    except KeyError:
+                        print(r_wikitext)
+                        continue
                 
             if title != None:
                 output.append(
