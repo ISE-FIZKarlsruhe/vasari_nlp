@@ -1,0 +1,494 @@
+id;start_pos;end_pos;surface;wb_id;type;matched;match_type;kb-surface
+1;46;53;boyhood;Q276258;MISC;True;plain;
+1;62;70;instance;OOV;MISC;False;;
+1;74;83;Ser Piero;Q371916;PER;True;plain;
+1;94;97;art;Q735;MISC;True;plain;
+1;103;124;Andrea del Verrocchio;Q183458;PER;True;plain;
+1;143;156;panel-picture;Q55439;MISC;False;;
+1;160;167;S. John;Q40662;PER;True;normalized;St. John
+1;178;184;Christ;Q302;PER;True;plain;
+1;191;199;Leonardo;Q762;PER;True;plain;
+1;211;216;angel;Q235113;MISC;True;plain;
+1;238;246;garments;Q11460;MISC;True;plain;
+1;274;277;lad;Q3010;MISC;True;plain;
+1;279;287;Leonardo;Q762;PER;True;plain;
+1;310;316;manner;Q367293;MISC;True;plain;
+1;326;331;angel;Q235113;MISC;True;plain;
+1;357;364;figures;Q29527347;MISC;True;normalized;figure
+1;368;374;Andrea;Q183458;PER;False;;
+1;390;396;reason;Q1710397;MISC;True;plain;
+1;402;408;Andrea;Q183458;PER;False;;
+1;433;439;colour;Q1075;MISC;True;plain;
+1;459;464;child;Q7569;MISC;True;plain;
+2;30;37;cartoon;Q1416517;MISC;True;plain;
+2;44;56;door-hanging;Q5297203;MISC;False;;
+2;84;92;Flanders;Q234;LOC;True;plain;
+2;103;107;gold;Q897;MISC;True;plain;
+2;112;116;silk;Q37681;MISC;True;plain;
+2;136;152;King of Portugal;Q51711012;PER;True;plain;
+2;157;169;Adam and Eve;Q58701;PER;True;plain;
+2;185;201;Earthly Paradise;Q19014;LOC;True;plain;
+2;211;219;Leonardo;Q762;PER;True;plain;
+2;234;239;brush;Q614467;MISC;True;plain;
+2;243;254;chiaroscuro;Q219540;MISC;True;plain;
+2;265;271;lights;Q9128;MISC;True;plain;
+2;275;285;lead-white;Q656004;MISC;True;normalized;Lead white
+2;289;295;meadow;Q7777019;MISC;True;plain;
+2;308;313;kinds;Q21146257;MISC;True;normalized;kind
+2;317;324;herbage;OOV;MISC;False;;
+2;336;343;animals;Q729;MISC;True;plain;
+2;389;398;diligence;Q1427962;MISC;True;plain;
+2;403;408;truth;Q7949;MISC;True;plain;
+2;412;418;nature;Q7860;MISC;True;plain;
+2;426;429;wit;Q353284;MISC;False;;
+2;358;363;truth;Q7949;MISC;True;plain;
+3;0;8;Leonardo;Q762;PER;True;plain;
+3;21;28;picture;Q478798;MISC;True;plain;
+3;32;40;Our Lady;Q345;PER;True;plain;
+3;59;63;work;Q17537576;MISC;True;plain;
+3;82;92;possession;Q1400881;MISC;True;plain;
+3;96;112;Pope Clement VII;Q83159;PER;True;plain;
+3;180;184;vase;Q191851;MISC;True;plain;
+3;131;137;things;Q35120;MISC;True;plain;
+3;193;198;water;Q283;MISC;True;plain;
+3;216;223;flowers;Q506;MISC;True;plain;
+3;258;269;naturalness;Q37852924;MISC;True;plain;
+3;291;300;dew-drops;Q41097;MISC;True;normalized;dew-drop
+3;308;315;flowers;Q506;MISC;True;plain;
+3;354;361;reality;Q9510;MISC;True;plain;
+4;21;33;works of art;Q17537576;MISC;True;normalized;work of art
+4;41;62;Palace of Duke Cosimo;Q911047;LOC;False;;
+4;82;86;head;Q23640;MISC;True;plain;
+4;93;98;angel;Q235113;MISC;True;plain;
+4;119;122;arm;Q43471;MISC;True;plain;
+4;130;133;air;Q7391292;MISC;True;plain;
+4;184;192;shoulder;Q16363;MISC;True;plain;
+4;200;205;elbow;Q42586;MISC;True;plain;
+4;240;244;hand;Q33767;MISC;True;plain;
+4;252;258;breast;Q9103;MISC;True;plain;
+5;4;17;Antonio Segni;OOV;PER;False;;
+5;41;47;friend;Q17297777;MISC;True;plain;
+5;63;77;sheet of paper;Q196878;MISC;True;plain;
+5;81;88;Neptune;Q3954;MISC;True;plain;
+5;116;131;draughtsmanship;OOV;MISC;False;;
+6;11;24;panel-picture;Q55439;MISC;False;;
+6;32;53;Adoration of the Magi;Q488841;MISC;True;plain;
+6;81;87;things;Q35120;MISC;True;plain;
+6;106;111;heads;Q23640;MISC;True;plain;
+6;130;135;house;Q3947;MISC;True;plain;
+6;139;152;Amerigo Benci;Q89125988;PER;True;plain;
+6;167;185;Loggia de' Peruzzi;Q20008396;LOC;True;normalized;Loggia dei Peruzzi
+6;239;244;works;Q17537576;MISC;True;plain;
+7;19;24;Milan;Q490;LOC;True;plain;
+7;34;54;Friars of S. Dominic;Q131479;ORG;False;;
+7;59;80;S. Maria delle Grazie;Q244952;LOC;True;normalized;Santa Maria delle Grazie
+7;84;95;Last Supper;Q51633;MISC;True;plain;
+7;129;134;thing;Q35120;MISC;True;plain;
+7;147;152;heads;Q23640;MISC;True;plain;
+7;160;168;Apostles;Q4155679;PER;True;plain;
+7;182;189;majesty;OOV;MISC;False;;
+7;194;200;beauty;Q7242;MISC;True;plain;
+7;219;223;head;Q23640;MISC;True;plain;
+7;227;233;Christ;Q302;PER;True;plain;
+7;300;303;air;Q3620816;MISC;False;;
+7;330;335;image;Q478798;MISC;True;plain;
+7;339;345;Christ;Q302;PER;True;plain;
+8;12;21;refectory;Q568225;LOC;True;plain;
+8;51;62;Last Supper;Q51633;MISC;True;plain;
+8;75;79;wall;Q42948;MISC;True;plain;
+8;91;98;Passion;Q623306;MISC;True;plain;
+8;110;116;manner;Q12894677;MISC;True;plain;
+8;118;126;Leonardo;Q762;PER;True;plain;
+8;146;154;Lodovico;Q236853;PER;True;plain;
+8;161;173;Massimiliano;Q378739;PER;True;plain;
+8;186;189;son;Q177232;MISC;True;plain;
+8;209;213;side;Q30444261;MISC;True;plain;
+8;227;235;Beatrice;Q813280;PER;True;plain;
+8;242;251;Francesco;Q378868;PER;True;plain;
+8;265;268;son;Q177232;MISC;True;plain;
+8;301;315;Dukes of Milan;Q692686;PER;True;plain;
+9;21;26;works;Q17537576;MISC;True;plain;
+9;30;38;Leonardo;Q762;PER;True;plain;
+9;54;59;Milan;Q490;LOC;True;plain;
+9;68;72;time;Q11471;MISC;True;plain;
+9;78;92;King of France;Q18384454;PER;True;plain;
+9;104;112;Leonardo;Q762;PER;True;plain;
+9;148;153;thing;Q35120;MISC;True;plain;
+9;162;166;lion;Q104536223;MISC;False;;
+9;162;166;lion;Q140;MISC;True;plain;
+9;214;220;breast;Q9103;MISC;True;plain;
+9;244;250;lilies;Q5194627;MISC;True;plain;
+9;188;193;steps;Q16511984;MISC;True;normalized;step
+10;7;10;end;Q12769393;MISC;True;plain;
+10;22;29;cartoon;Q1416517;MISC;True;plain;
+10;43;50;Madonna;Q345;PER;True;plain;
+10;57;64;S. Anne;Q164294;PER;True;normalized;Saint Anne
+10;73;79;Christ;Q302;PER;True;plain;
+10;111;120;craftsmen;Q1294787;MISC;True;plain;
+10;159;162;men;Q8441;MISC;True;plain;
+10;167;172;women;Q467;MISC;True;plain;
+10;207;211;days;Q573;MISC;True;plain;
+10;227;232;sight;Q162668;MISC;True;plain;
+10;246;250;room;Q180516;MISC;True;plain;
+10;283;291;festival;Q132241;MISC;True;plain;
+10;317;324;marvels;Q977433;MISC;False;;
+10;328;336;Leonardo;Q762;PER;True;plain;
+10;361;367;people;Q2472587;MISC;True;plain;
+10;393;397;face;Q37017;MISC;True;plain;
+10;406;413;Madonna;Q345;PER;True;plain;
+10;471;481;simplicity;Q508291;MISC;True;plain;
+10;486;492;beauty;Q7242;MISC;True;plain;
+10;500;505;grace;Q205194;MISC;True;plain;
+10;511;518;picture;Q478798;MISC;True;plain;
+10;526;542;Mother of Christ;Q345;PER;False;;
+10;573;580;modesty;Q11199149;MISC;True;plain;
+10;590;598;humility;Q1186677;MISC;True;plain;
+10;626;631;image;Q478798;MISC;True;plain;
+10;639;645;Virgin;Q345;PER;True;plain;
+10;670;678;gladness;Q8;MISC;True;plain;
+10;693;699;beauty;Q7242;MISC;True;plain;
+10;707;710;Son;Q1141210;PER;True;plain;
+10;756;759;lap;Q1276686;MISC;True;plain;
+10;738;748;tenderness;Q19816620;MISC;True;plain;
+10;787;791;gaze;Q14467155;MISC;True;plain;
+10;816;823;S. John;Q40662;PER;True;normalized;St. John
+10;837;840;boy;Q3010;MISC;True;plain;
+10;865;869;lamb;Q4575936;MISC;True;plain;
+10;885;890;smile;Q487;MISC;True;plain;
+10;896;903;S. Anne;Q164294;PER;True;normalized;Saint Anne
+10;927;930;joy;Q8;MISC;True;plain;
+10;958;965;progeny;Q239526;MISC;True;plain;
+10;981;986;ideas;Q131841;MISC;True;plain;
+10;1007;1012;brain;Q1073;MISC;True;plain;
+10;1017;1023;genius;Q185030;MISC;True;plain;
+10;1027;1035;Leonardo;Q762;PER;True;plain;
+11;0;8;Leonardo;Q762;PER;True;plain;
+11;35;57;Francesco del Giocondo;Q1395822;PER;True;plain;
+11;75;85;Monna Lisa;Q12418;MISC;True;plain;
+11;91;95;wife;Q188830;MISC;True;plain;
+11;132;137;years;Q577;MISC;True;plain;
+11;170;174;work;Q17537576;MISC;True;plain;
+11;189;199;collection;Q208165;MISC;True;plain;
+11;208;225;Francis of France;Q129857;PER;True;normalized;Francis I of France
+11;230;243;Fontainebleau;Q201428;LOC;True;plain;
+12;11;15;Rome;Q220;LOC;True;plain;
+12;25;45;Giuliano de' Medici;Q333340;PER;True;plain;
+12;66;74;Pope Leo;Q49237;PER;True;normalized;Pope Leo X
+12;120;127;studies;Q1782301;MISC;True;normalized;study
+12;149;156;alchemy;Q39689;MISC;True;plain;
+12;175;180;paste;Q904216;MISC;True;plain;
+12;194;198;kind;Q21146257;MISC;True;plain;
+12;202;205;wax;Q124695;MISC;True;plain;
+12;230;237;animals;Q729;MISC;True;plain;
+12;260;264;wind;Q8094;MISC;True;plain;
+12;319;322;air;Q7391292;MISC;True;plain;
+12;337;341;wind;Q8094;MISC;True;plain;
+12;366;372;ground;Q21152267;MISC;True;plain;
+13;10;18;Leonardo;Q762;PER;True;plain;
+13;48;52;work;Q17537576;MISC;True;plain;
+13;62;69;cartoon;Q1416517;MISC;True;plain;
+13;77;90;Sala del Papa;Q3657394;LOC;False;;
+13;108;124;S. Maria Novella;Q51175;LOC;True;plain;
+13;95;104;apartment;Q188507;MISC;True;plain;
+13;143;148;story;Q1318295;MISC;True;plain;
+13;152;169;Niccolo Piccinino;Q979543;PER;True;plain;
+13;171;178;Captain;Q25114211;MISC;True;plain;
+13;187;194;Filippo;Q289285;PER;True;plain;
+13;198;203;Milan;Q490;LOC;True;plain;
+13;227;232;group;Q16887380;MISC;True;plain;
+13;236;244;horsemen;Q47315;MISC;True;plain;
+13;269;277;standard;Q2912707;MISC;True;plain;
+13;281;285;work;Q17537576;MISC;True;plain;
+13;346;352;reason;Q1710397;MISC;True;plain;
+13;334;341;mastery;Q644238;MISC;True;plain;
+13;371;376;ideas;Q131841;MISC;True;plain;
+13;407;413;battle;Q178561;MISC;True;plain;
+14;16;20;time;Q11471;MISC;True;plain;
+14;55;61;Pescia;Q102661;LOC;True;plain;
+14;71;77;Datary;Q620020;PER;True;plain;
+14;81;89;Pope Leo;Q49237;PER;True;normalized;Pope Leo X
+14;100;107;picture;Q478798;MISC;True;plain;
+14;115;137;Madonna with the Child;Q9309699;MISC;True;normalized;Madonna with Child
+14;145;149;arms;Q43471;MISC;True;plain;
+14;165;174;diligence;Q1427962;MISC;True;plain;
+14;179;182;art;Q735;MISC;True;plain;
+14;208;213;fault;Q1095373;MISC;True;plain;
+14;247;252;gesso;Q1514256;MISC;True;plain;
+14;236;241;panel;Q55439;MISC;True;plain;
+14;299;307;mixtures;Q169336;MISC;True;plain;
+14;311;318;grounds;Q21152267;MISC;True;normalized;ground
+14;323;330;colours;Q1075;MISC;True;plain;
+14;33;51;Baldassarre Turini;Q3633263;PER;True;plain;
+15;16;25;disciples;Q385586;MISC;True;normalized;disciple
+15;31;44;Marco Oggioni;Q982274;PER;True;normalized;Marco d'Oggioni
+15;62;81;S. Maria della Pace;Q3673878;LOC;True;plain;
+15;87;106;Passing of Our Lady;Q1245512;MISC;False;;
+15;115;131;Marriage of Cana;Q625140;MISC;True;normalized;Marriage at Cana
+15;135;142;Galilee;Q83241;LOC;True;plain;
+16;2;10;disciple;Q385586;MISC;True;plain;
+16;14;22;Leonardo;Q762;PER;True;plain;
+16;27;52;Giovan Antonio Boltraffio;Q442528;PER;True;plain;
+16;56;61;Milan;Q490;LOC;True;plain;
+16;65;71;person;Q215627;PER;True;plain;
+16;81;86;skill;Q205961;MISC;True;plain;
+16;91;104;understanding;Q46744;MISC;True;plain;
+16;118;127;year 1500;Q6126;MISC;True;plain;
+16;147;156;diligence;Q1427962;MISC;True;plain;
+16;166;192;Church of the Misericordia;OOV;LOC;False;;
+16;202;209;Bologna;Q1891;LOC;True;plain;
+16;213;226;panel in oils;Q174705;LOC;False;;
+16;238;261;Our Lady with the Child;Q9309699;MISC;False;;
+16;269;273;arms;Q43471;MISC;True;plain;
+16;275;294;S. John the Baptist;Q40662;PER;True;normalized;St. John the Baptist
+16;296;308;S. Sebastian;Q183332;PER;True;normalized;Saint Sebastian
+16;324;330;patron;Q15472169;MISC;True;plain;
+16;380;384;life;Q3;MISC;True;plain;
+16;393;398;knees;Q37425;MISC;True;plain;
+16;418;422;work;Q17537576;MISC;True;plain;
+16;446;450;name;Q82799;MISC;True;plain;
+16;470;478;disciple;Q385586;MISC;True;plain;
+16;482;490;Leonardo;Q762;PER;True;plain;
+17;3;9;reason;Q2574811;MISC;True;plain;
+17;19;24;works;Q17537576;MISC;True;plain;
+17;36;40;name;Q82799;MISC;True;plain;
+17;44;51;Cimabue;Q15790;PER;True;plain;
+17;100;106;Assisi;Q20103;LOC;True;plain;
+17;110;114;city;Q515;MISC;True;plain;
+17;118;124;Umbria;Q1280;LOC;True;plain;
+17;163;170;masters;Q3276357;MISC;True;normalized;master
+17;185;207;Church of S. Francesco;Q207486;LOC;False;;
+17;232;240;vaulting;Q189771;MISC;True;plain;
+17;253;258;walls;Q42948;MISC;True;plain;
+17;263;283;life of Jesus Christ;Q4923891;MISC;True;plain;
+17;296;306;S. Francis;Q676555;PER;True;normalized;Saint Francis
+18;21;25;work;Q17537576;MISC;True;plain;
+18;92;99;General;Q103163;MISC;False;;
+18;103;114;Vallombrosa;Q4008256;LOC;True;plain;
+18;117;130;panel-picture;Q55439;MISC;False;;
+18;153;160;figures;Q29527347;MISC;True;normalized;figure
+18;162;181;S. John the Baptist;Q40662;PER;True;normalized;St. John the Baptist
+18;183;204;S. Giovanni Gualberto;Q707172;PER;True;normalized;Saint Giovanni Gualberto
+18;206;213;founder;Q4479442;MISC;True;plain;
+18;222;227;Order;Q2061186;ORG;True;plain;
+18;229;244;S. Michelagnolo;Q45581;PER;False;;
+18;250;261;S. Bernardo;Q2259281;PER;False;;
+18;265;273;Cardinal;Q45722;MISC;True;plain;
+18;280;284;monk;Q733786;MISC;True;plain;
+18;292;297;Order;Q2061186;ORG;True;plain;
+18;316;320;boys;Q3010;MISC;True;plain;
+18;328;334;centre;Q23595;MISC;True;plain;
+19;4;10;talent;Q1200995;MISC;True;plain;
+19;14;26;Michelagnolo;Q5592;PER;True;plain;
+19;66;75;gentleman;Q749212;MISC;True;plain;
+19;89;101;Jacopo Galli;Q21866988;PER;True;plain;
+19;116;122;person;Q215627;PER;True;plain;
+19;149;154;Cupid;Q5011;MISC;True;plain;
+19;158;164;marble;Q40861;MISC;True;plain;
+19;177;181;life;Q3;MISC;True;plain;
+19;194;200;figure;Q29527347;MISC;True;plain;
+19;206;213;Bacchus;Q645312;MISC;True;plain;
+19;240;243;cup;Q81727;MISC;True;plain;
+19;257;261;hand;Q33767;MISC;True;plain;
+19;279;283;hand;Q33767;MISC;True;plain;
+19;321;327;grapes;Q10978;MISC;True;plain;
+19;346;351;satyr;Q163709;MISC;True;plain;
+19;288;292;skin;Q1074;MISC;True;plain;
+19;298;303;tiger;Q19939;MISC;True;plain;
+20;38;44;figure;Q29527347;MISC;True;plain;
+20;48;57;Fortitude;Q605035;MISC;True;plain;
+20;65;76;Mercatanzia;Q3998632;LOC;False;;
+20;80;88;Florence;Q2044;LOC;True;plain;
+20;100;108;pictures;Q478798;MISC;True;plain;
+20;112;119;Virtues;Q904802;MISC;True;plain;
+20;141;148;Antonio;Q318640;PER;True;plain;
+20;153;173;Piero del Pollaiuolo;Q707046;PER;True;plain;
+21;7;15;tramezzo;Q2705982;MISC;True;plain;
+21;23;33;Ognissanti;Q2778991;LOC;True;plain;
+21;42;46;door;Q36794;MISC;True;plain;
+21;67;72;choir;Q207707;MISC;True;plain;
+21;93;101;Vespucci;Q4010390;PER;True;plain;
+21;104;116;S. Augustine;Q8018;PER;True;normalized;Saint Augustine
+21;192;200;painters;Q1028181;MISC;True;plain;
+21;158;163;pains;Q81938;MISC;True;plain;
+21;208;212;time;Q11471;MISC;True;plain;
+21;231;251;Domenico Ghirlandajo;Q191423;PER;True;plain;
+21;268;277;S. Jerome;Q44248;PER;True;normalized;St. Jerome
+21;291;295;side;Q30444261;MISC;True;plain;
+21;306;310;work;Q17537576;MISC;True;plain;
+21;326;332;praise;Q1208425;MISC;True;plain;
+21;345;349;head;Q23640;MISC;True;plain;
+21;358;363;Saint;Q43115;PER;True;plain;
+21;389;399;meditation;Q108458;MISC;True;plain;
+21;410;418;subtlety;Q49396791;MISC;True;plain;
+21;437;440;men;Q8441;MISC;True;plain;
+21;444;450;wisdom;Q799;MISC;True;plain;
+21;484;497;investigation;Q21004260;MISC;True;plain;
+21;532;539;matters;Q26256810;MISC;True;normalized;matter
+22;12;18;houses;Q3947;MISC;True;plain;
+22;34;38;city;Q515;MISC;True;plain;
+22;56;64;pictures;Q478798;MISC;True;plain;
+22;82;87;nudes;Q40446;MISC;True;plain;
+22;121;129;Castello;Q2094778;LOC;True;plain;
+22;133;138;villa;Q3950;MISC;True;plain;
+22;147;153;Cosimo;Q48547;PER;True;plain;
+22;178;192;birth of Venus;Q19760026;MISC;True;plain;
+22;205;210;Winds;Q476682;MISC;True;plain;
+22;215;222;Zephyrs;Q467515;MISC;True;plain;
+22;245;250;earth;Q21152267;MISC;True;plain;
+22;261;267;Cupids;Q5011;MISC;True;normalized;Cupid
+22;290;295;Venus;Q47652;MISC;True;plain;
+22;306;312;Graces;Q184353;MISC;True;plain;
+22;331;338;flowers;Q506;MISC;True;plain;
+22;345;351;symbol;Q80071;MISC;True;plain;
+22;355;361;spring;Q1312;MISC;True;plain;
+23;26;31;house;Q3947;MISC;True;plain;
+23;39;45;Medici;Q170022;MISC;True;plain;
+23;60;67;Lorenzo;Q932292;PER;True;plain;
+23;84;90;Pallas;Q457294;MISC;True;plain;
+23;96;102;device;Q103316448;MISC;True;;
+23;112;120;branches;Q2923673;MISC;True;plain;
+23;142;146;fire;Q3196;MISC;True;plain;
+23;179;183;life;Q3;MISC;True;plain;
+23;197;209;S. Sebastian;Q183332;PER;True;normalized;Saint Sebastian
+23;171;175;size;Q322481;MISC;True;plain;
+24;3;32;S. Maria Maggiore in Florence;Q849356;LOC;True;normalized;Santa Maria Maggiore, Florence
+24;45;70;Chapel of the Panciatichi;OOV;LOC;False;;
+24;98;103;Pietà;Q223689;MISC;True;plain;
+24;116;123;figures;Q29527347;MISC;True;normalized;figure
+25;7;12;house;Q3947;MISC;True;plain;
+25;20;25;Pucci;Q56244015;ORG;True;plain;
+25;60;67;figures;Q29527347;MISC;True;normalized;figure
+25;68;77;Boccaccio;Q1402;PER;True;plain;
+25;80;84;tale;Q49084;MISC;True;plain;
+25;88;109;Nastagio degli Onesti;Q1232587;MISC;True;plain;
+25;125;133;pictures;Q478798;MISC;True;plain;
+25;165;176;workmanship;Q8035029;MISC;True;plain;
+25;186;194;Epiphany;Q132001;MISC;True;plain;
+25;206;213;picture;Q478798;MISC;True;plain;
+26;13;19;Sandro;Q2221177;PER;True;plain;
+26;55;60;panel;Q55439;MISC;True;plain;
+26;66;73;figures;Q29527347;MISC;True;normalized;figure
+26;142;147;doors;Q36794;MISC;True;plain;
+26;165;171;façade;Q183061;MISC;True;plain;
+26;175;191;S. Maria Novella;Q51175;LOC;True;plain;
+26;223;229;church;Q16970;MISC;True;plain;
+26;237;241;door;Q36794;MISC;True;plain;
+26;249;255;centre;Q23595;MISC;True;plain;
+26;273;294;Adoration of the Magi;Q488841;MISC;True;plain;
+26;339;346;old man;Q191089;MISC;True;plain;
+26;310;317;feeling;Q205555;MISC;True;plain;
+26;365;369;foot;Q15807;MISC;True;plain;
+26;373;381;Our Lord;Q190;PER;True;plain;
+26;400;410;tenderness;Q19816620;MISC;True;plain;
+26;456;459;end;Q12769393;MISC;True;plain;
+26;472;479;journey;Q61509;MISC;True;plain;
+27;12;34;Chapel of Gino Capponi;Q3657333;LOC;False;;
+27;43;75;Church of S. Spirito at Florence;Q1519975;LOC;True;normalized;Church of Santo Spirito, Florence
+27;90;95;panel;Q55439;MISC;True;plain;
+27;111;133;Visitation of Our Lady;Q691810;MISC;True;plain;
+27;140;151;S. Nicholas;Q44269;PER;True;normalized;Saint Nicholas
+27;159;169;S. Anthony;Q170547;PER;True;normalized;St. Anthony
+27;192;196;pair;Q2570803;MISC;True;plain;
+27;200;210;spectacles;Q37501;MISC;True;plain;
+27;218;222;nose;Q2673594;MISC;True;plain;
+27;240;246;figure;Q29527347;MISC;True;plain;
+28;21;24;art;Q735;MISC;True;plain;
+28;29;36;actions;Q4026292;MISC;True;plain;
+28;40;45;Piero;Q3903143;PER;True;plain;
+28;81;86;panel;Q55439;MISC;True;plain;
+28;94;122;Church of the Servite Friars;Q2287001;LOC;False;;
+28;64;74;commission;Q760089;MISC;True;plain;
+28;131;152;Chapel of the Tedaldi;OOV;LOC;False;;
+28;174;181;garment;Q11460;MISC;True;plain;
+28;190;196;pillow;Q99895;MISC;True;plain;
+28;200;210;S. Filippo;Q141900;PER;False;;
+28;214;221;brother;Q16824629;MISC;True;plain;
+28;231;236;Order;Q2061186;ORG;True;plain;
+28;258;266;Our Lady;Q345;PER;True;plain;
+28;293;299;ground;Q21152267;MISC;True;plain;
+28;305;313;pedestal;Q12014132;MISC;True;plain;
+28;333;337;head;Q23640;MISC;True;plain;
+28;346;352;Heaven;Q4489450;LOC;True;plain;
+28;361;365;book;Q571;MISC;True;plain;
+28;373;377;hand;Q33767;MISC;True;plain;
+28;395;398;Son;Q1141210;PER;True;plain;
+28;421;432;Holy Spirit;Q37302;MISC;True;plain;
+28;451;456;light;Q9128;MISC;True;plain;
+29;7;15;predella;Q1411766;MISC;True;plain;
+29;39;45;scenes;Q88392887;MISC;True;normalized;scene
+29;102;113;S. Margaret;Q297742;PER;True;normalized;St. Margaret
+29;131;136;belly;Q66505048;MISC;True;plain;
+29;144;150;Dragon;Q7559;MISC;True;plain;
+29;173;179;animal;Q1274979;MISC;True;plain;
+29;264;268;kind;Q21146257;MISC;True;plain;
+29;294;298;eyes;Q7364;MISC;True;plain;
+29;310;315;venom;Q3386847;MISC;True;plain;
+29;317;321;fire;Q3196;MISC;True;plain;
+29;327;332;death;Q4;MISC;True;plain;
+30;0;5;Piero;Q280851;PER;True;plain;
+30;29;44;Filippo Strozzi;Q323993;PER;True;plain;
+30;48;55;picture;Q478798;MISC;True;plain;
+30;68;75;figures;Q29527347;MISC;True;normalized;figure
+30;79;86;Perseus;Q130832;PER;True;plain;
+30;98;107;Andromeda;Q161582;PER;True;plain;
+30;117;124;Monster;Q209489;MISC;False;;
+30;117;124;Monster;Q276453;MISC;True;plain;
+30;159;165;things;Q35120;MISC;True;plain;
+31;46;51;Venus;Q47652;MISC;True;plain;
+31;60;64;Mars;Q112;MISC;True;plain;
+31;102;108;meadow;Q7777019;MISC;True;plain;
+31;117;124;flowers;Q506;MISC;True;plain;
+31;153;158;Loves;Q121973;MISC;True;normalized;Love (mythology)
+31;210;216;helmet;Q173603;MISC;True;plain;
+31;218;225;armlets;Q6398218;MISC;True;plain;
+31;247;253;armour;Q20793164;MISC;True;plain;
+31;257;261;Mars;Q112;MISC;True;plain;
+31;274;279;grove;Q1510380;MISC;True;plain;
+31;283;289;myrtle;Q165152;MISC;True;plain;
+31;298;303;Cupid;Q5011;MISC;True;plain;
+31;324;330;rabbit;Q9394;MISC;True;plain;
+31;355;360;Doves;Q10856;MISC;True;plain;
+31;364;369;Venus;Q47652;MISC;True;plain;
+31;384;391;emblems;Q112110;MISC;True;plain;
+31;395;399;Love;Q121973;MISC;True;normalized;Love (mythology)
+32;4;21;Giovanni Vespucci;Q17064119;PER;False;;
+32;38;43;house;Q3947;MISC;True;plain;
+32;61;75;Piero Salviati;OOV;PER;False;;
+32;89;99;S. Michele;OOV;LOC;False;;
+32;108;121;Via de' Servi;Q3556508;LOC;True;plain;
+32;153;159;scenes;Q88392887;MISC;True;normalized;scene
+32;180;189;apartment;Q188507;MISC;True;plain;
+32;220;225;fauns;Q223194;MISC;True;plain;
+32;227;233;satyrs;Q163709;MISC;True;plain;
+32;242;246;gods;Q178885;MISC;True;plain;
+32;253;259;boys;Q3010;MISC;True;plain;
+32;255;259;boys;Q3010;MISC;True;plain;
+32;265;275;bacchanals;Q331341;MISC;True;plain;
+32;290;296;marvel;Q977433;MISC;False;;
+32;308;317;diversity;Q36793538;MISC;True;plain;
+32;325;335;bay horses;Q900906;MISC;True;plain;
+32;340;348;garments;Q11460;MISC;True;plain;
+32;382;390;features;Q1207505;MISC;True;normalized;feature
+32;358;365;variety;Q36793538;MISC;False;;
+32;411;416;grace;Q205194;MISC;True;plain;
+32;441;447;nature;Q7860;MISC;True;plain;
+32;432;437;truth;Q7949;MISC;True;plain;
+33;0;5;Piero;Q280851;PER;True;plain;
+33;8;16;portrait;Q134307;MISC;True;plain;
+33;33;55;Francesco da San Gallo;Q2252502;PER;True;plain;
+33;74;80;friend;Q17297777;MISC;True;plain;
+33;94;103;companion;OOV;MISC;False;;
+33;126;131;Piero;Q280851;PER;True;plain;
+33;147;156;Francesco;Q2252502;PER;True;plain;
+33;181;185;hand;Q33767;MISC;True;plain;
+33;189;194;Piero;Q280851;PER;True;plain;
+33;169;173;work;Q17537576;MISC;True;plain;
+33;237;241;head;Q23640;MISC;True;plain;
+33;245;254;Cleopatra;Q635;PER;True;plain;
+33;264;267;asp;Q3226601;MISC;True;plain;
+33;284;288;neck;Q9633;MISC;True;plain;
+33;298;307;portraits;Q134307;MISC;True;plain;
+33;327;335;Giuliano;Q312365;PER;True;plain;
+33;358;369;grandfather;Q9238344;MISC;True;plain;
+33;370;389;Francesco Giamberti;Q3750041;PER;True;plain;
+33;320;326;father;Q7565;MISC;True;plain;

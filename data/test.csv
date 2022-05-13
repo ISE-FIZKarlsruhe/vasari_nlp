@@ -1,0 +1,488 @@
+id,start_pos,end_pos,surface,wb_id,matched
+1,46,53,boyhood,Q276258,True
+1,62,70,instance,OOV,False
+1,74,83,Ser Piero,Q371916,True
+1,94,97,art,Q735,True
+1,103,124,Andrea del Verrocchio,Q183458,True
+1,143,156,panel-picture,Q55439,False
+1,160,167,S. John,Q40662,True
+1,178,184,Christ,Q302,True
+1,191,199,Leonardo,Q762,True
+1,211,216,angel,Q235113,True
+1,238,246,garments,Q11460,True
+1,274,277,lad,Q3010,True
+1,279,287,Leonardo,Q762,True
+1,310,316,manner,Q367293,True
+1,326,331,angel,Q235113,True
+1,357,364,figures,Q29527347,True
+1,368,374,Andrea,Q183458,False
+1,390,396,reason,Q1710397,True
+1,402,408,Andrea,Q183458,False
+1,433,439,colour,Q1075,True
+1,459,464,child,Q7569,True
+2,30,37,cartoon,Q1416517,True
+2,44,56,door-hanging,Q5297203,False
+2,84,92,Flanders,Q234,True
+2,103,107,gold,Q897,True
+2,112,116,silk,Q37681,True
+2,136,152,King of Portugal,Q51711012,True
+2,157,169,Adam and Eve,Q58701,True
+2,185,201,Earthly Paradise,Q19014,True
+2,211,219,Leonardo,Q762,True
+2,234,239,brush,Q614467,True
+2,243,254,chiaroscuro,Q219540,True
+2,265,271,lights,Q9128,True
+2,275,285,lead-white,Q656004,True
+2,289,295,meadow,Q7777019,True
+2,308,313,kinds,Q21146257,True
+2,317,324,herbage,OOV,False
+2,336,343,animals,Q729,True
+2,389,398,diligence,Q1427962,True
+2,403,408,truth,Q7949,True
+2,412,418,nature,Q7860,True
+2,419,429,divine wit,Q7501062,False
+2,358,363,truth,Q7949,True
+3,0,8,Leonardo,Q762,True
+3,21,28,picture,Q478798,True
+3,32,40,Our Lady,Q345,True
+3,59,63,work,Q17537576,True
+3,82,92,possession,Q1400881,True
+3,96,112,Pope Clement VII,Q83159,True
+3,180,184,vase,Q191851,True
+3,131,137,things,Q35120,True
+3,193,198,water,Q283,True
+3,216,223,flowers,Q506,True
+3,258,269,naturalness,Q37852924,True
+3,291,300,dew-drops,Q41097,True
+3,308,315,flowers,Q506,True
+3,354,361,reality,Q9510,True
+4,21,33,works of art,Q17537576,True
+4,41,62,Palace of Duke Cosimo,Q911047,False
+4,82,86,head,Q23640,True
+4,93,98,angel,Q235113,True
+4,119,122,arm,Q43471,True
+4,130,133,air,Q7391292,True
+4,184,192,shoulder,Q16363,True
+4,200,205,elbow,Q42586,True
+4,240,244,hand,Q33767,True
+4,252,258,breast,Q9103,True
+5,4,17,Antonio Segni,OOV,False
+5,41,47,friend,Q17297777,True
+5,63,77,sheet of paper,Q196878,True
+5,81,88,Neptune,Q3954,True
+5,116,131,draughtsmanship,OOV,False
+6,11,24,panel-picture,Q55439,False
+6,32,53,Adoration of the Magi,Q488841,True
+6,81,87,things,Q35120,True
+6,106,111,heads,Q23640,True
+6,130,152,house of Amerigo Benci,Q3889642,False
+6,167,185,Loggia de' Peruzzi,Q20008396,True
+6,239,244,works,Q17537576,True
+7,19,24,Milan,Q490,True
+7,34,54,Friars of S. Dominic,Q131479,False
+7,59,80,S. Maria delle Grazie,Q244952,True
+7,84,95,Last Supper,Q51633,True
+7,129,134,thing,Q35120,True
+7,147,152,heads,Q23640,True
+7,160,168,Apostles,Q4155679,True
+7,182,189,majesty,OOV,False
+7,194,200,beauty,Q7242,True
+7,219,223,head,Q23640,True
+7,227,233,Christ,Q302,True
+7,300,303,air,Q3620816,False
+7,330,335,image,Q478798,True
+7,339,345,Christ,Q302,True
+8,12,21,refectory,Q568225,True
+8,51,62,Last Supper,Q51633,True
+8,75,79,wall,Q42948,True
+8,91,98,Passion,Q623306,True
+8,110,116,manner,Q12894677,True
+8,118,126,Leonardo,Q762,True
+8,146,154,Lodovico,Q236853,True
+8,161,173,Massimiliano,Q378739,True
+8,186,189,son,Q177232,True
+8,209,213,side,Q30444261,True
+8,227,235,Beatrice,Q813280,True
+8,242,251,Francesco,Q378868,True
+8,265,268,son,Q177232,True
+8,301,315,Dukes of Milan,Q692686,True
+9,21,26,works,Q17537576,True
+9,30,38,Leonardo,Q762,True
+9,54,59,Milan,Q490,True
+9,68,72,time,Q11471,True
+9,78,92,King of France,Q18384454,True
+9,104,112,Leonardo,Q762,True
+9,148,153,thing,Q35120,True
+9,162,166,lion,Q104536223,False
+9,214,220,breast,Q9103,True
+9,244,250,lilies,Q5194627,True
+9,188,193,steps,Q16511984,True
+10,7,10,end,Q12769393,True
+10,22,29,cartoon,Q1416517,True
+10,43,50,Madonna,Q345,True
+10,57,64,S. Anne,Q164294,True
+10,73,79,Christ,Q302,True
+10,111,120,craftsmen,Q1294787,True
+10,159,162,men,Q8441,True
+10,167,172,women,Q467,True
+10,207,211,days,Q573,True
+10,227,232,sight,Q162668,True
+10,246,250,room,Q180516,True
+10,283,291,festival,Q132241,True
+10,317,324,marvels,Q977433,False
+10,328,336,Leonardo,Q762,True
+10,361,367,people,Q2472587,True
+10,393,397,face,Q37017,True
+10,406,413,Madonna,Q345,True
+10,471,481,simplicity,Q508291,True
+10,486,492,beauty,Q7242,True
+10,500,505,grace,Q205194,True
+10,511,518,picture,Q478798,True
+10,526,542,Mother of Christ,Q345,False
+10,573,580,modesty,Q11199149,True
+10,590,598,humility,Q1186677,True
+10,626,631,image,Q478798,True
+10,639,645,Virgin,Q345,True
+10,670,678,gladness,Q8,True
+10,693,699,beauty,Q7242,True
+10,707,710,Son,Q1141210,True
+10,756,759,lap,Q1276686,True
+10,738,748,tenderness,Q19816620,True
+10,787,791,gaze,Q14467155,True
+10,816,823,S. John,Q40662,True
+10,837,840,boy,Q3010,True
+10,865,869,lamb,Q4575936,True
+10,885,890,smile,Q487,True
+10,896,903,S. Anne,Q164294,True
+10,927,930,joy,Q8,True
+10,958,965,progeny,Q239526,True
+10,981,986,ideas,Q131841,True
+10,1007,1012,brain,Q1073,True
+10,1017,1023,genius,Q185030,True
+10,1027,1035,Leonardo,Q762,True
+11,0,8,Leonardo,Q762,True
+11,35,57,Francesco del Giocondo,Q1395822,True
+11,75,85,Monna Lisa,Q12418,True
+11,91,95,wife,Q188830,True
+11,132,137,years,Q577,True
+11,170,174,work,Q17537576,True
+11,189,199,collection,Q208165,True
+11,208,225,Francis of France,Q129857,True
+11,230,243,Fontainebleau,Q201428,True
+12,11,15,Rome,Q220,True
+12,25,45,Giuliano de' Medici,Q333340,True
+12,66,74,Pope Leo,Q49237,True
+12,120,127,studies,Q1782301,True
+12,149,156,alchemy,Q39689,True
+12,175,180,paste,Q904216,True
+12,194,198,kind,Q21146257,True
+12,202,205,wax,Q124695,True
+12,230,237,animals,Q729,True
+12,260,264,wind,Q8094,True
+12,319,322,air,Q7391292,True
+12,337,341,wind,Q8094,True
+12,366,372,ground,Q21152267,True
+13,10,18,Leonardo,Q762,True
+13,48,52,work,Q17537576,True
+13,62,69,cartoon,Q1416517,True
+13,77,90,Sala del Papa,Q3657394,False
+13,108,124,S. Maria Novella,Q51175,True
+13,95,104,apartment,Q188507,True
+13,143,148,story,Q1318295,True
+13,152,169,Niccolo Piccinino,Q979543,True
+13,171,178,Captain,Q25114211,True
+13,187,194,Filippo,Q289285,True
+13,198,203,Milan,Q490,True
+13,227,232,group,Q16887380,True
+13,236,244,horsemen,Q47315,True
+13,269,277,standard,Q2912707,True
+13,281,285,work,Q17537576,True
+13,346,352,reason,Q1710397,True
+13,334,341,mastery,Q644238,True
+13,371,376,ideas,Q131841,True
+13,407,413,battle,Q178561,True
+14,16,20,time,Q11471,True
+14,55,61,Pescia,Q102661,True
+14,71,77,Datary,Q620020,True
+14,81,89,Pope Leo,Q49237,True
+14,100,107,picture,Q478798,True
+14,115,137,Madonna with the Child,Q9309699,True
+14,145,149,arms,Q43471,True
+14,165,174,diligence,Q1427962,True
+14,179,182,art,Q735,True
+14,208,213,fault,Q1095373,True
+14,247,252,gesso,Q1514256,True
+14,236,241,panel,Q55439,True
+14,299,307,mixtures,Q169336,True
+14,311,318,grounds,Q21152267,True
+14,323,330,colours,Q1075,True
+14,33,51,Baldassarre Turini,Q3633263,True
+15,16,25,disciples,Q385586,True
+15,31,44,Marco Oggioni,Q982274,False
+15,62,81,S. Maria della Pace,Q3673878,True
+15,87,106,Passing of Our Lady,Q1245512,False
+15,115,131,Marriage of Cana,Q625140,True
+15,135,142,Galilee,Q83241,True
+16,2,10,disciple,Q385586,True
+16,14,22,Leonardo,Q762,True
+16,27,52,Giovan Antonio Boltraffio,Q442528,True
+16,56,61,Milan,Q490,True
+16,65,71,person,Q215627,True
+16,81,86,skill,Q205961,True
+16,91,104,understanding,Q46744,True
+16,118,127,year 1500,Q6126,True
+16,147,156,diligence,Q1427962,True
+16,166,192,Church of the Misericordia,OOV,False
+16,202,209,Bologna,Q1891,True
+16,213,226,panel in oils,Q174705,False
+16,238,261,Our Lady with the Child,Q9309699,False
+16,269,273,arms,Q43471,True
+16,275,294,S. John the Baptist,Q40662,True
+16,296,308,S. Sebastian,Q183332,True
+16,324,330,patron,Q15472169,True
+16,380,384,life,Q3,True
+16,393,398,knees,Q37425,True
+16,418,422,work,Q17537576,True
+16,446,450,name,Q82799,True
+16,470,478,disciple,Q385586,True
+16,482,490,Leonardo,Q762,True
+17,3,9,reason,Q2574811,True
+17,19,24,works,Q17537576,True
+17,36,40,name,Q82799,True
+17,44,51,Cimabue,Q15790,True
+17,100,106,Assisi,Q20103,True
+17,110,114,city,Q515,True
+17,118,124,Umbria,Q1280,True
+17,163,170,masters,Q3276357,True
+17,185,207,Church of S. Francesco,Q207486,False
+17,232,240,vaulting,Q189771,True
+17,253,258,walls,Q42948,True
+17,263,283,life of Jesus Christ,Q4923891,True
+17,296,306,S. Francis,Q676555,True
+18,21,25,work,Q17537576,True
+18,92,99,General,Q103163,False
+18,103,114,Vallombrosa,Q4008256,True
+18,117,130,panel-picture,Q55439,False
+18,153,160,figures,Q29527347,True
+18,162,181,S. John the Baptist,Q40662,True
+18,183,204,S. Giovanni Gualberto,Q707172,True
+18,206,213,founder,Q4479442,True
+18,222,227,Order,Q2061186,True
+18,229,244,S. Michelagnolo,Q45581,False
+18,250,261,S. Bernardo,Q2259281,False
+18,265,273,Cardinal,Q45722,True
+18,280,284,monk,Q733786,True
+18,292,297,Order,Q2061186,True
+18,316,320,boys,Q3010,True
+18,328,334,centre,Q23595,True
+19,4,10,talent,Q1200995,True
+19,14,26,Michelagnolo,Q5592,True
+19,66,75,gentleman,Q749212,True
+19,89,101,Jacopo Galli,Q21866988,True
+19,116,122,person,Q215627,True
+19,149,154,Cupid,Q5011,True
+19,158,164,marble,Q40861,True
+19,177,181,life,Q3,True
+19,194,200,figure,Q29527347,True
+19,206,213,Bacchus,Q645312,True
+19,240,243,cup,Q81727,True
+19,257,261,hand,Q33767,True
+19,279,283,hand,Q33767,True
+19,321,327,grapes,Q10978,True
+19,346,351,satyr,Q163709,True
+19,288,303,skin of a tiger,Q19310055,False
+20,38,44,figure,Q29527347,True
+20,48,57,Fortitude,Q605035,True
+20,65,76,Mercatanzia,Q3998632,False
+20,80,88,Florence,Q2044,True
+20,100,108,pictures,Q478798,True
+20,112,119,Virtues,Q904802,True
+20,141,148,Antonio,Q318640,True
+20,153,173,Piero del Pollaiuolo,Q707046,True
+21,7,15,tramezzo,Q2705982,True
+21,23,33,Ognissanti,Q2778991,True
+21,42,46,door,Q36794,True
+21,67,72,choir,Q207707,True
+21,93,101,Vespucci,Q4010390,True
+21,104,116,S. Augustine,Q8018,True
+21,192,200,painters,Q1028181,True
+21,158,163,pains,Q81938,True
+21,208,212,time,Q11471,True
+21,231,251,Domenico Ghirlandajo,Q191423,True
+21,268,277,S. Jerome,Q44248,True
+21,291,295,side,Q30444261,True
+21,306,310,work,Q17537576,True
+21,326,332,praise,Q1208425,True
+21,345,349,head,Q23640,True
+21,358,363,Saint,Q43115,True
+21,389,399,meditation,Q108458,True
+21,410,418,subtlety,Q49396791,True
+21,437,440,men,Q8441,True
+21,444,450,wisdom,Q799,True
+21,484,497,investigation,Q21004260,True
+21,532,539,matters,Q26256810,True
+22,12,18,houses,Q3947,True
+22,34,38,city,Q515,True
+22,56,64,pictures,Q478798,True
+22,82,87,nudes,Q40446,True
+22,121,129,Castello,Q2094778,True
+22,133,138,villa,Q3950,True
+22,147,153,Cosimo,Q48547,True
+22,178,192,birth of Venus,Q19760026,True
+22,205,210,Winds,Q476682,True
+22,215,222,Zephyrs,Q467515,True
+22,245,250,earth,Q21152267,True
+22,261,267,Cupids,Q5011,True
+22,290,295,Venus,Q47652,True
+22,306,312,Graces,Q184353,True
+22,331,338,flowers,Q506,True
+22,345,351,symbol,Q80071,True
+22,355,361,spring,Q1312,True
+23,26,45,house of the Medici,Q911047,False
+23,60,67,Lorenzo,Q932292,True
+23,84,90,Pallas,Q457294,True
+23,96,102,device,Q1183543,False
+23,112,120,branches,Q2923673,True
+23,142,146,fire,Q3196,True
+23,179,183,life,Q3,True
+23,197,209,S. Sebastian,Q183332,True
+23,171,175,size,Q322481,True
+24,3,32,S. Maria Maggiore in Florence,Q849356,True
+24,45,70,Chapel of the Panciatichi,OOV,False
+24,98,103,Pietà,Q223689,True
+24,116,123,figures,Q29527347,True
+25,7,25,house of the Pucci,Q3360912,False
+25,60,67,figures,Q29527347,True
+25,68,77,Boccaccio,Q1402,True
+25,80,84,tale,Q49084,True
+25,88,109,Nastagio degli Onesti,Q1232587,True
+25,125,133,pictures,Q478798,True
+25,165,176,workmanship,Q8035029,True
+25,186,194,Epiphany,Q132001,True
+25,206,213,picture,Q478798,True
+26,13,19,Sandro,Q2221177,True
+26,55,60,panel,Q55439,True
+26,66,73,figures,Q29527347,True
+26,142,147,doors,Q36794,True
+26,165,171,façade,Q183061,True
+26,175,191,S. Maria Novella,Q51175,True
+26,223,229,church,Q16970,True
+26,237,241,door,Q36794,True
+26,249,255,centre,Q23595,True
+26,273,294,Adoration of the Magi,Q488841,True
+26,339,346,old man,Q191089,True
+26,310,317,feeling,Q205555,True
+26,365,369,foot,Q15807,True
+26,373,381,Our Lord,Q190,True
+26,400,410,tenderness,Q19816620,True
+26,456,459,end,Q12769393,True
+26,472,479,journey,Q61509,True
+27,12,34,Chapel of Gino Capponi,Q3657333,False
+27,43,75,Church of S. Spirito at Florence,Q1519975,True
+27,90,95,panel,Q55439,True
+27,111,133,Visitation of Our Lady,Q691810,True
+27,140,151,S. Nicholas,Q44269,True
+27,159,169,S. Anthony,Q170547,True
+27,192,196,pair,Q2570803,True
+27,200,210,spectacles,Q37501,True
+27,218,222,nose,Q2673594,True
+27,240,246,figure,Q29527347,True
+28,21,24,art,Q735,True
+28,29,36,actions,Q4026292,True
+28,40,45,Piero,Q3903143,True
+28,81,86,panel,Q55439,True
+28,94,122,Church of the Servite Friars,Q2287001,False
+28,64,74,commission,Q760089,True
+28,131,152,Chapel of the Tedaldi,OOV,False
+28,174,181,garment,Q11460,True
+28,190,196,pillow,Q99895,True
+28,200,210,S. Filippo,Q141900,False
+28,214,221,brother,Q16824629,True
+28,231,236,Order,Q2061186,True
+28,258,266,Our Lady,Q345,True
+28,293,299,ground,Q21152267,True
+28,305,313,pedestal,Q12014132,True
+28,333,337,head,Q23640,True
+28,346,352,Heaven,Q4489450,True
+28,361,365,book,Q571,True
+28,373,377,hand,Q33767,True
+28,395,398,Son,Q1141210,True
+28,421,432,Holy Spirit,Q37302,True
+28,451,456,light,Q9128,True
+29,7,15,predella,Q1411766,True
+29,39,45,scenes,Q88392887,True
+29,102,113,S. Margaret,Q297742,True
+29,131,136,belly,Q66505048,True
+29,144,150,Dragon,Q7559,True
+29,173,179,animal,Q1274979,True
+29,264,268,kind,Q21146257,True
+29,294,298,eyes,Q7364,True
+29,310,315,venom,Q3386847,True
+29,317,321,fire,Q3196,True
+29,327,332,death,Q4,True
+30,0,5,Piero,Q280851,True
+30,29,44,Filippo Strozzi,Q323993,True
+30,48,55,picture,Q478798,True
+30,68,75,figures,Q29527347,True
+30,79,86,Perseus,Q130832,True
+30,98,107,Andromeda,Q161582,True
+30,117,124,Monster,Q209489,False
+30,159,165,things,Q35120,True
+31,46,51,Venus,Q47652,True
+31,60,64,Mars,Q112,True
+31,102,108,meadow,Q7777019,True
+31,117,124,flowers,Q506,True
+31,153,158,Loves,Q121973,True
+31,210,216,helmet,Q173603,True
+31,218,225,armlets,Q6398218,True
+31,247,253,armour,Q20793164,True
+31,257,261,Mars,Q112,True
+31,274,279,grove,Q1510380,True
+31,283,289,myrtle,Q165152,True
+31,298,303,Cupid,Q5011,True
+31,324,330,rabbit,Q9394,True
+31,355,360,Doves,Q10856,True
+31,364,369,Venus,Q47652,True
+31,384,391,emblems,Q112110,True
+31,395,399,Love,Q121973,True
+32,4,21,Giovanni Vespucci,Q17064119,False
+32,38,43,house,Q3947,True
+32,61,75,Piero Salviati,OOV,False
+32,89,99,S. Michele,OOV,False
+32,108,121,Via de' Servi,Q3556508,True
+32,153,159,scenes,Q88392887,True
+32,180,189,apartment,Q188507,True
+32,220,225,fauns,Q223194,True
+32,227,233,satyrs,Q163709,True
+32,235,246,sylvan gods,Q548445,False
+32,253,259,boys,Q3010,True
+32,255,259,boys,Q3010,True
+32,265,275,bacchanals,Q331341,True
+32,290,296,marvel,Q977433,False
+32,308,317,diversity,Q36793538,True
+32,325,335,bay horses,Q900906,True
+32,340,348,garments,Q11460,True
+32,382,390,features,Q1207505,True
+32,358,365,variety,Q36793538,False
+32,411,416,grace,Q205194,True
+32,441,447,nature,Q7860,True
+32,432,437,truth,Q7949,True
+33,0,5,Piero,Q280851,True
+33,8,16,portrait,Q134307,True
+33,33,55,Francesco da San Gallo,Q2252502,True
+33,74,80,friend,Q17297777,True
+33,94,103,companion,OOV,False
+33,126,131,Piero,Q280851,True
+33,147,156,Francesco,Q2252502,True
+33,181,185,hand,Q33767,True
+33,189,194,Piero,Q280851,True
+33,169,173,work,Q17537576,True
+33,237,241,head,Q23640,True
+33,245,254,Cleopatra,Q635,True
+33,264,267,asp,Q3226601,True
+33,284,288,neck,Q9633,True
+33,298,307,portraits,Q134307,True
+33,327,335,Giuliano,Q312365,True
+33,358,369,grandfather,Q9238344,True
+33,370,389,Francesco Giamberti,Q3750041,True
+33,320,326,father,Q7565,True
