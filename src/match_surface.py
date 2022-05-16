@@ -4,10 +4,10 @@ import spacy
 from nltk.corpus import stopwords
 from tqdm import tqdm
 
-with open("../data/entities_en.csv") as f1:
+with open("../data/entities_it.csv") as f1:
     data = list(csv.DictReader(f=f1, delimiter=";"))
 
-with open("surfaces.csv") as f2:
+with open("../data/surfaces.csv") as f2:
     surfaces = list(csv.DictReader(f=f2, delimiter=","))
 
 
@@ -19,10 +19,12 @@ nlp_it = spacy.load('it_core_news_sm')
 
 
 def normalize_str(text, lang):
-    no_number_string = re.sub(r'\d+','',text)
+    no_hyphen_string = re.sub(r"[\-\']",' ',text)
+    no_hyphen_string = re.sub(r'\bd\'','d ',no_hyphen_string)
+    no_number_string = re.sub(r'\d+','',no_hyphen_string)
     no_romans_string = re.sub(r'\bM{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})\b',"", no_number_string)
     no_parenthesis_string = re.sub(r'\(.*?\)', "", no_romans_string)
-    no_parenthesis_string = re.sub(r'(Saint|St\.?|San|Sant\'?|Santo|Santa)[\s\b]', "S. ", no_parenthesis_string)
+    no_parenthesis_string = re.sub(r'(Saint|San|Sant|Santo|Santa|S.)[\s\b]', "St. ", no_parenthesis_string)
     lower_string = no_parenthesis_string.lower()
     no_punc_string = re.sub(r'[^\w\s]','', lower_string)
     no_wspace_string = no_punc_string.strip()
@@ -55,39 +57,40 @@ def normalize_str(text, lang):
 output = []
 pbar = tqdm(total=len(data))
 for row1 in data:
-    if row1["wb_id"] != "OOV":
-        item_dict = {
-            "id":row1["id"],
-            "start_pos":row1["start_pos"],
-            "end_pos":row1["end_pos"],
-            "surface":row1["surface"],
-            "wb_id":row1["wb_id"],
-            "matched":False,
-            "type":None,
-            "kb-surface":None
-        }
+    item_dict = {
+        "id":row1["id"],
+        "start_pos":row1["start_pos"],
+        "end_pos":row1["end_pos"],
+        "surface":row1["surface"],
+        "wb_id":row1["wb_id"],
+        "type":row1["type"],
+        "matched":False,
+        "match_type":None,
+        "kb-surface":None
+    }
+    for row2 in surfaces:
+        if row2["id"]==row1["wb_id"] and row1["surface"].lower() == row2["surface"].lower():
+            item_dict["matched"] = True
+            type_key = [x for x in row2.keys() if row2[x]=="1"][0]
+            item_dict["match_type"] = "plain"
+            item_dict["kb-surface"]=None
+            break
+    if item_dict["matched"]==False:
         for row2 in surfaces:
-            if row2["id"]==row1["wb_id"] and row1["surface"].lower() == row2["surface"].lower():
+            lang = row2["lang"]
+            if item_dict["matched"]!= True and row2["id"]==row1["wb_id"] \
+            and normalize_str(row1["surface"], lang) == normalize_str(row2["surface"], lang):
                 item_dict["matched"] = True
                 type_key = [x for x in row2.keys() if row2[x]=="1"][0]
-                item_dict["type"] = type_key
-                break
-        if item_dict["matched"]==False:
-            for row2 in surfaces:
-                lang = row2["lang"]
-                if item_dict["matched"]!= True and row2["id"]==row1["wb_id"] \
-                and normalize_str(row1["surface"], lang) == normalize_str(row2["surface"], lang):
-                    item_dict["matched"] = True
-                    type_key = [x for x in row2.keys() if row2[x]=="1"][0]
-                    item_dict["type"] = type_key
-                    item_dict["kb-surface"]= (row2["surface"], normalize_str(row2["surface"], lang))    
-        output.append(item_dict)
+                item_dict["match_type"] = "normalized"
+                item_dict["kb-surface"]= row2["surface"]
+    output.append(item_dict)
     pbar.update(1)
 pbar.close()
 
 keys = output[0].keys()
 
-a_file = open("entities_matched.csv", "w")
+a_file = open("../data/matches_it.csv", "w")
 dict_writer = csv.DictWriter(a_file, keys)
 dict_writer.writeheader()
 dict_writer.writerows(output)

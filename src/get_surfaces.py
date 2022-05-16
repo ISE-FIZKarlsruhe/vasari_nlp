@@ -164,21 +164,21 @@ def get_surface(ids, langs):
     pbar.close()        
     keys = output[0].keys()
 
-    a_file = open("test.csv", "w")
+    a_file = open("../data/surfaces_2.csv", "w")
     dict_writer = csv.DictWriter(a_file, keys)
     dict_writer.writeheader()
     dict_writer.writerows(output)
     a_file.close()
 
 with open("../data/entities_en.csv", "r") as f:
-    data = csv.DictReader(f=f, delimiter=",")
+    data = csv.DictReader(f=f, delimiter=";")
     data1 = list(data)
 
-with open("../data/entities_it.csv", "r") as f:
-    data = csv.DictReader(f=f, delimiter=";")
+with open("../data/surfaces.csv", "r") as f:
+    data = csv.DictReader(f=f, delimiter=",")
     data2 = list(data)
 
 ids1 = set([row["wb_id"] for row in data1 if row["wb_id"]!="OOV"])
-ids2 = set([row["wb_id"] for row in data2 if row["wb_id"]!="OOV"])
-ids1.update(ids2)
+ids2 = set([row["id"] for row in data2])
+ids1 = ids1.difference(ids2)
 get_surface(ids=ids1, langs=["en", "it"])
