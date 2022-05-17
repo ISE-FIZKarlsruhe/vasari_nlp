@@ -1,7 +1,0 @@
-id,start_pos,end_pos,surface,type,wb_id,broader,narrower,related,exact,close
-1,46,53,boyhood,MISC,Q276258,1,0,0,0,0
-2,136,152,King of Portugal,PER,Q51711012,0,0,0,0,1
-7,300,303,air,MISC,Q3620816,0,0,1,0,0
-9,78,92,King of France,PER,Q18384454,0,0,0,0,1
-26,339,346,old man,MISC,Q191089,0,0,0,0,1
-33,94,103,companion,MISC,Q18029574,0,0,1,0,0
