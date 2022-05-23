@@ -16,6 +16,11 @@ We annotated Named Entities mentioned in a text by using [Doccano](https://githu
 * We do not consider overlapping entities. We solved the problems of nested entities by considering only the longest surface form (SF); which therefore leads to the minimum number of entities in the annotation.
 * Multiword expressions, i.e. noun phrases, were annotated only if they appear as a valid Surface Form of an entity, which means: a) they are present in the considered Knowledge Base (KB), i.e. Wikidata, as one of the labels, or b) they are slight lexical variations of the SFs present in the KB which employ direct synonyms of the words in the original SFs and do not need coreference resolution.
 * Creative works which appear with the same SF of their subject are annotated only if they are actually referring to a singular object, e.g. they are introduced by a determinative article (*The Last Supper*).
+* This dataset does not take into account coreference resolution. If a sequence of words refers to a named entity which is earlier or later mentioned in the context of the sentence, but this sequence of words is not a valid SF of the entity, then the sequence is mapped to an available candidate for the related concept in Wikidata.
+
+> Monna Lisa, \[wife\] of Francesco del Giocondo =
+> wife ==> wife (WIKIDATA:Q188830)
+
 
 ## Details
 
