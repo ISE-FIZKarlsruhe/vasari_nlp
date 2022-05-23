@@ -9,12 +9,13 @@ The editions referred to are:
 
 
 ## Norms for the annotation
-We annotated Named Entities mentioned in a text by using [Doccano](https://github.com/doccano/doccano). Entity spans are annotated with 5 types: **PER**, **LOC**, **ORG**, **MISC**. 
+We annotated Named Entities mentioned in a text by using [Doccano](https://github.com/doccano/doccano). Entity spans are annotated with 4 types: **PER**, **LOC**, **ORG**, **MISC**. 
 
-In this evaluation dataset, we do not consider overlapping entities. We solved the problems of nested entities by considering only the longest surface form.
+### Special issues
 
-
-GUIDELINES TO BE UPDATED
+* We do not consider overlapping entities. We solved the problems of nested entities by considering only the longest surface form (SF); which therefore leads to the minimum number of entities in the annotation.
+* Multiword expressions, i.e. noun phrases, were annotated only if they appear as a valid Surface Form of an entity, which means: a) they are present in the considered Knowledge Base (KB), i.e. Wikidata, as one of the labels, or b) they are slight lexical variations of the SFs present in the KB which employ direct synonyms of the words in the original SFs and do not need coreference resolution.
+* Creative works which appear with the same SF of their subject are annotated only if they are actually referring to a singular object, e.g. they are introduced by a determinative article (*The Last Supper*).
 
 ## Details
 

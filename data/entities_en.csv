@@ -113,10 +113,8 @@ id,start_pos,end_pos,surface,type,wb_id
 9,54,59,Milan,LOC,Q490
 9,68,72,time,MISC,Q11471
 9,78,92,King of France,PER,Q18384454
-9,78,92,King of France,PER,Q60835574
 9,104,112,Leonardo,PER,Q762
 9,148,153,thing,MISC,Q35120
-9,162,166,lion,MISC,Q104536223
 9,162,166,lion,MISC,Q140
 9,214,220,breast,MISC,Q9103
 9,244,250,lilies,MISC,Q5194627
