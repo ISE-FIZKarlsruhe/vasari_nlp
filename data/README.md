@@ -18,7 +18,8 @@ We annotated Named Entities mentioned in a text by using [Doccano](https://githu
 * Creative works which appear with the same SF of their subject are annotated only if they are actually referring to a singular object, e.g. they are introduced by a determinative article (*The Last Supper*).
 * This dataset does not take into account coreference resolution. If a sequence of words refers to a named entity which is earlier or later mentioned in the context of the sentence, but this sequence of words is not a valid SF of the entity, then the sequence is mapped to an available candidate for the related concept in Wikidata.
 
-> Monna Lisa, \[wife\] of Francesco del Giocondo =
+> Monna Lisa, \[wife\] of Francesco del Giocondo 
+>
 > wife ==> wife (WIKIDATA:Q188830)
 
 
