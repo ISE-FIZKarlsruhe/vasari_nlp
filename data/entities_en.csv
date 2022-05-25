@@ -41,7 +41,7 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 2,389,398,diligence,MISC,Q1427962,0
 2,403,408,truth,MISC,Q7949,0
 2,412,418,nature,MISC,Q7860,0
-2,419,429,divine wit,MISC,Q7501062,0
+2,426,429,wit,MISC,OOV,0
 2,358,363,truth,MISC,Q7949,0
 3,0,8,Leonardo,PER,Q762,1
 3,21,28,picture,MISC,Q478798,0
@@ -57,7 +57,8 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 3,291,300,dew-drops,MISC,Q41097,0
 3,308,315,flowers,MISC,Q506,0
 3,354,361,reality,MISC,Q9510,0
-4,21,33,works of art,MISC,Q17537576,0
+4,21,26,works,MISC,Q386724,0
+4,30,33,art,MISC,Q735,0
 4,41,47,Palace of Duke Cosimo,MISC,Q911047,1
 4,82,86,head,MISC,Q23640,0
 4,93,98,angel,MISC,Q235113,0
@@ -69,7 +70,8 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 4,252,258,breast,MISC,Q9103,0
 5,4,17,Antonio Segni,PER,OOV,1
 5,41,47,friend,MISC,Q17297777,0
-5,63,77,sheet of paper,MISC,Q196878,0
+5,63,68,sheet,MISC,Q196878,0
+5,72,77,paper,MISC,Q11472,0
 5,81,88,Neptune,MISC,Q3954,1
 5,116,131,draughtsmanship,MISC,OOV,0
 6,11,24,panel-picture,MISC,Q55439,0
@@ -233,7 +235,8 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 16,147,156,diligence,MISC,Q1427962,0
 16,166,192,Church of the Misericordia,LOC,OOV,1
 16,202,209,Bologna,LOC,Q1891,1
-16,213,226,panel in oils,MISC,Q174705,0
+16,213,218,panel,MISC,Q55439,0
+16,222,226,oils,MISC,Q22656,0
 16,238,261,Our Lady with the Child,MISC,Q9309699,1
 16,269,273,arms,MISC,Q43471,0
 16,275,294,S. John the Baptist,PER,Q40662,1
@@ -371,7 +374,7 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 26,237,241,door,MISC,Q36794,0
 26,249,255,centre,MISC,Q23595,0
 26,273,294,Adoration of the Magi,MISC,Q488841,1
-26,339,346,old man,MISC,Q191089,0
+26,343,346,man,MISC,Q8441,0
 26,310,317,feeling,MISC,Q205555,0
 26,365,369,foot,MISC,Q15807,0
 26,373,381,Our Lord,PER,Q190,1
