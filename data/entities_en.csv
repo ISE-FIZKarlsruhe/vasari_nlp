@@ -41,7 +41,7 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 2,389,398,diligence,MISC,Q1427962,0
 2,403,408,truth,MISC,Q7949,0
 2,412,418,nature,MISC,Q7860,0
-2,426,429,wit,MISC,OOV,0
+2,426,429,wit,MISC,Q799,0
 2,358,363,truth,MISC,Q7949,0
 3,0,8,Leonardo,PER,Q762,1
 3,21,28,picture,MISC,Q478798,0
@@ -88,11 +88,11 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 7,129,134,thing,MISC,Q35120,0
 7,147,152,heads,MISC,Q23640,0
 7,160,168,Apostles,PER,Q4155679,1
-7,182,189,majesty,MISC,OOV,0
+7,182,189,majesty,MISC,Q669458,0
 7,194,200,beauty,MISC,Q7242,0
 7,219,223,head,MISC,Q23640,0
 7,227,233,Christ,PER,Q302,1
-7,300,303,air,MISC,OOV,0
+7,300,303,air,MISC,Q3620816,0
 7,330,335,image,MISC,Q478798,0
 7,339,345,Christ,PER,Q302,1
 8,12,21,refectory,MISC,Q568225,0
