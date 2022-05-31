@@ -1,0 +1,93 @@
+id,start_pos,end_pos,surface,type
+1,74,83,Ser Piero,PERSON
+1,103,124,Andrea del Verrocchio,PERSON
+1,160,167,S. John,PERSON
+1,178,184,Christ,PERSON
+1,191,199,Leonardo,PERSON
+1,279,287,Leonardo,PERSON
+1,368,374,Andrea,PERSON
+1,402,408,Andrea,PERSON
+2,84,92,Flanders,GPE
+2,157,161,Adam,PERSON
+2,166,169,Eve,PERSON
+2,211,219,Leonardo,PERSON
+3,0,8,Leonardo,PERSON
+3,32,40,Our Lady,WORK_OF_ART
+5,4,17,Antonio Segni,PERSON
+5,81,88,Neptune,WORK_OF_ART
+7,19,24,Milan,GPE
+8,118,126,Leonardo,PERSON
+8,146,154,Lodovico,PERSON
+8,161,173,Massimiliano,PERSON
+8,242,251,Francesco,PERSON
+9,30,38,Leonardo,PERSON
+9,54,59,Milan,GPE
+9,104,112,Leonardo,PERSON
+10,43,50,Madonna,PERSON
+10,73,79,Christ,PERSON
+10,328,336,Leonardo,PERSON
+10,406,413,Madonna,PERSON
+10,816,823,S. John,PERSON
+10,896,903,S. Anne,PERSON
+10,1027,1035,Leonardo,PERSON
+11,0,8,Leonardo,PERSON
+11,35,57,Francesco del Giocondo,PERSON
+11,230,243,Fontainebleau,ORG
+12,11,15,Rome,GPE
+13,10,18,Leonardo,PERSON
+13,152,169,Niccolo Piccinino,PERSON
+14,33,61,Baldassarre Turini da Pescia,PERSON
+15,31,44,Marco Oggioni,PERSON
+15,62,81,S. Maria della Pace,PERSON
+16,14,22,Leonardo,PERSON
+16,202,209,Bologna,GPE
+16,275,294,S. John the Baptist,PERSON
+16,296,308,S. Sebastian,PERSON
+16,482,490,Leonardo,PERSON
+17,44,51,Cimabue,PERSON
+17,100,106,Assisi,GPE
+17,118,124,Umbria,GPE
+17,185,207,Church of S. Francesco,ORG
+17,296,306,S. Francis,PERSON
+18,103,114,Vallombrosa,PERSON
+18,162,181,S. John the Baptist,PERSON
+18,183,204,S. Giovanni Gualberto,PERSON
+18,222,227,Order,ORG
+18,229,244,S. Michelagnolo,PERSON
+18,250,261,S. Bernardo,PERSON
+18,292,297,Order,ORG
+19,14,26,Michelagnolo,PERSON
+20,141,148,Antonio,PERSON
+20,153,173,Piero del Pollaiuolo,PERSON
+21,23,33,Ognissanti,PERSON
+21,93,101,Vespucci,PERSON
+21,231,251,Domenico Ghirlandajo,PERSON
+22,121,129,Castello,GPE
+22,290,295,Venus,PERSON
+23,84,90,Pallas,PERSON
+25,68,77,Boccaccio,PERSON
+25,88,109,Nastagio degli Onesti,PERSON
+25,186,194,Epiphany,WORK_OF_ART
+26,13,19,Sandro,PERSON
+27,140,151,S. Nicholas,PERSON
+28,40,45,Piero,PERSON
+28,200,210,S. Filippo,PERSON
+29,102,113,S. Margaret,PERSON
+30,0,5,Piero,PERSON
+30,29,44,Filippo Strozzi,PERSON
+30,79,86,Perseus,PERSON
+30,98,107,Andromeda,PERSON
+31,46,51,Venus,LOC
+31,60,64,Mars,LOC
+31,257,261,Mars,LOC
+31,364,369,Venus,LOC
+32,4,21,Giovanni Vespucci,PERSON
+32,61,75,Piero Salviati,PERSON
+33,0,5,Piero,PERSON
+33,33,55,Francesco da San Gallo,PERSON
+33,126,131,Piero,PERSON
+33,147,156,Francesco,PERSON
+33,189,194,Piero,PERSON
+33,245,254,Cleopatra,PERSON
+33,327,335,Giuliano,PERSON
+33,370,389,Francesco Giamberti,PERSON
