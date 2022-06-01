@@ -217,8 +217,8 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 15,16,25,disciples,MISC,Q385586,0
 15,31,44,Marco Oggioni,PER,Q982274,1
 15,62,81,S. Maria della Pace,LOC,Q3673878,1
-15,87,106,Passing of Our Lady,MISC,Q1245512,1
-15,115,142,Marriage of Cana in Galilee,MISC,Q625140,1
+15,87,106,Passing of Our Lady,MISC,OOV,1
+15,115,142,Marriage of Cana in Galilee,MISC,Q32066758,1
 16,2,10,disciple,MISC,Q385586,0
 16,14,22,Leonardo,PER,Q762,1
 16,27,61,Giovan Antonio Boltraffio of Milan,PER,Q442528,1
