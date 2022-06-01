@@ -242,7 +242,7 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 19,25,49,Giovanantonio Boltraffio,PER,Q442528,1
 19,104,117,Marco Uggioni,PER,Q982274,1
 19,126,148,Santa Maria della Pace,LOC,Q3673878,1
-19,157,181,Transito di Nostra Donna,MISC,Q1245512,1
+19,157,181,Transito di Nostra Donna,MISC,OOV,1
 19,187,207,Nozze di Canagalilee,MISC,Q32066758,1
 19,60,67,persona,MISC,Q215627,0
 20,11,19,facciata,MISC,Q183061,0
