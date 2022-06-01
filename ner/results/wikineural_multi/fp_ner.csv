@@ -13,7 +13,6 @@ id,start_pos,end_pos,surface,type,score
 12,71,74,Leo,PER,0.9805617
 13,187,194,Filippo,PER,0.7583911
 13,198,203,Milan,LOC,0.9920332
-14,26,61,Messer Baldassarre Turini da Pescia,PER,0.96293485
 14,86,89,Leo,PER,0.7511637
 14,115,127,Madonna with,PER,0.5121269
 14,128,137,the Child,MISC,0.44199583
@@ -26,7 +25,6 @@ id,start_pos,end_pos,surface,type,score
 18,183,184,S,PER,0.6117696
 18,186,204,Giovanni Gualberto,PER,0.93260324
 19,60,65,Roman,MISC,0.57365686
-19,82,101,Messer Jacopo Galli,PER,0.99000275
 22,147,153,Cosimo,PER,0.9850932
 22,187,192,Venus,PER,0.93101716
 23,39,45,Medici,PER,0.97800726

@@ -52,6 +52,7 @@ id,start_pos,end_pos,surface,type,score
 13,77,90,Sala del Papa,LOC,0.9980772
 13,108,124,S. Maria Novella,LOC,0.98888224
 13,152,169,Niccolo Piccinino,PER,0.99392146
+14,26,61,Messer Baldassarre Turini da Pescia,PER,0.96293485
 15,31,44,Marco Oggioni,PER,0.9999027
 15,62,81,S. Maria della Pace,LOC,0.9954999
 15,87,106,Passing of Our Lady,MISC,0.9292185
@@ -74,6 +75,7 @@ id,start_pos,end_pos,surface,type,score
 18,250,261,S. Bernardo,PER,0.7152624
 18,292,297,Order,ORG,0.5076181
 19,14,26,Michelagnolo,PER,0.9509802
+19,82,101,Messer Jacopo Galli,PER,0.99000275
 19,149,154,Cupid,PER,0.34225163
 19,206,213,Bacchus,PER,0.7450903
 20,48,57,Fortitude,LOC,0.34282863

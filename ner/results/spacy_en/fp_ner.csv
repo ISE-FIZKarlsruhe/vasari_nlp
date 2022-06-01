@@ -17,6 +17,7 @@ id,start_pos,end_pos,surface,type
 12,71,74,Leo,PERSON
 13,73,90,the Sala del Papa,FAC
 13,198,203,Milan,GPE
+14,33,61,Baldassarre Turini da Pescia,PERSON
 14,86,89,Leo,PERSON
 14,115,122,Madonna,PERSON
 15,83,106,the Passing of Our Lady,WORK_OF_ART
@@ -27,7 +28,6 @@ id,start_pos,end_pos,surface,type
 16,238,273,Our Lady with the Child in her arms,WORK_OF_ART
 17,157,162,Greek,NORP
 19,60,65,Roman,NORP
-19,82,101,Messer Jacopo Galli,PERSON
 21,102,116,a S. Augustine,WORK_OF_ART
 21,266,277,a S. Jerome,WORK_OF_ART
 23,39,45,Medici,PERSON

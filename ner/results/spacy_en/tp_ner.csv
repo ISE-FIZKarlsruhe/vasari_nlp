@@ -36,7 +36,6 @@ id,start_pos,end_pos,surface,type
 12,11,15,Rome,GPE
 13,10,18,Leonardo,PERSON
 13,152,169,Niccolo Piccinino,PERSON
-14,33,61,Baldassarre Turini da Pescia,PERSON
 15,31,44,Marco Oggioni,PERSON
 15,62,81,S. Maria della Pace,PERSON
 16,14,22,Leonardo,PERSON
@@ -57,6 +56,7 @@ id,start_pos,end_pos,surface,type
 18,250,261,S. Bernardo,PERSON
 18,292,297,Order,ORG
 19,14,26,Michelagnolo,PERSON
+19,82,101,Messer Jacopo Galli,PERSON
 20,141,148,Antonio,PERSON
 20,153,173,Piero del Pollaiuolo,PERSON
 21,23,33,Ognissanti,PERSON
