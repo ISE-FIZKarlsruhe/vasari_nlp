@@ -1,0 +1,79 @@
+id,start_pos,end_pos,surface,type,wb_id,named_entity
+2,136,152,King of Portugal,PER,Q51711012,1
+2,185,201,Earthly Paradise,MISC,Q19014,1
+3,96,112,Pope Clement VII,PER,Q83159,1
+4,41,62,Palace of Duke Cosimo,MISC,Q911047,1
+6,32,53,Adoration of the Magi,MISC,Q488841,1
+6,130,152,house of Amerigo Benci,MISC,Q16586386,1
+6,167,185,Loggia de' Peruzzi,LOC,Q20008396,1
+7,34,54,Friars of S. Dominic,ORG,Q131479,1
+7,59,80,S. Maria delle Grazie,LOC,Q244952,1
+7,84,95,Last Supper,MISC,Q51633,1
+7,160,168,Apostles,PER,Q4155679,1
+7,227,233,Christ,PER,Q302,1
+7,339,345,Christ,PER,Q302,1
+8,51,62,Last Supper,MISC,Q51633,1
+8,91,98,Passion,MISC,Q623306,1
+8,219,235,Duchess Beatrice,PER,Q813280,1
+8,301,315,Dukes of Milan,PER,Q692686,1
+9,78,92,King of France,PER,Q18384454; Q60835574,1
+10,57,64,S. Anne,PER,Q164294,1
+10,526,542,Mother of Christ,PER,Q345,1
+10,639,645,Virgin,PER,Q345,1
+10,707,710,Son,PER,Q1141210,1
+11,63,85,portrait of Monna Lisa,MISC,Q12418,1
+11,203,225,King Francis of France,PER,Q129857,1
+12,21,45,Duke Giuliano de' Medici,PER,Q333340,1
+12,66,74,Pope Leo,PER,Q49237,1
+13,77,90,Sala del Papa,LOC,Q3657394,1
+13,108,124,S. Maria Novella,LOC,Q51175,1
+13,182,203,Duke Filippo of Milan,PER,Q289285,1
+14,81,89,Pope Leo,PER,Q49237,1
+14,115,137,Madonna with the Child,MISC,Q9309699,1
+14,26,61,Messer Baldassarre Turini da Pescia,PER,Q3633263,1
+15,87,106,Passing of Our Lady,MISC,OOV,1
+15,115,142,Marriage of Cana in Galilee,MISC,Q32066758,1
+16,27,61,Giovan Antonio Boltraffio of Milan,PER,Q442528,1
+16,166,192,Church of the Misericordia,LOC,OOV,1
+16,238,261,Our Lady with the Child,MISC,Q9309699,1
+17,263,283,life of Jesus Christ,MISC,Q4923891,1
+19,149,154,Cupid,MISC,Q5011,1
+19,206,213,Bacchus,MISC,Q645312,1
+20,48,57,Fortitude,MISC,Q605035,1
+20,65,76,Mercatanzia,LOC,Q3998632,1
+20,80,88,Florence,LOC,Q2044,1
+20,112,119,Virtues,MISC,Q904802,1
+21,104,116,S. Augustine,PER,Q8018,1
+21,268,277,S. Jerome,PER,Q44248,1
+22,142,153,Duke Cosimo,PER,Q48547,1
+22,178,192,birth of Venus,MISC,Q19760026,1
+22,205,210,Winds,MISC,Q476682,1
+22,215,222,Zephyrs,MISC,Q467515,1
+22,261,267,Cupids,MISC,Q5011,1
+22,306,312,Graces,MISC,Q184353,1
+23,26,45,house of the Medici,MISC,Q911047,1
+23,54,67,elder Lorenzo,PER,Q932292,1
+23,197,209,S. Sebastian,PER,Q183332,1
+24,3,32,S. Maria Maggiore in Florence,LOC,Q849356,1
+24,45,70,Chapel of the Panciatichi,LOC,OOV,1
+24,98,103,Pietà,MISC,Q223689,1
+25,7,25,house of the Pucci,LOC,Q3360912,1
+26,175,191,S. Maria Novella,LOC,Q51175,1
+26,273,294,Adoration of the Magi,MISC,Q488841,1
+26,373,381,Our Lord,PER,Q190,1
+27,12,34,Chapel of Gino Capponi,LOC,Q3657333,1
+27,43,75,Church of S. Spirito at Florence,LOC,Q1519975,1
+27,111,133,Visitation of Our Lady,MISC,Q691810,1
+27,159,169,S. Anthony,PER,Q170547,1
+28,94,122,Church of the Servite Friars,MISC,Q2287001,1
+28,131,152,Chapel of the Tedaldi,MISC,OOV,1
+28,258,266,Our Lady,PER,Q345,1
+28,346,352,Heaven,MISC,Q4489450,1
+28,395,398,Son,PER,Q1141210,1
+28,421,432,Holy Spirit,MISC,Q37302,1
+29,144,150,Dragon,MISC,Q7559,1
+31,153,158,Loves,MISC,Q121973,1
+31,298,303,Cupid,MISC,Q5011,1
+31,395,399,Love,MISC,Q121973,1
+32,89,99,S. Michele,LOC,OOV,1
+32,108,121,Via de' Servi,LOC,Q3556508,1

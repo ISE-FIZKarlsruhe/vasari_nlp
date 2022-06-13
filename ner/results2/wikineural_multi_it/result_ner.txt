@@ -1,0 +1,13 @@
+True Positives: 48
+
+False Positives: 67
+
+False Negatives: 74
+
+Precision: 0.41739130434782606
+
+Recall: 0.39344262295081966
+
+F1: 0.4050632911392405
+
+41 matched types out of 48 true positives

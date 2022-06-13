@@ -1,0 +1,54 @@
+id,start_pos,end_pos,surface,type,wb_id,named_entity
+1,160,167,S. John,PER,Q40662,1
+2,136,152,King of Portugal,PER,Q51711012,1
+3,96,112,Pope Clement VII,PER,Q83159,1
+4,41,62,Palace of Duke Cosimo,MISC,Q911047,1
+6,130,152,house of Amerigo Benci,MISC,Q16586386,1
+7,34,54,Friars of S. Dominic,ORG,Q131479,1
+7,59,80,S. Maria delle Grazie,LOC,Q244952,1
+8,91,98,Passion,MISC,Q623306,1
+8,219,235,Duchess Beatrice,PER,Q813280,1
+8,301,315,Dukes of Milan,PER,Q692686,1
+9,78,92,King of France,PER,Q18384454; Q60835574,1
+10,57,64,S. Anne,PER,Q164294,1
+10,707,710,Son,PER,Q1141210,1
+10,816,823,S. John,PER,Q40662,1
+10,896,903,S. Anne,PER,Q164294,1
+11,63,85,portrait of Monna Lisa,MISC,Q12418,1
+11,203,225,King Francis of France,PER,Q129857,1
+12,21,45,Duke Giuliano de' Medici,PER,Q333340,1
+12,66,74,Pope Leo,PER,Q49237,1
+13,108,124,S. Maria Novella,LOC,Q51175,1
+13,182,203,Duke Filippo of Milan,PER,Q289285,1
+14,115,137,Madonna with the Child,MISC,Q9309699,1
+15,62,81,S. Maria della Pace,LOC,Q3673878,1
+15,87,106,Passing of Our Lady,MISC,OOV,1
+15,115,142,Marriage of Cana in Galilee,MISC,Q32066758,1
+16,27,61,Giovan Antonio Boltraffio of Milan,PER,Q442528,1
+16,238,261,Our Lady with the Child,MISC,Q9309699,1
+17,185,207,Church of S. Francesco,LOC,Q207486,1
+17,263,283,life of Jesus Christ,MISC,Q4923891,1
+17,296,306,S. Francis,PER,Q676555,1
+18,162,181,S. John the Baptist,PER,Q40662,1
+21,104,116,S. Augustine,PER,Q8018,1
+21,268,277,S. Jerome,PER,Q44248,1
+22,142,153,Duke Cosimo,PER,Q48547,1
+22,178,192,birth of Venus,MISC,Q19760026,1
+23,26,45,house of the Medici,MISC,Q911047,1
+23,54,67,elder Lorenzo,PER,Q932292,1
+23,197,209,S. Sebastian,PER,Q183332,1
+24,3,32,S. Maria Maggiore in Florence,LOC,Q849356,1
+25,7,25,house of the Pucci,LOC,Q3360912,1
+26,175,191,S. Maria Novella,LOC,Q51175,1
+26,273,294,Adoration of the Magi,MISC,Q488841,1
+26,373,381,Our Lord,PER,Q190,1
+27,12,34,Chapel of Gino Capponi,LOC,Q3657333,1
+27,43,75,Church of S. Spirito at Florence,LOC,Q1519975,1
+27,111,133,Visitation of Our Lady,MISC,Q691810,1
+27,140,151,S. Nicholas,PER,Q44269,1
+27,159,169,S. Anthony,PER,Q170547,1
+28,200,210,S. Filippo,PER,Q141900,1
+28,395,398,Son,PER,Q1141210,1
+29,102,113,S. Margaret,PER,Q297742,1
+31,364,369,Venus,MISC,Q47652,1
+32,89,99,S. Michele,LOC,OOV,1

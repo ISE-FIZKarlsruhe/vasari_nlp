@@ -83,7 +83,7 @@ def eval_ner(path_data, path_model, lang):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_ner(path_data="../../data/", path_model="../results/wikineural_dict/", lang="en")
+eval_ner(path_data="../vasari-kg.github.io/data/", path_model="results/wikineural_multi_it/", lang="it")
 
 
 

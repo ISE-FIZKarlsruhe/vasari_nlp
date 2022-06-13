@@ -1,0 +1,402 @@
+id,start_pos,end_pos,surface,type
+1,46,53,boyhood,MISC
+1,74,83,Ser Piero,PER
+1,94,97,art,MISC
+1,103,124,Andrea del Verrocchio,PER
+1,160,167,S. John,PER
+1,178,184,Christ,PER
+1,191,199,Leonardo,PER
+1,211,216,angel,MISC
+1,238,246,garments,MISC
+1,274,277,lad,MISC
+1,279,287,Leonardo,PER
+1,310,316,manner,MISC
+1,326,331,angel,MISC
+1,357,364,figures,MISC
+1,368,374,Andrea,PER
+1,390,396,reason,MISC
+1,402,408,Andrea,PER
+1,433,439,colour,MISC
+1,459,464,child,MISC
+2,30,37,cartoon,MISC
+2,84,92,Flanders,LOC
+2,103,107,gold,MISC
+2,112,116,silk,MISC
+2,185,201,Earthly Paradise,MISC
+2,211,219,Leonardo,PER
+2,234,239,brush,MISC
+2,243,254,chiaroscuro,MISC
+2,265,271,lights,MISC
+2,289,295,meadow,MISC
+2,317,324,herbage,MISC
+2,336,343,animals,MISC
+2,389,398,diligence,MISC
+2,403,408,truth,MISC
+2,412,418,nature,MISC
+2,358,363,truth,MISC
+3,0,8,Leonardo,PER
+3,21,28,picture,MISC
+3,32,40,Our Lady,PER
+3,59,63,work,MISC
+3,82,92,possession,MISC
+3,180,184,vase,MISC
+3,131,137,things,MISC
+3,193,198,water,MISC
+3,216,223,flowers,MISC
+3,258,269,naturalness,MISC
+3,308,315,flowers,MISC
+3,354,361,reality,MISC
+4,21,33,works of art,MISC
+4,41,62,Palace of Duke Cosimo,LOC
+4,82,86,head,MISC
+4,93,98,angel,MISC
+4,130,133,air,MISC
+4,184,192,shoulder,MISC
+4,200,205,elbow,MISC
+4,240,244,hand,MISC
+4,252,258,breast,MISC
+5,4,17,Antonio Segni,PER
+5,41,47,friend,MISC
+5,63,77,sheet of paper,MISC
+5,81,88,Neptune,MISC
+6,32,53,Adoration of the Magi,MISC
+6,81,87,things,MISC
+6,106,111,heads,MISC
+6,167,185,Loggia de'Peruzzi,LOC
+6,239,244,works,MISC
+7,19,24,Milan,LOC
+7,34,54,Friars of S. Dominic,MISC
+7,59,80,S. Maria delle Grazie,LOC
+7,84,95,Last Supper,MISC
+7,129,134,thing,MISC
+7,147,152,heads,MISC
+7,160,168,Apostles,PER
+7,194,200,beauty,MISC
+7,219,223,head,MISC
+7,227,233,Christ,PER
+7,300,303,air,MISC
+7,330,335,image,MISC
+7,339,345,Christ,PER
+8,12,21,refectory,MISC
+8,51,62,Last Supper,MISC
+8,75,79,wall,MISC
+8,91,98,Passion,MISC
+8,110,116,manner,MISC
+8,118,126,Leonardo,PER
+8,146,154,Lodovico,PER
+8,161,173,Massimiliano,PER
+8,186,189,son,MISC
+8,209,213,side,MISC
+8,242,251,Francesco,PER
+8,265,268,son,MISC
+9,30,38,Leonardo,PER
+9,54,59,Milan,LOC
+9,68,72,time,MISC
+9,104,112,Leonardo,PER
+9,148,153,thing,MISC
+9,162,166,lion,MISC
+9,214,220,breast,MISC
+9,244,250,lilies,MISC
+10,7,10,end,MISC
+10,22,29,cartoon,MISC
+10,43,50,Madonna,PER
+10,57,64,S. Anne,PER
+10,73,79,Christ,PER
+10,111,120,craftsmen,MISC
+10,159,162,men,MISC
+10,167,172,women,MISC
+10,227,232,sight,MISC
+10,246,250,room,MISC
+10,283,291,festival,MISC
+10,328,336,Leonardo,PER
+10,361,367,people,MISC
+10,393,397,face,MISC
+10,406,413,Madonna,PER
+10,471,481,simplicity,MISC
+10,486,492,beauty,MISC
+10,500,505,grace,MISC
+10,511,518,picture,MISC
+10,526,542,Mother of Christ,PER
+10,573,580,modesty,MISC
+10,590,598,humility,MISC
+10,626,631,image,MISC
+10,639,645,Virgin,PER
+10,670,678,gladness,MISC
+10,707,710,Son,PER
+10,756,759,lap,MISC
+10,738,748,tenderness,MISC
+10,787,791,gaze,MISC
+10,816,823,S. John,PER
+10,837,840,boy,MISC
+10,865,869,lamb,MISC
+10,885,890,smile,MISC
+10,896,903,S. Anne,PER
+10,927,930,joy,MISC
+10,958,965,progeny,MISC
+10,981,986,ideas,MISC
+10,1007,1012,brain,MISC
+10,1017,1023,genius,MISC
+10,1027,1035,Leonardo,PER
+11,0,8,Leonardo,PER
+11,35,57,Francesco del Giocondo,PER
+11,91,95,wife,MISC
+11,170,174,work,MISC
+11,189,199,collection,MISC
+11,230,243,Fontainebleau,LOC
+12,11,15,Rome,LOC
+12,149,156,alchemy,MISC
+12,175,180,paste,MISC
+12,194,198,kind,MISC
+12,202,205,wax,MISC
+12,230,237,animals,MISC
+12,260,264,wind,MISC
+12,319,322,air,MISC
+12,337,341,wind,MISC
+12,366,372,ground,MISC
+13,10,18,Leonardo,PER
+13,48,52,work,MISC
+13,62,69,cartoon,MISC
+13,77,90,Sala del Papa,LOC
+13,108,124,S. Maria Novella,LOC
+13,95,104,apartment,MISC
+13,143,148,story,MISC
+13,152,169,Niccolo Piccinino,PER
+13,171,178,captain,MISC
+13,236,244,horsemen,MISC
+13,269,277,standard,MISC
+13,281,285,work,MISC
+13,346,352,reason,MISC
+13,334,341,mastery,MISC
+13,371,376,ideas,MISC
+13,407,413,battle,MISC
+14,16,20,time,MISC
+14,71,77,datary,MISC
+14,100,107,picture,MISC
+14,145,149,arms,MISC
+14,165,174,diligence,MISC
+14,179,182,art,MISC
+14,208,213,fault,MISC
+14,247,252,gesso,MISC
+14,236,241,panel,MISC
+14,299,307,mixtures,MISC
+14,323,330,colours,MISC
+14,26,61,Messer Baldassarre Turini da Pescia,PER
+15,16,25,disciples,MISC
+15,31,44,Marco Oggioni,PER
+15,62,81,S. Maria della Pace,LOC
+15,87,106,Passing of Our Lady,MISC
+16,2,10,disciple,MISC
+16,14,22,Leonardo,PER
+16,65,71,person,MISC
+16,81,86,skill,MISC
+16,91,104,understanding,MISC
+16,147,156,diligence,MISC
+16,166,192,Church of the Misericordia,LOC
+16,202,209,Bologna,LOC
+16,238,261,Our Lady with the Child,PER
+16,269,273,arms,MISC
+16,275,294,S. John the Baptist,PER
+16,296,308,S. Sebastian,PER
+16,324,330,patron,MISC
+16,380,384,life,MISC
+16,393,398,knees,MISC
+16,418,422,work,MISC
+16,446,450,name,MISC
+16,470,478,disciple,MISC
+16,482,490,Leonardo,PER
+17,3,9,reason,MISC
+17,19,24,works,MISC
+17,36,40,name,MISC
+17,44,51,Cimabue,PER
+17,100,106,Assisi,LOC
+17,118,124,Umbria,LOC
+17,185,207,Church of S. Francesco,LOC
+17,232,240,vaulting,MISC
+17,253,258,walls,MISC
+17,296,306,S. Francis,PER
+18,21,25,work,MISC
+18,103,114,Vallombrosa,LOC
+18,153,160,figures,MISC
+18,162,181,S. John the Baptist,PER
+18,206,213,founder,MISC
+18,222,227,Order,ORG
+18,229,244,S. Michelagnolo,PER
+18,250,261,S. Bernardo,PER
+18,265,273,cardinal,MISC
+18,280,284,monk,MISC
+18,292,297,Order,ORG
+18,316,320,boys,MISC
+18,328,334,centre,MISC
+19,4,10,talent,MISC
+19,14,26,Michelagnolo,PER
+19,66,75,gentleman,MISC
+19,82,101,Messer Jacopo Galli,PER
+19,116,122,person,MISC
+19,149,154,Cupid,PER
+19,158,164,marble,MISC
+19,177,181,life,MISC
+19,194,200,figure,MISC
+19,206,213,Bacchus,PER
+19,240,243,cup,MISC
+19,257,261,hand,MISC
+19,279,283,hand,MISC
+19,321,327,grapes,MISC
+19,346,351,satyr,MISC
+19,288,292,skin,MISC
+19,298,303,tiger,MISC
+20,38,44,figure,MISC
+20,48,57,Fortitude,LOC
+20,65,76,Mercatanzia,LOC
+20,80,88,Florence,LOC
+20,100,108,pictures,MISC
+20,112,119,Virtues,MISC
+20,141,148,Antonio,PER
+20,153,173,Piero del Pollaiuolo,PER
+21,7,15,tramezzo,MISC
+21,23,33,Ognissanti,LOC
+21,42,46,door,MISC
+21,67,72,choir,MISC
+21,93,101,Vespucci,PER
+21,104,116,S. Augustine,PER
+21,192,200,painters,MISC
+21,158,163,pains,MISC
+21,208,212,time,MISC
+21,231,251,Domenico Ghirlandajo,PER
+21,268,277,S. Jerome,PER
+21,291,295,side,MISC
+21,306,310,work,MISC
+21,326,332,praise,MISC
+21,345,349,head,MISC
+21,358,363,Saint,PER
+21,389,399,meditation,MISC
+21,410,418,subtlety,MISC
+21,437,440,men,MISC
+21,444,450,wisdom,MISC
+21,484,497,investigation,MISC
+22,12,18,houses,MISC
+22,34,38,city,MISC
+22,56,64,pictures,MISC
+22,121,129,Castello,LOC
+22,133,138,villa,MISC
+22,205,210,Winds,PER
+22,215,222,Zephyrs,PER
+22,245,250,earth,MISC
+22,261,267,Cupids,PER
+22,290,295,Venus,PER
+22,306,312,Graces,PER
+22,331,338,flowers,MISC
+22,345,351,symbol,MISC
+22,355,361,spring,MISC
+23,84,90,Pallas,PER
+23,96,102,device,MISC
+23,112,120,branches,MISC
+23,142,146,fire,MISC
+23,179,183,life,MISC
+23,197,209,S. Sebastian,PER
+24,45,70,Chapel of the Panciatichi,LOC
+25,60,67,figures,MISC
+25,68,77,Boccaccio,PER
+25,80,84,tale,MISC
+25,88,109,Nastagio degli Onesti,PER
+25,125,133,pictures,MISC
+25,165,176,workmanship,MISC
+25,186,194,Epiphany,PER
+25,206,213,picture,MISC
+26,13,19,Sandro,PER
+26,55,60,panel,MISC
+26,66,73,figures,MISC
+26,142,147,doors,MISC
+27,12,34,Chapel of Gino Capponi,LOC
+27,90,95,panel,MISC
+27,111,133,Visitation of Our Lady,MISC
+27,140,151,S. Nicholas,PER
+27,159,169,S. Anthony,PER
+27,200,210,spectacles,MISC
+27,218,222,nose,MISC
+27,240,246,figure,MISC
+28,40,45,Piero,PER
+28,81,86,panel,MISC
+28,94,122,Church of the Servite Friars,LOC
+28,64,74,commission,MISC
+28,131,152,Chapel of the Tedaldi,LOC
+28,174,181,garment,MISC
+28,190,196,pillow,MISC
+28,200,210,S. Filippo,PER
+28,231,236,Order,MISC
+28,258,266,Our Lady,PER
+28,293,299,ground,MISC
+28,305,313,pedestal,MISC
+28,333,337,head,MISC
+28,346,352,Heaven,MISC
+28,361,365,book,MISC
+28,373,377,hand,MISC
+28,395,398,Son,MISC
+28,451,456,light,MISC
+29,7,15,predella,MISC
+29,39,45,scenes,MISC
+29,102,113,S. Margaret,PER
+29,144,150,Dragon,PER
+29,264,268,kind,MISC
+29,294,298,eyes,MISC
+29,310,315,venom,MISC
+29,317,321,fire,MISC
+29,327,332,death,MISC
+30,0,5,Piero,PER
+30,29,44,Filippo Strozzi,PER
+30,48,55,picture,MISC
+30,68,75,figures,MISC
+30,79,86,Perseus,PER
+30,98,107,Andromeda,PER
+30,117,124,Monster,PER
+30,159,165,things,MISC
+31,46,51,Venus,PER
+31,60,64,Mars,LOC
+31,102,108,meadow,MISC
+31,117,124,flowers,MISC
+31,153,158,Loves,PER
+31,210,216,helmet,MISC
+31,218,225,armlets,MISC
+31,247,253,armour,MISC
+31,257,261,Mars,LOC
+31,283,289,myrtle,MISC
+31,298,303,Cupid,PER
+31,324,330,rabbit,MISC
+31,395,399,Love,MISC
+32,4,21,Giovanni Vespucci,PER
+32,38,43,house,MISC
+32,61,75,Piero Salviati,PER
+32,89,99,S. Michele,LOC
+32,108,121,Via de'Servi,LOC
+32,153,159,scenes,MISC
+32,180,189,apartment,MISC
+32,220,225,fauns,MISC
+32,227,233,satyrs,MISC
+32,242,246,gods,MISC
+32,255,259,boys,MISC
+32,265,275,bacchanals,MISC
+32,308,317,diversity,MISC
+32,325,335,bay horses,MISC
+32,340,348,garments,MISC
+32,358,365,variety,MISC
+32,411,416,grace,MISC
+32,441,447,nature,MISC
+32,432,437,truth,MISC
+33,0,5,Piero,PER
+33,8,16,portrait,MISC
+33,33,55,Francesco da San Gallo,PER
+33,74,80,friend,MISC
+33,94,103,companion,MISC
+33,126,131,Piero,PER
+33,147,156,Francesco,PER
+33,181,185,hand,MISC
+33,189,194,Piero,PER
+33,169,173,work,MISC
+33,237,241,head,MISC
+33,245,254,Cleopatra,PER
+33,264,267,asp,MISC
+33,284,288,neck,MISC
+33,298,307,portraits,MISC
+33,327,335,Giuliano,PER
+33,358,369,grandfather,MISC
+33,370,389,Francesco Giamberti,PER
+33,320,326,father,MISC

@@ -1,0 +1,68 @@
+id,start_pos,end_pos,surface,type
+1,35,58,Mercatanzia di Fiorenza,LOC
+1,104,111,Antonio,PER
+1,114,134,Piero del Pollaiuolo,PER
+3,8,14,Medici,PER
+3,74,81,Pallade,PER
+3,183,196,S. Sebastiano,PER
+3,200,219,Santa Maria Maggior,LOC
+3,223,231,Fiorenza,LOC
+4,269,288,Adorazione de'Magi,MISC
+4,361,375,Nostro Signore,PER
+5,49,56,Tedaldi,LOC
+5,84,89,Servi,LOC
+5,139,146,Filippo,PER
+5,179,185,Nostra,PER
+5,186,196,Donnaritta,MISC
+5,267,276,Figliuolo,PER
+5,327,340,Spirito Santo,PER
+6,159,194,chiesa di Santo Spirito di Fiorenza,LOC
+6,220,232,Gino Capponi,PER
+6,266,293,Visitazione di Nostra Donna,MISC
+6,299,310,San Nicolao,PER
+6,317,330,Santo Antonio,PER
+7,38,44,Venere,PER
+7,59,64,Marte,PER
+7,153,158,Amori,PER
+7,241,246,Marte,PER
+7,279,285,Cupido,PER
+7,344,350,Venere,PER
+7,371,376,Amore,PER
+8,12,27,Giovan Vespucci,PER
+8,52,62,S. Michele,LOC
+8,79,84,Servi,LOC
+8,94,107,Pier Salviati,PER
+10,307,310,And,PER
+10,333,341,Lionardo,PER
+11,161,169,Paradiso,LOC
+11,212,220,Lionardo,PER
+14,35,38,San,PER
+14,39,47,Domenico,LOC
+14,197,203,Cristo,PER
+14,295,301,Cristo,PER
+16,63,72,Mona Lisa,PER
+16,167,190,Re Francesco di Francia,PER
+16,194,205,Fontanableo,LOC
+17,90,109,Santa Maria Novella,LOC
+17,133,151,Niccolò Piccinino,PER
+17,165,187,Duca Filippo di Milano,PER
+18,0,4,Lion,PER
+18,44,51,Francia,LOC
+18,162,172,Santa Anna,PER
+19,16,49,Lionardo Giovanantonio Boltraffio,PER
+19,157,207,Transito di Nostra Donna e le Nozze di Canagalilee,MISC
+20,48,67,Santa Caterina mart,PER
+22,80,101,Bartolomeo da Bergamo,PER
+22,198,204,Senato,ORG
+22,286,317,piazza di Santo Giovanni e Polo,LOC
+22,340,346,Andrea,PER
+22,364,370,Italia,LOC
+22,416,424,Fiorenza,LOC
+22,441,448,Venezia,LOC
+23,103,111,Castello,LOC
+23,123,134,Duca Cosimo,PER
+23,145,153,Fiorenza,LOC
+23,187,193,Venere,PER
+23,290,296,Venere,PER
+23,304,310,Grazie,MISC
+23,339,348,Primavera,MISC
