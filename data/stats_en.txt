@@ -1,0 +1,14 @@
+Sentences: 33
+Total entities in evaluation data: 481
+Average entities per sentence: 14.575757575757576
+Maximum occurrence of entity in data: 13
+Minimum occurrence of entity in data: 1
+Entities with maximum occurrence: ['Q762']
+Entities with minimum occurrence: 232
+Average occurrence per entity: 1.5566343042071198
+Entities Out Of Vocabulary: 10
+Entities with type PER: 96
+Entities with type ORG: 1
+Entities with type LOC: 27
+Entities with type MISC: 356
+Named entities are: 168
