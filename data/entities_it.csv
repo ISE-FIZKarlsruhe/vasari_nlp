@@ -638,8 +638,6 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 
 25,24,37,Pier Soderini,PER,Q289104,1
 
-25,54,60,scudi,MISC,Q2117831,0
-
 25,80,90,anno Mpiii,DATE,Q6141,1
 
 25,166,178,Gonfalonieri,MISC,Q913260,0
