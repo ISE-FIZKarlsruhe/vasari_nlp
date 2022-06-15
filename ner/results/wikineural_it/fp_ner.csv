@@ -1,0 +1,36 @@
+id,start_pos,end_pos,surface,type
+1,35,58,Mercatanzia di Fiorenza,LOC
+3,8,14,Medici,PER
+3,199,218,Santa Maria Maggior,LOC
+3,222,230,Fiorenza,LOC
+4,360,366,Nostro,PER
+4,367,374,Signore,PER
+5,36,44,cappella,LOC
+5,49,56,Tedaldi,LOC
+5,84,89,Servi,LOC
+5,139,146,Filippo,PER
+5,179,185,Nostra,PER
+5,186,196,Donnaritta,MISC
+6,218,230,Gino Capponi,PER
+8,51,81,S. Michele della via de ’ Servi,LOC
+10,305,308,And,PER
+11,104,109,Re di,PER
+11,110,120,Portogallo,LOC
+14,35,38,San,PER
+14,39,47,Domenico,LOC
+16,63,72,Mona Lisa,PER
+16,165,167,Re,PER
+16,168,188,Francesco di Francia,PER
+18,160,170,Santa Anna,PER
+19,16,49,Lionardo Giovanantonio Boltraffio,PER
+19,157,207,Transito di Nostra Donna e le Nozze di Canagalilee,MISC
+20,48,67,Santa Caterina mart,PER
+25,85,86,M,PER
+25,166,168,Go,PER
+25,182,187,David,PER
+25,408,421,Miniato Pitti,PER
+25,425,438,Monte Oliveto,LOC
+29,277,283,Nostra,PER
+29,284,289,Donna,MISC
+30,0,2,Ol,LOC
+30,149,153,Roma,LOC

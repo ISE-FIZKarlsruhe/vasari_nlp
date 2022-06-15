@@ -8,18 +8,24 @@ id,start_pos,end_pos,surface,type
 1,368,374,Andrea,PER
 1,402,408,Andrea,PER
 2,84,92,Flanders,LOC
-2,157,161,Adam,PER
-2,166,169,Eve,PER
+2,185,201,Earthly Paradise,MISC
 2,211,219,Leonardo,PER
 3,0,8,Leonardo,PER
-3,32,40,Our Lady,MISC
+3,32,40,Our Lady,PER
 4,41,62,Palace of Duke Cosimo,LOC
 5,4,17,Antonio Segni,PER
 5,81,88,Neptune,MISC
 6,32,53,Adoration of the Magi,MISC
-6,167,185,Loggia de' Peruzzi,MISC
+6,167,185,Loggia de'Peruzzi,LOC
 7,19,24,Milan,LOC
+7,34,54,Friars of S. Dominic,MISC
+7,59,80,S. Maria delle Grazie,LOC
+7,84,95,Last Supper,MISC
+7,160,168,Apostles,PER
+7,227,233,Christ,PER
+7,339,345,Christ,PER
 8,51,62,Last Supper,MISC
+8,91,98,Passion,MISC
 8,118,126,Leonardo,PER
 8,146,154,Lodovico,PER
 8,161,173,Massimiliano,PER
@@ -32,74 +38,95 @@ id,start_pos,end_pos,surface,type
 10,73,79,Christ,PER
 10,328,336,Leonardo,PER
 10,406,413,Madonna,PER
+10,526,542,Mother of Christ,PER
+10,639,645,Virgin,PER
+10,707,710,Son,PER
 10,816,823,S. John,PER
 10,896,903,S. Anne,PER
 10,1027,1035,Leonardo,PER
 11,0,8,Leonardo,PER
 11,35,57,Francesco del Giocondo,PER
-11,230,243,Fontainebleau,MISC
+11,230,243,Fontainebleau,LOC
 12,11,15,Rome,LOC
 13,10,18,Leonardo,PER
 13,77,90,Sala del Papa,LOC
+13,108,124,S. Maria Novella,LOC
 13,152,169,Niccolo Piccinino,PER
+14,26,61,Messer Baldassarre Turini da Pescia,PER
 15,31,44,Marco Oggioni,PER
-15,62,81,S. Maria della Pace,PER
+15,62,81,S. Maria della Pace,LOC
 15,87,106,Passing of Our Lady,MISC
-15,115,142,Marriage of Cana in Galilee,MISC
 16,14,22,Leonardo,PER
-16,166,192,Church of the Misericordia,MISC
+16,166,192,Church of the Misericordia,LOC
 16,202,209,Bologna,LOC
+16,238,261,Our Lady with the Child,PER
 16,275,294,S. John the Baptist,PER
 16,296,308,S. Sebastian,PER
 16,482,490,Leonardo,PER
 17,44,51,Cimabue,PER
 17,100,106,Assisi,LOC
 17,118,124,Umbria,LOC
-17,185,207,Church of S. Francesco,MISC
+17,185,207,Church of S. Francesco,LOC
 17,296,306,S. Francis,PER
-18,103,114,Vallombrosa,PER
+18,103,114,Vallombrosa,LOC
 18,162,181,S. John the Baptist,PER
-18,183,204,S. Giovanni Gualberto,PER
 18,229,244,S. Michelagnolo,PER
 18,250,261,S. Bernardo,PER
 19,14,26,Michelagnolo,PER
 19,82,101,Messer Jacopo Galli,PER
+19,149,154,Cupid,PER
+19,206,213,Bacchus,PER
+20,48,57,Fortitude,LOC
+20,65,76,Mercatanzia,LOC
+20,80,88,Florence,LOC
+20,112,119,Virtues,MISC
 20,141,148,Antonio,PER
 20,153,173,Piero del Pollaiuolo,PER
-21,23,33,Ognissanti,PER
+21,23,33,Ognissanti,LOC
 21,93,101,Vespucci,PER
-21,104,116,S. Augustine,MISC
+21,104,116,S. Augustine,PER
 21,231,251,Domenico Ghirlandajo,PER
-21,268,277,S. Jerome,MISC
+21,268,277,S. Jerome,PER
 22,121,129,Castello,LOC
+22,205,210,Winds,PER
+22,215,222,Zephyrs,PER
+22,261,267,Cupids,PER
 22,290,295,Venus,PER
+22,306,312,Graces,PER
 23,84,90,Pallas,PER
 23,197,209,S. Sebastian,PER
 24,45,70,Chapel of the Panciatichi,LOC
 25,68,77,Boccaccio,PER
 25,88,109,Nastagio degli Onesti,PER
-25,186,194,Epiphany,MISC
+25,186,194,Epiphany,PER
 26,13,19,Sandro,PER
 27,12,34,Chapel of Gino Capponi,LOC
 27,111,133,Visitation of Our Lady,MISC
 27,140,151,S. Nicholas,PER
 27,159,169,S. Anthony,PER
 28,40,45,Piero,PER
-28,94,122,Church of the Servite Friars,MISC
+28,94,122,Church of the Servite Friars,LOC
 28,131,152,Chapel of the Tedaldi,LOC
 28,200,210,S. Filippo,PER
+28,258,266,Our Lady,PER
+28,346,352,Heaven,MISC
+28,395,398,Son,MISC
 29,102,113,S. Margaret,PER
+29,144,150,Dragon,PER
 30,0,5,Piero,PER
 30,29,44,Filippo Strozzi,PER
 30,79,86,Perseus,PER
 30,98,107,Andromeda,PER
-31,46,51,Venus,MISC
-31,60,64,Mars,MISC
-31,257,261,Mars,MISC
-31,364,369,Venus,MISC
+31,46,51,Venus,PER
+31,60,64,Mars,LOC
+31,153,158,Loves,PER
+31,257,261,Mars,LOC
+31,298,303,Cupid,PER
+31,395,399,Love,MISC
 32,4,21,Giovanni Vespucci,PER
 32,61,75,Piero Salviati,PER
-32,108,121,Via de' Servi,LOC
+32,89,99,S. Michele,LOC
+32,108,121,Via de'Servi,LOC
 33,0,5,Piero,PER
 33,33,55,Francesco da San Gallo,PER
 33,126,131,Piero,PER
@@ -108,24 +135,22 @@ id,start_pos,end_pos,surface,type
 33,245,254,Cleopatra,PER
 33,327,335,Giuliano,PER
 33,370,389,Francesco Giamberti,PER
-34,39,66,seventeenth day of February,DATE
-34,75,84,year 1563,DATE
-34,156,160,1564,DATE
 35,35,44,Casentino,LOC
-35,53,62,year 1474,DATE
 35,135,173,Lodovico di Leonardo Buonarroti Simoni,PER
 36,6,18,Michelagnolo,PER
-36,101,105,1529,DATE
-36,328,338,S. Miniato,MISC
+36,328,338,S. Miniato,LOC
 37,72,106,Lodovico di Leonardo di Buonarrota,PER
+37,115,127,Michelagnolo,PER
 37,140,148,Domenico,PER
+37,153,180,David di Tommaso di Currado,PER
 37,260,272,Michelagnolo,PER
+37,471,479,Domenico,PER
 37,484,489,David,PER
 39,146,164,Chapel of the King,LOC
 39,399,411,Michelagnolo,PER
 39,444,450,Vasari,PER
 40,12,24,Michelagnolo,PER
-40,141,150,year 1503,DATE
+40,43,48,Pieta,MISC
 40,186,195,Julius II,PER
 40,231,243,Michelagnolo,PER
 40,322,331,Julius II,PER

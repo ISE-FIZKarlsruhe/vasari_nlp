@@ -1,7 +1,7 @@
 import csv
 
 def get_statistics(path, lang):
-    with open(path+"entities_"+lang+".csv", "r") as f:
+    with open(path+"entities_"+lang+".csv", "r", encoding="utf-8") as f:
         data = list(csv.DictReader(f, delimiter=","))
     f.close()
 
@@ -11,6 +11,7 @@ def get_statistics(path, lang):
     id = 1
     named_entities = 0
     for item in data:
+        print(item)
         if int(item["id"]) != id:
             sentences+=1
             id = int(item["id"])
@@ -50,7 +51,8 @@ def get_statistics(path, lang):
         f.write("Entities with type ORG: "+  str(labels_dict["ORG"])+"\n")   
         f.write("Entities with type LOC: "+ str(labels_dict["LOC"])+"\n")
         f.write("Entities with type MISC: "+ str(labels_dict["MISC"])+"\n")
+        f.write("Entities with type DATW: "+ str(labels_dict["DATE"])+"\n")
         f.write("Named entities are: "+ str(named_entities)+"\n")
     f.close()
 
-get_statistics("../data/", "en") 
+get_statistics("../data/", "it") 

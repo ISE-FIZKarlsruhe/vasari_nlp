@@ -1,0 +1,42 @@
+id,start_pos,end_pos,surface,type,wb_id,named_entity
+1,35,46,Mercatanzia,LOC,Q3998632,1
+1,50,58,Fiorenza,LOC,Q2044,1
+3,3,14,casa Medici,MISC,Q911047,1
+3,182,195,S. Sebastiano,PER,Q183332,1
+5,36,56,cappella de' Tedaldi,LOC,OOV,1
+5,63,89,chiesa de' frati de' Servi,MISC,Q2287001,1
+5,139,156,Filippo lor frate,PER,Q141900,1
+6,158,193,chiesa di Santo Spirito di Fiorenza,LOC,Q1519975,1
+6,206,230,cappella di Gino Capponi,MISC,Q3657333,1
+8,51,61,S. Michele,LOC,OOV,1
+8,68,81,via de� Servi,LOC,Q3556508,1
+9,8,13,Piero,PER,Q280851,1
+10,305,312,And rea,PER,Q183458,1
+11,160,178,Paradiso terrestre,LOC,Q19014,1
+11,134,139,Adamo,PER,Q58701,1
+11,144,147,�va,PER,Q830183,1
+14,26,47,frati di San Domenico,ORG,Q131479,1
+16,6,14,Lionardo,PER,Q762,1
+16,51,72,ritratto di Mona Lisa,MISC,Q12418,1
+17,65,78,sala del papa,LOC,Q3657394,1
+18,146,170,cartone della Santa Anna,MISC,Q2471531,1
+19,16,24,Lionardo,PER,Q762,1
+19,25,49,Giovanantonio Boltraffio,PER,Q442528,1
+20,153,160,ladroni,MISC,Q2258167,1
+20,48,70,Santa Caterina martire,PER,Q179718,1
+22,283,314,piazza di Santo Giovanni e Polo,LOC,Q3654630,1
+22,337,343,Andrea,PER,Q183458,1
+23,144,152,Fiorenza,LOC,Q2044,1
+23,213,217,aure,MISC,Q201411,1
+23,220,225,venti,MISC,Q476682,1
+23,263,268,amori,MISC,Q5011,1
+24,29,47,anno MeccceLxxIIII,DATE,Q3342769,1
+25,80,90,anno Mpiii,DATE,Q6141,1
+25,182,197,David di bronzo,MISC,Q3703163,1
+25,403,438,fra' Miniato Pitti di Monte Oliveto,PER,OOV,1
+26,327,343,anno McccxxxIIII,DATE,Q6007,1
+28,240,249,anno mpxv,DATE,Q6208,1
+29,19,30,mecccLxviII,DATE,Q6564,1
+29,140,148,S. Rocco,PER,Q152457,1
+30,117,129,anno Mpxxvii,DATE,Q6412,1
+30,139,153,rovina di Roma,MISC,Q465627,1

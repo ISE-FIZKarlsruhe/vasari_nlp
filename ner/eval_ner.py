@@ -12,20 +12,21 @@ def eval_ner(path_data, path_model, lang):
     matches = []
 
     for entity1 in data:
-        id1 = int(entity1["id"])
-        start_pos1 = int(entity1["start_pos"])
-        end_pos1 = int(entity1["end_pos"])
-        for entity2 in model_result:
-            id2 = int(entity2["id"])
-            start_pos2 = int(entity2["start_pos"])
-            end_pos2 = int(entity2["end_pos"])
-            if id2 == id1 and start_pos2==start_pos1 \
-                and end_pos2 == end_pos1:
-                matches.append(entity1)
-                tp.append(entity2)
+        if entity1["named_entity"]!="0":
+            id1 = int(entity1["id"])
+            start_pos1 = int(entity1["start_pos"])
+            end_pos1 = int(entity1["end_pos"])
+            for entity2 in model_result:
+                id2 = int(entity2["id"])
+                start_pos2 = int(entity2["start_pos"])
+                end_pos2 = int(entity2["end_pos"])
+                if id2 == id1 and start_pos2==start_pos1 \
+                    and end_pos2 == end_pos1:
+                    matches.append(entity1)
+                    tp.append(entity2)
             
     for entity1 in data:
-        if entity1 not in matches:
+        if entity1 not in matches and entity1["named_entity"]!="0":
             fn.append(entity1)
 
     for entity2 in model_result:
@@ -38,18 +39,20 @@ def eval_ner(path_data, path_model, lang):
 
     matched_types = 0
     for x1, x2 in zip(matches, tp):
-        if path_model!="results/spacy_en/":
-            if x1["type"]==x2["type"]:
-                matched_types += 1
-        else:
-            if x1["type"]=="PER" and x2["type"]=="PERSON":
-                matched_types += 1
-            elif x1["type"]=="MISC" and x2["type"]=="WORK_OF_ART":
-                matched_types += 1
-            elif x1["type"]==x2["type"]:
-                matched_types+=1
-            elif x1["type"]=="LOC" and x2["type"] in {"GPE", "FAC"}:
-                matched_types+=1
+        # if path_model.endswith("spacy_en/") or path_model.endswith("ontonotes_en/"):
+        #     if x1["type"]==x2["type"]:
+        #         matched_types += 1
+        #     if x1["type"]=="PER" and x2["type"]=="PERSON":
+        #         matched_types += 1
+        #     elif x1["type"]=="ORG" and x2["type"]=="ORGANIZATION":
+        #         matched_types+=1
+        #     elif x1["type"]=="LOC" and x2["type"] in {"GPE", "FAC"}:
+        #         matched_types+=1
+        #     elif x1["type"]=="MISC" and x2["type"] not in {"PERSON", "GPE", "FAC", "ORGANIZATION", "DATE"}:
+        #         matched_types+=1
+        # else:
+        if x1["type"]==x2["type"]:
+            matched_types += 1
 
 
     with open(path_model+"result_ner.txt", "w") as output:
@@ -83,7 +86,7 @@ def eval_ner(path_data, path_model, lang):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_ner(path_data="../vasari-kg.github.io/data/", path_model="results/wikineural_multi_it/", lang="it")
+eval_ner(path_data="../vasari-kg.github.io/data/", path_model="results3/flair_multi_it/", lang="it")
 
 
 

@@ -510,7 +510,7 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 
 20,209,222,Vergine Maria,PER,Q345,1
 
-20,48,62,Santa Caterina martire,PER,Q179718,1
+20,48,70,Santa Caterina martire,PER,Q179718,1
 
 21,12,21,Raffaello,PER,Q5597,1
 
@@ -664,11 +664,11 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 
 25,492,499,pittura,MISC,Q11629,0
 
-2525,513,531,Luigi Guicciardini,PER,Q16574259,1
+25,513,531,Luigi Guicciardini,PER,Q16574259,1
 
 25,551,556,amico,MISC,Q17297777,0
 
-25,567,573,opere,MISC,Q838948,0
+25,568,573,opere,MISC,Q838948,0
 
 26,56,63,modello,MISC,Q3859830,0
 
@@ -710,7 +710,7 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 
 29,78,83,Abate,PER,Q654579,1
 
-29,108,115,figure,MISC,Q207961,0
+29,109,115,figure,MISC,Q207961,0
 
 29,140,148,S. Rocco,PER,Q152457,1
 
@@ -724,7 +724,7 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 
 29,254,260,figura,MISC,Q29527347,0
 
-29,277,289,Nostra Donna,MISC,Q345,
+29,277,289,Nostra Donna,MISC,Q345,1
 
 29,293,299,popolo,MISC,Q2472587,0
 
