@@ -452,6 +452,8 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 
 16,91,104,understanding,MISC,Q46744,0
 
+16,118,127,year 1500,DATE,Q6126,1
+
 16,147,156,diligence,MISC,Q1427962,0
 
 16,166,192,Church of the Misericordia,LOC,OOV,1
