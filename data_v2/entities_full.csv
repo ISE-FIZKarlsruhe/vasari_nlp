@@ -262,7 +262,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 13,131,134,MISC,oil,Q42962,,,
 
-13,143,153,MISC,high-altar,Q1621649,,,
+13,143,153,MISC,high-altar,Q106810313,,,
 
 13,161,182,LOC,Church of S. Agostino,NIL,1,,1
 
@@ -508,7 +508,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 24,163,169,PER,Andrea,Q5571,,,1
 
-25,41,48,MISC,masters,Q76771889,,,
+25,41,48,MISC,masters,Q19968968,,,
 
 25,75,83,LOC,Florence,Q2044,,,1
 
@@ -536,7 +536,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 25,383,391,MISC,citizens,Q2472587,,,
 
-25,443,449,MISC,master,Q76771889,,,
+25,443,449,MISC,master,Q19968968,,,
 
 25,512,519,MISC,tribune,Q17143038,,,
 
@@ -568,7 +568,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 27,22,42,WORK_OF_ART,Temple of the Angeli,Q19947673,,,1
 
-27,78,83,MISC,model,Q4610556,,,
+27,78,83,MISC,model,Q1979154,,,
 
 27,87,98,PER,Brunellesco,Q174330,,,1
 
@@ -610,7 +610,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 29,244,259,MISC,works in fresco,Q134194,,,
 
-29,286,293,MISC,stories,Q1318295,,,
+29,286,293,MISC,stories,Q217086,,,
 
 29,301,314,MISC,Old Testament,Q3908797,,,1
 
@@ -656,15 +656,15 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 31,113,119,LOC,Loreto,Q124110,,,1
 
-31,137,143,MISC,arches,Q12277,,,
+31,137,143,MISC,arches,,,,
 
-31,202,211,MISC,architect,Q42973,,,
+31,202,211,MISC,architect,,,,
 
-31,246,254,MISC,building,Q41176,,,
+31,246,254,MISC,building,,,,
 
 31,272,277,MISC,walls,Q42948,,,
 
-31,282,291,MISC,pilasters,Q175112,,,
+31,282,291,MISC,pilasters,,,,
 
 31,348,352,MISC,form,Q21146257,,,
 
@@ -672,7 +672,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 31,458,464,MISC,weight,Q11423,,,
 
-32,0,12,PER,Fra Giocondo,Q5585,Q5585,,1
+32,0,12,PER,Fra Giocondo,Q5585,,,1
 
 32,35,42,MISC,scholar,Q2248623,,,
 
@@ -680,7 +680,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 32,82,88,MISC,master,Q76771889,,,
 
-32,92,103,MISC,perspective,,,,
+32,92,103,MISC,perspective,Q188968,,,
 
 32,145,163,PER,Emperor Maximilian,Q150726,,,1
 
@@ -688,13 +688,13 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 32,187,192,MISC,Greek,Q9129,,,1
 
-32,197,203,MISC,Latin,Q397,,,1
+32,197,202,MISC,Latin,Q397,,,
 
-32,203,210,MISC,tongues,Q315,,,
+32,203,210,MISC,tongues,Q34770,,,
 
 32,226,234,PER,Scaliger,Q441066,,,1
 
-32,299,306,MISC,matters,Q35758,,,
+32,299,306,MISC,matters,Q26256810,,,
 
 32,323,331,MISC,subtlety,Q49396791,,,
 
@@ -714,17 +714,17 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 33,200,204,MISC,city,Q515,,,
 
-33,281,285,MISC,pier,Q515,,,
+33,281,285,MISC,pier,Q335297,,,
 
 33,340,352,PER,Fra Giocondo,Q5585,,,1
 
-33,362,368,MISC,design,,,,
+33,362,368,MISC,design,Q82604,,,
 
-34,4,13,MISC,disciples,,,,
+34,4,13,MISC,disciples,Q385586,,,
 
 34,19,31,PER,Taddeo Gaddi,Q315835,,,1
 
-34,48,55,MISC,baptism,,,,
+34,48,55,MISC,baptism,Q35856,,,
 
 34,79,93,PER,Puccio Capanna,Q1383075,,,1
 
@@ -738,29 +738,29 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 34,176,192,ORG,Preaching Friars,Q131479,,,1
 
-34,215,221,MISC,fresco,,,,
+34,215,221,MISC,fresco,Q22669139,,,
 
-34,226,230,MISC,hull,,,,
+34,226,230,MISC,hull,Q6750281,,,
 
-34,236,240,MISC,ship,,,,
+34,236,240,MISC,ship,Q11446,,,
 
-34,276,279,MISC,sea,,,,
+34,276,279,MISC,sea,Q165,,,
 
-34,286,289,MISC,men,,,,
+34,286,289,MISC,men,Q8441,,,
 
-34,307,313,MISC,things,,,,
+34,307,313,MISC,things,Q35120,,,
 
-34,323,326,MISC,sea,,,,
+34,323,326,MISC,sea,Q165,,,
 
 34,343,349,PER,Puccio,Q1383075,,,1
 
-34,401,409,MISC,mariners,,,,
+34,401,409,MISC,mariners,Q45199,,,
 
-35,9,12,MISC,man,,,,
+35,9,12,MISC,man,Q8441,,,
 
-35,26,31,MISC,works,,,,
+35,26,31,MISC,works,Q6958747,,,
 
-35,42,47,MISC,death,,,,
+35,42,47,MISC,death,Q4,,,
 
 35,51,57,PER,Giotto,Q7814,,,1
 
@@ -782,19 +782,17 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 35,235,260,MISC,Coronation of the Madonna,Q1093370,,1,1
 
-35,264,270,MISC,fresco,,,,
+35,264,270,MISC,fresco,Q134194,,,
 
-35,279,284,MISC,choir,,,,
+35,279,284,MISC,choir,Q131186,,,
 
-35,288,294,MISC,angels,,,,
+35,288,294,MISC,angels,Q235113,,,
 
-35,323,329,MISC,manner,,,,
+35,323,329,MISC,manner,Q367293,,,
 
 35,333,339,PER,Giotto,Q7814,,,1
 
-35,352,357,MISC,sides,,,,
-
-35,362,369,MISC,stories,,,,
+35,362,369,MISC,stories,Q217086,,,
 
 35,373,381,PER,S. Lucia,Q183240,,,1
 
@@ -806,29 +804,29 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 36,63,71,LOC,Florence,Q2044,,1,1
 
-36,120,127,MISC,stories,,,,
+36,120,127,MISC,stories,Q217086,,,
 
 36,131,138,PER,S. Paul,Q9200,,,1
 
-36,168,174,MISC,chapel,,,,
+36,168,174,MISC,chapel,Q108325,,,
 
 36,189,210,MISC,tomb of Maestro Paolo,NIL,1,,1
 
 36,197,210,PER,Maestro Paolo,Q1168587,,1,1
 
-36,216,226,MISC,astrologer,,,,
+36,216,226,MISC,astrologer,Q155647,,,
 
 37,3,30,LOC,S. Stefano al Ponte Vecchio,Q3674332,1,,1
 
 37,17,30,LOC,Ponte Vecchio,Q208633,,1,1
 
-37,44,49,MISC,panel,,,,
+37,44,49,MISC,panel,Q55439,,,
 
-37,62,70,MISC,pictures,,,,
+37,62,70,MISC,pictures,Q478798,,,
 
-37,74,83,MISC,distemper,,,,
+37,74,83,MISC,distemper,Q1169888,,,
 
-37,91,97,MISC,fresco,,,,
+37,91,97,MISC,fresco,Q134194,,,
 
 37,122,130,LOC,Florence,Q2044,,,1
 
@@ -836,33 +834,31 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 38,92,122,PER,Magnificent Lorenzo de' Medici,Q177854,,,1
 
-38,139,145,MISC,garden,,,,
+38,139,145,MISC,garden,Q1107656,,,
 
-38,210,216,MISC,genius,,,,
+38,210,216,MISC,genius,Q185030,,,
 
 38,220,232,PER,Michelagnolo,Q5592,,,1
 
-38,257,263,MISC,fruits,,,,
+38,257,263,MISC,fruits,Q1364,,,
 
-38,348,352,MISC,side,,,,
+38,386,395,MISC,attention,Q6501338,,,
 
-38,386,395,MISC,attention,,,,
+38,400,408,MISC,humility,Q1186677,,,
 
-38,400,408,MISC,humility,,,,
-
-38,443,448,MISC,brain,,,,
+38,443,448,MISC,brain,Q1073,,,
 
 38,464,476,PER,Michelagnolo,Q5592,,,1
 
-38,529,536,MISC,friends,,,,
+38,529,536,MISC,friends,Q17297777,,,
 
-38,644,649,MISC,works,,,,
+38,644,649,MISC,works,Q6958747,,,
 
-38,682,685,MISC,art,,,,
+38,682,685,MISC,art,Q735,,,
 
 38,710,718,PER,Granacci,Q717097,,,1
 
-39,53,61,MISC,workshop,,,,
+39,53,61,MISC,workshop,Q746628,,,
 
 39,65,85,PER,Domenico Ghirlandajo,Q191423,,,1
 
@@ -870,27 +866,27 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 39,156,167,PER,Ghirlandajo,Q191423,,,1
 
-39,176,179,MISC,men,,,,
+39,176,179,MISC,men,Q8441,,,
 
-39,195,206,MISC,draughtsman,,,,
+39,195,206,MISC,draughtsman,Q15296811,,,
 
-39,254,263,MISC,distemper,,,,
+39,254,263,MISC,distemper,Q1169888,,,
 
 39,274,279,PER,David,Q1145811,,,1
 
 39,284,305,PER,Benedetto Ghirlandajo,Q2554861,,,1
 
-39,311,319,MISC,brothers,,,,
+39,311,319,MISC,brothers,Q10861465,,,
 
 39,323,331,PER,Domenico,Q191423,,,1
 
-39,347,358,MISC,altar-piece,,,,
+39,347,358,MISC,altar-piece,NIL,,,
 
-39,366,376,MISC,high-altar,,,,
+39,366,376,MISC,high-altar,Q106810313,,,
 
 39,380,396,LOC,S. Maria Novella,Q51175,,,1
 
-39,436,441,MISC,death,,,,
+39,436,441,MISC,death,Q4,,,
 
 39,454,462,PER,Domenico,Q191423,,,1
 
@@ -900,25 +896,25 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 40,85,89,LOC,Rome,Q220,,,1
 
-41,21,25,MISC,city,,,,
+41,21,25,MISC,city,Q515,,,
 
-41,40,46,MISC,chapel,,,,
+41,40,46,MISC,chapel,Q108325,,,
 
 41,83,104,LOC,Church of S. Agostino,Q1424095,,,1
 
-41,112,116,MISC,door,,,,
+41,112,116,MISC,door,Q36794,,,
 
-41,124,130,MISC,façade,,,,
+41,124,130,MISC,façade,Q183061,,,
 
-41,157,163,MISC,chapel,,,,
+41,157,163,MISC,chapel,Q108325,,,
 
 41,172,180,PER,Apostles,Q4155679,,,1
 
 41,195,206,PER,Holy Spirit,Q37302,,,1
 
-41,219,223,MISC,wall,,,,
+41,219,223,MISC,wall,Q42948,,,
 
-41,238,245,MISC,stories,,,,
+41,238,245,MISC,stories,Q217086,,,
 
 41,249,255,PER,Christ,Q302,,,1
 
@@ -932,69 +928,69 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 41,352,361,PER,Magdalene,,,1,1
 
-41,383,390,MISC,ceiling,,,,
+41,383,390,MISC,ceiling,Q221706,,,
 
-41,394,400,MISC,planks,,,,
+41,394,400,MISC,planks,Q1355652,,,
 
-41,405,410,MISC,beams,,,,
+41,405,410,MISC,beams,Q3705329,,,
 
-42,7,12,MISC,panel,,,,
+42,7,12,MISC,panel,Q55439,,,
 
-42,25,31,MISC,chapel,,,,
+42,25,31,MISC,chapel,Q108325,,,
 
-42,53,56,MISC,oil,,,,
+42,53,56,MISC,oil,Q42962,,,
 
 42,61,74,WORK_OF_ART,a Dead Christ,NIL,1,,1
 
 42,68,74,PER,Christ,Q302,,1,1
 
-42,107,114,MISC,mastery,,,,
+42,107,114,MISC,mastery,Q644238,,,
 
-42,119,128,MISC,diligence,,,,
+42,119,128,MISC,diligence,Q1427962,,,
 
 43,3,15,PER,Leon Batista,Q182046,,,1
 
 43,23,49,PER,Giovanni di Paolo Rucellai,Q3768494,,,1
 
-43,35,49,PER,Paolo Rucellai,,,,
+43,35,49,PER,Paolo Rucellai,NIL,,1,1
 
-43,80,86,MISC,façade,,,,
+43,80,86,MISC,façade,Q183061,,,
 
 43,90,106,LOC,S. Maria Novella,Q51175,,,1
 
-43,119,125,MISC,marble,,,,
+43,119,125,MISC,marble,Q40861,,,
 
-43,137,144,MISC,expense,,,,
+43,137,144,MISC,expense,Q13516686,,,
 
 43,170,182,PER,Leon Batista,Q182046,,,1
 
-43,206,212,MISC,friend,,,,
+43,206,212,MISC,friend,Q17297777,,,
 
-43,252,259,MISC,counsel,,,,
+43,252,259,MISC,counsel,Q4390239,,,
 
-43,276,281,MISC,model,,,,
+43,276,281,MISC,model,Q1979154,,,
 
 43,283,291,PER,Giovanni,Q3768494,,,1
 
-43,334,339,MISC,costs,,,,
+43,334,339,MISC,costs,Q240673,,,
 
-43,378,386,MISC,memorial,,,,
+43,378,386,MISC,memorial,Q5003624,,,
 
-44,88,100,MISC,satisfaction,,,,
+44,88,100,MISC,satisfaction,Q12050977,,,
 
-44,112,116,MISC,city,,,,
+44,112,116,MISC,city,Q515,,,
 
-44,151,155,MISC,work,,,,
+44,151,155,MISC,work,Q17537576,,,
 
-44,183,187,MISC,door,,,,
+44,183,187,MISC,door,Q36794,,,
 
 44,216,228,PER,Leon Batista,Q182046,,,1
 
-44,253,258,MISC,pains,,,,
+44,253,258,MISC,pains,Q81938,,,
 
 45,4,19,PER,Cosimo Rucellai,Q92078306,,,1
 
-45,43,49,MISC,design,,,,
+45,43,49,MISC,design,Q82604,,,
 
 45,58,64,MISC,palace,,,,
 
@@ -1014,7 +1010,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 46,150,156,MISC,person,,,,
 
-46,185,190,MISC,walls,,,,
+46,185,190,MISC,walls,Q42948,,,
 
 46,198,214,LOC,Chapel of Sixtus,Q2943,1,,1
 
@@ -1026,7 +1022,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 46,287,293,MISC,nephew,,,,
 
-47,17,21,MISC,wall,,,,
+47,17,21,MISC,wall,Q42948,,,
 
 47,33,38,MISC,altar,,,,
 
@@ -1038,65 +1034,65 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 47,155,158,MISC,art,,,,
 
-47,162,168,MISC,design,,,,
+47,162,168,MISC,design,Q82604,,,
 
-47,242,246,MISC,door,,,,
+47,242,246,MISC,door,Q36794,,,
 
-47,291,296,MISC,scene,,,,
+47,291,296,MISC,scene,Q88392887,,,
 
 47,302,309,MISC,Lucifer,Q6674,,,1
 
-47,331,336,MISC,pride,,,,
+47,331,336,MISC,pride,Q187234,,,
 
 47,342,348,MISC,Heaven,Q4489450,,,1
 
 47,364,370,MISC,Angels,Q235113,,,1
 
-47,422,428,MISC,centre,,,,
+47,422,428,MISC,centre,Q23595,,,
 
 47,432,436,MISC,Hell,Q564,,,1
 
 47,476,488,PER,Michelagnolo,Q5592,,,1
 
-47,524,532,MISC,sketches,,,,
+47,524,532,MISC,sketches,Q5078274,,,
 
-47,537,544,MISC,designs,,,,
+47,537,544,MISC,designs,Q82604,,,
 
 47,604,633,LOC,Church of the Trinità at Rome,Q1229008,1,,1
 
 47,629,633,LOC,Rome,Q220,,1,1
 
-47,648,655,MISC,painter,,,,
+47,648,655,MISC,painter,Q1028181,,,
 
 47,685,697,PER,Michelagnolo,Q5592,,,1
 
-47,729,736,MISC,colours,,,,
+47,729,736,MISC,colours,Q1075,,,
 
-48,5,9,MISC,work,,,,
+48,5,9,MISC,work,Q17537576,,,
 
-48,22,28,MISC,fresco,,,,
+48,22,28,MISC,fresco,Q134194,,,
 
 48,40,61,LOC,Chapel of S. Gregorio,Q748459,,,1
 
-48,70,75,MISC,cross,,,,
+48,70,75,MISC,cross,Q392371,,,
 
-48,83,89,MISC,church,,,,
+48,83,89,MISC,church,Q16970,,,
 
-48,167,172,MISC,force,,,,
+48,167,172,MISC,force,Q11402,,,
 
-48,180,189,MISC,attitudes,,,,
+48,180,189,MISC,attitudes,Q622645,,,
 
-48,194,200,MISC,groups,,,,
+48,194,200,MISC,groups,Q16887380,,,
 
-48,210,215,MISC,nudes,,,,
+48,210,215,MISC,nudes,Q40446,,,
 
 48,243,249,MISC,Heaven,Q4489450,,,1
 
-48,297,303,MISC,centre,,,,
+48,297,303,MISC,centre,Q23595,,,
 
-48,311,316,MISC,earth,,,,
+48,311,316,MISC,earth,Q21152267,,,
 
-48,343,348,MISC,forms,,,,
+48,343,348,MISC,forms,Q21146257,,,
 
 48,352,358,MISC,Devils,Q6674,,,1
 
@@ -1106,7 +1102,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 49,47,53,MISC,saints,,,,
 
-49,57,63,MISC,marble,,,,
+49,57,63,MISC,marble,Q40861,,,
 
 49,80,85,PER,Nanni,Q465917,,,1
 
@@ -1136,7 +1132,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 50,93,101,MISC,boldness,,,,
 
-50,105,111,MISC,design,,,,
+50,105,111,MISC,design,Q82604,,,
 
 50,128,134,MISC,colour,,,,
 
@@ -1152,11 +1148,11 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 51,89,98,MISC,gentlemen,,,,
 
-51,201,213,MISC,altar-pieces,,,,
+51,201,213,MISC,altar-pieces,NIL,,,
 
 51,223,227,MISC,head,,,,
 
-52,11,23,MISC,altar-pieces,,,,
+52,11,23,MISC,altar-pieces,NIL,,,
 
 52,39,49,LOC,S. Antonio,Q3672615,,,1
 
@@ -1202,7 +1198,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 53,283,293,MISC,discipline,,,,
 
-53,309,314,MISC,doors,,,,
+53,309,314,MISC,doors,Q36794,,,
 
 53,318,329,LOC,S. Giovanni,Q732511,,,1
 
@@ -1210,7 +1206,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 53,396,403,MISC,figures,,,,
 
-54,20,24,MISC,work,,,,
+54,20,24,MISC,work,Q17537576,,,
 
 54,39,49,MISC,friendship,,,,
 
@@ -1232,7 +1228,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 55,102,124,LOC,Camera della Segnatura,Q9292247,,,1
 
-55,127,132,MISC,scene,,,,
+55,127,132,MISC,scene,Q88392887,,,
 
 55,140,151,MISC,theologians,,,,
 
@@ -1298,9 +1294,9 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 59,38,45,PER,Ridolfo,Q64881,,,1
 
-59,58,70,MISC,altar-pieces,,,,
+59,58,70,MISC,altar-pieces,NIL,,,
 
-59,74,78,MISC,oils,,,,
+59,74,78,MISC,oils,Q42962,,,
 
 59,91,113,MISC,Coronation of Our Lady,Q1093370,,,1
 
@@ -1310,7 +1306,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 60,8,26,PER,Church of S. Gallo,,,,
 
-60,44,55,MISC,altar-piece,,,,
+60,44,55,MISC,altar-piece,NIL,,,
 
 60,56,62,PER,Christ,Q302,,,1
 
@@ -1422,7 +1418,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 65,147,152,LOC,Parma,Q2683,,1,1
 
-65,183,189,MISC,church,,,,
+65,183,189,MISC,church,Q16970,,,
 
 65,193,199,MISC,fresco,,,,
 
@@ -1444,7 +1440,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 65,338,343,LOC,Vitto,Q116390,,,1
 
-66,9,13,MISC,work,,,,
+66,9,13,MISC,work,Q17537576,,,
 
 66,24,32,PER,Daniello,Q5219465,,,1
 
@@ -1466,7 +1462,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 66,349,354,MISC,words,,,,
 
-67,8,12,MISC,work,,,,
+67,8,12,MISC,work,Q17537576,,,
 
 67,47,53,PER,Taddeo,Q434058,,,1
 
@@ -1476,7 +1472,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 67,100,108,PER,Prophets,Q42857,,,1
 
-67,134,141,MISC,stories,,,,
+67,134,141,MISC,stories,Q217086,,,
 
 67,145,157,PER,Jesus Christ,Q302,,,1
 
