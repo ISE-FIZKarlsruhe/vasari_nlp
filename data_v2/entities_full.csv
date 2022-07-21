@@ -508,7 +508,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 24,163,169,PER,Andrea,Q5571,,,1
 
-25,41,48,MISC,masters,Q19968968,,,
+25,41,48,MISC,masters,Q76771889,,,
 
 25,75,83,LOC,Florence,Q2044,,,1
 
@@ -536,7 +536,7 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 25,383,391,MISC,citizens,Q2472587,,,
 
-25,443,449,MISC,master,Q19968968,,,
+25,443,449,MISC,master,Q76771889,,,
 
 25,512,519,MISC,tribune,Q17143038,,,
 
@@ -656,65 +656,65 @@ id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
 
 31,113,119,LOC,Loreto,Q124110,,,1
 
-31,137,143,MISC,arches,,,,
+31,137,143,MISC,arches,Q12277,,,
 
-31,202,211,MISC,architect,,,,
+31,202,211,MISC,architect,Q42973,,,
 
-31,246,254,MISC,building,,,,
+31,246,254,MISC,building,Q41176,,,
 
-31,272,277,MISC,walls,,,,
+31,272,277,MISC,walls,Q42948,,,
 
-31,282,291,MISC,pilasters,,,,
+31,282,291,MISC,pilasters,Q175112,,,
 
-31,348,352,MISC,form,,,,
+31,348,352,MISC,form,Q21146257,,,
 
-31,399,404,MISC,parts,,,,
+31,399,404,MISC,parts,Q15989253,,,
 
-31,458,464,MISC,weight,,,,
+31,458,464,MISC,weight,Q11423,,,
 
-32,0,12,PER,Fra Giocondo,Q5585,,,1
+32,0,12,PER,Fra Giocondo,Q5585,Q5585,,1
 
-32,35,42,MISC,scholar,,,,
+32,35,42,MISC,scholar,Q2248623,,,
 
-32,54,63,MISC,architect,,,,
+32,54,63,MISC,architect,Q42973,,,
 
-32,82,88,MISC,master,,,,
+32,82,88,MISC,master,Q76771889,,,
 
 32,92,103,MISC,perspective,,,,
 
 32,145,163,PER,Emperor Maximilian,Q150726,,,1
 
-32,173,179,MISC,master,,,,
+32,173,179,MISC,master,Q76771889,,,
 
 32,187,192,MISC,Greek,Q9129,,,1
 
-32,197,203,MISC,Latin ,,,,
+32,197,203,MISC,Latin,Q397,,,1
 
-32,203,210,MISC,tongues,,,,
+32,203,210,MISC,tongues,Q315,,,
 
 32,226,234,PER,Scaliger,Q441066,,,1
 
-32,299,306,MISC,matters,,,,
+32,299,306,MISC,matters,Q35758,,,
 
-32,323,331,MISC,subtlety,,,,
+32,323,331,MISC,subtlety,Q49396791,,,
 
 32,348,358,PER,Maximilian,Q150726,,,1
 
-33,17,24,MISC,persons,,,,
+33,17,24,MISC,persons,Q215627,,,
 
 33,98,104,LOC,Verona,Q2028,,,1
 
-33,119,124,MISC,power,,,,
+33,119,124,MISC,power,Q25107,,,
 
 33,133,140,PER,Emperor,Q39018,,,1
 
-33,145,151,MISC,bridge,,,,
+33,145,151,MISC,bridge,Q12280,,,
 
 33,172,190,LOC,Ponte della Pietra,Q540546,,,1
 
-33,200,204,MISC,city,,,,
+33,200,204,MISC,city,Q515,,,
 
-33,273,285,MISC,central pier,,,,
+33,281,285,MISC,pier,Q515,,,
 
 33,340,352,PER,Fra Giocondo,Q5585,,,1
 
