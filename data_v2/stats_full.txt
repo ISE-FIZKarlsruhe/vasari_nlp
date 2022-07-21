@@ -1,0 +1,16 @@
+Sentences: 67
+Total entities in evaluation data: 741
+Average entities per sentence: 11.059701492537313
+Maximum occurrence of entity in data: 239
+Minimum occurrence of entity in data: 1
+Entities with maximum occurrence: ['']
+Entities with minimum occurrence: 227
+Average occurrence per entity: 2.221518987341772
+Entities Out Of Vocabulary: 39
+Nested entities: 41
+Named entities: 343
+Entities with type PER:172
+Entities with type ORG:17
+Entities with type LOC:101
+Entities with type MISC:435
+Entities with type WORK_OF_ART:16

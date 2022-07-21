@@ -1,0 +1,723 @@
+id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested
+
+2,10,20,PER,Buonarroti,Q5592,,
+
+2,34,53,PER,Fra Giovanni Agnolo,Q27040,,
+
+2,75,79,PER,Pope,Q19546,,
+
+2,85,97,PER,his Holiness,Q19546,,
+
+2,131,138,PER,General,Q103163,,1
+
+2,131,159,PER,General of the Servite Order,NIL,1,
+
+2,146,159,ORG,Servite Order,Q615923,,1
+
+3,12,16,LOC,Rome,Q220,,
+
+3,65,74,LOC,Belvedere,Q2547111,,
+
+3,105,109,PER,Pope,Q19546,,
+
+3,173,183,WORK_OF_ART,the Apollo,Q619135,1,
+
+3,177,183,MISC,Apollo,Q37340,,1
+
+3,205,216,WORK_OF_ART,the Laocoon,Q465762,1,
+
+3,209,216,PER,Laocoon,Q22878,1,
+
+3,294,306,WORK_OF_ART,the Hercules,NIL,1,
+
+3,298,306,PER,Hercules,Q240679,0,
+
+5,69,77,PER,Giovanni,Q314932,,
+
+5,82,97,PER,Niccola of Pisa,Q364413,,
+
+5,99,107,PER,Agostino,Q395759,,
+
+5,112,118,PER,Agnolo,Q374428,,
+
+5,133,138,LOC,Siena,Q2751,,
+
+5,185,189,MISC,Life,Q3,,
+
+6,71,76,LOC,Siena,Q2751,,
+
+6,169,182,PER,three Consuls,NIL,,
+
+6,215,226,LOC,Fontebranda,Q3747505,,
+
+6,282,291,ORG,Consulate,NIL,,
+
+6,297,310,LOC,Customs-house,Q182290,,
+
+8,30,50,PER,Francesco Tornabuoni,Q56395996,,
+
+8,220,226,PER,Andrea,Q183458,,
+
+8,386,393,MISC,Virtues,Q3556272,,
+
+8,510,517,LOC,Minerva,Q823685,,
+
+9,24,32,LOC,Florence,Q2044,,
+
+9,91,98,WORK_OF_ART,a David,Q2415504,1,
+
+9,93,98,PER,David,Q41370,,1
+
+9,184,190,LOC,Palace,,,
+
+9,258,268,WORK_OF_ART,the Catena,Q107381420,,
+
+11,34,53,WORK_OF_ART,the ancient Laocoon,Q465762,1,
+
+11,46,53,MISC,Laocoon,Q22878,,1
+
+11,102,108,PER,Baccio,Q358348,,
+
+11,271,277,PER,Baccio,Q358348,,
+
+11,373,380,WORK_OF_ART,Laocoon,NIL,,
+
+12,20,32,PER,his Holiness,Q19546,,
+
+12,123,127,PER,King,Q116,,
+
+12,145,153,LOC,Florence,Q2044,,
+
+12,162,198,PER,Cardinal Silvio Passerino of Cortona,Q1084763,1,
+
+12,191,198,LOC,Cortona,Q52080,,1
+
+12,204,210,PER,Legate,Q740369,,
+
+12,214,222,LOC,Florence,Q2044,,
+
+12,297,304,WORK_OF_ART,Laocoon,NIL,,
+
+12,344,364,LOC,Palace of the Medici,Q911047,1,
+
+12,358,364,ORG,Medici,Q170022,,1
+
+14,0,8,PER,Giuliano,Q2578459,,
+
+14,29,53,PER,Cardinal Innocenzio Cibo,Q1386991,,
+
+14,85,104,PER,Raffaello da Urbino,Q5597,1,
+
+14,88,104,PER,Urbino,Q2759,,1
+
+14,126,199,WORK_OF_ART,"portraits of Pope Leo, Cardinal Giulio de' Medici, and Cardinal de' Rossi",Q2610729,1,
+
+14,139,147,PER,Pope Leo,Q49237,,1
+
+14,149,175,PER,Cardinal Giulio de' Medici,Q83159,,1
+
+14,181,199,PER,Cardinal de' Rossi,Q733662,,1
+
+14,217,235,PER,Cardinal de' Rossi,Q733662,,
+
+14,259,272,PER,Cardinal Cibo,Q1386991,,
+
+15,36,63,WORK_OF_ART,portrait of Cencio Guasconi,NIL,1,
+
+15,48,63,PER,Cencio Guasconi,NIL,,1
+
+15,135,157,LOC,villa of Baccio Valori,NIL,1,
+
+15,144,157,PER,Baccio Valori,Q3181432,,1
+
+15,162,177,LOC,Olmo a Castello,NIL,1,
+
+15,169,177,LOC,Castello,Q2163936,,1
+
+16,52,60,PER,Giuliano,Q2578459,,
+
+16,116,146,LOC,Church of S. Marco at Florence,Q1152774,1,
+
+16,138,146,LOC,Florence,,,1
+
+19,54,60,LOC,Aversa,Q19279,,
+
+19,85,91,LOC,Naples,Q2634,,
+
+19,161,182,LOC,Church of S. Agostino,NIL,1,
+
+19,293,305,PER,S. Augustine,Q95139,,1
+
+19,351,357,PER,Christ,Q642420,,
+
+19,362,368,PER,Saints,Q43115,,
+
+20,16,29,PER,Maestro Marco,Q2559941,,
+
+22,40,45,PER,Piero,Q280851,,
+
+22,94,122,LOC,Church of the Servite Friars,Q2287001,1,
+
+22,108,122,ORG,Servite Friars,Q615923,,1
+
+22,131,152,LOC,Chapel of the Tedaldi,NIL,1,
+
+22,145,152,ORG,Tedaldi,NIL,,1
+
+22,200,210,PER,S. Filippo,Q141900,,
+
+22,231,236,ORG,Order,Q615923,,
+
+22,258,266,PER,Our Lady,Q345,,
+
+22,346,352,MISC,Heaven,Q4489450,,
+
+22,395,398,PER,Son,Q302,,
+
+22,421,432,MISC,Holy Spirit,Q37302,,
+
+23,0,5,PER,Piero,Q280851,,
+
+23,23,44,PER,elder Filippo Strozzi,Q323993,,
+
+23,79,86,PER,Perseus,Q130832,,
+
+23,98,107,PER,Andromeda,Q161582,,
+
+23,117,124,MISC,Monster,Q276453,,
+
+24,46,51,MISC,Venus,Q47652,,
+
+24,60,64,MISC,Mars,Q112,,
+
+24,153,158,MISC,Loves,Q5011,,
+
+24,257,261,MISC,Mars,Q112,,
+
+24,298,303,MISC,Cupid,Q5011,,
+
+24,355,360,MISC,Doves,Q10856,,
+
+24,364,369,MISC,Venus,Q47652,,
+
+24,395,399,MISC,Love,Q5011,,
+
+26,3,19,PER,Jacopo del Conte,Q2538308,,
+
+26,72,76,LOC,Rome,Q220,,
+
+27,5,11,PER,Jacopo,Q2538308,,
+
+27,254,258,LOC,Rome,Q220,,
+
+28,125,133,PER,Pontiffs,Q19546,,
+
+28,160,173,PER,Pope Paul III,Q133001,,
+
+28,264,269,MISC,Court,Q1134237,,
+
+28,327,343,ORG,house of Colonna,Q327202,,
+
+28,355,361,ORG,Orsini,Q855303,,
+
+28,363,383,PER,Signor Piero Strozzi,Q1346257,,
+
+28,411,418,PER,Bishops,Q29182,,
+
+28,420,429,PER,Cardinals,Q45722,,
+
+28,593,597,LOC,Rome,Q220,,
+
+30,61,71,PER,Pope Leo X,Q49237,,
+
+31,23,50,LOC,Porta di S. Piero Gattolini,Q3398708,1,
+
+31,32,50,LOC,S. Piero Gattolini,Q3671588,,1
+
+31,52,68,PER,Jacopo di Sandro,Q2538308,,
+
+31,86,105,PER,Baccio da Montelupo,Q2245460,,
+
+32,7,25,LOC,Piazza de' Signori,Q849846,,
+
+32,27,34,PER,Antonio,Q357276,,
+
+32,51,72,PER,Giuliano da San Gallo,Q312365,,
+
+32,107,124,PER,Baccio Bandinelli,Q358348,,
+
+32,132,137,MISC,Giant,NIL,,
+
+32,146,152,LOC,Loggia,Q839746,,
+
+33,65,83,LOC,S. Maria del Fiore,Q191739,,
+
+33,163,169,PER,Andrea,Q5571,,
+
+35,75,83,LOC,Florence,Q2044,,
+
+35,107,114,LOC,Tuscany,Q1273,,
+
+35,160,168,LOC,Florence,Q2044,,
+
+35,177,184,PER,Filippo,Q174330,,
+
+35,199,203,LOC,Rome,Q220,,
+
+35,243,258,ORG,Office of Works,NIL,,
+
+35,262,280,LOC,S. Maria del Fiore,Q191739,,
+
+35,305,312,PER,Consuls,Q3687433,,
+
+35,324,331,PER,Wardens,NIL,,
+
+36,43,63,WORK_OF_ART,Temple of the Angeli,Q19947673,,
+
+36,73,94,ORG,family of the Scolari,NIL,,
+
+36,186,197,PER,Florentines,NIL,,
+
+36,231,236,LOC,Monte,NIL,,
+
+36,358,373,PER,people of Lucca,NIL,1,
+
+36,368,373,LOC,Lucca,Q13373,,1
+
+36,446,463,PER,Niccolò da Uzzano,Q1984751,,
+
+36,481,489,LOC,Sapienza,NIL,,
+
+37,22,42,WORK_OF_ART,Temple of the Angeli,Q19947673,,
+
+37,87,98,PER,Brunellesco,Q174330,,
+
+37,147,152,LOC,Italy,Q38,,
+
+39,21,28,LOC,Bologna,Q1891,,
+
+39,65,81,PER,Dominican friars,Q131479,,
+
+39,103,124,LOC,chapel in S. Domenico,Q862602,1,
+
+39,113,124,LOC,S. Domenico,Q44091,,1
+
+40,49,67,LOC,S. Maria del Monte,Q34598751,,
+
+40,83,95,ORG,Black Friars,Q131132,,
+
+40,104,111,LOC,Bologna,Q1891,,
+
+40,124,143,LOC,Porta di S. Mammolo,Q3908797,,
+
+40,159,186,LOC,church of the Casa di Mezzo,NIL,1,
+
+40,173,186,LOC,Casa di Mezzo,NIL,,1
+
+40,301,314,MISC,Old Testament,Q3908797,,
+
+42,15,27,PER,Pope Paul II,Q102605,,
+
+42,33,64,LOC,Church of the Madonna of Loreto,Q654996,1,
+
+42,47,54,PER,Madonna,Q345,,1
+
+42,58,64,LOC,Loreto,Q124110,,1
+
+42,269,287,PER,Giuliano da Maiano,Q716519,,
+
+42,355,364,PER,Sixtus IV,Q163514,,
+
+42,429,436,PER,Clement,Q83159,,
+
+43,10,17,PER,Antonio,Q357276,,
+
+43,39,51,PER,Pope Clement,Q83159,,
+
+43,113,119,LOC,Loreto,Q124110,,
+
+45,0,12,PER,Fra Giocondo,Q5585,,
+
+45,145,163,PER,Emperor Maximilian,Q150726,,
+
+45,187,192,MISC,Greek,Q9129,,
+
+45,197,202,MISC,Latin,Q397,,
+
+45,226,234,PER,Scaliger,Q441066,,
+
+45,348,358,PER,Maximilian,Q150726,,
+
+46,98,104,LOC,Verona,Q2028,,
+
+46,133,140,PER,Emperor,Q39018,,
+
+46,172,190,LOC,Ponte della Pietra,Q540546,,
+
+46,340,352,PER,Fra Giocondo,Q5585,,
+
+48,19,31,PER,Taddeo Gaddi,Q315835,,
+
+48,79,93,PER,Puccio Capanna,Q1383075,,
+
+48,97,105,LOC,Florence,Q2044,,
+
+48,123,129,LOC,Rimini,Q13369,,
+
+48,137,157,LOC,Church of S. Cataldo,Q111080952,1,
+
+48,147,157,PER,S. Cataldo,Q1050218,,1
+
+48,176,192,ORG,Preaching Friars,Q131479,,
+
+48,343,349,PER,Puccio,Q1383075,,
+
+49,51,57,PER,Giotto,Q7814,,
+
+49,65,97,LOC,Church of S. Francesco at Assisi,Q207486,1,
+
+49,75,87,PER,S. Francesco,Q676555,,1
+
+49,91,97,LOC,Assisi,Q20103,,1
+
+49,110,142,LOC,Church of S. Trinita in Florence,Q1062114,1,
+
+49,134,142,LOC,Florence,Q2044,,
+
+49,197,218,LOC,Chapel of the Strozzi,Q3657519,,
+
+49,211,218,ORG,Strozzi,Q1151399,,
+
+49,231,260,WORK_OF_ART,the Coronation of the Madonna,NIL,1,
+
+49,235,260,MISC,Coronation of the Madonna,Q1093370,,1
+
+49,333,339,PER,Giotto,Q7814,,
+
+49,373,381,PER,S. Lucia,Q183240,,
+
+51,0,8,PER,Giovanni,Q2749321,,
+
+51,26,45,LOC,Chapel of the Scali,NIL,,
+
+51,49,71,LOC,S. Trinita in Florence,Q1062114,1,
+
+51,63,71,LOC,Florence,Q2044,,1
+
+51,131,138,PER,S. Paul,Q9200,,
+
+51,189,210,MISC,tomb of Maestro Paolo,NIL,1,
+
+51,197,210,PER,Maestro Paolo,Q1168587,,1
+
+52,3,30,LOC,S. Stefano al Ponte Vecchio,Q3674332,1,
+
+52,17,30,LOC,Ponte Vecchio,Q208633,,1
+
+52,122,130,LOC,Florence,Q2044,,
+
+54,0,18,PER,Francesco Granacci,Q717097,,
+
+54,92,122,PER,Magnificent Lorenzo de' Medici,Q177854,,
+
+54,220,232,PER,Michelagnolo,Q5592,,
+
+54,464,476,PER,Michelagnolo,Q5592,,
+
+54,710,718,PER,Granacci,Q717097,,
+
+55,65,85,PER,Domenico Ghirlandajo,Q191423,,
+
+55,108,116,PER,Granacci,Q191423,,
+
+55,156,167,PER,Ghirlandajo,Q191423,,
+
+55,274,279,PER,David,Q1145811,,
+
+55,284,305,PER,Benedetto Ghirlandajo,Q2554861,,
+
+55,323,331,PER,Domenico,Q191423,,
+
+55,380,396,LOC,S. Maria Novella,Q51175,,
+
+55,454,462,PER,Domenico,Q191423,,
+
+57,0,6,PER,Jacopo,Q2538308,,
+
+57,32,36,LOC,Rome,Q220,,
+
+57,85,89,LOC,Rome,Q220,,
+
+58,83,104,LOC,Church of S. Agostino,Q1424095,,
+
+58,172,180,PER,Apostles,Q4155679,,
+
+58,195,206,PER,Holy Spirit,Q37302,,
+
+58,249,255,PER,Christ,Q302,,
+
+58,274,279,PER,Peter,Q33923,,
+
+58,284,290,PER,Andrew,Q43399,,
+
+58,325,361,WORK_OF_ART,the Feast of Simon and the Magdalene,NIL,1,
+
+58,338,343,PER,Simon,NIL,,1
+
+58,352,361,PER,Magdalene,,,1
+
+59,61,74,WORK_OF_ART,a Dead Christ,NIL,1,
+
+59,68,74,PER,Christ,Q302,,1
+
+61,3,15,PER,Leon Batista,Q182046,,
+
+61,23,49,PER,Giovanni di Paolo Rucellai,Q3768494,,
+
+61,90,106,LOC,S. Maria Novella,Q51175,,
+
+61,170,182,PER,Leon Batista,Q182046,,
+
+61,283,291,PER,Giovanni,Q3768494,,
+
+62,216,228,PER,Leon Batista,Q182046,,
+
+63,4,19,PER,Cosimo Rucellai,Q92078306,,
+
+63,116,124,LOC,La Vigna,NIL,,
+
+65,13,25,PER,Michelagnolo,Q5592,,
+
+65,102,106,PER,Pope,Q19546,,
+
+65,198,214,LOC,Chapel of Sixtus,Q2943,1,
+
+192,198,214,PER,Sixtus,Q163514,,1
+
+65,230,242,PER,Michelagnolo,Q5592,,
+
+65,272,281,PER,Julius II,Q80516,,
+
+66,43,50,PER,Clement,Q83159,,
+
+66,71,93,MISC,the Universal Judgment,Q1821239,,
+
+66,302,309,MISC,Lucifer,Q6674,,
+
+66,342,348,MISC,Heaven,Q4489450,,
+
+66,364,370,MISC,Angels,Q235113,,
+
+66,432,436,MISC,Hell,Q564,,
+
+66,476,488,PER,Michelagnolo,Q5592,,
+
+66,604,633,LOC,Church of the Trinità at Rome,Q1229008,1,
+
+66,629,633,LOC,Rome,Q220,,1
+
+66,685,697,PER,Michelagnolo,Q5592,,
+
+67,40,61,LOC,Chapel of S. Gregorio,Q748459,,
+
+67,243,249,MISC,Heaven,Q4489450,,
+
+67,352,358,MISC,Devils,Q6674,,
+
+69,80,85,PER,Nanni,Q465917,,
+
+69,118,157,ORG,"Guild of Smiths, Carpenters, and Masons",NIL,,
+
+69,446,452,PER,Donato,Q37562,,
+
+71,0,5,PER,Palma,Q9342,,
+
+72,20,26,LOC,Venice,Q641,,
+
+73,39,49,LOC,S. Antonio,Q3672615,,
+
+73,56,64,LOC,Castello,Q52425,,
+
+73,69,75,LOC,Venice,Q641,,
+
+73,93,101,LOC,S. Elena,Q3585397,,
+
+73,112,116,LOC,Lido,Q226221,,
+
+73,128,150,ORG,Monks of Monte Oliveto,Q572102,!,
+
+73,137,150,LOC,Monte Oliveto,LOC,,1
+
+75,0,26,PER,Parri di Spinello Spinelli,Q287934,,
+
+75,9,26,PER,Spinello Spinelli,Q2718358,,1
+
+75,39,45,LOC,Arezzo,Q13378,,
+
+75,125,133,LOC,Florence,Q2044,,
+
+75,151,182,PER,Messer Leonardo Bruni of Arezzo,Q314488,1,
+
+75,176,182,LOC,Arezzo,Q13378,,1
+
+75,204,220,PER,Lorenzo Ghiberti,Q208125,,
+
+75,318,329,LOC,S. Giovanni,Q732511,,
+
+76,55,75,PER,Masolino da Panicale,Q318117,,
+
+76,212,236,PER,Don Lorenzo degli Angeli,Q155376,,
+
+78,66,77,PER,Pope Julius,Q80516,,
+
+78,79,88,PER,Raffaello,Q5597,,
+
+78,102,124,LOC,Camera della Segnatura,Q9292247,,
+
+78,164,174,MISC,Philosophy,Q5891,,
+
+78,179,188,MISC,Astrology,Q34362,,
+
+78,194,202,MISC,Theology,Q34178,,
+
+79,164,175,PER,Evangelists,Q472773,,
+
+79,220,231,PER,Evangelists,Q472773,,
+
+80,14,22,PER,Diogenes,Q59180,,
+
+81,17,26,PER,Aristotle,Q868,,
+
+81,31,36,PER,Plato,Q859,,
+
+81,51,57,MISC,Timæus,Q371884,,
+
+81,90,96,MISC,Ethics,Q474537,,
+
+83,8,37,LOC,Convent of the Nuns of Ripoli,Q3670746,1,
+
+83,31,37,LOC,Ripoli,Q82612,,1
+
+83,38,45,PER,Ridolfo,Q64881,,
+
+83,91,113,MISC,Coronation of Our Lady,Q1093370,,
+
+83,134,141,PER,Madonna,Q345,,
+
+83,164,170,PER,Saints,Q43115,,
+
+84,8,26,LOC,Church of S. Gallo,Q3670196,1,
+
+84,18,26,PER,S. Gallo,Q180936,1,
+
+84,56,62,PER,Christ,Q302,,
+
+84,75,80,MISC,Cross,Q392371,,
+
+84,122,129,MISC,Madonna,Q345,,
+
+84,144,150,MISC,Maries,Q3254109,,
+
+84,184,188,PER,John,Q44015,,
+
+84,196,204,PER,Veronica,Q196653,,
+
+84,221,229,MISC,Sudarium,Q1365316,,
+
+84,233,239,PER,Christ,Q302,,
+
+86,0,7,PER,Michele,Q459937,,
+
+86,161,167,LOC,Verona,Q2028,,
+
+86,238,261,PER,Chapel of the Guareschi,Q3657362,,
+
+86,265,278,LOC,S. Bernardino,Q3669629,,
+
+86,336,352,MISC,Corinthian Order,Q54124,,
+
+88,8,28,PER,Cardinal of Lorraine,NIL,1,
+
+88,20,28,LOC,Lorraine,Q1137,,1
+
+88,42,48,PER,Christ,Q302,,
+
+88,52,65,WORK_OF_ART,"an ""Ecce Homo",NIL,1,
+
+88,56,65,MISC,Ecce Homo,Q534805,,1
+
+88,68,82,WORK_OF_ART,a Jove with Io,NIL,1,
+
+88,70,74,MISC,Jove,Q34201,,1
+
+88,80,82,MISC,Io,Q179014,,1
+
+89,15,29,PER,King of Poland,Q3273712,,
+
+89,52,56,MISC,Jove,Q34201,,
+
+89,64,69,MISC,Nymph,Q373916,,
+
+90,7,15,LOC,Flanders,Q234,,
+
+90,61,78,PER,S. Mary Magdalene,Q63070,,
+
+90,86,92,LOC,Desert,Q8514,,
+
+90,113,119,MISC,Angels,Q235113,,
+
+90,127,132,MISC,Diana,Q132543,,
+
+90,157,163,MISC,Nymphs,Q373916,,
+
+90,199,216,PER,Milanese Candiano,NIL,,
+
+90,254,266,PER,Queen Maria,Q157077,,
+
+90,284,296,PER,her Highness,Q1623587,,
+
+92,22,39,PER,Daniello da Parma,Q5219465,1,
+
+92,34,39,LOC,Parma,Q2683,,1
+
+92,79,99,PER,Antonio da Correggio,Q8457,1,
+
+92,90,99,LOC,Correggio,Q111176,,1
+
+92,125,152,PER,Francesco Mazzuoli of Parma,Q9348,1,
+
+92,147,152,LOC,Parma,Q2683,,1
+
+92,208,223,ORG,Office of Works,NIL,,
+
+92,227,244,LOC,S. Maria at Vitto,NIL,1,
+
+92,239,244,LOC,Vitto,Q116390,,1
+
+92,253,257,LOC,Sora,Q117382,,
+
+92,281,288,LOC,Abruzzi,Q1284,,
+
+92,297,303,PER,Taddeo,Q434058,,
+
+92,338,343,LOC,Vitto,Q116390,,
+
+93,24,32,PER,Daniello,Q5219465,,
+
+93,149,158,PER,Correggio,Q8457,,
+
+93,163,173,PER,Parmigiano,Q9348,,
+
+93,274,280,PER,Taddeo,Q434058,,
+
+94,47,53,PER,Taddeo,Q434058,,
+
+94,66,82,PER,four Evangelists,Q472773,,
+
+94,88,94,PER,Sibyls,Q273320,,
+
+94,100,108,PER,Prophets,Q42857,,
+
+94,145,157,PER,Jesus Christ,Q302,,
+
+94,169,186,PER,Virgin His Mother,Q345,,

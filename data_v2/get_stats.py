@@ -1,3 +1,4 @@
+from __future__ import nested_scopes
 import csv
 
 def get_statistics(path, lang):
@@ -8,22 +9,30 @@ def get_statistics(path, lang):
     entity_dict = {}
     labels_dict = {}
     sentences = 1
+    nested_entities = 0
+    nil_entities = 0
+    named_entities = 0
     id = 1
     for item in data:
-        print(item)
         if int(item["id"]) != id:
             sentences+=1
             id = int(item["id"])
+        if item["named_entity"] == "1":
+            named_entities+=1
         
-        if item["wb_id"] in entity_dict.keys():
+        if item["wb_id"] != "NIL" and item["wb_id"] in entity_dict.keys():
             entity_dict[item["wb_id"]] += 1
-        else:
+        elif item["wb_id"] != "NIL":
             entity_dict[item["wb_id"]] = 1
+        else:
+            nil_entities += 1
         
         if item["type"] in labels_dict.keys():
             labels_dict[item["type"]] += 1
         else:
             labels_dict[item["type"]] = 1
+        if item["is_nested"]=="1":
+            nested_entities+=1
 
 
     total_entities = len(data)
@@ -43,9 +52,11 @@ def get_statistics(path, lang):
         f.write("Entities with maximum occurrence: "+ str(max_entities)+"\n")
         f.write("Entities with minimum occurrence: "+ str(len(min_entities))+"\n")
         f.write("Average occurrence per entity: " + str(avg_value)+"\n")
-        f.write("Entities Out Of Vocabulary: "+str(entity_dict["NIL"])+"\n")
-        for ent_type in labels_dict.key():
+        f.write("Entities Out Of Vocabulary: "+str(nil_entities)+"\n")
+        f.write("Nested entities: "+str(nested_entities)+"\n")
+        f.write("Named entities: "+str(named_entities)+"\n")
+        for ent_type in labels_dict.keys():
             f.write("Entities with type "+ent_type+ ":" + str(labels_dict[ent_type]) +"\n")   
     f.close()
 
-get_statistics("../data/", "it") 
+get_statistics("./", "full") 

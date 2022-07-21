@@ -1058,7 +1058,7 @@ id,start_pos,end_pos,surface,type,wb_id,named_entity
 
 38,162,169,efforts,MISC,Q170584,0
 
-39,15,19,June of the year 1557,DATE,Q6595,1
+39,15,36,June of the year 1557,DATE,Q6595,1
 
 39,55,60,model,MISC,Q1979154,0
 

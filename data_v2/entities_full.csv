@@ -1,0 +1,1484 @@
+id,start_pos,end_pos,type,surface,wb_id,has_nested,is_nested,named_entity
+
+1,10,20,PER,Buonarroti,Q5592,,,1
+
+1,34,53,PER,Fra Giovanni Agnolo,Q27040,,,1
+
+1,75,79,PER,Pope,Q19546,,,1
+
+1,131,138,PER,General,Q103163,,1,1
+
+1,131,159,PER,General of the Servite Order,NIL,1,,1
+
+1,146,159,ORG,Servite Order,Q615923,,1,1
+
+2,12,16,LOC,Rome,Q220,,,1
+
+2,28,33,MISC,friar,Q548320,,,
+
+2,52,57,MISC,rooms,Q180516,,,
+
+2,65,74,LOC,Belvedere,Q2547111,,,1
+
+2,105,109,PER,Pope,Q19546,,,1
+
+2,144,152,MISC,left arm,Q24206676,,,
+
+2,173,183,WORK_OF_ART,the Apollo,Q619135,1,,1
+
+2,177,183,MISC,Apollo,Q37340,,1,1
+
+2,192,201,MISC,right arm,Q24206677,,,
+
+2,205,216,WORK_OF_ART,the Laocoon,Q465762,1,,1
+
+2,209,216,PER,Laocoon,Q22878,1,,1
+
+2,224,231,MISC,statues,Q179700,,,
+
+2,294,306,WORK_OF_ART,the Hercules,NIL,1,,1
+
+2,298,306,PER,Hercules,Q240679,0,,1
+
+3,45,51,MISC,school,Q3914,,,
+
+3,59,68,MISC,sculptors,Q1281618,,,
+
+3,69,77,PER,Giovanni,Q314932,,,1
+
+3,82,97,PER,Niccola of Pisa,Q364413,,,1
+
+3,99,107,PER,Agostino,Q395759,,,1
+
+3,112,118,PER,Agnolo,Q374428,,,1
+
+3,120,129,MISC,sculptors,Q1281618,,,
+
+3,133,138,LOC,Siena,Q2751,,,1
+
+3,185,189,MISC,Life,Q3,,,1
+
+4,50,56,MISC,father,Q7565,,,
+
+4,61,67,MISC,mother,Q7560,,,
+
+4,71,76,LOC,Siena,Q2751,,,1
+
+4,88,99,MISC,forefathers,Q402152,,,
+
+4,105,115,MISC,architects,Q42973,,,
+
+4,157,161,MISC,rule,Q216200,,,
+
+4,169,182,PER,three Consuls,NIL,,,1
+
+4,215,226,LOC,Fontebranda,Q3747505,,,1
+
+4,282,291,ORG,Consulate,NIL,,,1
+
+4,297,310,LOC,Customs-house,Q182290,,,1
+
+4,319,323,MISC,city,Q515,,,
+
+4,334,343,MISC,buildings,Q41176,,,
+
+5,22,26,MISC,wife,Q188830,,,
+
+5,30,50,PER,Francesco Tornabuoni,Q56395996,,,1
+
+5,63,73,MISC,childbirth,Q34581,,,
+
+5,83,90,MISC,husband,Q212878,,,
+
+5,144,149,MISC,death,Q4,,,
+
+5,204,208,MISC,tomb,Q381885,,,
+
+5,220,226,PER,Andrea,Q183458,,,1
+
+5,244,248,MISC,slab,Q95969461,,,
+
+5,256,267,MISC,sarcophagus,Q48634,,,
+
+5,271,277,MISC,marble,Q40861,,,
+
+5,282,286,MISC,lady,Q467,,,
+
+5,318,325,MISC,passing,Q4,,,
+
+5,339,343,MISC,life,Q3,,,
+
+5,386,393,MISC,Virtues,Q3556272,,,1
+
+5,441,445,MISC,work,Q838948,,,
+
+5,470,476,MISC,marble,Q40861,,,
+
+5,487,491,MISC,tomb,Q381885,,,
+
+5,510,517,LOC,Minerva,Q823685,,,1
+
+6,24,32,LOC,Florence,Q2044,,,1
+
+6,38,43,MISC,money,Q1368,,,
+
+6,45,49,MISC,fame,Q1519566,,,
+
+6,55,61,MISC,honour,Q618779,,,
+
+6,91,98,WORK_OF_ART,a David,Q2415504,1,,1
+
+6,93,98,PER,David,Q41370,,1,1
+
+6,102,108,MISC,bronze,Q34095,,,
+
+6,184,190,LOC,Palace,,,,1
+
+6,241,250,MISC,staircase,Q12511,,,
+
+6,258,268,WORK_OF_ART,the Catena,Q107381420,,,1
+
+7,21,30,MISC,right arm,Q24206677,,,
+
+7,34,53,WORK_OF_ART,the ancient Laocoon,Q465762,1,,1
+
+7,102,108,PER,Baccio,Q358348,,,1
+
+7,138,141,MISC,wax,Q124695,,,
+
+7,174,178,MISC,work,Q6958747,,,
+
+7,186,193,MISC,muscles,Q7365,,,
+
+7,198,203,MISC,force,Q11402,,,
+
+7,212,218,MISC,manner,Q367293,,,
+
+7,271,277,PER,Baccio,Q358348,,,1
+
+7,293,296,MISC,art,Q735,,,
+
+7,307,312,MISC,model,Q1979154,,,
+
+7,329,336,MISC,pattern,Q2083958,,,
+
+7,358,361,MISC,arm,Q43471,,,
+
+7,373,380,WORK_OF_ART,Laocoon,NIL,,,1
+
+8,123,127,PER,King,Q116,,,1
+
+8,145,153,LOC,Florence,Q2044,,,1
+
+8,162,198,PER,Cardinal Silvio Passerino of Cortona,Q1084763,1,,1
+
+8,191,198,LOC,Cortona,Q52080,,1,1
+
+8,204,210,PER,Legate,Q740369,,,1
+
+8,214,222,LOC,Florence,Q2044,,,1
+
+8,251,255,MISC,city,Q515,,,
+
+8,297,304,WORK_OF_ART,Laocoon,NIL,,,1
+
+8,312,316,MISC,head,Q23640,,,
+
+8,331,336,MISC,court,Q309250,,,
+
+8,344,364,LOC,Palace of the Medici,Q911047,1,,1
+
+8,358,364,ORG,Medici,Q170022,,1,1
+
+9,0,8,PER,Giuliano,Q2578459,,,1
+
+9,29,53,PER,Cardinal Innocenzio Cibo,Q1386991,,,1
+
+9,56,60,MISC,copy,Q23013246,,,
+
+9,68,75,MISC,picture,Q478798,,,
+
+9,85,104,PER,Raffaello da Urbino,Q5597,1,,1
+
+9,126,199,WORK_OF_ART,"portraits of Pope Leo, Cardinal Giulio de' Medici, and Cardinal de' Rossi",Q2610729,1,,1
+
+9,139,147,PER,Pope Leo,Q49237,,1,1
+
+9,149,175,PER,Cardinal Giulio de' Medici,Q83159,,1,1
+
+9,181,199,PER,Cardinal de' Rossi,Q733662,,1,1
+
+9,217,235,PER,Cardinal de' Rossi,Q733662,,,1
+
+9,251,255,MISC,head,Q23640,,,
+
+9,259,272,PER,Cardinal Cibo,Q1386991,,,1
+
+10,36,63,WORK_OF_ART,portrait of Cencio Guasconi,NIL,1,,1
+
+10,48,63,PER,Cencio Guasconi,NIL,,1,1
+
+10,135,157,LOC,villa of Baccio Valori,NIL,1,,1
+
+10,144,157,PER,Baccio Valori,Q3181432,,1,1
+
+10,162,177,LOC,Olmo a Castello,NIL,1,,1
+
+10,169,177,LOC,Castello,Q2163936,,1,1
+
+10,181,191,MISC,tabernacle,Q1670363,,,
+
+10,195,201,MISC,fresco,Q134194,,,
+
+11,47,50,MISC,man,Q8441,,,
+
+11,52,60,PER,Giuliano,Q2578459,,,1
+
+11,116,146,LOC,Church of S. Marco at Florence,Q1152774,1,,1
+
+11,138,146,LOC,Florence,,,1,1
+
+12,0,5,PER,Marco,Q2559941,,,
+
+12,27,40,MISC,works in oils,Q174705,,,
+
+12,48,54,MISC,fresco,Q134194,,,
+
+12,103,106,MISC,man,Q8441,,,
+
+12,135,138,MISC,art,Q735,,,
+
+12,147,154,MISC,country,Q6256,,,
+
+13,16,21,MISC,proof,Q516021,,,
+
+13,29,33,MISC,work,Q838948,,,
+
+13,54,60,LOC,Aversa,Q19279,,,1
+
+13,85,91,LOC,Naples,Q2634,,,1
+
+13,114,127,MISC,panel-picture,Q55439,,,
+
+13,131,134,MISC,oil,Q42962,,,
+
+13,143,153,MISC,high-altar,Q1621649,,,
+
+13,161,182,LOC,Church of S. Agostino,NIL,1,,1
+
+13,208,213,MISC,frame,,,,
+
+13,227,235,MISC,pictures,Q478798,,,
+
+13,249,255,MISC,scenes,Q88392887,,,
+
+13,260,267,MISC,figures,Q207961,,,
+
+13,293,305,PER,S. Augustine,Q95139,,1,1
+
+13,325,333,MISC,heretics,NIL,,,
+
+13,351,357,PER,Christ,Q642420,,,1
+
+13,362,368,PER,Saints,Q43115,,,1
+
+14,4,12,MISC,pictures,Q478798,,,
+
+14,16,29,PER,Maestro Marco,Q2559941,,,1
+
+15,40,45,PER,Piero,Q280851,,,1
+
+15,64,74,MISC,commission,Q760089,,,
+
+15,81,86,MISC,panel,Q55439,,,
+
+15,94,122,LOC,Church of the Servite Friars,Q2287001,1,,1
+
+15,108,122,ORG,Servite Friars,Q615923,,1,1
+
+15,131,152,LOC,Chapel of the Tedaldi,NIL,1,,1
+
+15,145,152,ORG,Tedaldi,NIL,,1,1
+
+15,174,181,MISC,garment,Q11460,,,
+
+15,190,196,MISC,pillow,Q99895,,,
+
+15,200,210,PER,S. Filippo,Q141900,,,1
+
+15,214,221,MISC,brother,Q548320,,,
+
+15,231,236,ORG,Order,Q615923,,,1
+
+15,258,266,PER,Our Lady,Q345,,,1
+
+15,293,299,MISC,ground,Q21152267,,,
+
+15,305,313,MISC,pedestal,Q12014132,,,
+
+15,333,337,MISC,head,Q23640,,,
+
+15,346,352,MISC,Heaven,Q4489450,,,1
+
+15,361,365,MISC,book,Q571,,,
+
+15,373,377,MISC,hand,Q33767,,,
+
+15,395,398,PER,Son,Q302,,,1
+
+15,421,432,MISC,Holy Spirit,Q37302,,,1
+
+15,451,456,MISC,light,Q9128,,,
+
+16,0,5,PER,Piero,Q280851,,,1
+
+16,23,44,PER,elder Filippo Strozzi,Q323993,,,1
+
+16,48,55,MISC,picture,Q478798,,,
+
+16,68,75,MISC,figures,Q207961,,,
+
+16,79,86,PER,Perseus,Q130832,,,1
+
+16,98,107,PER,Andromeda,Q161582,,,1
+
+16,117,124,MISC,Monster,Q276453,,,1
+
+16,159,165,MISC,things,Q35120,,,
+
+17,20,27,MISC,picture,Q478798,,,
+
+17,46,51,MISC,Venus,Q47652,,,1
+
+17,60,64,MISC,Mars,Q112,,,1
+
+17,102,108,MISC,meadow,Q7777019,,,
+
+17,117,124,MISC,flowers,Q506,,,
+
+17,153,158,MISC,Loves,Q5011,,,1
+
+17,210,216,MISC,helmet,Q173603,,,
+
+17,218,225,MISC,armlets,Q6398218,,,
+
+17,247,253,MISC,armour,Q20793164,,,
+
+17,257,261,MISC,Mars,Q112,,,1
+
+17,274,279,MISC,grove,Q1510380,,,
+
+17,283,289,MISC,myrtle,Q165152,,,
+
+17,298,303,MISC,Cupid,Q5011,,,1
+
+17,324,330,MISC,rabbit,Q9394,,,
+
+17,355,360,MISC,Doves,Q10856,,,1
+
+17,364,369,MISC,Venus,Q47652,,,1
+
+17,384,391,MISC,emblems,Q112110,,,
+
+17,395,399,MISC,Love,Q5011,,,1
+
+18,3,19,PER,Jacopo del Conte,Q2538308,,,1
+
+18,72,76,LOC,Rome,Q220,,,1
+
+18,131,137,MISC,places,Q17334923,,,
+
+19,5,11,PER,Jacopo,Q2538308,,,1
+
+19,194,208,MISC,altar-pictures,Q478798,,,
+
+19,213,228,MISC,works in fresco,Q134194,,,
+
+19,254,258,LOC,Rome,Q220,,,1
+
+20,7,16,MISC,portraits,Q134307,,,
+
+20,125,133,PER,Pontiffs,Q19546,,,1
+
+20,160,173,PER,Pope Paul III,Q133001,,,1
+
+20,206,211,MISC,lords,Q12826225,,,
+
+20,216,227,MISC,ambassadors,Q121998,,,
+
+20,264,269,MISC,Court,Q1134237,,,1
+
+20,297,305,MISC,captains,Q19100,,,
+
+20,327,343,ORG,house of Colonna,Q327202,,,1
+
+20,355,361,ORG,Orsini,Q855303,,,1
+
+20,363,383,PER,Signor Piero Strozzi,Q1346257,,,1
+
+20,411,418,PER,Bishops,Q29182,,,1
+
+20,420,429,PER,Cardinals,Q45722,,,1
+
+20,447,455,MISC,prelates,Q725440,,,
+
+20,460,465,MISC,lords,Q12826225,,,
+
+20,488,502,MISC,men of letters,Q20826540,,,
+
+20,513,527,MISC,men of quality,NIL,,,
+
+20,565,569,MISC,fame,Q1519566,,,
+
+20,571,577,MISC,honour,Q618779,,,
+
+20,583,589,MISC,profit,Q2112073,,,
+
+20,593,597,LOC,Rome,Q220,,,1
+
+20,657,663,MISC,family,Q8436,,,
+
+20,672,676,MISC,city,Q515,,,
+
+21,61,71,PER,Pope Leo X,Q49237,,,1
+
+21,99,103,MISC,city,Q515,,,
+
+21,164,175,MISC,festivities,Q132241,,,
+
+21,208,217,MISC,spectacle,Q224530,,,
+
+21,232,238,MISC,arches,Q12277,,,
+
+21,240,247,MISC,façades,Q183061,,,
+
+21,249,256,MISC,temples,Q44539,,,
+
+21,267,274,MISC,figures,Q207961,,,
+
+21,286,293,MISC,statues,Q179700,,,
+
+21,298,307,MISC,ornaments,Q335261,,,
+
+21,446,450,MISC,city,Q515,,,
+
+21,461,470,MISC,abundance,Q336019,,,
+
+21,491,501,MISC,intellects,Q353284,,,
+
+22,7,15,MISC,entrance,Q854429,,,
+
+22,23,50,LOC,Porta di S. Piero Gattolini,Q3398708,1,,1
+
+22,32,50,LOC,S. Piero Gattolini,Q3671588,,1,1
+
+22,52,68,PER,Jacopo di Sandro,Q2538308,,,1
+
+22,86,105,PER,Baccio da Montelupo,Q2245460,,,1
+
+22,115,119,MISC,arch,Q12277,,,
+
+22,144,150,MISC,scenes,Q88392887,,,
+
+23,7,25,LOC,Piazza de' Signori,Q849846,,,1
+
+23,27,34,PER,Antonio,Q357276,,,1
+
+23,40,47,MISC,brother,Q10861465,,,
+
+23,51,72,PER,Giuliano da San Gallo,Q312365,,,1
+
+23,95,101,MISC,temple,Q44539,,,
+
+23,107,124,PER,Baccio Bandinelli,Q358348,,,1
+
+23,132,137,MISC,Giant,NIL,,,1
+
+23,146,152,LOC,Loggia,Q839746,,,1
+
+24,55,61,MISC,façade,Q183061,,,
+
+24,65,83,LOC,S. Maria del Fiore,Q191739,,,1
+
+24,93,97,MISC,wood,Q4421,,,
+
+24,134,140,MISC,scenes,Q88392887,,,
+
+24,144,155,MISC,chiaroscuro,Q219540,,,
+
+24,163,169,PER,Andrea,Q5571,,,1
+
+25,41,48,MISC,masters,Q19968968,,,
+
+25,75,83,LOC,Florence,Q2044,,,1
+
+25,107,114,LOC,Tuscany,Q1273,,,1
+
+25,137,146,MISC,craftsmen,NIL,,,
+
+25,150,156,MISC,design,Q82604,,,
+
+25,160,168,LOC,Florence,Q2044,,,1
+
+25,177,184,PER,Filippo,Q174330,,,1
+
+25,199,203,LOC,Rome,Q220,,,1
+
+25,243,258,ORG,Office of Works,NIL,,,1
+
+25,262,281,LOC,"S. Maria del Fiore,",Q191739,,,1
+
+25,305,312,PER,Consuls,Q3687433,,,1
+
+25,324,331,PER,Wardens,NIL,,,1
+
+25,356,360,MISC,body,NIL,,,
+
+25,383,391,MISC,citizens,Q2472587,,,
+
+25,443,449,MISC,master,Q19968968,,,
+
+25,512,519,MISC,tribune,Q17143038,,,
+
+26,17,22,MISC,model,Q4610556,,,
+
+26,43,63,WORK_OF_ART,Temple of the Angeli,Q19947673,,,1
+
+26,73,94,ORG,family of the Scolari,NIL,,,1
+
+26,186,197,PER,Florentines,NIL,,,1
+
+26,208,213,MISC,money,Q1368,,,
+
+26,231,236,LOC,Monte,NIL,,,1
+
+26,287,291,MISC,city,Q515,,,
+
+26,358,373,PER,people of Lucca,NIL,1,,1
+
+26,368,373,LOC,Lucca,Q13373,,1,1
+
+26,403,408,MISC,money,Q1368,,,
+
+26,446,463,PER,Niccolò da Uzzano,Q1984751,,,1
+
+26,481,489,LOC,Sapienza,NIL,,,1
+
+26,535,540,MISC,place,Q17334923,,,
+
+27,22,42,WORK_OF_ART,Temple of the Angeli,Q19947673,,,1
+
+27,78,83,MISC,model,Q4610556,,,
+
+27,87,98,PER,Brunellesco,Q174330,,,1
+
+27,147,152,LOC,Italy,Q38,,,1
+
+28,21,28,LOC,Bologna,Q1891,,,1
+
+28,65,81,PER,Dominican friars,Q131479,,,1
+
+28,97,100,MISC,oil,Q22656,,,
+
+28,103,124,LOC,chapel in S. Domenico,Q862602,1,,1
+
+28,113,124,LOC,S. Domenico,Q44091,,1,1
+
+28,137,141,MISC,fame,Q1519566,,,
+
+28,171,177,MISC,credit,Q182076,,,
+
+29,27,35,MISC,pictures,Q478798,,,
+
+29,49,67,LOC,S. Maria del Monte,Q34598751,,,1
+
+29,71,75,MISC,seat,Q470540,,,
+
+29,83,95,ORG,Black Friars,Q131132,,,1
+
+29,104,111,LOC,Bologna,Q1891,,,1
+
+29,124,143,LOC,Porta di S. Mammolo,Q3908797,,,1
+
+29,159,186,LOC,church of the Casa di Mezzo,NIL,1,,1
+
+29,173,186,LOC,Casa di Mezzo,NIL,,1,1
+
+29,200,204,MISC,road,Q34442,,,
+
+29,234,238,MISC,hand,Q33767,,,
+
+29,244,259,MISC,works in fresco,Q134194,,,
+
+29,286,293,MISC,stories,Q1318295,,,
+
+29,301,314,MISC,Old Testament,Q3908797,,,1
+
+30,15,27,PER,Pope Paul II,Q102605,,,1
+
+30,33,64,LOC,Church of the Madonna of Loreto,Q654996,1,,1
+
+30,47,54,PER,Madonna,Q345,,1,1
+
+30,58,64,LOC,Loreto,Q124110,,1,1
+
+30,117,122,MISC,brick,Q40089,,,
+
+30,123,128,MISC,piers,Q335297,,,
+
+30,139,143,MISC,work,Q6958747,,,
+
+30,249,254,MISC,skill,Q205961,,,
+
+30,259,265,MISC,genius,Q185030,,,
+
+30,269,287,PER,Giuliano da Maiano,Q716519,,,1
+
+30,355,364,PER,Sixtus IV,Q163514,,,1
+
+30,429,436,PER,Clement,Q83159,,,1
+
+30,566,572,MISC,arches,Q12277,,,
+
+30,580,587,MISC,tribune,Q17143038,,,
+
+30,618,624,MISC,church,Q16970,,,
+
+30,633,639,MISC,places,Q17334923,,,
+
+30,665,676,MISC,foundations,Q191360,,,
+
+31,10,17,PER,Antonio,Q357276,,,1
+
+31,39,51,PER,Pope Clement,Q83159,,,1
+
+31,76,84,MISC,mischief,,,,
+
+31,113,119,LOC,Loreto,Q124110,,,1
+
+31,137,143,MISC,arches,,,,
+
+31,202,211,MISC,architect,,,,
+
+31,246,254,MISC,building,,,,
+
+31,272,277,MISC,walls,,,,
+
+31,282,291,MISC,pilasters,,,,
+
+31,348,352,MISC,form,,,,
+
+31,399,404,MISC,parts,,,,
+
+31,458,464,MISC,weight,,,,
+
+32,0,12,PER,Fra Giocondo,Q5585,,,1
+
+32,35,42,MISC,scholar,,,,
+
+32,54,63,MISC,architect,,,,
+
+32,82,88,MISC,master,,,,
+
+32,92,103,MISC,perspective,,,,
+
+32,145,163,PER,Emperor Maximilian,Q150726,,,1
+
+32,173,179,MISC,master,,,,
+
+32,187,192,MISC,Greek,Q9129,,,1
+
+32,197,203,MISC,Latin ,,,,
+
+32,203,210,MISC,tongues,,,,
+
+32,226,234,PER,Scaliger,Q441066,,,1
+
+32,299,306,MISC,matters,,,,
+
+32,323,331,MISC,subtlety,,,,
+
+32,348,358,PER,Maximilian,Q150726,,,1
+
+33,17,24,MISC,persons,,,,
+
+33,98,104,LOC,Verona,Q2028,,,1
+
+33,119,124,MISC,power,,,,
+
+33,133,140,PER,Emperor,Q39018,,,1
+
+33,145,151,MISC,bridge,,,,
+
+33,172,190,LOC,Ponte della Pietra,Q540546,,,1
+
+33,200,204,MISC,city,,,,
+
+33,273,285,MISC,central pier,,,,
+
+33,340,352,PER,Fra Giocondo,Q5585,,,1
+
+33,362,368,MISC,design,,,,
+
+34,4,13,MISC,disciples,,,,
+
+34,19,31,PER,Taddeo Gaddi,Q315835,,,1
+
+34,48,55,MISC,baptism,,,,
+
+34,79,93,PER,Puccio Capanna,Q1383075,,,1
+
+34,97,105,LOC,Florence,Q2044,,,1
+
+34,123,129,LOC,Rimini,Q13369,,,1
+
+34,137,157,LOC,Church of S. Cataldo,Q111080952,1,,1
+
+34,147,157,PER,S. Cataldo,Q1050218,,1,1
+
+34,176,192,ORG,Preaching Friars,Q131479,,,1
+
+34,215,221,MISC,fresco,,,,
+
+34,226,230,MISC,hull,,,,
+
+34,236,240,MISC,ship,,,,
+
+34,276,279,MISC,sea,,,,
+
+34,286,289,MISC,men,,,,
+
+34,307,313,MISC,things,,,,
+
+34,323,326,MISC,sea,,,,
+
+34,343,349,PER,Puccio,Q1383075,,,1
+
+34,401,409,MISC,mariners,,,,
+
+35,9,12,MISC,man,,,,
+
+35,26,31,MISC,works,,,,
+
+35,42,47,MISC,death,,,,
+
+35,51,57,PER,Giotto,Q7814,,,1
+
+35,65,97,LOC,Church of S. Francesco at Assisi,Q207486,1,,1
+
+35,75,87,PER,S. Francesco,Q676555,,1,1
+
+35,91,97,LOC,Assisi,Q20103,,1,1
+
+35,110,142,LOC,Church of S. Trinita in Florence,Q1062114,1,,1
+
+35,134,142,LOC,Florence,Q2044,,,1
+
+35,197,218,LOC,Chapel of the Strozzi,Q3657519,,,1
+
+35,211,218,ORG,Strozzi,Q1151399,,,1
+
+35,231,260,WORK_OF_ART,the Coronation of the Madonna,NIL,1,,1
+
+35,235,260,MISC,Coronation of the Madonna,Q1093370,,1,1
+
+35,264,270,MISC,fresco,,,,
+
+35,279,284,MISC,choir,,,,
+
+35,288,294,MISC,angels,,,,
+
+35,323,329,MISC,manner,,,,
+
+35,333,339,PER,Giotto,Q7814,,,1
+
+35,352,357,MISC,sides,,,,
+
+35,362,369,MISC,stories,,,,
+
+35,373,381,PER,S. Lucia,Q183240,,,1
+
+36,0,8,PER,Giovanni,Q2749321,,,1
+
+36,26,45,LOC,Chapel of the Scali,NIL,,,1
+
+36,49,71,LOC,S. Trinita in Florence,Q1062114,1,,1
+
+36,63,71,LOC,Florence,Q2044,,1,1
+
+36,120,127,MISC,stories,,,,
+
+36,131,138,PER,S. Paul,Q9200,,,1
+
+36,168,174,MISC,chapel,,,,
+
+36,189,210,MISC,tomb of Maestro Paolo,NIL,1,,1
+
+36,197,210,PER,Maestro Paolo,Q1168587,,1,1
+
+36,216,226,MISC,astrologer,,,,
+
+37,3,30,LOC,S. Stefano al Ponte Vecchio,Q3674332,1,,1
+
+37,17,30,LOC,Ponte Vecchio,Q208633,,1,1
+
+37,44,49,MISC,panel,,,,
+
+37,62,70,MISC,pictures,,,,
+
+37,74,83,MISC,distemper,,,,
+
+37,91,97,MISC,fresco,,,,
+
+37,122,130,LOC,Florence,Q2044,,,1
+
+38,0,18,PER,Francesco Granacci,Q717097,,,1
+
+38,92,122,PER,Magnificent Lorenzo de' Medici,Q177854,,,1
+
+38,139,145,MISC,garden,,,,
+
+38,210,216,MISC,genius,,,,
+
+38,220,232,PER,Michelagnolo,Q5592,,,1
+
+38,257,263,MISC,fruits,,,,
+
+38,348,352,MISC,side,,,,
+
+38,386,395,MISC,attention,,,,
+
+38,400,408,MISC,humility,,,,
+
+38,443,448,MISC,brain,,,,
+
+38,464,476,PER,Michelagnolo,Q5592,,,1
+
+38,529,536,MISC,friends,,,,
+
+38,644,649,MISC,works,,,,
+
+38,682,685,MISC,art,,,,
+
+38,710,718,PER,Granacci,Q717097,,,1
+
+39,53,61,MISC,workshop,,,,
+
+39,65,85,PER,Domenico Ghirlandajo,Q191423,,,1
+
+39,108,116,PER,Granacci,Q191423,,,1
+
+39,156,167,PER,Ghirlandajo,Q191423,,,1
+
+39,176,179,MISC,men,,,,
+
+39,195,206,MISC,draughtsman,,,,
+
+39,254,263,MISC,distemper,,,,
+
+39,274,279,PER,David,Q1145811,,,1
+
+39,284,305,PER,Benedetto Ghirlandajo,Q2554861,,,1
+
+39,311,319,MISC,brothers,,,,
+
+39,323,331,PER,Domenico,Q191423,,,1
+
+39,347,358,MISC,altar-piece,,,,
+
+39,366,376,MISC,high-altar,,,,
+
+39,380,396,LOC,S. Maria Novella,Q51175,,,1
+
+39,436,441,MISC,death,,,,
+
+39,454,462,PER,Domenico,Q191423,,,1
+
+40,0,6,PER,Jacopo,Q2538308,,,1
+
+40,32,36,LOC,Rome,Q220,,,1
+
+40,85,89,LOC,Rome,Q220,,,1
+
+41,21,25,MISC,city,,,,
+
+41,40,46,MISC,chapel,,,,
+
+41,83,104,LOC,Church of S. Agostino,Q1424095,,,1
+
+41,112,116,MISC,door,,,,
+
+41,124,130,MISC,façade,,,,
+
+41,157,163,MISC,chapel,,,,
+
+41,172,180,PER,Apostles,Q4155679,,,1
+
+41,195,206,PER,Holy Spirit,Q37302,,,1
+
+41,219,223,MISC,wall,,,,
+
+41,238,245,MISC,stories,,,,
+
+41,249,255,PER,Christ,Q302,,,1
+
+41,274,279,PER,Peter,Q33923,,,1
+
+41,284,290,PER,Andrew,Q43399,,,1
+
+41,325,361,MISC,the Feast of Simon and the Magdalene,,,,
+
+41,338,343,PER,Simon,NIL,,1,1
+
+41,352,361,PER,Magdalene,,,1,1
+
+41,383,390,MISC,ceiling,,,,
+
+41,394,400,MISC,planks,,,,
+
+41,405,410,MISC,beams,,,,
+
+42,7,12,MISC,panel,,,,
+
+42,25,31,MISC,chapel,,,,
+
+42,53,56,MISC,oil,,,,
+
+42,61,74,WORK_OF_ART,a Dead Christ,NIL,1,,1
+
+42,68,74,PER,Christ,Q302,,1,1
+
+42,107,114,MISC,mastery,,,,
+
+42,119,128,MISC,diligence,,,,
+
+43,3,15,PER,Leon Batista,Q182046,,,1
+
+43,23,49,PER,Giovanni di Paolo Rucellai,Q3768494,,,1
+
+43,35,49,PER,Paolo Rucellai,,,,
+
+43,80,86,MISC,façade,,,,
+
+43,90,106,LOC,S. Maria Novella,Q51175,,,1
+
+43,119,125,MISC,marble,,,,
+
+43,137,144,MISC,expense,,,,
+
+43,170,182,PER,Leon Batista,Q182046,,,1
+
+43,206,212,MISC,friend,,,,
+
+43,252,259,MISC,counsel,,,,
+
+43,276,281,MISC,model,,,,
+
+43,283,291,PER,Giovanni,Q3768494,,,1
+
+43,334,339,MISC,costs,,,,
+
+43,378,386,MISC,memorial,,,,
+
+44,88,100,MISC,satisfaction,,,,
+
+44,112,116,MISC,city,,,,
+
+44,151,155,MISC,work,,,,
+
+44,183,187,MISC,door,,,,
+
+44,216,228,PER,Leon Batista,Q182046,,,1
+
+44,253,258,MISC,pains,,,,
+
+45,4,19,PER,Cosimo Rucellai,Q92078306,,,1
+
+45,43,49,MISC,design,,,,
+
+45,58,64,MISC,palace,,,,
+
+45,93,99,MISC,street,,,,
+
+45,116,124,LOC,La Vigna,NIL,,,1
+
+45,143,149,MISC,loggia,,,,
+
+46,13,25,PER,Michelagnolo,Q5592,,,1
+
+46,48,55,MISC,statues,,,,
+
+46,102,106,PER,Pope,Q19546,,,1
+
+46,124,128,MISC,head,,,,
+
+46,150,156,MISC,person,,,,
+
+46,185,190,MISC,walls,,,,
+
+46,198,214,LOC,Chapel of Sixtus,Q2943,1,,1
+
+46,230,242,PER,Michelagnolo,Q5592,,,1
+
+46,259,267,MISC,vaulting,,,,
+
+46,272,281,PER,Julius II,Q80516,,,1
+
+46,287,293,MISC,nephew,,,,
+
+47,17,21,MISC,wall,,,,
+
+47,33,38,MISC,altar,,,,
+
+47,43,50,PER,Clement,Q83159,,,1
+
+47,71,93,MISC,the Universal Judgment,Q1821239,,,1
+
+47,136,141,MISC,scene,,,,
+
+47,155,158,MISC,art,,,,
+
+47,162,168,MISC,design,,,,
+
+47,242,246,MISC,door,,,,
+
+47,291,296,MISC,scene,,,,
+
+47,302,309,MISC,Lucifer,Q6674,,,1
+
+47,331,336,MISC,pride,,,,
+
+47,342,348,MISC,Heaven,Q4489450,,,1
+
+47,364,370,MISC,Angels,Q235113,,,1
+
+47,422,428,MISC,centre,,,,
+
+47,432,436,MISC,Hell,Q564,,,1
+
+47,476,488,PER,Michelagnolo,Q5592,,,1
+
+47,524,532,MISC,sketches,,,,
+
+47,537,544,MISC,designs,,,,
+
+47,604,633,LOC,Church of the Trinità at Rome,Q1229008,1,,1
+
+47,629,633,LOC,Rome,Q220,,1,1
+
+47,648,655,MISC,painter,,,,
+
+47,685,697,PER,Michelagnolo,Q5592,,,1
+
+47,729,736,MISC,colours,,,,
+
+48,5,9,MISC,work,,,,
+
+48,22,28,MISC,fresco,,,,
+
+48,40,61,LOC,Chapel of S. Gregorio,Q748459,,,1
+
+48,70,75,MISC,cross,,,,
+
+48,83,89,MISC,church,,,,
+
+48,167,172,MISC,force,,,,
+
+48,180,189,MISC,attitudes,,,,
+
+48,194,200,MISC,groups,,,,
+
+48,210,215,MISC,nudes,,,,
+
+48,243,249,MISC,Heaven,Q4489450,,,1
+
+48,297,303,MISC,centre,,,,
+
+48,311,316,MISC,earth,,,,
+
+48,343,348,MISC,forms,,,,
+
+48,352,358,MISC,Devils,Q6674,,,1
+
+48,424,431,MISC,fantasy,,,,
+
+49,11,16,MISC,niche,,,,
+
+49,47,53,MISC,saints,,,,
+
+49,57,63,MISC,marble,,,,
+
+49,80,85,PER,Nanni,Q465917,,,1
+
+49,118,157,ORG,"Guild of Smiths, Carpenters, and Masons",NIL,,,1
+
+49,273,278,MISC,niche,,,,
+
+49,406,410,MISC,arms,,,,
+
+49,446,452,PER,Donato,Q37562,,,1
+
+49,457,462,MISC,grief,,,,
+
+49,467,474,MISC,despair,,,,
+
+49,496,503,MISC,counsel,,,,
+
+49,522,532,MISC,misfortune,,,,
+
+49,545,554,MISC,foresight,,,,
+
+50,0,5,PER,Palma,Q9342,,,1
+
+50,39,47,MISC,patience,,,,
+
+50,76,83,MISC,colours,,,,
+
+50,93,101,MISC,boldness,,,,
+
+50,105,111,MISC,design,,,,
+
+50,128,134,MISC,colour,,,,
+
+50,154,159,MISC,grace,,,,
+
+50,164,170,MISC,finish,,,,
+
+51,20,26,LOC,Venice,Q641,,,1
+
+51,37,45,MISC,pictures,,,,
+
+51,50,59,MISC,portraits,,,,
+
+51,89,98,MISC,gentlemen,,,,
+
+51,201,213,MISC,altar-pieces,,,,
+
+51,223,227,MISC,head,,,,
+
+52,11,23,MISC,altar-pieces,,,,
+
+52,39,49,LOC,S. Antonio,Q3672615,,,1
+
+52,56,64,LOC,Castello,Q52425,,,1
+
+52,69,75,LOC,Venice,Q641,,,1
+
+52,93,101,LOC,S. Elena,Q3585397,,,1
+
+52,112,116,LOC,Lido,Q226221,,,1
+
+52,128,150,ORG,Monks of Monte Oliveto,Q572102,!,,1
+
+52,137,150,LOC,Monte Oliveto,LOC,,1,1
+
+52,162,171,MISC,monastery,,,,
+
+53,0,26,PER,Parri di Spinello Spinelli,Q287934,,,1
+
+53,9,26,PER,Spinello Spinelli,Q2718358,,1,1
+
+53,28,35,MISC,painter,,,,
+
+53,39,45,LOC,Arezzo,Q13378,,,1
+
+53,71,81,MISC,principles,,,,
+
+53,85,88,MISC,art,,,,
+
+53,102,108,MISC,father,,,,
+
+53,125,133,LOC,Florence,Q2044,,,1
+
+53,151,182,PER,Messer Leonardo Bruni of Arezzo,Q314488,1,,1
+
+53,176,182,LOC,Arezzo,Q13378,,1,1
+
+53,204,220,PER,Lorenzo Ghiberti,Q208125,,,1
+
+53,230,236,MISC,school,,,,
+
+53,255,258,MISC,men,,,,
+
+53,283,293,MISC,discipline,,,,
+
+53,309,314,MISC,doors,,,,
+
+53,318,329,LOC,S. Giovanni,Q732511,,,1
+
+53,380,386,MISC,labour,,,,
+
+53,396,403,MISC,figures,,,,
+
+54,20,24,MISC,work,,,,
+
+54,39,49,MISC,friendship,,,,
+
+54,55,75,PER,Masolino da Panicale,Q318117,,,1
+
+54,104,110,MISC,method,,,,
+
+54,114,121,MISC,drawing,,,,
+
+54,202,208,MISC,manner,,,,
+
+54,212,236,PER,Don Lorenzo degli Angeli,Q155376,,,1
+
+55,10,17,MISC,arrival,,,,
+
+55,66,77,PER,Pope Julius,Q80516,,,1
+
+55,79,87,PER,Raffaell,,,,
+
+55,102,124,LOC,Camera della Segnatura,Q9292247,,,1
+
+55,127,132,MISC,scene,,,,
+
+55,140,151,MISC,theologians,,,,
+
+55,164,174,MISC,Philosophy,Q5891,,,1
+
+55,179,188,MISC,Astrology,Q34362,,,1
+
+55,194,202,MISC,Theology,Q34178,,,1
+
+55,237,242,MISC,sages,,,,
+
+55,250,255,MISC,world,,,,
+
+56,24,35,MISC,astrologers,,,,
+
+56,68,75,MISC,figures,,,,
+
+56,80,90,MISC,characters,,,,
+
+56,94,102,MISC,geomancy,,,,
+
+56,107,116,MISC,astrology,,,,
+
+56,132,139,MISC,tablets,,,,
+
+56,164,175,ORG,Evangelists,,,,
+
+56,202,208,MISC,angels,,,,
+
+56,220,231,PER,Evangelists,Q472773,,,1
+
+57,14,22,PER,Diogenes,Q59180,,,1
+
+57,32,35,MISC,cup,,,,
+
+57,50,55,MISC,steps,,,,
+
+57,69,76,MISC,thought,,,,
+
+57,123,129,MISC,beauty,,,,
+
+57,171,176,MISC,dress,,,,
+
+58,17,26,PER,Aristotle,Q868,,,1
+
+58,31,36,PER,Plato,Q859,,,1
+
+58,51,57,MISC,Timæus,Q371884,,,1
+
+58,65,69,MISC,hand,,,,
+
+58,90,96,MISC,Ethics,Q474537,,,1
+
+58,119,125,MISC,circle,,,,
+
+58,138,144,MISC,school,,,,
+
+58,148,160,MISC,philosophers,,,,
+
+59,8,37,LOC,Convent of the Nuns of Ripoli,Q3670746,1,,1
+
+59,31,37,LOC,Ripoli,Q82612,,1,1
+
+59,38,45,PER,Ridolfo,Q64881,,,1
+
+59,58,70,MISC,altar-pieces,,,,
+
+59,74,78,MISC,oils,,,,
+
+59,91,113,MISC,Coronation of Our Lady,Q1093370,,,1
+
+59,134,141,PER,Madonna,Q345,,,1
+
+59,164,170,PER,Saints,Q43115,,,1
+
+60,8,26,PER,Church of S. Gallo,,,,
+
+60,44,55,MISC,altar-piece,,,,
+
+60,56,62,PER,Christ,Q302,,,1
+
+60,75,80,MISC,Cross,Q392371,,,1
+
+60,104,112,MISC,soldiers,,,,
+
+60,122,129,MISC,Madonna,Q345,,,1
+
+60,144,150,MISC,Maries,Q3254109,,,1
+
+60,184,188,PER,John,Q44015,,,1
+
+60,196,204,PER,Veronica,Q196653,,,1
+
+60,221,229,MISC,Sudarium,Q1365316,,,1
+
+60,233,239,PER,Christ,Q302,,,1
+
+60,253,258,MISC,force,,,,
+
+60,263,272,MISC,animation,,,,
+
+61,0,7,PER,Michele,Q459937,,,1
+
+61,34,48,MISC,fortifications,,,,
+
+61,70,79,MISC,buildings,,,,
+
+61,87,94,MISC,temples,,,,
+
+61,96,104,MISC,churches,,,,
+
+61,110,121,MISC,monasteries,,,,
+
+61,148,157,MISC,buildings,,,,
+
+61,161,167,LOC,Verona,Q2028,,,1
+
+61,178,184,MISC,places,,,,
+
+61,238,261,PER,Chapel of the Guareschi,Q3657362,,,1
+
+61,265,278,LOC,S. Bernardino,Q3669629,,,1
+
+61,305,311,MISC,manner,,,,
+
+61,317,323,MISC,temple,,,,
+
+61,336,352,MISC,Corinthian Order,Q54124,,,1
+
+61,367,376,MISC,ornaments,,,,
+
+61,388,394,MISC,manner,,,,
+
+62,8,28,PER,Cardinal of Lorraine,NIL,1,,1
+
+62,42,48,PER,Christ,Q302,,,1
+
+62,56,65,WORK_OF_ART,Ecce Homo,,,,
+
+62,68,82,WORK_OF_ART,a Jove with Io,NIL,1,,1
+
+62,70,74,MISC,Jove,Q34201,,1,1
+
+62,80,82,MISC,Io,Q179014,,1,1
+
+62,99,104,MISC,works,,,,
+
+63,15,29,PER,King of Poland,Q3273712,,,1
+
+63,32,39,MISC,picture,,,,
+
+63,52,56,MISC,Jove,Q34201,,,1
+
+63,64,69,MISC,Nymph,Q373916,,,1
+
+63,109,114,MISC,thing,,,,
+
+64,7,15,LOC,Flanders,Q234,,,1
+
+64,49,57,MISC,pictures,,,,
+
+64,61,78,PER,S. Mary Magdalene,Q63070,,,1
+
+64,86,92,LOC,Desert,Q8514,,,1
+
+64,113,119,MISC,Angels,Q235113,,,1
+
+64,127,132,MISC,Diana,Q132543,,,1
+
+64,157,163,MISC,Nymphs,Q373916,,,1
+
+64,169,174,MISC,fount,,,,
+
+64,199,216,PER,Milanese Candiano,NIL,,,1
+
+64,242,266,PER,physician of Queen Maria,,,,
+
+64,255,266,PER,Queen Maria,,,,
+
+64,284,296,MISC,her Highness,,,,
+
+65,22,39,PER,Daniello da Parma,Q5219465,1,,1
+
+65,79,99,PER,Antonio da Correggio,Q8457,1,,1
+
+65,125,152,PER,Francesco Mazzuoli of Parma,Q9348,1,,1
+
+65,147,152,LOC,Parma,Q2683,,1,1
+
+65,183,189,MISC,church,,,,
+
+65,193,199,MISC,fresco,,,,
+
+65,208,223,ORG,Office of Works,NIL,,,1
+
+65,227,244,LOC,S. Maria at Vitto,NIL,1,,1
+
+65,239,244,LOC,Vitto,Q116390,,1,1
+
+65,253,257,LOC,Sora,Q117382,,,1
+
+65,266,273,MISC,borders,,,,
+
+65,281,288,LOC,Abruzzi,Q1284,,,1
+
+65,297,303,PER,Taddeo,Q434058,,,1
+
+65,311,321,MISC,assistance,,,,
+
+65,338,343,LOC,Vitto,Q116390,,,1
+
+66,9,13,MISC,work,,,,
+
+66,24,32,PER,Daniello,Q5219465,,,1
+
+66,50,57,MISC,painter,,,,
+
+66,65,70,MISC,world,,,,
+
+66,104,107,MISC,age,,,,
+
+66,149,158,PER,Correggio,Q8457,,,1
+
+66,163,173,PER,Parmigiano,Q9348,,,1
+
+66,218,227,MISC,paintings,,,,
+
+66,274,280,PER,Taddeo,Q434058,,,1
+
+66,322,332,MISC,assistance,,,,
+
+66,349,354,MISC,words,,,,
+
+67,8,12,MISC,work,,,,
+
+67,47,53,PER,Taddeo,Q434058,,,1
+
+67,66,82,PER,four Evangelists,Q472773,,,1
+
+67,88,94,PER,Sibyls,Q273320,,,1
+
+67,100,108,PER,Prophets,Q42857,,,1
+
+67,134,141,MISC,stories,,,,
+
+67,145,157,PER,Jesus Christ,Q302,,,1
+
+67,169,186,PER,Virgin His Mother,Q345,,,1
+
