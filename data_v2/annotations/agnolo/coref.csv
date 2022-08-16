@@ -4,141 +4,147 @@ agnolo:608,ENT,7,37,Michele d'Agnolo of Poggibonzi,1
 
 agnolo:608,ENT,27,37,Poggibonzi,2
 
-agnolo:608,ENT,46,53,village,4
+agnolo:608,ENT,46,53,village,3
 
-agnolo:608,ENT,46,67,village of Montorsoli,4
+agnolo:608,ENT,46,67,village of Montorsoli,3
 
-agnolo:608,ENT,103,111,Florence,5
+agnolo:608,ENT,103,111,Florence,4
 
-agnolo:608,ENT,127,134,Bologna,6
+agnolo:608,ENT,127,134,Bologna,5
 
 agnolo:608,PRON,142,144,he,1
 
-agnolo:608,ENT,156,160,farm,7
+agnolo:608,ENT,156,160,farm,6
 
-agnolo:608,ENT,197,202,child,8
+agnolo:608,ENT,197,202,child,7
 
 agnolo:608,PRON,212,214,he,1
 
-agnolo:608,ENT,236,242,father,9
+agnolo:608,PRON,232,235,his,1
 
-agnolo:608,ENT,244,250,Agnolo,8
+agnolo:608,ENT,236,242,father,8
 
-agnolo:608,ENT,257,262,child,8
+agnolo:608,ENT,244,250,Agnolo,7
 
-agnolo:608,ENT,306,312,design,11
+agnolo:608,ENT,257,262,child,7
 
-agnolo:608,PRON,354,357,his,8
+agnolo:608,ENT,306,312,design,9
+
+agnolo:608,PRON,354,357,his,7
 
 agnolo:608,ENT,358,364,father,1
 
-agnolo:608,ENT,393,400,friends,12
+agnolo:608,ENT,393,400,friends,10
 
-agnolo:608,ENT,411,424,stone-cutting,13
+agnolo:608,ENT,411,424,stone-cutting,11
 
-agnolo:608,ENT,436,443,masters,14
+agnolo:608,ENT,436,443,masters,12
 
-agnolo:608,ENT,474,481,Fiesole,15
+agnolo:608,ENT,474,481,Fiesole,13
 
-agnolo:608,ENT,502,512,Montorsoli,4
+agnolo:608,ENT,502,512,Montorsoli,3
 
-agnolo:608,ENT,514,520,Agnolo,8
+agnolo:608,ENT,514,520,Agnolo,7
 
-agnolo:608,ENT,543,549,chisel,16
+agnolo:608,ENT,543,549,chisel,14
 
-agnolo:608,ENT,561,568,masters,17
+agnolo:608,ENT,561,568,masters,15
 
-agnolo:608,ENT,586,605,Francesco del Tadda,18
+agnolo:608,ENT,586,605,Francesco del Tadda,16
 
-agnolo:608,ENT,622,625,lad,18
+agnolo:608,ENT,622,625,lad,16
 
-agnolo:608,PRON,678,680,he,8
+agnolo:608,PRON,678,680,he,7
 
-agnolo:608,ENT,714,719,tools,19
+agnolo:608,ENT,714,719,tools,17
 
-agnolo:608,ENT,749,753,work,20
+agnolo:608,ENT,749,753,work,18
 
-agnolo:608,ENT,822,841,Francesco del Tadda,18
+agnolo:608,ENT,822,841,Francesco del Tadda,16
 
-agnolo:608,ENT,847,854,Maestro,21
+agnolo:608,ENT,847,854,Maestro,19
 
-agnolo:608,ENT,847,884,"Maestro Andrea, a sculptor of Fiesole",21
+agnolo:608,ENT,847,884,"Maestro Andrea, a sculptor of Fiesole",19
 
-agnolo:608,ENT,865,873,sculptor,21
+agnolo:608,ENT,865,873,sculptor,19
 
-agnolo:608,ENT,877,884,Fiesole,15
+agnolo:608,ENT,877,884,Fiesole,13
 
-agnolo:608,ENT,904,909,child,8
+agnolo:608,ENT,904,909,child,7
 
-agnolo:608,ENT,926,932,master,21
+agnolo:608,ENT,926,932,master,19
 
-agnolo:608,PRON,939,941,he,21
+agnolo:608,PRON,939,941,he,19
 
-agnolo:608,PRON,969,972,him,8
+agnolo:608,PRON,969,972,him,7
 
-agnolo:608,PRON,993,996,him,8
+agnolo:608,PRON,993,996,him,7
 
-agnolo:608,PRON,1007,1009,he,21
+agnolo:608,PRON,1007,1009,he,19
 
-agnolo:608,PRON,1015,1018,him,8
+agnolo:608,PRON,1015,1018,him,7
 
-agnolo:608,ENT,1026,1034,workshop,22
+agnolo:608,PRON,1022,1025,his,19
 
-agnolo:608,PRON,1070,1073,his,21
+agnolo:608,ENT,1026,1034,workshop,20
+
+agnolo:608,PRON,1070,1073,his,7
 
 agnolo:608,ENT,1081,1088,Michele,1
 
-agnolo:608,ENT,1101,1107,Agnolo,8
+agnolo:608,ENT,1101,1107,Agnolo,7
 
-agnolo:608,ENT,1145,1158,stone-cutters,23
+agnolo:608,ENT,1145,1158,stone-cutters,21
 
-agnolo:608,ENT,1162,1166,Rome,24
+agnolo:608,ENT,1162,1166,Rome,22
 
-agnolo:608,ENT,1206,1214,building,25
+agnolo:608,ENT,1206,1214,building,23
 
-agnolo:608,ENT,1218,1227,S. Pietro,26
+agnolo:608,ENT,1218,1227,S. Pietro,24
 
-agnolo:608,ENT,1253,1261,rosettes,27
+agnolo:608,ENT,1253,1261,rosettes,25
 
-agnolo:608,ENT,1284,1292,cornices,28
+agnolo:608,ENT,1284,1292,cornices,26
 
-agnolo:608,ENT,1329,1335,temple,25
+agnolo:608,ENT,1329,1335,temple,23
 
-agnolo:608,ENT,1410,1414,Rome,24
+agnolo:608,ENT,1410,1414,Rome,22
 
-agnolo:608,PRON,1432,1434,he,8
+agnolo:608,PRON,1432,1434,he,7
 
-agnolo:608,ENT,1453,1460,Perugia,29
+agnolo:608,ENT,1453,1460,Perugia,27
 
-agnolo:608,ENT,1475,1487,stone-cutter,30
+agnolo:608,ENT,1468,1474,master,28
 
-agnolo:608,PRON,1519,1522,him,8
+agnolo:608,ENT,1475,1487,stone-cutter,29
 
-agnolo:608,PRON,1540,1543,his,30
+agnolo:608,PRON,1519,1522,him,7
 
-agnolo:608,ENT,1544,1549,works,31
+agnolo:608,PRON,1540,1543,his,7
 
-agnolo:608,ENT,1584,1591,Perugia,29
+agnolo:608,ENT,1544,1549,works,30
 
-agnolo:608,PRON,1613,1616,him,8
+agnolo:608,ENT,1584,1591,Perugia,27
 
-agnolo:608,PRON,1627,1629,he,8
+agnolo:608,PRON,1613,1616,him,7
 
-agnolo:608,PRON,1648,1650,he,8
+agnolo:608,PRON,1627,1629,he,7
 
-agnolo:608,PRON,1702,1708,itself,32
+agnolo:608,PRON,1648,1650,he,7
 
-agnolo:608,ENT,1725,1729,tomb,33
+agnolo:608,PRON,1702,1708,itself,31
 
-agnolo:608,ENT,1733,1775,"M. Raffaello Maffei, called Il  Volterrano",34
+agnolo:608,ENT,1725,1729,tomb,32
 
-agnolo:608,ENT,1780,1788,Volterra,35
+agnolo:608,ENT,1733,1775,"M. Raffaello Maffei, called Il  Volterrano",33
 
-agnolo:608,ENT,1802,1806,work,33
+agnolo:608,ENT,1780,1788,Volterra,34
 
-agnolo:608,ENT,1832,1838,marble,36
+agnolo:608,ENT,1802,1806,work,32
 
-agnolo:608,PRON,1840,1842,he,8
+agnolo:608,ENT,1832,1838,marble,35
 
-agnolo:608,PRON,1880,1883,his,8
+agnolo:608,PRON,1840,1842,he,7
+
+agnolo:608,PRON,1880,1883,his,7
 

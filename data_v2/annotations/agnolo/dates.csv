@@ -1,8 +1,10 @@
 id,type,start_pos,end_pos,surface,beginDate,end_date,value
 
+agnolo:608,DURATION,1035,1050,for three years,,,P3Y
+
 agnolo:609,DATE,37,53,in the year 1527,,,1527
 
-agnolo:610,DATE,474,517,the seventh day of October in the year 1530,,,2022-10
+agnolo:610,DATE,474,517,the seventh day of October in the year 1530,,,1530-10-07
 
 agnolo:611,DATE,330,348,Pope Clement dying,,,1534-09-25
 
