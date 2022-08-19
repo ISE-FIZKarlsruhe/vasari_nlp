@@ -1,5 +1,9 @@
-id,start_pos,end_pos,surface,kb,kb_id
-giocondo:679,123,278,"a drawing of the bridge built by Cæsar over the River Rhone, and described by him in those same Commentaries, but misunderstood in the time of Fra Giocondo",,
-giocondo:680,425,498,a Madonna that was a very praiseworthy example of the work of those times,,
-giocondo:683,74,219,"two superb bridges over the Seine, covered with shops—works truly worthy of that magnanimous King and of the marvellous intellect of Fra Giocondo",,
-giocondo:684,162,371,"a Deposition from the Cross, with certain Angels, some of whom have in their hands the Mysteries (for so they are called) of the Passion, and all with their weeping faces show grief at the Death of the Saviour",,
+id,start_pos,end_pos,surface,kb,kb_id
+
+
+giocondo:680,425,498,a Madonna,,
+
+giocondo:683,74,219,"two superb bridges over the Seine",,
+
+giocondo:684,162,371,"a Deposition from the Cross, with certain Angels, some of whom have in their hands the Mysteries (for so they are called) of the Passion, and all with their weeping faces show grief at the Death of the Saviour",,
+
