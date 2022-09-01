@@ -1,0 +1,23 @@
+Tokens in corpus: 18948
+Avg tokens per artist: 701.7777777777778
+Longest chapter is: michelagnolo with 1158 tokens
+Shortest chapter is: galasso_ferrarese with 411 tokens
+Annotations in corpus: 5238
+Avg. annotations per artist: 194.0
+Entities in corpus: 2831
+coreferences in corpus: 2047
+Dates in corpus: 105
+Works in corpus: 150
+Motifs in corpus: 105
+Chapter with most entities is: craftsmen with 166 entities
+Chapter with most coreferences is: michelagnolo with 120 coreferences
+Chapter with most dates is: michelagnolo with 9 dates
+Chapter with most works is: craftsmen with 14 works
+Chapter with most motifs is: craftsmen with 12 motifs
+Chapter with less entities is: galasso_ferrarese with 57 entities
+Chapter with less coreferences is: del_sarto with 31 coreferences
+Chapter with less dates is: nanni with 1 dates
+Chapter with less works is: calavrese with 1 works
+Chapter with less motifs is: nanni with 1 motifs
+longest artwork description is <the story of Judith, at the opposite corner, in which may be seen the trunk of Holofernes, robbed of life but still quivering, while Judith is placing the lifeless head in a basket on the head of her old serving-woman, who, being tall in stature, is stooping to the end that Judith may be able to reach up to her and adjust the weight well; and the servant, while upholding the burden with her hands, seeks to conceal it, and, turning her head towards the trunk, which, although dead, draws up an arm and a leg and makes a noise in the tent, she shows in her expression fear of the camp and terror of the dead body—a picture truly full of thought> with 648 characters
+longes motif description is <trunk of Holofernes, robbed of life but still quivering, while Judith is placing the lifeless head in a basket on the head of her old serving-woman, who, being tall in stature, is stooping to the end that Judith may be able to reach up to her and adjust the weight well; and the servant, while upholding the burden with her hands, seeks to conceal it, and, turning her head towards the trunk, which, although dead, draws up an arm and a leg and makes a noise in the tent, she shows in her expression fear of the camp and terror of the dead body> with 544 characters
