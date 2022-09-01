@@ -2,3 +2,5 @@ id,type,start_pos,end_pos,surface,beginDate,end_date,value
 
 agnolo:879,DATE,2254,2272,Pope Clement dying,,,1534
 
+verrocchio:884,INTERVAL,376,397,in the time of Andrea,1435,1488,P48Y
+
