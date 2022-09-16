@@ -162,7 +162,7 @@ agnolo:882,PER,719,727,Agostino,Q395759,,,1
 
 agnolo:882,PROD,737,743,design,Q82604,,,
 
-agnolo:882,LOC,753,759,Palace,[Q1190961/Q16560],,,1
+agnolo:882,LOC,753,759,Palace,Q1190961/Q16560,,,1
 
 agnolo:882,LOC,763,775,Malborghetto,NIL,,,1
 
@@ -174,7 +174,7 @@ agnolo:882,PER,915,923,Giovanni,Q314932,,,1
 
 agnolo:882,PER,965,975,architects,Q42973,,,
 
-agnolo:882,LOC,983,988,State,[Q736727/Q7275],,,1
+agnolo:882,LOC,983,988,State,Q736727/Q7275,,,1
 
 agnolo:882,LOC,1084,1089,Duomo,Q282554,,,1
 
@@ -202,15 +202,15 @@ agnolo:882,PER,1491,1499,Agostino,Q395759,,,1
 
 agnolo:882,PER,1504,1510,Agnolo,Q374428,,,1
 
-agnolo:882,LOC,1532,1538,Church,[Q16970/Q810074],,,1
+agnolo:882,LOC,1532,1538,Church,Q16970/Q810074,,,1
 
-agnolo:882,LOC,1543,1550,Convent,[Q44613/Q810074],,,1
+agnolo:882,LOC,1543,1550,Convent,Q44613/Q810074,,,1
 
 agnolo:882,LOC,1554,1566,S. Francesco,Q810074,,,1
 
 agnolo:882,PER,1586,1603,Cardinal di Gaeta,NIL,1,,1
 
-agnolo:882,PER,1598,1603,Gaeta,[Q1364506/Q128089],,1,1
+agnolo:882,PER,1598,1603,Gaeta,Q1364506/Q128089,,1,1
 
 agnolo:882,PER,1605,1621,Apostolic Legate,Q740369,,,1
 
