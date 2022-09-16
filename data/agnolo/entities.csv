@@ -30,9 +30,9 @@ agnolo:881,PER,318,329,forefathers,Q402152,,,
 
 agnolo:881,PER,335,345,architects,Q42973,,,
 
-agnolo:881,ORG,387,412,rule of the three Consuls,NIL,,,1
+agnolo:881,ORG,387,391,rule,NIL,,,1
 
-agnolo:881,PER,405,412,Consuls,Q4489757,,,1
+agnolo:881,ORG,395,412,the three Consuls,NIL,,,1
 
 agnolo:881,LOC,445,456,Fontebranda,Q3747505,,,1
 
@@ -130,7 +130,7 @@ agnolo:882,LOC,113,119,Arezzo,Q13378,1,,
 
 agnolo:882,PER,193,199,Agnolo,Q374428,,,1
 
-agnolo:882,PER,205,212,brother,,,,
+agnolo:882,PER,205,212,brother,Q10861465,,,
 
 agnolo:882,PROD,244,248,work,Q17537576,,,
 
@@ -142,19 +142,19 @@ agnolo:882,PROD,440,444,work,Q17537576,,,
 
 agnolo:882,PROD,497,502,works,Q17537576,,,
 
-agnolo:882,LOC,529,536,Pistola,,,,
+agnolo:882,LOC,529,536,Pistola,NIL,,,1
 
 agnolo:882,LOC,541,545,Pisa,Q13375,,,1
 
-agnolo:882,LOC,560,566,places,,,,
+agnolo:882,LOC,560,566,places,Q17334923,,,
 
 agnolo:882,MISC,615,624,sculpture,Q11634,,,
 
-agnolo:882,MISC,632,644,architecture,,,,
+agnolo:882,MISC,632,644,architecture,Q12271,,,
 
-agnolo:882,ORG,692,708,rule of the Nine,,,,
+agnolo:882,ORG,692,696,rule,Q7188,,,
 
-agnolo:882,PER,700,708,the Nine,,,,
+agnolo:882,ORG,700,708,the Nine,NIL,,,1
 
 agnolo:882,GPE,712,717,Siena,Q2751,,,1
 
@@ -162,11 +162,11 @@ agnolo:882,PER,719,727,Agostino,Q395759,,,1
 
 agnolo:882,PROD,737,743,design,Q82604,,,
 
-agnolo:882,LOC,753,775,Palace in Malborghetto,,,,
+agnolo:882,LOC,753,759,Palace,[Q1190961/Q16560],,,1
 
-agnolo:882,LOC,763,775,Malborghetto,,,,
+agnolo:882,LOC,763,775,Malborghetto,NIL,,,1
 
-agnolo:882,LOC,862,869,country,,,,
+agnolo:882,LOC,862,869,country,Q6256,,,
 
 agnolo:882,LOC,890,895,Siena,Q2751,,,1
 
@@ -174,29 +174,27 @@ agnolo:882,PER,915,923,Giovanni,Q314932,,,1
 
 agnolo:882,PER,965,975,architects,Q42973,,,
 
-agnolo:882,LOC,983,988,State,,,,
+agnolo:882,LOC,983,988,State,[Q736727/Q7275],,,1
 
-agnolo:882,PROD,1071,1076,front,,,,
+agnolo:882,LOC,1084,1089,Duomo,Q282554,,,1
 
-agnolo:882,LOC,1084,1089,Duomo,,,,
-
-agnolo:882,LOC,1113,1118,north,,,,
+agnolo:882,LOC,1113,1118,north,Q659,,,
 
 agnolo:882,PROD,1151,1157,design,Q82604,,,
 
-agnolo:882,PER,1170,1173,men,,,,
+agnolo:882,PER,1170,1173,men,Q8441,,,
 
-agnolo:882,LOC,1215,1227,Porta Romana,,,,
+agnolo:882,LOC,1215,1227,Porta Romana,Q2104857,,,1
 
-agnolo:882,LOC,1313,1317,gate,,,,
+agnolo:882,LOC,1313,1317,gate,Q82117,,,
 
-agnolo:882,LOC,1335,1351,Porta S. Martino,,,,
+agnolo:882,LOC,1335,1351,Porta S. Martino,Q2104857,,,1
 
-agnolo:882,LOC,1377,1389,Porta a Tufi,,,,
+agnolo:882,LOC,1377,1389,Porta a Tufi,Q3908860,,,1
 
-agnolo:882,LOC,1417,1443,Porta di S. Agata all'Arco,,,,
+agnolo:882,LOC,1417,1443,Porta di S. Agata all'Arco,Q3908860,1,,1
 
-agnolo:882,PER,1426,1434,S. Agata,,,,
+agnolo:882,PER,1426,1434,S. Agata,Q200895,,1,1
 
 agnolo:882,PROD,1472,1478,design,Q82604,,,
 
@@ -204,19 +202,21 @@ agnolo:882,PER,1491,1499,Agostino,Q395759,,,1
 
 agnolo:882,PER,1504,1510,Agnolo,Q374428,,,1
 
-agnolo:882,LOC,1532,1538,Church,,,,
+agnolo:882,LOC,1532,1538,Church,[Q16970/Q810074],,,1
 
-agnolo:882,LOC,1543,1550,Convent,,,,
+agnolo:882,LOC,1543,1550,Convent,[Q44613/Q810074],,,1
 
-agnolo:882,LOC,1554,1566,S. Francesco,,,,
+agnolo:882,LOC,1554,1566,S. Francesco,Q810074,,,1
 
-agnolo:882,PER,1586,1603,Cardinal di Gaeta,,,,
+agnolo:882,PER,1586,1603,Cardinal di Gaeta,NIL,1,,1
 
-agnolo:882,PER,1605,1621,Apostolic Legate,,,,
+agnolo:882,PER,1598,1603,Gaeta,[Q1364506/Q128089],,1,1
 
-agnolo:882,ORG,1668,1679,the Tolomei,,,,
+agnolo:882,PER,1605,1621,Apostolic Legate,Q740369,,,1
 
-agnolo:882,LOC,1709,1716,Orvieto,,,,
+agnolo:882,ORG,1668,1679,the Tolomei,Q3992417,,,1
+
+agnolo:882,LOC,1709,1716,Orvieto,Q541,,,1
 
 agnolo:882,PER,1718,1726,Agostino,Q395759,,,1
 
@@ -226,15 +226,15 @@ agnolo:882,PROD,1768,1778,sculptures,Q11634,,,
 
 agnolo:882,PROD,1787,1791,work,Q17537576,,,
 
-agnolo:882,LOC,1795,1803,S. Maria,,,,
+agnolo:882,LOC,1795,1803,S. Maria,Q10924,,,1
 
 agnolo:882,LOC,1812,1816,city,Q515,,,
 
-agnolo:882,PER,1859,1867,prophets,,,,
+agnolo:882,PER,1859,1867,prophets,Q42857,,,
 
 agnolo:882,MAT,1871,1877,marble,Q40861,,,
 
-agnolo:882,PROD,1922,1929,statues,,,,
+agnolo:882,PROD,1922,1929,statues,Q179700,,,
 
 agnolo:882,PROD,1938,1944,façade,Q183061,,,
 

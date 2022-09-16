@@ -1,10 +1,20 @@
-id,type,start_pos,end_pos,surface,begin,fuzzybegin,end_date,fuzzyend,value
-agnolo:881,,359,375,in the year 1190,,,,,
-agnolo:881,,474,495,in the following year,,,,,
-agnolo:881,,1055,1071,in the year 1284,,,,,
-agnolo:882,,787,803,in the year 1308,,,,,
-agnolo:882,,896,923,after the death of Giovanni,,,,,
-agnolo:882,,1012,1028,in the year 1317,,,,,
-agnolo:882,,1124,1140,in the year 1321,,,,,
-agnolo:882,,1289,1305,in the year 1326,,,,,
-agnolo:882,,1445,1461,In the same year,,,,,
+id,type,start_pos,end_pos,surface,begin,fuzzybegin,end_date,fuzzyend,value
+
+agnolo:881,DATE,359,375,in the year 1190,,,,,1190
+
+agnolo:881,DATE,474,495,in the following year,,,,,1191
+
+agnolo:881,DATE,1055,1071,in the year 1284,,,,,1284
+
+agnolo:882,DATE,787,803,in the year 1308,,,,,1308
+
+agnolo:882,INTERVAL,896,923,after the death of Giovanni,1318,1315,,,
+
+agnolo:882,DATE,1012,1028,in the year 1317,,,,,1317
+
+agnolo:882,DATE,1124,1140,in the year 1321,,,,,1321
+
+agnolo:882,DATE,1289,1305,in the year 1326,,,,,1326
+
+agnolo:882,DATE,1445,1461,In the same year,,,,,1326
+
