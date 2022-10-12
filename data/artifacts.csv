@@ -22,7 +22,7 @@ id,begin,end,surface,type,value
 1,1726,1730,tomb,OBJsculpt,NIL
 1,1833,1839,marble,MAT,NIL
 2,928,934,design,TECH,NIL
-2,1111,1117,design,OBJ,NIL
+2,1111,1117,design,OBJarch,NIL
 2,1122,1132,foundation,OBJarch,NIL
 2,1141,1147,façade,OBJarch,NIL
 2,1194,1199,doors,OBJarch,NIL
@@ -35,7 +35,7 @@ id,begin,end,surface,type,value
 3,83,93,high-altar,OBJarch,NIL
 3,616,625,sculpture,TECH,NIL
 3,633,645,architecture,TECH,NIL
-3,738,744,design,OBJ,NIL
+3,738,744,design,OBJarch,NIL
 3,754,760,Palace,OBJarch,NIL
 3,1072,1077,front,OBJarch,NIL
 3,1314,1318,gate,OBJarch,NIL
@@ -265,9 +265,9 @@ id,begin,end,surface,type,value
 27,406,412,marble,MAT,NIL
 27,612,618,design,OBJarch,NIL
 27,624,628,tomb,OBJarch,NIL
-27,961,967,design,OBJ,NIL
+27,961,967,design,OBJarch,NIL
 27,1058,1062,tomb,OBJarch,NIL
-27,1232,1238,design,OBJ,NIL
+27,1232,1238,design,OBJpaint,NIL
 27,1274,1279,panel,OBJpaint,NIL
 27,1292,1299,figures,OBJpaint,NIL
 27,1503,1508,panel,OBJpaint,NIL
@@ -463,8 +463,8 @@ id,begin,end,surface,type,value
 41,1155,1161,church,OBJarch,NIL
 41,1208,1214,coffer,OBJ,NIL
 41,1218,1224,silver,MAT,NIL
-41,1467,1473,church,OBJ,NIL
-41,1505,1511,church,OBJ,NIL
+41,1467,1473,church,OBJarch,NIL
+41,1505,1511,church,OBJarch,NIL
 41,1582,1590,predella,OBJarch,NIL
 41,1608,1613,panel,OBJpaint,NIL
 41,1681,1688,figures,OBJpaint,NIL
@@ -528,7 +528,7 @@ id,begin,end,surface,type,value
 47,88,95,temples,OBJarch,NIL
 47,97,105,churches,OBJarch,NIL
 47,111,122,monasteries,OBJarch,NIL
-47,149,158,buildings,OBJ,NIL
+47,149,158,buildings,OBJarch,NIL
 47,239,245,Chapel,OBJarch,NIL
 47,318,324,temple,OBJarch,NIL
 47,337,353,Corinthian Order,TECH,NIL
