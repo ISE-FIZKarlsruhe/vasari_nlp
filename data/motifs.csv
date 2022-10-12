@@ -1,0 +1,225 @@
+id,begin,end,surface,type,value
+0,593,605,Duke Lorenzo,SUBJ,61B2(54169908)
+0,610,623,Duke Giuliano,SUBJ,61B2(57418691)
+0,980,989,S. Cosimo,SUBJ,11H(COSMAS)
+0,996,1006,S. Damiano,SUBJ,11H(DAMIAN)
+0,1049,1056,Madonna,SUBJ,11F
+0,1084,1094,S. Damiano,SUBJ,11H(DAMIAN)
+0,1154,1163,S. Cosimo,SUBJ,11H(COSMA)
+0,2038,2051,Duke Giuliano,SUBJ,61B2(57418691)
+0,2056,2068,Duke Lorenzo,SUBJ,61B2(54169908)
+3,1860,1868,prophets,SUBJ,11I1
+5,370,443,nude David who was holding Goliath under him and was cutting off his head,THEME,71H1443
+5,375,380,David,SUBJ,11I62(DAVID)
+5,811,816,David,SUBJ,11I62(DAVID)
+5,1158,1178,Nativity of Our Lady,THEME,73A31
+5,1170,1178,Our Lady,SUBJ,11F
+7,1902,1910,prophets,SUBJ,11I1
+9,140,148,Pope Leo,SUBJ,61B2(96579640)13
+9,150,176,Cardinal Giulio de' Medici,SUBJ,61B2(90633828)13
+9,182,200,Cardinal de' Rossi,SUBJ,61B2(Q733662)13
+9,252,273,head of Cardinal Cibo,SUBJ,31A221(+81)
+9,260,273,Cardinal Cibo,SUBJ,61B2(204199381)13
+9,431,446,Cencio Guasconi,SUBJ,61B2(Cencio Guasconi)
+10,1757,1797,S. Augustine disputing with the heretics,THEME,11L532
+10,1757,1769,S. Augustine,SUBJ,11H(AUGUSTINE)
+10,1804,1832,stories of Christ and Saints,THEME,11D334
+13,259,457,"Our Lady standing, raised from the ground on a pedestal, and uplifting her head towards Heaven, with a book in her hand, but without her Son; and above her is the Holy Spirit, bathing her with light",THEME,11D15
+13,259,399,"Our Lady standing, raised from the ground on a pedestal, and uplifting her head towards Heaven, with a book in her hand, but without her Son",SUBJ,11F234
+13,513,517,Dove,SUBJ,11E1
+13,584,595,S. Margaret,SUBJ,11HH(MARGARET)
+13,602,614,S. Catherine,SUBJ,11HH(CATHERINE)
+13,659,667,S. Peter,SUBJ,11H(PETER)
+13,672,694,S. John the Evangelist,SUBJ,11H(JOHN)
+13,742,752,S. Filippo,SUBJ,11H(23274963)
+13,777,788,S. Antonino,SUBJ,11H(89209643)
+13,1274,1322,S. Margaret issuing from the belly of the Dragon,THEME,11HH(MARGARET)52
+13,1274,1285,S. Margaret,SUBJ,11HH(MARGARET)
+13,1316,1322,Dragon,SUBJ,25FF422
+14,637,645,S. Peter,SUBJ,11H(PETER)
+14,647,657,S. Stephen,SUBJ,11H(STEPHEN)
+14,663,682,S. John the Baptist,SUBJ,11H(JOHN THE BAPTIST)
+14,839,903,"Dead Christ, Our Lady, S. John, the Magdalene, and other figures",THEME,73D72121
+14,839,850,Dead Christ,SUBJ,11D36
+14,852,860,Our Lady,SUBJ,11F
+14,862,869,S. John,SUBJ,11H(JOHN)
+14,875,884,Magdalene,SUBJ,11HH(MAGDALENE)
+14,1120,1144,Nativity of Jesus Christ,THEME,73B2
+14,1132,1144,Jesus Christ,SUBJ,11D
+14,1150,1171,Adoration of the Magi,THEME,73B57
+14,1177,1194,Flight into Egypt,THEME,73B641
+14,1204,1229,Massacre of the Innocents,THEME,73B63
+14,1466,1490,Nativity of Jesus Christ,THEME,73B2
+14,1478,1490,Jesus Christ,SUBJ,11D
+14,1617,1661,Descent of the Holy Spirit upon the Apostles,THEME,73E5
+14,1632,1643,Holy Spirit,SUBJ,11E
+14,1653,1661,Apostles,SUBJ,11I3
+14,1928,1944,Life of Our Lady,THEME,73A3
+14,1936,1944,Our Lady,SUBJ,11F
+14,2045,2114,"Christ on the Cross with some Angels about Him, Our Lady, and S. John",THEME,73D641(+3)
+14,2045,2064,Christ on the Cross,SUBJ,11D36
+14,2075,2081,Angels,SUBJ,11G
+14,2093,2101,Our Lady,SUBJ,11F
+14,2107,2114,S. John,SUBJ,11H(JOHN)
+14,2234,2254,S. James the Apostle,SUBJ,11H(JAMES)
+14,2259,2280,S. Alfonso the Bishop,THEME,61B2(74664729)
+15,1430,1441,Dead Christ,SUBJ,73D761
+15,1608,1613,Saint,SUBJ,11H(DENIS)
+15,1817,1849,Christ taken down from the Cross,THEME,73D71
+15,1817,1823,Christ,SUBJ,11D
+15,1900,1918,Madonna in a swoon,SUBJ,73DD625
+15,2438,2459,Signora Livia Colonna,SUBJ,61B2(Livia Colonna)
+16,1508,1526,life of that Saint,THEME,11H(LAWRENCE)
+16,1689,1711,Assumption of Our Lady,THEME,73E77
+16,1703,1711,Our Lady,SUBJ,11F
+16,1896,1906,S. Antonio,THEME,11H(ANTONY ABBOT)
+16,2312,2332,head of Appius Cæcus,THEME,31A221(+81)
+16,2320,2332,Appius Cæcus,SUBJ,"98B(CLAUDIUS, A.)"
+17,132,139,S. Paul,SUBJ,11H(PAUL)
+19,756,774,Nativity of Christ,THEME,73B2
+19,768,774,Christ,SUBJ,11D
+19,836,848,Annunciation,THEME,73A5
+19,942,1007,"S. Filippo, the founder of that Servite Order, assuming the habit",THEME,11H(PHILIP BENIZZI)34
+19,942,952,S. Filippo,SUBJ,11H(PHILIP BENIZZI)
+19,2523,2533,S. Filippo,SUBJ,11H(PHILIP BENIZZI)
+20,1628,1656,stories of the Old Testament,THEME,71
+28,2193,2218,Triumph of Paulus Emilius,THEME,"98B(PAULUS, L.A.)51"
+29,236,250,life of Joseph,THEME,71D
+29,244,250,Joseph,SUBJ,11H(JOSEPH)
+29,514,543,Joseph ministering to Pharaoh,THEME,71D155
+29,514,520,Joseph,SUBJ,11H(JOSEPH)
+29,669,733,"Trinity, or rather, God the Father supporting a Christ Crucified",THEME,11B323
+29,689,703,God the Father,SUBJ,11C
+29,717,733,Christ Crucified,SUBJ,11D36
+29,800,810,Assumption,THEME,73E772(+3)
+29,834,840,Angels,SUBJ,11G
+29,847,898,"S. Thomas, to whom the Madonna is giving the Girdle",THEME,73E772(+3)
+29,847,856,S. Thomas,SUBJ,11H(THOMAS)
+29,870,877,Madonna,SUBJ,11F
+29,914,923,S. Thomas,SUBJ,11H(THOMAS)
+29,1049,1057,Our Lady,SUBJ,11F
+29,1217,1224,S. Paul,SUBJ,11H(PAUL)
+29,1226,1237,S. Laurence,SUBJ,11H(LAWRENCE)
+29,1239,1247,S. James,SUBJ,11H(JAMES)
+29,1253,1260,S. John,SUBJ,11H(JOHN)
+30,1311,1354,His taking Peter and Andrew from their nets,THEME,73C7112
+30,1322,1327,Peter,SUBJ,11H(PETER)
+30,1332,1338,Andrew,SUBJ,11H(ANDREW)
+30,1377,1409,Feast of Simon and the Magdalene,THEME,73C7262
+30,1386,1391,Simon,SUBJ,11H(SIMON)
+30,1400,1409,Magdalene,SUBJ,11HH(MAGDALENE)
+30,1548,1559,Dead Christ,SUBJ,73D761
+30,1553,1559,Christ,SUBJ,11D
+30,1694,1717,Coronation of Our  Lady,THEME,73E79
+30,1708,1717,Our  Lady,SUBJ,11F
+31,640,652,Annunciation,THEME,73A5
+31,660,710,God the Father in Heaven surrounded by many angels,SUBJ,11C(+3)
+36,698,707,S. Philip,SUBJ,11H(PHILIP)
+37,29,34,S. Lo,SUBJ,11H(ELOI)
+37,258,305,"S. Lo, the Farrier, is shoeing a frenzied horse",THEME,11H(ELOI)52
+37,258,263,S. Lo,SUBJ,11H(ELOI)
+38,1428,1469,Magi presenting their offerings to Christ,THEME,73B57
+38,1463,1469,Christ,SUBJ,11D
+39,455,498,Christ giving the Communion to the Apostles,THEME,73D245
+39,455,461,Christ,SUBJ,11D
+39,490,498,Apostles,SUBJ,11I3
+39,613,624,Dead Christ,SUBJ,73D761
+39,618,624,Christ,SUBJ,11D
+39,727,815,"actions of S. Helena, the mother of the Emperor Constantine, in the finding of the Cross",THEME,11D4116
+39,738,747,S. Helena,SUBJ,11HH(HELENA)
+39,767,786,Emperor Constantine,SUBJ,11H(CONSTANTINE)
+39,852,864,S. Sebastian,SUBJ,11H(SEBASTIAN)
+39,1058,1063,Saint,SUBJ,11HH(MAGDALENE)
+39,1166,1226,Christ appearing to Mary Magdalene in the form of a gardener,THEME,73E31
+39,1166,1172,Christ,SUBJ,11D
+39,1186,1200,Mary Magdalene,SUBJ,11HH(MAGDALENE)
+39,1239,1306,S. Peter leaving the ship and walking over the water towards Christ,THEME,73E373
+39,1239,1247,S. Peter,SUBJ,11H(PETER)
+39,1300,1306,Christ,SUBJ,11D
+39,1329,1352,Baptism of Jesus Christ,THEME,73C121
+39,1340,1352,Jesus Christ,SUBJ,11D
+39,1474,1503,Saint consecrating the church,THEME,11H(JOHN)11
+39,1474,1479,Saint,SUBJ,11H(JOHN)
+39,1537,1547,S. Cantius,SUBJ,11H(CANTIUS)
+39,1549,1561,S. Cantianus,SUBJ,11H(CANTIANUS)
+39,1567,1581,S. Cantianilla,SUBJ,11HH(CANTIANILLA)
+39,1707,1726,S. John the Baptist,SUBJ,11H(JOHN THE BAPTIST)
+39,1732,1744,S. Sebastian,SUBJ,11H(SEBASTIAN)
+39,1840,1847,Madonna,SUBJ,11F
+39,1867,1893,Virgin Martyr S. Catharine,SUBJ,11HH(CATHERINE)
+39,1898,1907,S. Jerome,SUBJ,11H(JEROME)
+39,1975,1987,S. Catharine,SUBJ,11HH(CATHERINE)
+39,1992,2002,S. Francis,SUBJ,11H(FRANCIS)
+39,2021,2029,Our Lady,SUBJ,11F
+39,2035,2055,S. James the Apostle,SUBJ,11H(JAMES)
+39,2057,2067,S. Francis,SUBJ,11H(FRANCIS)
+39,2179,2186,Madonna,SUBJ,11F
+39,2416,2427,S. Laurence,SUBJ,11H(LAWRENCE)
+39,2432,2442,S. Francis,SUBJ,11H(FRANCIS)
+41,95,148,Madonna who has under her mantle the people of Arezzo,SUBJ,11F235
+41,579,598,S. Gregory the Pope,SUBJ,11H(GREGORY)
+41,617,627,S. Donatus,SUBJ,11H(DONATUS)
+41,823,902,"Madonna with the Child in her arms, with some angels who are opening her mantle",SUBJ,11F235(+3)
+41,823,857,Madonna with the Child in her arms,SUBJ,11F412
+41,943,956,S. Laurentino,SUBJ,11H(LAURENTINUS)
+41,961,974,S. Pergentino,SUBJ,11H(PERGENTINO)
+41,1863,1875,Annunciation,THEME,73A5
+41,2012,2024,S. Catherine,SUBJ,11HH(CATHERINE)
+41,2313,2339,Crucifix with four figures,SUBJ,11D36
+41,2430,2448,S. Nicholas—namely,SUBJ,11H(NICHOLAS)
+41,2450,2494,his throwing the golden balls to the maidens,THEME,11H(NICHOLAS)41
+41,2500,2604,"his delivering two from death, while the executioner is seen apparelled and ready to cut off their heads",THEME,11H(NICHOLAS)54
+43,424,647,"S. Cecilia, who, entranced by a choir of angels on high, stands listening to the sound, wholly absorbed in the harmony; and in her countenance is seen that abstraction which is found in the faces of those who are in ecstasy",SUBJ,11HH(CECILIA)37
+43,924,931,S. Paul,SUBJ,11H(PAUL)
+43,1298,1315,S. Mary Magdalene,SUBJ,11HH(MAGDALENE)
+43,1603,1615,S. Augustine,SUBJ,11H(AUGUSTINE)
+43,1620,1642,S. John the Evangelist,SUBJ,11H(JOHN)
+44,1612,1622,S. Stephen,SUBJ,11H(STEPHEN)
+44,1626,1651,disputation of that Saint,THEME,11H(STEPHEN)3
+44,1646,1651,Saint,SUBJ,11H(STEPHEN)
+44,1738,1749,S. Antonino,SUBJ,11H(ANTONINUS)
+44,1779,1800,S. Catharine of Siena,SUBJ,11HH(CATHERINE OF SIENA)
+44,1839,1847,S. Lucia,SUBJ,11HH(LUCY)
+44,1880,1895,head of a friar,SUBJ,31A221(+81)
+45,889,919,Christ and Our Lady in the air,SUBJ,11F5
+45,889,895,Christ,SUBJ,11D
+45,940,954,God the Father,SUBJ,11C
+45,988,994,Saints,SUBJ,11H
+45,1110,1138,Dead Christ with the  Maries,THEME,73D721
+45,1115,1121,Christ,SUBJ,11D
+45,1161,1183,Assumption of Our Lady,THEME,73E77
+45,1175,1183,Our Lady,SUBJ,11F
+45,1195,1201,Saints,SUBJ,11H
+45,1403,1411,Our Lady,SUBJ,11F
+45,1421,1427,Saints,SUBJ,11H
+45,1545,1553,Our Lady,SUBJ,11F
+45,1555,1562,S. Anne,SUBJ,11HH(ANNE)
+45,1579,1585,Saints,SUBJ,11H(SAINT)
+45,1632,1664,Beheading of S. John the Baptist,THEME,73C1333
+45,1645,1664,S. John the Baptist,SUBJ,11H(JOHN THE BAPTIST)
+45,1729,1741,Annunciation,SUBJ,73A5
+45,1803,1811,S. Rocco,SUBJ,11H(ROCH)
+45,1813,1825,S. Sebastian,SUBJ,11H(SEBASTIAN)
+45,1844,1852,Our Lady,SUBJ,11F
+45,1969,1977,Our Lady,SUBJ,11F
+45,1979,1991,S. Sebastian,SUBJ,11H(SEBASTIAN)
+45,1997,2005,S. James,SUBJ,11H(JAMES)
+45,2102,2109,S. Anne,SUBJ,11HH(ANNE)
+49,388,413,Our Lady going into Egypt,THEME,73B641
+49,388,396,Our Lady,SUBJ,11F
+49,982,991,Ecce Homo,THEME,73D36
+49,1125,1133,Our Lady,SUBJ,11F
+49,1387,1422,Angel Raphael with Tobias and a dog,THEME,71T54
+49,1387,1400,Angel Raphael,SUBJ,11G185
+49,1506,1525,S. John the Baptist,SUBJ,11H(JOHN THE BAPTIST)
+50,1619,1627,Apostles,SUBJ,11II3
+51,2344,2351,Madonna,SUBJ,11F
+53,1224,1239,Transfiguration,THEME,73C713
+53,1245,1272,Marriage of Cana in Galilee,THEME,73C611
+53,1282,1314,Centurion kneeling before Christ,THEME,73D631
+53,1687,1715,stories of Moses and Pharaoh,THEME,71E1
+53,1698,1703,Moses,SUBJ,11I62(MOSES)
+53,2029,2066,Angel slaying the first-born in Egypt,THEME,71E11732
+53,2029,2034,Angel,SUBJ,11G
+53,2835,2842,Justice,SUBJ,59C2
+53,2847,2853,Equity,SUBJ,59C21
