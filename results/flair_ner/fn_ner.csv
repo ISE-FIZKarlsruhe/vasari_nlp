@@ -1,0 +1,333 @@
+id,start_pos,end_pos,surface,type,value,has_nested,is_nested
+0,110,118,sacristy,LOC,Q660876,,
+0,123,144,library of S. Lorenzo,LOC,Q573881,True,
+0,233,245,Michelagnolo,PER,Q5592,,
+0,485,491,Loreto,LOC,Q124110,,True
+0,980,989,S. Cosimo,PER,Q11841156,,
+0,996,1006,S. Damiano,PER,Q11841130,,
+0,1084,1094,S. Damiano,PER,Q11841130,,
+0,1144,1149,Frate,PER,Q27040,,
+0,1154,1163,S. Cosimo,PER,Q11841156,,
+0,2180,2190,S. Lorenzo,LOC,Q573881,,
+0,2254,2266,Pope Clement,PER,Q83159,,
+1,7,37,Michele d'Agnolo of Poggibonzi,PER,NIL,True,
+1,1218,1227,S. Pietro,LOC,Q12512,,
+1,1733,1752,M. Raffaello Maffei,PER,Q3417362,,
+2,82,97,Niccola of Pisa,PER,Q364413,True,
+2,399,412,three Consuls,ORG,Q736727,,
+2,512,521,Consulate,LOC,Q736727,,
+2,527,540,Customs-house,LOC,Q218653,,
+2,881,896,Niccola of Pisa,PER,Q364413,True,
+3,100,119,Vescovado of Arezzo,LOC,Q314932,,
+3,704,708,Nine,ORG,Q736727,,
+3,753,775,Palace in Malborghetto,LOC,Q1190961,True,
+3,983,988,State,ORG,Q736727,,
+3,1417,1443,Porta di S. Agata all'Arco,LOC,Q3908860,,
+3,1532,1566,Church and Convent of S. Francesco,LOC,Q810074,,
+3,1795,1803,S. Maria,LOC,Q10924,,
+4,180,214,Michelagnolo di Viviano of Gaiuole,PER,Q3856430,True,
+4,196,214,Viviano of Gaiuole,PER,Q15614943,True,True
+5,81,110,Chamber of Our Lady at Loreto,LOC,Q654996,True,
+5,144,186,Maestro Andrea Contucci of Monte Sansovino,PER,Q495011,True,
+5,542,573,house of the Medici in Florence,LOC,Q911047,True,
+5,601,606,David,PER,Q41370,,
+5,610,616,Donato,PER,Q37562,,
+5,1169,1177,Our Lady,PER,Q345,,True
+6,1136,1151,Ser Brunellesco,PER,NIL,,True
+6,1215,1222,Rabatta,LOC,NIL,,True
+7,164,174,Lippo Lapi,PER,NIL,,True
+7,578,597,S. Michele Berteldi,LOC,NIL,,
+7,1950,1970,S. Jacopo in Pistoia,LOC,Q2557858,True,
+8,11,28,siege of Florence,MISC,Q981042,True,
+8,716,762,garden of the Medici on the Piazza di S. Marco,LOC,Q3763928,True,
+8,744,762,Piazza di S. Marco,LOC,Q3382259,,True
+8,1036,1046,Giuliano's,PER,Q2578459,,
+8,2017,2033,S. Maria Novella,LOC,Q51175,,
+9,29,53,Cardinal Innocenzio Cibo,PER,Q1386991,,
+9,149,175,Cardinal Giulio de' Medici,PER,Q83159,,
+9,259,272,Cardinal Cibo,PER,Q1386991,,
+9,517,539,villa of Baccio Valori,LOC,NIL,True,
+9,544,559,Olmo a Castello,LOC,Q2163936,,
+10,1623,1644,Church of S. Agostino,LOC,Q779975,,
+10,1756,1768,S. Augustine,PER,Q8018,,
+11,80,87,Matrice,LOC,Q223427,,True
+11,1506,1513,Matrice,LOC,Q277684,,
+13,108,122,Servite Friars,ORG,Q615923,,True
+13,145,152,Tedaldi,ORG,NIL,,True
+13,200,210,S. Filippo,PER,Q141900,,
+13,231,236,Order,ORG,Q615923,,
+13,395,398,Son,PER,Q302,,
+13,421,432,Holy Spirit,PER,Q37302,,
+13,583,594,S. Margaret,PER,Q297742,,
+13,601,613,S. Catherine,PER,Q179718,,
+13,658,666,S. Peter,PER,Q33923,,
+13,741,751,S. Filippo,PER,Q141900,,
+13,757,764,Servite,ORG,Q615923,,True
+13,789,799,Archbishop,PER,Q49476,,
+13,1273,1284,S. Margaret,PER,Q297742,,
+13,1315,1321,Dragon,PER,Q7559,,
+13,2270,2281,S. Giovanni,LOC,Q732511,,
+14,83,115,Girolamo Siciolante of Sermoneta,PER,Q2296884,True,
+14,174,189,Perino del Vaga,PER,Q918778,,
+14,552,571,Badia of S. Stefano,LOC,Q2820750,,
+14,636,644,S. Peter,PER,Q33923,,
+14,774,795,Church of S. Apostolo,LOC,Q1515300,,
+14,843,849,Christ,PER,Q302,,True
+14,861,869,"S. John,",PER,Q328804,,
+14,977,991,Cardinal Cesis,PER,Q1605089,,
+14,1131,1143,Jesus Christ,PER,Q302,,True
+14,1166,1170,Magi,PER,Q51671,,True
+14,1188,1193,Egypt,LOC,Q79,,True
+14,1477,1489,Jesus Christ,PER,Q302,,True
+14,1566,1610,Sacristy of the Church of S. Spirito in Rome,LOC,NIL,True,
+14,1582,1610,Church of S. Spirito in Rome,LOC,Q1428488,True,True
+14,1616,1660,Descent of the Holy Spirit upon the Apostles,MISC,Q65560542,True,
+14,1631,1642,Holy Spirit,MISC,Q37302,,True
+14,1716,1743,Church of S. Maria de Anima,LOC,Q2140145,,
+14,1763,1776,German colony,ORG,NIL,,
+14,1816,1843,Chapel of the Fugger family,LOC,Q63118757,True,
+14,1830,1843,Fugger family,ORG,Q155834,,True
+14,1935,1943,Our Lady,PER,Q345,,
+14,1967,1992,S. Jacopo degli Spagnuoli,LOC,Q955081,,
+14,2044,2063,Christ on the Cross,MISC,Q51636,True,
+14,2044,2050,Christ,PER,Q345,,True
+14,2058,2063,Cross,MISC,Q392371,,True
+15,1429,1440,Dead Christ,PER,Q3155356,True,
+15,1434,1440,Christ,PER,Q302,,True
+15,1540,1560,Chapel of S. Dionigi,LOC,NIL,True,
+15,1550,1560,S. Dionigi,PER,Q244380,,True
+15,1564,1572,S. Luigi,LOC,Q638283,,
+15,1751,1789,Florentine Company of the Misericordia,ORG,Q3859014,,
+15,1859,1866,Thieves,PER,Q2727213,,
+16,804,849,Giovanni da Santo Stefano a Ponte of Florence,PER,Q2749321,True,
+16,816,837,Santo Stefano a Ponte,LOC,Q3674332,,True
+16,841,849,Florence,LOC,Q2044,,True
+16,1417,1437,Chapel of S. Lorenzo,LOC,Q3670866,True,
+16,1427,1437,S. Lorenzo,PER,Q17590,,True
+16,1702,1710,Our Lady,PER,Q345,,True
+16,1726,1738,S. Francesco,LOC,Q1677980,,
+16,1847,1867,Chapel of S. Onofrio,LOC,NIL,,
+16,1895,1905,S. Antonio,PER,Q170547,,
+16,1985,1996,S. Giustina,LOC,NIL,,
+16,2004,2013,S. Matteo,LOC,Q3670866,,
+16,2239,2250,S. Giustina,LOC,NIL,,
+16,2489,2498,Lord Duke,PER,Q48547,,
+16,2612,2630,Ponte a S. Trinita,LOC,Q545578,,
+16,2723,2738,S. Michelagnolo,PER,Q45581,,
+16,3134,3156,S. Paolo a Ripa d'Arno,LOC,Q1423910,True,
+16,3150,3156,d'Arno,LOC,Q115457,,True
+17,40,45,Scali,ORG,Q7429770,,True
+17,49,59,S. Trinita,LOC,Q1062114,,
+17,131,138,S. Paul,PER,Q9200,,
+19,50,55,Servi,ORG,Q615923,,True
+19,124,141,Canto alla Macine,LOC,NIL,,True
+19,767,773,Christ,PER,Q302,,True
+19,787,808,cloister of the Servi,LOC,Q3675066,True,
+19,941,951,S. Filippo,PER,Q141900,,
+19,2522,2532,S. Filippo,PER,Q141900,,
+20,554,584,Piero dal Borgo a San Sepolcro,PER,Q5822,True,
+20,564,584,Borgo a San Sepolcro,LOC,Q52098,,True
+20,609,616,Ferrara,LOC,Q13362,,
+20,740,747,Piero's,PER,Q5822,,
+20,1227,1243,Dominican friars,ORG,Q131479,,
+20,1275,1286,S. Domenico,LOC,Q862602,,
+20,1390,1408,S. Maria del Monte,LOC,NIL,,
+20,1465,1484,Porta di S. Mammolo,LOC,Q3908797,,
+21,104,115,S. Domenico,LOC,Q3669872,,
+22,1212,1242,Bartolommeo Picconi of Mugello,PER,NIL,True,
+22,1916,1942,Bramante of Castel Durante,PER,Q357276,True,
+23,34,65,Church of the Madonna of Loreto,LOC,Q654996,True,
+23,59,65,Loreto,LOC,Q124110,,True
+24,800,822,Fra Giocondo of Verona,PER,Q5585,,
+24,1518,1528,S. Dominic,PER,Q44091,,
+25,2107,2139,Magnificent Messer Luigi Cornaro,PER,NIL,,
+27,78,84,Arezzo,LOC,Q13378,,True
+27,342,348,Bishop,PER,Q378128,,
+27,522,538,Ghibelline party,ORG,Q1010181,,
+27,1166,1186,Borgo a San Sepolcro,LOC,Q52098,,
+27,1450,1470,Commissary of Arezzo,PER,NIL,True,
+27,1816,1825,Camaldoli,LOC,Q2019442,,True
+27,1939,1972,Very Reverend Don Antonio da Pisa,PER,NIL,True,
+27,1968,1972,Pisa,LOC,Q13375,,True
+27,1979,1986,General,PER,Q1337239,,
+27,2010,2019,Camaldoli,LOC,Q2019442,,True
+27,2166,2192,Reverend Don Silvano Razzi,PER,Q59526715,,
+27,2247,2255,Superior,PER,Q1337239,,
+27,2263,2286,Monastery of the Angeli,LOC,Q7590536,,
+28,1387,1400,Ghirlandajo's,PER,Q191423,,
+28,1611,1627,S. Maria Novella,LOC,Q800761,,
+28,2203,2217,Paulus Emilius,PER,Q298168,,True
+28,2677,2682,Canti,MISC,Q3655716,,
+29,3,11,Florence,LOC,Q2044,,
+29,12,20,Granacci,PER,NIL,,
+29,254,300,Pier Francesco's house in Borgo Sant' Apostolo,LOC,Q3889702,True,
+29,254,270,Pier Francesco's,PER,Q21532972,,True
+29,280,300,Borgo Sant' Apostolo,LOC,Q3642541,,True
+29,688,702,God the Father,PER,Q186350,,
+29,745,772,Church of S. Piero Maggiore,LOC,Q3671591,,
+29,846,855,S. Thomas,PER,Q43669,,
+29,913,922,S. Thomas,PER,Q43669,,
+29,1216,1223,S. Paul,PER,Q9200,,
+30,1130,1151,Church of S. Agostino,LOC,Q1424095,,
+30,1296,1305,Christ—in,PER,Q302,,
+30,1385,1390,Simon,PER,Q24905655,,
+30,1552,1558,Christ,PER,Q302,,True
+30,1621,1636,Trinità at Rome,LOC,Q1229008,True,
+30,1707,1716,Our  Lady,PER,Q345,,True
+31,226,234,Jacopo—I,PER,Q2632655,,
+31,566,623,Audience Chamber of the Company of the Nunziata in Arezzo,LOC,NIL,True,
+31,590,613,Company of the Nunziata,ORG,NIL,,True
+31,659,673,God the Father,PER,Q186350,,
+31,677,683,Heaven,LOC,Q4489450,,
+31,1173,1190,Emperor Charles V,PER,Q32500,,
+31,1498,1505,Austria,LOC,Q40,,True
+31,1513,1543,Palace of the Medici at Rome—a,LOC,Q1362663,True,
+31,1527,1533,Medici,ORG,Q170022,,True
+31,1537,1543,Rome—a,LOC,Q220,,True
+33,38,55,Marquis of Mantua,PER,NIL,True,
+33,145,150,Servi,ORG,Q615923,,
+33,2184,2203,Church of S. Andrea,LOC,Q1581882,,
+34,531,537,Heaven,LOC,Q4489450,,True
+34,2415,2441,Leonardo Buonarroti Simoni,PER,NIL,,True
+34,2521,2538,Counts of Canossa,PER,Q473151,,
+34,2668,2678,S. Francis,PER,Q676555,,
+34,2720,2726,Arezzo,LOC,Q13378,,True
+35,152,169,Pope Alexander VI,PER,Q108316,,
+35,450,456,Pope's,PER,Q80516,,
+35,594,600,Pope's,PER,Q80516,,
+35,850,861,Pope Julius,PER,Q80516,,
+35,927,954,Church of S. Pietro in Rome,LOC,Q12512,True,
+35,1698,1717,Piazza di S. Pietro,LOC,Q83425,True,
+35,1708,1717,S. Pietro,PER,Q33923,,True
+35,1731,1742,S. Caterina,LOC,Q1134284,,
+36,6,24,d'Antonio di Banco,PER,NIL,,True
+36,697,706,S. Philip,PER,Q508571,,
+36,1327,1334,Consuls,PER,Q11916439,,
+36,1343,1348,Guild,ORG,Q170161,,
+37,257,262,S. Lo,PER,NIL,,
+38,381,386,Palma,PER,Q9342,,
+38,1220,1230,S. Antonio,LOC,Q3672615,,
+38,1274,1282,S. Elena,LOC,Q3585397,,
+38,1318,1331,Monte Oliveto,LOC,Q1247143,,True
+38,1427,1468,Magi presenting their offerings to Christ,MISC,Q488841,True,
+39,430,444,Duomo at Forlì,LOC,Q2942665,True,
+39,617,623,Christ,PER,Q302,,True
+39,737,746,S. Helena,PER,Q170164,,
+39,766,785,Emperor Constantine,PER,Q8413,,
+39,851,863,S. Sebastian,PER,Q183332,,
+39,940,958,S. Maria Maddalena,PER,Q63070,,
+39,967,983,Duomo of Ravenna,LOC,Q2942769,True,
+39,1015,1019,oils,PER,NIL,,
+39,1057,1062,Saint,PER,Q63070,,
+39,1238,1246,S. Peter,PER,Q33923,,
+39,1328,1351,Baptism of Jesus Christ,MISC,Q217048,True,
+39,1473,1478,Saint,PER,Q328804,,
+39,1536,1580,"S. Cantius, S. Cantianus, and S. Cantianilla",PER,Q1991316,,
+39,1866,1892,Virgin Martyr S. Catharine,PER,Q179718,,
+39,1974,1986,S. Catharine,PER,Q179718,,
+39,2034,2054,S. James the Apostle,PER,Q2844112,,
+39,2056,2067,"S. Francis,",PER,Q676555,,
+39,2326,2346,Church of S. Niccolò,LOC,NIL,,
+39,2361,2383,Friars of S. Augustine,ORG,Q29075,True,
+39,2371,2383,S. Augustine,PER,Q8018,,True
+39,2415,2426,S. Laurence,PER,Q17590,,
+39,2648,2671,S. Francesco at Ravenna,LOC,Q959119,True,
+40,9,26,Spinello Spinelli,PER,Q287934,,True
+40,151,182,Messer Leonardo Bruni of Arezzo,PER,Q314488,True,
+40,318,329,S. Giovanni,LOC,Q208125,,
+40,528,536,Panicale,LOC,Q20501,,True
+41,11,76,Audience Chamber of the Fraternity of S. Maria della Misericordia,LOC,NIL,True,
+41,35,76,Fraternity of S. Maria della Misericordia,ORG,Q13378,,True
+41,481,486,God's,PER,Q178885,,
+41,578,597,S. Gregory the Pope,PER,Q42827,,
+41,616,626,S. Donatus,PER,Q2360539,,
+41,628,634,Bishop,PER,Q29182,,
+41,639,648,Protector,PER,Q28914,,
+41,822,844,Madonna with the Child,PER,Q9309699,True,
+41,942,955,S. Laurentino,PER,Q3836840,,
+41,1132,1139,Company,ORG,Q13378,,
+41,1317,1331,SS. Laurentino,PER,Q3836840,,
+41,1862,1874,Annunciation,MISC,Q154326,,
+41,1917,1928,S. Agostino,LOC,Q3672271,,
+41,1938,1963,Company of the Puraccioli,ORG,NIL,,
+41,2011,2023,S. Catherine,PER,Q179718,,
+41,2128,2145,S. Mary Magdalene,PER,Q63070,,
+41,2174,2185,S. Domenico,LOC,Q2219459,,
+41,2267,2287,Chapel of S. Niccolò,LOC,NIL,,
+42,329,335,Urbino,LOC,Q2759,,True
+42,1692,1698,Urbino,LOC,Q2759,,True
+43,27,35,Cardinal,PER,Q45722,,
+43,163,194,S. Giovanni in Monte at Bologna,LOC,Q12068168,True,
+43,423,433,S. Cecilia,PER,Q80513,,
+43,923,930,S. Paul,PER,Q9200,,
+43,1297,1314,S. Mary Magdalene,PER,Q63070,,
+43,1602,1614,S. Augustine,PER,Q8018,,
+44,1396,1412,S. Maria Novella,LOC,Q51175,,
+44,1611,1621,S. Stephen,PER,Q161775,,
+44,1645,1650,Saint,PER,Q161775,,
+44,1778,1799,S. Catharine of Siena,PER,Q229190,True,
+44,1838,1846,S. Lucia,PER,Q183240,,
+45,656,663,Ridolfo,PER,Q64881,,True
+45,776,805,Church of S. Felice in Piazza,LOC,Q3585333,,
+45,846,855,Camaldoli,LOC,Q2019442,,True
+45,888,894,Christ,PER,Q302,,
+45,939,953,God the Father,PER,Q186350,,
+45,1109,1120,Dead Christ,PER,Q3155356,True,
+45,1114,1120,Christ,PER,Q302,,True
+45,1174,1182,Our Lady,PER,Q345,,True
+45,1210,1254,Church of the Nuns of S. Jacopo delle Murate,LOC,Q3860451,True,
+45,1224,1254,Nuns of S. Jacopo delle Murate,ORG,NIL,,True
+45,1305,1333,Bishop de' Bonafè of Cortona,PER,NIL,,
+45,1362,1376,Nuns of Ripoli,ORG,Q16611216,,True
+45,1450,1455,Segni,PER,NIL,,True
+45,1480,1500,Church of S. Spirito,LOC,Q1519975,,
+45,1594,1613,Company of the Neri,ORG,NIL,,
+45,1644,1663,S. John the Baptist,PER,Q40662,,
+45,1677,1705,Monachine in Borgo S. Friano,ORG,NIL,True,
+45,1770,1787,S. Rocco at Prato,LOC,NIL,True,
+45,1802,1810,S. Rocco,PER,Q152457,,
+45,1875,1897,Company of S. Bastiano,ORG,NIL,,
+45,1906,1926,S. Jacopo sopra Arno,LOC,Q3670741,,
+45,2023,2044,S. Martino alla Palma,LOC,NIL,,
+45,2077,2098,S. Alessandro Vitelli,PER,Q621395,,
+45,2101,2108,S. Anne,PER,Q164294,,
+45,2199,2209,S. Fiorido,LOC,Q3670003,,
+46,397,404,General,PER,Q1501723,,
+46,413,418,Order,ORG,Q2061186,,
+46,1208,1239,S. Domenico at Monte Fiascone—I,LOC,NIL,True,
+46,1223,1239,Monte Fiascone—I,LOC,Q176142,,True
+46,1288,1299,Siena—which,LOC,Q2751,,
+47,238,261,Chapel of the Guareschi,LOC,Q3657362,True,
+47,265,278,S. Bernardino,LOC,Q3669629,,
+47,1300,1347,Chapels of the Temple of the Angeli in Florence,LOC,Q3275023,True,
+48,100,116,pass of the Alps,LOC,Q1829186,True,
+48,1021,1033,Castelfranco,LOC,Q29352,,True
+49,311,329,M. Andrea Loredano,PER,Q105688196,,
+49,347,358,S. Marcuola,LOC,Q1585514,,
+49,387,412,Our Lady going into Egypt,MISC,Q837143,True,
+49,842,860,M. Giovanni D'Anna,PER,NIL,,
+49,1284,1302,Emperor Maximilian,PER,Q150726,,
+49,1429,1452,Church of S. Marziliano,LOC,Q690779,,
+50,1014,1044,S. Maria del Fiore at Florence,LOC,Q191739,True,
+50,1453,1464,S. Giovanni,LOC,Q732511,,
+50,1669,1687,Chapel of the Pope,LOC,Q2943,True,
+50,1765,1776,Pope Sixtus,PER,Q163514,,
+51,773,791,S. Maria del Fiore,LOC,Q191739,,
+51,1688,1704,Nuns of Chiarito,ORG,Q3844904,,True
+51,2288,2319,S. Maria degli Angeli at Assisi,LOC,Q4706745,True,
+51,2487,2495,S. Maria,LOC,Q4706745,,
+51,2534,2546,S. Francesco,LOC,Q207486,,
+52,72,91,Sant'Agnolo in Vado,LOC,Q493800,,
+52,109,114,State,LOC,Q649202,,
+52,576,580,Fano,LOC,Q13142,,True
+52,639,647,Pompeo's,PER,Q23617752,,
+53,27,42,Cardinal Emulio,PER,Q3362623,,
+53,484,510,Federigo Barocci of Urbino,PER,Q316731,True,
+53,1244,1271,Marriage of Cana in Galilee,MISC,Q625140,True,
+53,1256,1260,Cana,LOC,Q431382,,True
+53,1370,1389,"Orazio Sammacchini,",PER,Q2619534,,
+53,1438,1461,Lorenzo Costa of Mantua,PER,Q357807,True,
+53,1876,1907,Reverend Don Vincenzio Borghini,PER,Q1459953,,
+53,2834,2841,Justice,MISC,Q13189320,,
+53,2846,2852,Equity,MISC,Q827451,,
+53,2972,2983,S. Marcello,LOC,Q972881,,
