@@ -1,0 +1,585 @@
+id,start_pos,end_pos,surface,entity,wb_id,score
+0,74,82,florence,Florence,Q2044,84.37399
+0,123,144,library of s. lorenzo,"San Lorenzo, Florence",Q573881,83.33096
+0,134,144,s. lorenzo,"San Lorenzo, Florence",Q573881,82.67793
+0,485,491,loreto,"Loreto, Marche",Q124110,80.000656
+0,541,549,florence,Florence,Q2044,82.171814
+0,593,605,duke lorenzo,Lorenzo de' Medici,Q177854,82.97109
+0,610,623,duke giuliano,Giuliano de' Medici,Q298877,83.301094
+0,1098,1120,raffaello da montelupo,Raffaello da Montelupo,Q1370859,88.569756
+0,1528,1534,arezzo,Arezzo,Q13378,81.10879
+0,1544,1550,vasari,Giorgio Vasari,Q128027,84.735435
+0,2038,2051,duke giuliano,Giuliano de' Medici,Q298877,83.248474
+0,2180,2190,s. lorenzo,"San Lorenzo, Florence",Q573881,83.90566
+0,2203,2207,rome,Rome,Q220,82.6004
+0,2309,2317,florence,Florence,Q2044,82.033295
+1,27,37,poggibonzi,Poggibonsi,Q91350,83.337715
+1,103,111,florence,Florence,Q2044,85.89071
+1,127,134,bologna,Bologna,Q1891,85.415146
+1,474,481,fiesole,Fiesole,Q82670,83.34883
+1,877,884,fiesole,Fiesole,Q82670,82.146774
+1,1162,1166,rome,Rome,Q220,82.89274
+1,1410,1414,rome,Rome,Q220,82.29054
+1,1453,1460,perugia,Perugia,Q3437,84.19241
+1,1584,1591,perugia,Perugia,Q3437,83.03975
+1,1733,1752,m. raffaello maffei,Raffaello Maffei,Q3417362,86.26786
+1,1780,1788,volterra,Volterra,Q103305,82.977295
+2,69,77,giovanni,Giovanni Pisano,Q314932,77.259964
+2,93,97,pisa,Pisa,Q13375,83.19803
+2,133,138,siena,Siena,Q2751,83.32803
+2,301,306,siena,Siena,Q2751,82.998184
+2,445,456,fontebranda,"Fontebranda, Siena",Q3747505,79.475746
+2,527,540,customs-house,Custom house,Q218653,81.01052
+2,868,876,giovanni,Giovanni Pisano,Q314932,77.619965
+2,892,896,pisa,Pisa,Q13375,82.54656
+2,1040,1046,naples,Naples,Q2634,83.37807
+2,1050,1054,pisa,Pisa,Q13375,84.663734
+2,1083,1088,siena,Siena,Q2751,83.77281
+3,541,545,pisa,Pisa,Q13375,82.6266
+3,712,717,siena,Siena,Q2751,83.22615
+3,719,727,agostino,Agostino da Siena,Q395759,81.6337
+3,890,895,siena,Siena,Q2751,81.982086
+3,1377,1389,porta a tufi,"Porta Tufi, Siena",Q3908860,82.93541
+3,1709,1716,orvieto,Orvieto,Q541,82.89072
+4,50,58,florence,Florence,Q2044,83.3745
+4,101,135,lorenzo de' medici the magnificent,Lorenzo de' Medici,Q177854,85.04905
+4,687,695,florence,Florence,Q2044,84.34243
+4,708,727,magnificent lorenzo,Lorenzo de' Medici,Q177854,82.43879
+4,749,755,medici,House of Medici,Q170022,80.32627
+4,801,809,giuliano,Giuliano de' Medici,Q298877,83.86476
+4,831,850,magnificent lorenzo,Lorenzo de' Medici,Q177854,81.748405
+4,1047,1066,magnificent lorenzo,Lorenzo de' Medici,Q177854,81.25897
+4,1377,1383,medici,House of Medici,Q170022,80.43585
+4,1409,1417,florence,Florence,Q2044,83.311844
+5,104,110,loreto,"Loreto, Marche",Q124110,80.57001
+5,144,186,maestro andrea contucci of monte sansovino,Andrea Sansovino,Q495011,82.80456
+5,321,325,rome,Rome,Q220,81.28872
+5,374,379,david,David,Q41370,83.43422
+5,396,403,goliath,Goliath,Q192785,84.54039
+5,555,561,medici,House of Medici,Q170022,78.81856
+5,565,573,florence,Florence,Q2044,83.89435
+5,648,661,medici palace,Palazzo Medici Riccardi,Q911047,82.187836
+5,810,815,david,David,Q41370,78.486244
+5,829,835,loreto,"Loreto, Marche",Q124110,79.96218
+5,938,944,loreto,"Loreto, Marche",Q124110,79.599075
+5,2210,2216,loreto,"Loreto, Marche",Q124110,82.046364
+5,2250,2256,ancona,Ancona,Q3415,83.43259
+5,2393,2415,raffaello da montelupo,Raffaello da Montelupo,Q1370859,87.30387
+6,1125,1151,filippo di ser brunellesco,Filippo Brunelleschi,Q174330,79.39622
+6,1227,1233,giotto,Giotto,Q7814,83.6351
+6,1313,1319,heaven,Heaven,Q4489450,81.14669
+6,1639,1645,heaven,Heaven,Q4489450,81.00042
+6,2004,2010,heaven,Heaven,Q4489450,79.87564
+7,29,37,florence,Florence,Q2044,82.1093
+7,1963,1970,pistoia,Pistoia,Q13376,82.753784
+8,11,28,siege of florence,Siege of Florence (1529–30),Q981042,80.13185
+8,20,28,florence,Florence,Q2044,83.21928
+8,518,537,giuliano bugiardini,Giuliano Bugiardini,Q2578459,85.378334
+8,730,736,medici,House of Medici,Q170022,80.034676
+8,823,831,bertoldo,Bertoldo di Giovanni,Q828363,85.38765
+8,1932,1940,granacci,Francesco Granacci,Q717097,84.18242
+8,1948,1968,domenico ghirlandajo,Domenico Ghirlandaio,Q191423,82.941635
+8,2017,2033,s. maria novella,Santa Maria Novella,Q51175,85.79547
+9,29,53,cardinal innocenzio cibo,Innocenzo Cybo,Q1386991,87.14472
+9,181,199,cardinal de' rossi,Luigi de' Rossi,Q733662,83.33047
+9,217,235,cardinal de' rossi,Luigi de' Rossi,Q733662,85.044106
+10,769,784,marco calavrese,Marco Cardisco,Q2559941,81.7359
+10,872,878,naples,Naples,Q2634,82.107445
+10,943,947,rome,Rome,Q220,80.907814
+10,1036,1041,siren,Siren (mythology),Q150986,79.3407
+10,1145,1151,sebeto,Sebeto,Q3953836,79.46107
+10,1257,1263,heaven,Heaven,Q4489450,81.60165
+10,1516,1522,aversa,Aversa,Q19279,81.58813
+10,1547,1553,naples,Naples,Q2634,83.7433
+10,1756,1768,s. augustine,Augustine of Hippo,Q8018,81.66055
+10,1814,1820,christ,Jesus,Q302,80.561745
+10,1825,1831,saints,Saint,Q43115,80.76249
+11,116,124,calabria,Calabria,Q1458,82.85887
+11,129,135,ascoli,Ascoli Piceno,Q6624,79.98407
+11,144,150,norcia,Norcia,Q20494,82.11171
+11,483,487,rome,Rome,Q220,80.25403
+11,533,539,ascoli,Ascoli Piceno,Q6624,81.76366
+11,726,732,ascoli,Ascoli Piceno,Q6624,79.88574
+11,749,762,pope paul iii,Pope Paul III,Q133001,89.50456
+11,1288,1294,ascoli,Ascoli Piceno,Q6624,80.95507
+11,1456,1481,signor alessandro vitelli,Alessandro Vitelli,Q621395,84.21527
+11,1506,1513,matrice,Matrice,Q277684,80.77827
+11,1557,1574,città di castello,Città di Castello,Q20413,85.541595
+11,1731,1738,matrice,Matrice,Q277684,79.645035
+12,6,15,giorgione,Giorgione,Q8459,84.6904
+12,20,29,correggio,Antonio da Correggio,Q8457,84.000275
+12,98,106,lombardy,Lombardy,Q1210,85.225296
+12,108,115,tuscany,Tuscany,Q1273,81.88862
+12,273,288,cosimo rosselli,Cosimo Rosselli,Q29447,82.55713
+12,322,337,piero di cosimo,Piero di Cosimo,Q280851,80.13769
+13,108,122,servite friars,Servite Order,Q615923,81.37162
+13,346,352,heaven,Heaven,Q4489450,82.40509
+13,421,432,holy spirit,Holy Spirit,Q37302,85.56885
+13,583,594,s. margaret,Margaret the Virgin,Q297742,82.97543
+13,601,613,s. catherine,Catherine of Alexandria,Q179718,82.32077
+13,658,666,s. peter,Saint Peter,Q33923,84.29082
+13,671,693,s. john the evangelist,John the Evangelist,Q328804,86.053986
+13,757,764,servite,Servite Order,Q615923,82.551476
+13,776,787,s. antonino,Antoninus of Florence,Q773822,82.33818
+13,789,799,archbishop,Archbishop,Q49476,82.14541
+13,803,811,florence,Florence,Q2044,82.36338
+13,1273,1284,s. margaret,Margaret the Virgin,Q297742,81.471176
+13,1315,1321,dragon,Dragon,Q7559,82.66191
+13,1747,1778,magnificent giuliano de' medici,Giuliano de' Medici,Q298877,82.73529
+13,1877,1883,nature,Nature,Q7860,81.57817
+13,2240,2257,m. cosimo bartoli,Cosimo Bartoli,Q1136048,85.06807
+14,23,27,rome,Rome,Q220,82.37044
+14,83,115,girolamo siciolante of sermoneta,Girolamo Siciolante da Sermoneta,Q2296884,86.541016
+14,106,115,sermoneta,Sermoneta,Q128202,84.68088
+14,174,189,perino del vaga,Perino del Vaga,Q918778,84.155426
+14,244,260,castel s. angelo,Castel Sant'Angelo,Q486382,87.194046
+14,597,606,sermoneta,Sermoneta,Q128202,85.16041
+14,636,644,s. peter,Saint Peter,Q33923,84.466354
+14,646,656,s. stephen,Saint Stephen,Q161775,82.30351
+14,662,681,s. john the baptist,John the Baptist,Q40662,86.062164
+14,774,795,church of s. apostolo,"Santi Apostoli, Rome",Q1515300,81.874306
+14,800,804,rome,Rome,Q220,83.07321
+14,843,849,christ,Jesus,Q302,80.182724
+14,874,883,magdalene,Mary Magdalene,Q63070,79.51553
+14,977,991,cardinal cesis,Federico Cesi (cardinal),Q1605089,80.8727
+14,1119,1143,nativity of jesus christ,Nativity of Jesus,Q51628,84.811646
+14,1131,1143,jesus christ,Jesus,Q302,83.19961
+14,1149,1170,adoration of the magi,Adoration of the Magi,Q488841,86.60883
+14,1176,1193,flight into egypt,Flight into Egypt,Q837143,82.63826
+14,1188,1193,egypt,Egypt,Q79,81.375046
+14,1203,1228,massacre of the innocents,Massacre of the Innocents,Q643474,87.53346
+14,1465,1489,nativity of jesus christ,Nativity of Jesus,Q51628,83.653275
+14,1477,1489,jesus christ,Jesus,Q302,82.764336
+14,1582,1610,church of s. spirito in rome,Santo Spirito in Sassia,Q1428488,86.85021
+14,1606,1610,rome,Rome,Q220,83.551926
+14,1631,1642,holy spirit,Holy Spirit,Q37302,86.33635
+14,1716,1743,church of s. maria de anima,Santa Maria dell'Anima,Q2140145,83.922035
+14,1830,1843,fugger family,Fugger,Q155834,84.56282
+14,1856,1869,giulio romano,Giulio Romano,Q215305,85.07017
+14,2058,2063,cross,Christian cross,Q392371,83.04162
+14,2074,2080,angels,Angel,Q235113,80.931046
+14,2233,2253,s. james the apostle,"James, son of Zebedee",Q43999,82.85226
+15,3,19,jacopo del conte,Jacopino del Conte,Q2538308,85.9977
+15,72,76,rome,Rome,Q220,82.82139
+15,447,451,rome,Rome,Q220,82.59649
+15,625,638,pope paul iii,Pope Paul III,Q133001,88.64893
+15,801,808,colonna,Colonna family,Q327202,79.69493
+15,820,826,orsini,Orsini family,Q855303,82.60168
+15,828,848,signor piero strozzi,Piero Strozzi,Q1346257,84.6514
+15,1058,1062,rome,Rome,Q220,81.239044
+15,1434,1440,christ,Jesus,Q302,79.02701
+15,1474,1494,church of the popolo,Santa Maria del Popolo,Q869513,81.985275
+15,1564,1572,s. luigi,San Luigi dei Francesi,Q638283,81.94046
+15,1816,1822,christ,Jesus,Q302,80.490135
+15,2052,2056,rome,Rome,Q220,82.6195
+15,2383,2387,rome,Rome,Q220,81.4427
+15,2571,2587,jacopo del conte,Jacopino del Conte,Q2538308,84.15502
+16,816,837,santo stefano a ponte,Santo Stefano al Ponte,Q3674332,84.28452
+16,841,849,florence,Florence,Q2044,84.26302
+16,1171,1192,buonamico buffalmacco,Buonamico Buffalmacco,Q972487,86.87671
+16,1373,1384,buffalmacco,Buonamico Buffalmacco,Q972487,84.26478
+16,1575,1581,arezzo,Arezzo,Q13378,82.87569
+16,1688,1710,assumption of our lady,Assumption of Mary,Q162691,83.98743
+16,2319,2331,appius cæcus,Appius Claudius Caecus,Q297783,78.62176
+16,2529,2537,florence,Florence,Q2044,84.034256
+16,2612,2630,ponte a s. trinita,Ponte Santa Trinita,Q545578,87.74886
+16,3007,3025,giovanni dal ponte,Giovanni dal Ponte,Q2749321,85.09059
+16,3030,3034,pisa,Pisa,Q13375,81.707985
+16,3134,3156,s. paolo a ripa d'arno,San Paolo a Ripa d'Arno,Q1423910,86.691696
+16,3150,3156,d'arno,Arno,Q115457,80.91163
+17,40,45,scali,Scali (bank),Q7429770,79.96886
+17,49,59,s. trinita,Santa Trinita,Q1062114,85.033775
+17,63,71,florence,Florence,Q2044,83.69705
+17,131,138,s. paul,Paul the Apostle,Q9200,82.85838
+17,231,258,s. stefano al ponte vecchio,Santo Stefano al Ponte,Q3674332,86.04135
+17,350,358,florence,Florence,Q2044,81.45394
+18,166,182,andrea del sarto,Andrea del Sarto,Q5571,90.10367
+18,1382,1390,florence,Florence,Q2044,84.054184
+18,1481,1497,andrea del sarto,Andrea del Sarto,Q5571,85.26235
+19,721,740,alesso baldovinetti,Alesso Baldovinetti,Q472073,84.63885
+19,755,773,nativity of christ,Nativity of Jesus,Q51628,83.53447
+19,767,773,christ,Jesus,Q302,79.88085
+19,835,847,annunciation,Annunciation,Q154326,82.207664
+19,904,919,cosimo rosselli,Cosimo Rosselli,Q29447,83.00438
+19,973,986,servite order,Servite Order,Q615923,84.16261
+19,1248,1260,franciabigio,Franciabigio,Q537712,82.78986
+19,1930,1942,franciabigio,Franciabigio,Q537712,82.4618
+19,2197,2209,franciabigio,Franciabigio,Q537712,80.03892
+20,523,540,galasso ferrarese,Galasso Galassi,Q2168697,81.98749
+20,564,584,borgo a san sepolcro,Sansepolcro,Q52098,79.84584
+20,609,616,ferrara,Ferrara,Q13362,82.40187
+20,681,688,ferrara,Ferrara,Q13362,82.46465
+20,850,857,ferrara,Ferrara,Q13362,81.93599
+20,944,950,venice,Venice,Q641,82.94008
+20,1153,1160,ferrara,Ferrara,Q13362,84.80873
+20,1183,1190,bologna,Bologna,Q1891,81.76581
+20,1227,1243,dominican friars,Dominican Order,Q131479,82.600235
+20,1445,1452,bologna,Bologna,Q1891,82.45645
+20,1642,1655,old testament,Old Testament,Q19786,83.39068
+21,41,48,ferrara,Ferrara,Q13362,83.38365
+22,1235,1242,mugello,Mugello,Q283034,80.7483
+22,1384,1388,rome,Rome,Q220,80.03781
+22,1442,1450,florence,Florence,Q2044,82.63118
+22,1681,1686,italy,Italy,Q38,85.22287
+22,1856,1864,florence,Florence,Q2044,83.60577
+23,59,65,loreto,"Loreto, Marche",Q124110,80.89507
+23,270,288,giuliano da maiano,Giuliano da Maiano,Q716519,85.37334
+23,356,365,sixtus iv,Pope Sixtus IV,Q163514,81.14976
+23,823,829,loreto,"Loreto, Marche",Q124110,79.99803
+24,800,822,fra giocondo of verona,Giovanni Giocondo,Q5585,83.21446
+24,1093,1099,verona,Verona,Q2028,82.4417
+24,1465,1477,fra giocondo,Giovanni Giocondo,Q5585,81.77853
+24,1518,1528,s. dominic,Saint Dominic,Q44091,83.0893
+24,1552,1564,fra giocondo,Giovanni Giocondo,Q5585,80.157425
+24,1570,1591,fra giovanni giocondo,Giovanni Giocondo,Q5585,82.39955
+24,1684,1696,fra giocondo,Giovanni Giocondo,Q5585,79.741264
+24,2075,2083,scaliger,Julius Caesar Scaliger,Q441066,84.36621
+24,2115,2121,cardan,Gerolamo Cardano,Q184530,81.80623
+24,2139,2143,budé,Guillaume Budé,Q353668,80.759
+25,43,55,fra giocondo,Giovanni Giocondo,Q5585,83.48861
+25,252,270,republic of venice,Republic of Venice,Q4948,84.61212
+25,847,859,fra giocondo,Giovanni Giocondo,Q5585,82.67488
+25,1193,1205,fra giocondo,Giovanni Giocondo,Q5585,81.8427
+25,1296,1301,italy,Italy,Q38,83.639145
+25,1372,1384,fra giocondo,Giovanni Giocondo,Q5585,81.02127
+25,1588,1600,river brenta,Brenta (river),Q214551,85.41211
+25,1682,1690,chioggia,Chioggia,Q55416,82.84273
+25,1751,1757,venice,Venice,Q641,81.18134
+25,1835,1843,chioggia,Chioggia,Q55416,80.52285
+25,2029,2035,venice,Venice,Q641,84.215836
+25,2269,2281,fra giocondo,Giovanni Giocondo,Q5585,82.50983
+25,2336,2344,chioggia,Chioggia,Q55416,83.32962
+25,2410,2416,venice,Venice,Q641,81.35425
+25,2532,2544,fra giocondo,Giovanni Giocondo,Q5585,80.89177
+25,2630,2636,venice,Venice,Q641,83.765945
+25,2697,2709,fra giocondo,Giovanni Giocondo,Q5585,81.97808
+25,2790,2796,venice,Venice,Q641,81.88414
+25,3161,3167,venice,Venice,Q641,81.368225
+26,263,269,giotto,Giotto,Q7814,85.115974
+26,282,290,florence,Florence,Q2044,82.415596
+26,711,717,giotto,Giotto,Q7814,83.31226
+26,946,954,florence,Florence,Q2044,83.18002
+26,1134,1140,giotto,Giotto,Q7814,80.69472
+26,1789,1796,cimabue,Cimabue,Q15790,81.77199
+26,1845,1853,florence,Florence,Q2044,82.98873
+26,1875,1881,giotto,Giotto,Q7814,84.32631
+26,2094,2101,cimabue,Cimabue,Q15790,79.40294
+27,30,57,guido tarlati da pietramala,Guido Tarlati,Q378128,89.04509
+27,59,65,bishop,Bishop,Q29182,79.43912
+27,78,84,arezzo,Arezzo,Q13378,84.92205
+27,129,134,lucca,Lucca,Q13373,83.2038
+27,215,221,arezzo,Arezzo,Q13378,83.51354
+27,542,549,tuscany,Tuscany,Q1273,83.8195
+27,580,586,giotto,Giotto,Q7814,85.92166
+27,862,867,italy,Italy,Q38,82.71153
+27,919,925,giotto,Giotto,Q7814,84.005005
+27,1166,1186,borgo a san sepolcro,Sansepolcro,Q52098,81.482216
+27,1264,1270,arezzo,Arezzo,Q13378,83.354645
+27,1314,1320,giotto,Giotto,Q7814,85.710464
+27,1385,1393,florence,Florence,Q2044,83.14589
+27,1464,1470,arezzo,Arezzo,Q13378,82.93185
+27,1568,1576,florence,Florence,Q2044,81.62487
+27,1686,1692,giotto,Giotto,Q7814,85.453
+27,1803,1825,hermitage of camaldoli,Hermitage of Camaldoli,Q568823,85.60368
+27,1816,1825,camaldoli,Camaldoli,Q2019442,83.661865
+27,1968,1972,pisa,Pisa,Q13375,82.064
+27,1979,1986,general,Superior general,Q1337239,79.8987
+27,2010,2019,camaldoli,Camaldoli,Q2019442,83.937355
+27,2092,2098,giotto,Giotto,Q7814,81.984955
+27,2202,2211,camaldoli,Camaldoli,Q2019442,84.81863
+27,2247,2255,superior,Superior general,Q1337239,80.25993
+27,2333,2339,giotto,Giotto,Q7814,85.59249
+28,511,529,francesco granacci,Francesco Granacci,Q717097,86.62428
+28,1221,1229,granacci,Francesco Granacci,Q717097,82.01389
+28,1296,1316,domenico ghirlandajo,Domenico Ghirlandaio,Q191423,83.1351
+28,1339,1347,granacci,Francesco Granacci,Q717097,83.09197
+28,1505,1510,david,Davide Ghirlandaio,Q1145811,84.70835
+28,1515,1536,benedetto ghirlandajo,Benedetto Ghirlandaio,Q2554861,84.85694
+28,1554,1562,domenico,Domenico Ghirlandaio,Q191423,79.950165
+28,1709,1717,granacci,Francesco Granacci,Q717097,83.63847
+28,2036,2044,carnival,Carnival,Q4618,84.54815
+28,2080,2110,magnificent lorenzo de' medici,Lorenzo de' Medici,Q177854,83.87457
+28,2369,2377,granacci,Francesco Granacci,Q717097,80.27837
+28,2512,2530,lorenzo de' medici,Lorenzo de' Medici,Q177854,84.08453
+28,2667,2675,florence,Florence,Q2044,83.56897
+29,3,11,florence,Florence,Q2044,82.77294
+29,140,158,jacopo da pontormo,Pontormo,Q207929,90.11895
+29,160,176,andrea del sarto,Andrea del Sarto,Q5571,88.3982
+29,243,249,joseph,Saint Joseph,Q128267,82.0417
+29,373,379,joseph,Saint Joseph,Q128267,80.76745
+29,535,542,pharaoh,Pharaoh,Q37110,81.84509
+29,668,675,trinity,Trinity,Q37090,82.72092
+29,688,702,god the father,God the Father,Q186350,83.328766
+29,745,772,church of s. piero maggiore,"San Pier Maggiore, Florence",Q3671591,84.94086
+29,799,809,assumption,Assumption of Mary,Q162691,80.48197
+29,833,839,angels,Angel,Q235113,81.45803
+29,846,855,s. thomas,Thomas the Apostle,Q43669,82.04207
+29,913,922,s. thomas,Thomas the Apostle,Q43669,82.73633
+29,1107,1115,granacci,Francesco Granacci,Q717097,83.58241
+29,1216,1223,s. paul,Paul the Apostle,Q9200,81.71316
+29,1225,1236,s. laurence,Saint Lawrence,Q17590,81.408615
+29,1238,1246,s. james,"James, son of Zebedee",Q43999,79.52748
+30,47,71,domenico del ghirlandajo,Domenico Ghirlandaio,Q191423,83.9114
+30,91,95,rome,Rome,Q220,82.20884
+30,101,113,pinturicchio,Pinturicchio,Q5591,83.535614
+30,967,971,rome,Rome,Q220,83.61303
+30,1020,1024,rome,Rome,Q220,83.16291
+30,1242,1253,holy spirit,Holy Spirit,Q37302,85.617065
+30,1296,1305,christ—in,Jesus,Q302,80.20861
+30,1321,1326,peter,Saint Peter,Q33923,82.32515
+30,1331,1337,andrew,Andrew the Apostle,Q43399,81.411896
+30,1399,1408,magdalene,Mary Magdalene,Q63070,80.673775
+30,1552,1558,christ,Jesus,Q302,78.75199
+30,1632,1636,rome,Rome,Q220,81.19261
+30,1693,1716,coronation of our  lady,Coronation of the Virgin,Q1093370,83.40822
+31,491,504,montepulciano,Montepulciano,Q91217,82.35759
+31,617,623,arezzo,Arezzo,Q13378,84.04328
+31,639,651,annunciation,Annunciation,Q154326,81.58298
+31,659,673,god the father,God the Father,Q186350,82.00928
+31,677,683,heaven,Heaven,Q4489450,83.86452
+31,784,799,duke alessandro,"Alessandro de' Medici, Duke of Florence",Q378232,79.520584
+31,1147,1151,rome,Rome,Q220,81.926865
+31,1173,1190,emperor charles v,"Charles V, Holy Roman Emperor",Q32500,84.91257
+31,1498,1505,austria,Austria,Q40,81.28749
+31,1527,1533,medici,House of Medici,Q170022,81.30024
+31,1537,1543,rome—a,Rome,Q220,83.78081
+32,1372,1392,leon batista alberti,Leon Battista Alberti,Q182046,83.48426
+32,2294,2302,florence,Florence,Q2044,83.839325
+32,2335,2342,alberti,Alberti (family),Q2831707,83.43776
+33,20,36,lodovico gonzaga,"Ludovico III Gonzaga, Marquis of Mantua",Q969770,80.8924
+33,49,55,mantua,Mantua,Q6247,80.9438
+33,2112,2128,marquis lodovico,"Ludovico III Gonzaga, Marquis of Mantua",Q969770,80.29042
+33,2132,2138,mantua,Mantua,Q6247,82.21987
+33,2258,2264,mantua,Mantua,Q6247,85.0639
+33,2471,2479,florence,Florence,Q2044,82.94951
+33,2622,2630,florence,Florence,Q2044,83.26083
+33,2645,2651,mantua,Mantua,Q6247,83.78592
+34,87,93,giotto,Giotto,Q7814,82.26447
+34,531,537,heaven,Heaven,Q4489450,81.797745
+34,2082,2090,florence,Florence,Q2044,80.38038
+34,2303,2312,casentino,Casentino,Q1047110,80.76718
+34,2521,2538,counts of canossa,House of Canossa,Q473151,83.01538
+34,2692,2700,stigmata,Stigmata,Q190940,82.51904
+34,2720,2726,arezzo,Arezzo,Q13378,84.6059
+34,3353,3361,florence,Florence,Q2044,84.03177
+34,3392,3402,settignano,Settignano,Q942605,83.29663
+35,43,48,pietà,Pietà,Q223689,81.749115
+35,71,76,giant,Giant,Q3707571,77.531586
+35,71,76,giant,Giant,Q3707571,77.53159
+35,152,169,pope alexander vi,Pope Alexander VI,Q108316,82.98214
+35,186,195,julius ii,Pope Julius II,Q80516,83.10662
+35,322,331,julius ii,Pope Julius II,Q80516,81.37946
+35,497,501,rome,Rome,Q220,81.21137
+35,950,954,rome,Rome,Q220,83.976135
+35,1123,1130,carrara,Carrara,Q13372,82.658646
+35,1229,1246,alamanno salviati,Alamanno Salviati,Q2830440,84.15108
+35,1250,1258,florence,Florence,Q2044,84.12746
+35,1665,1669,rome,Rome,Q220,82.45518
+35,1698,1717,piazza di s. pietro,St. Peter's Square,Q83425,85.19391
+36,0,24,nanni d'antonio di banco,Nanni di Banco,Q465917,85.57668
+36,683,691,florence,Florence,Q2044,82.239334
+36,762,785,oratory of orsanmichele,Orsanmichele,Q860816,83.32196
+37,60,83,oratory of orsanmichele,Orsanmichele,Q860816,82.26479
+37,268,275,farrier,Farrier,Q694579,81.74071
+37,639,647,florence,Florence,Q2044,83.06413
+38,924,930,venice,Venice,Q641,83.85313
+38,1237,1245,castello,"Castello, Venice",Q52425,80.3708
+38,1250,1256,venice,Venice,Q641,81.60904
+38,1274,1282,s. elena,"Sant'Elena, Venice",Q3585397,84.68959
+38,1427,1468,magi presenting their offerings to christ,Adoration of the Magi,Q488841,84.563286
+38,1462,1468,christ,Jesus,Q302,80.35541
+39,25,32,romagna,Romagna,Q244482,82.91263
+39,131,147,giovanni bellini,Giovanni Bellini,Q17169,85.764534
+39,236,252,giovanni bellini,Giovanni Bellini,Q17169,86.7104
+39,439,444,forlì,Forlì,Q13367,84.300514
+39,454,460,christ,Jesus,Q302,80.700165
+39,472,481,communion,Eucharist,Q66086,81.740265
+39,617,623,christ,Jesus,Q302,79.16801
+39,737,746,s. helena,Helena (empress),Q170164,83.812706
+39,766,785,emperor constantine,Constantine the Great,Q8413,84.596054
+39,809,814,cross,Christian cross,Q392371,81.62652
+39,851,863,s. sebastian,Saint Sebastian,Q183332,86.40671
+39,976,983,ravenna,Ravenna,Q13364,81.65537
+39,1165,1171,christ,Jesus,Q302,77.77157
+39,1185,1199,mary magdalene,Mary Magdalene,Q63070,84.65057
+39,1238,1246,s. peter,Saint Peter,Q33923,81.11453
+39,1299,1305,christ,Jesus,Q302,81.3994
+39,1328,1351,baptism of jesus christ,Baptism of Jesus,Q217048,84.794785
+39,1339,1351,jesus christ,Jesus,Q302,83.34708
+39,1536,1580,"s. cantius, s. cantianus, and s. cantianilla","Cantius, Cantianus, and Cantianilla",Q1991316,82.0675
+39,1706,1725,s. john the baptist,John the Baptist,Q40662,84.81349
+39,1731,1743,s. sebastian,Saint Sebastian,Q183332,85.039536
+39,1897,1906,s. jerome,Jerome,Q44248,83.67937
+39,1991,2001,s. francis,Francis of Assisi,Q676555,81.3084
+39,2056,2067,"s. francis,",Francis of Assisi,Q676555,82.582214
+39,2361,2383,friars of s. augustine,Order of Saint Augustine,Q29075,84.608604
+39,2371,2383,s. augustine,Augustine of Hippo,Q8018,82.82194
+39,2415,2426,s. laurence,Saint Lawrence,Q17590,82.33719
+39,2556,2563,ravenna,Ravenna,Q13364,82.575226
+39,2583,2590,romagna,Romagna,Q244482,84.47164
+39,2648,2671,s. francesco at ravenna,"Basilica of San Francesco, Ravenna",Q959119,83.855774
+39,2664,2671,ravenna,Ravenna,Q13364,82.617096
+40,0,26,parri di spinello spinelli,Parri Spinelli,Q2718358,86.37271
+40,9,26,spinello spinelli,Spinello Aretino,Q287934,84.36981
+40,39,45,arezzo,Arezzo,Q13378,83.94627
+40,125,133,florence,Florence,Q2044,82.52537
+40,151,182,messer leonardo bruni of arezzo,Leonardo Bruni,Q314488,81.94005
+40,176,182,arezzo,Arezzo,Q13378,83.68083
+40,204,220,lorenzo ghiberti,Lorenzo Ghiberti,Q208125,86.87346
+40,516,536,masolino da panicale,Masolino da Panicale,Q318117,85.64642
+40,528,536,panicale,Panicale,Q20501,80.48367
+40,1526,1532,giotto,Giotto,Q7814,85.06079
+40,2315,2321,arezzo,Arezzo,Q13378,84.61246
+41,578,597,s. gregory the pope,Pope Gregory I,Q42827,85.79938
+41,616,626,s. donatus,Donatus of Arezzo,Q2360539,83.81097
+41,628,634,bishop,Bishop,Q29182,79.79397
+41,666,672,arezzo,Arezzo,Q13378,85.94884
+41,839,844,child,Christ Child,Q942467,78.95491
+41,1173,1179,saints,Saint,Q43115,80.790985
+41,1655,1661,saints,Saint,Q43115,82.28244
+41,1862,1874,annunciation,Annunciation,Q154326,81.93179
+41,2011,2023,s. catherine,Catherine of Alexandria,Q179718,82.26509
+41,2128,2145,s. mary magdalene,Mary Magdalene,Q63070,86.62859
+42,329,335,urbino,Urbino,Q2759,79.853775
+42,1692,1698,urbino,Urbino,Q2759,80.91505
+42,1936,1942,heaven,Heaven,Q4489450,82.17051
+42,2011,2017,urbino,Urbino,Q2759,82.28813
+42,2041,2046,italy,Italy,Q38,82.72731
+42,2130,2148,giovanni de' santi,Giovanni Santi,Q860949,82.399506
+43,12,25,lorenzo pucci,Lorenzo Pucci,Q745434,87.02742
+43,27,35,cardinal,Cardinal (Catholic Church),Q45722,84.634575
+43,163,194,s. giovanni in monte at bologna,"San Giovanni in Monte, Bologna",Q12068168,84.67938
+43,187,194,bologna,Bologna,Q1891,81.81102
+43,423,433,s. cecilia,Saint Cecilia,Q80513,84.41334
+43,923,930,s. paul,Paul the Apostle,Q9200,80.62238
+43,1297,1314,s. mary magdalene,Mary Magdalene,Q63070,84.91284
+43,1602,1614,s. augustine,Augustine of Hippo,Q8018,82.18375
+43,1619,1641,s. john the evangelist,John the Evangelist,Q328804,86.88792
+44,760,765,david,Davide Ghirlandaio,Q1145811,81.32452
+44,770,791,benedetto ghirlandajo,Benedetto Ghirlandaio,Q2554861,83.00918
+44,1396,1412,s. maria novella,Santa Maria Novella,Q51175,86.59427
+44,1611,1621,s. stephen,Saint Stephen,Q161775,84.6337
+44,1658,1676,francesco granacci,Francesco Granacci,Q717097,87.77809
+44,1737,1748,s. antonino,Antoninus of Florence,Q773822,81.65572
+44,1764,1772,florence,Florence,Q2044,82.065414
+44,1778,1799,s. catharine of siena,Catherine of Siena,Q229190,80.041504
+44,1794,1799,siena,Siena,Q2751,81.17523
+44,1838,1846,s. lucia,Saint Lucy,Q183240,84.33285
+44,2047,2053,france,France,Q142,82.726585
+44,2118,2126,florence,Florence,Q2044,84.60086
+45,60,76,lorenzo di credi,Lorenzo di Credi,Q8511,88.85318
+45,776,805,church of s. felice in piazza,"San Felice, Florence",Q3585333,83.81142
+45,846,855,camaldoli,Camaldoli,Q2019442,84.796036
+45,888,894,christ,Jesus,Q302,82.08626
+45,939,953,god the father,God the Father,Q186350,85.76488
+45,987,993,saints,Saint,Q43115,81.97746
+45,1011,1022,s. felicita,"Santa Felicita, Florence",Q1069665,86.48492
+45,1114,1120,christ,Jesus,Q302,78.820854
+45,1131,1137,maries,The Three Marys,Q3254109,79.34143
+45,1160,1182,assumption of our lady,Assumption of Mary,Q162691,82.798
+45,1194,1200,saints,Saint,Q43115,82.26123
+45,1420,1426,saints,Saint,Q43115,81.44767
+45,1480,1500,church of s. spirito,"Santo Spirito, Florence",Q1519975,85.9336
+45,1554,1561,s. anne,Saint Anne,Q164294,81.45726
+45,1578,1584,saints,Saint,Q43115,82.25929
+45,1644,1663,s. john the baptist,John the Baptist,Q40662,84.90054
+45,1728,1740,annunciation,Annunciation,Q154326,81.52254
+45,1782,1787,prato,Prato,Q13377,82.64486
+45,1812,1824,s. sebastian,Saint Sebastian,Q183332,82.85159
+45,1906,1926,s. jacopo sopra arno,San Jacopo sopr'Arno,Q3670741,85.91704
+45,1996,2004,s. james,"James, son of Zebedee",Q43999,79.52691
+45,2077,2098,s. alessandro vitelli,Alessandro Vitelli,Q621395,84.20433
+45,2139,2156,città di castello,Città di Castello,Q20413,83.78424
+46,37,43,verona,Verona,Q2028,82.58847
+46,226,230,rome,Rome,Q220,81.00815
+46,413,418,order,Religious order,Q2061186,81.57557
+46,640,644,rome,Rome,Q220,82.719765
+46,736,743,orvieto,Orvieto,Q541,82.54975
+46,908,922,monte fiascone,Montefiascone,Q176142,78.71552
+46,1223,1239,monte fiascone—i,Montefiascone,Q176142,79.56379
+46,1264,1272,petrucci,Petrucci family,Q15955030,83.54907
+46,1288,1299,siena—which,Siena,Q2751,82.30921
+46,1524,1540,pope clement vii,Pope Clement VII,Q83159,86.15082
+46,1663,1668,italy,Italy,Q38,85.59649
+46,1950,1955,parma,Parma,Q2683,83.959366
+46,1960,1968,piacenza,Piacenza,Q13329,83.87149
+46,2018,2022,rome,Rome,Q220,81.96532
+47,161,167,verona,Verona,Q2028,82.17397
+47,1009,1014,italy,Italy,Q38,84.44754
+47,1267,1287,filippo brunelleschi,Filippo Brunelleschi,Q174330,85.205345
+47,1300,1347,chapels of the temple of the angeli in florence,"Santa Maria degli Angeli, Florence",Q3275023,82.976
+47,1339,1347,florence,Florence,Q2044,84.63489
+47,1857,1861,rome,Rome,Q220,80.80815
+48,20,26,cadore,Cadore,Q1025312,83.20099
+48,62,67,piave,Piave (river),Q213462,83.21408
+48,100,116,pass of the alps,Principal passes of the Alps,Q1829186,83.521614
+48,112,116,alps,Alps,Q1286,87.19911
+48,287,293,venice,Venice,Q641,82.24863
+48,1008,1033,giorgione da castelfranco,Giorgione,Q8459,84.15747
+48,1021,1033,castelfranco,Castelfranco Veneto,Q29352,82.186035
+48,3065,3074,giorgione,Giorgione,Q8459,86.77301
+48,3083,3092,pordenone,Il Pordenone,Q983352,82.79264
+48,3120,3124,rome,Rome,Q220,79.078995
+49,69,89,fondaco de' tedeschi,Fondaco dei Tedeschi,Q1259067,85.63105
+49,140,147,tiziano,Titian,Q47551,79.06366
+49,347,358,s. marcuola,San Marcuola,Q1585514,83.56024
+49,407,412,egypt,Egypt,Q79,82.024895
+49,981,990,ecce homo,Ecce homo,Q534805,80.05373
+49,1028,1035,tiziano,Titian,Q47551,78.75828
+49,1284,1302,emperor maximilian,"Maximilian I, Holy Roman Emperor",Q150726,86.10113
+49,1336,1343,tiziano,Titian,Q47551,78.60361
+49,1386,1399,angel raphael,Raphael (archangel),Q56951,82.364746
+49,1505,1524,s. john the baptist,John the Baptist,Q40662,84.910286
+49,1552,1558,heaven,Heaven,Q4489450,83.22754
+49,1699,1719,fondaco de' tedeschi,Fondaco dei Tedeschi,Q1259067,85.32083
+49,1779,1788,giorgione,Giorgione,Q8459,84.434715
+49,2066,2077,grand canal,Grand Canal (Venice),Q309243,83.62258
+49,2101,2110,giorgione,Giorgione,Q8459,84.868164
+49,2141,2148,tiziano,Titian,Q47551,79.067924
+50,0,21,andrea del verrocchio,Andrea del Verrocchio,Q183458,88.489334
+50,682,688,andrea,Andrea del Verrocchio,Q183458,81.59376
+50,1036,1044,florence,Florence,Q2044,81.93166
+50,1578,1582,rome,Rome,Q220,82.982635
+50,1669,1687,chapel of the pope,Sistine Chapel,Q2943,82.81354
+50,1765,1776,pope sixtus,Pope Sixtus IV,Q163514,83.10719
+51,60,68,florence,Florence,Q2044,81.517914
+51,686,705,giuliano de' medici,Giuliano de' Medici,Q298877,82.2884
+51,745,752,lorenzo,Lorenzo de' Medici,Q177854,82.925545
+51,846,853,lorenzo,Lorenzo de' Medici,Q177854,83.27937
+51,926,929,god,God,Q190,82.1673
+51,1809,1816,lorenzo,Lorenzo de' Medici,Q177854,81.537445
+51,2129,2137,florence,Florence,Q2044,84.73558
+51,2160,2190,servite church of the nunziata,"Santissima Annunziata, Florence",Q2287001,83.290985
+51,2313,2319,assisi,Assisi,Q20103,81.03346
+51,2381,2399,lorenzo de' medici,Lorenzo de' Medici,Q177854,82.16159
+51,2512,2518,assisi,Assisi,Q20103,82.82126
+52,30,36,urbino,Urbino,Q2759,82.01972
+52,72,91,sant'agnolo in vado,Sant'Angelo in Vado,Q493800,82.32679
+52,566,580,pompeo da fano,Pompeo Morganti,Q23617752,83.54745
+52,576,580,fano,Fano,Q13142,84.06146
+52,1180,1184,rome,Rome,Q220,81.28947
+52,1477,1492,perino del vaga,Perino del Vaga,Q918778,84.89776
+52,1937,1941,rome,Rome,Q220,83.28347
+53,274,286,pope paul iv,Pope Paul IV,Q101430,83.81355
+53,390,403,pirro ligorio,Pirro Ligorio,Q736090,87.4468
+53,504,510,urbino,Urbino,Q2759,81.75319
+53,587,605,borgo san sepolcro,Sansepolcro,Q52098,82.707954
+53,774,782,florence,Florence,Q2044,83.35408
+53,1181,1187,christ,Jesus,Q302,80.49769
+53,1223,1238,transfiguration,Transfiguration of Jesus,Q201201,84.02876
+53,1244,1271,marriage of cana in galilee,Marriage at Cana,Q625140,84.04347
+53,1256,1260,cana,Cana,Q431382,79.54605
+53,1264,1271,galilee,Galilee,Q83241,81.52711
+53,1281,1290,centurion,Centurion,Q26409,78.31351
+53,1307,1313,christ,Jesus,Q302,80.84987
+53,1370,1389,"orazio sammacchini,",Orazio Samacchini,Q2619534,82.86469
+53,1438,1461,lorenzo costa of mantua,Lorenzo Costa,Q357807,81.52719
+53,1455,1461,mantua,Mantua,Q6247,81.885826
+53,1697,1702,moses,Moses,Q9077,81.976776
+53,1707,1714,pharaoh,Pharaoh,Q37110,80.28687
+53,2028,2033,angel,Angel,Q235113,80.64853
+53,2060,2065,egypt,Egypt,Q79,80.837006
+53,2341,2345,rome,Rome,Q220,82.95889
+53,2361,2369,florence,Florence,Q2044,82.47924
+53,2790,2802,pope pius iv,Pope Pius IV,Q161983,81.8263
+53,2944,2953,caprarola,Caprarola,Q160262,86.141304
