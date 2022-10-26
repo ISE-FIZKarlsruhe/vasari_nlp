@@ -1,0 +1,11 @@
+id,surface,start_pos,end_pos,type
+5,Nativity of Our Lady,1157,1177,WORK_OF_ART
+14,Adoration of the Magi,1149,1170,WORK_OF_ART
+14,Flight into Egypt,1176,1193,WORK_OF_ART
+14,Massacre of the Innocents,1203,1228,WORK_OF_ART
+16,Assumption of Our Lady,1688,1710,WORK_OF_ART
+19,Nativity of Christ,755,773,WORK_OF_ART
+19,Annunciation,835,847,WORK_OF_ART
+35,Pietà,43,48,WORK_OF_ART
+49,Ecce Homo,981,990,WORK_OF_ART
+53,Transfiguration,1223,1238,WORK_OF_ART
