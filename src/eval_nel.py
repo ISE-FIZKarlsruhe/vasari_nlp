@@ -67,17 +67,18 @@ def eval_nel(path_data, path_results):
         output.write("F1: "+ str(f1)+"\n\n")
     
     
-    p_keys = tp[0].keys()
+    p_keys = matches[0].keys()
+    fp_keys = fp[0].keys()
     n_keys = fn[0].keys()
 
-    tp_file = open(path_results+"tp_nel.csv", "w")
+    tp_file = open(path_results+"tp_nel_matched.csv", "w")
     dict_writer = csv.DictWriter(tp_file, p_keys)
     dict_writer.writeheader()
-    dict_writer.writerows(tp)
+    dict_writer.writerows(matches)
     tp_file.close()
     
     fp_file = open(path_results+"fp_nel.csv", "w")
-    dict_writer = csv.DictWriter(fp_file, p_keys)
+    dict_writer = csv.DictWriter(fp_file, fp_keys)
     dict_writer.writeheader()
     dict_writer.writerows(fp)
     fp_file.close()
@@ -163,7 +164,7 @@ def eval_nel(path_data, path_results):
 #     fn_file.close()
 
 
-eval_nel(path_data="../data/", path_results="../entity_linking/results/mgenre_nel/")
+eval_nel(path_data="../data/", path_results="../results/mgenre_nel/")
 
 # eval_nel(path_data="../vasari-kg.github.io/data/", path_results="results/mgenre_en/", lang="en")
 

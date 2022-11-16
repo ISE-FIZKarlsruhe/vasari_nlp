@@ -52,14 +52,14 @@ def eval_ner(path_data, path_model):
         output.write(str(matched_types)+ " matched types out of "+ str(len(tp))+" true positives")
     
     
-    p_keys = tp[0].keys()
+    p_keys = matches[0].keys()
     n_keys = fn[0].keys()
     fp_keys = fp[0].keys()
 
-    tp_file = open(path_model+"tp_ner.csv", "w")
+    tp_file = open(path_model+"tp_ner_matched.csv", "w")
     dict_writer= csv.DictWriter(tp_file, p_keys)
     dict_writer.writeheader()
-    dict_writer.writerows(tp)
+    dict_writer.writerows(matches)
     tp_file.close()
     
     fp_file = open(path_model+"fp_ner.csv", "w")
@@ -74,7 +74,7 @@ def eval_ner(path_data, path_model):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_ner(path_data="../data/", path_model="../ner/results/flair_ner/")
+eval_ner(path_data="../data/", path_model="../results/flair_ner/")
 
 
 
