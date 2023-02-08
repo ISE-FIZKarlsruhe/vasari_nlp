@@ -1,4 +1,4 @@
-id,begin,end,surface,type,value
+id,start_pos,end_pos,surface,type,value
 0,582,605,statues of Duke Lorenzo,WORK,Q3937601
 0,610,623,Duke Giuliano,WORK,Q3937559
 0,980,989,S. Cosimo,WORK,NIL
@@ -8,12 +8,10 @@ id,begin,end,surface,type,value
 0,1154,1163,S. Cosimo,WORK,NIL
 0,2027,2051,statues of Duke Giuliano,WORK,Q3937559
 0,2056,2068,Duke Lorenzo,WORK,Q3937601
-1,1725,1752,tomb of M. Raffaello Maffei,WORK,NIL
 5,369,442,nude David who was holding Goliath under him and was cutting off his head,WORK,NIL
 5,601,616,David of Donato,WORK,Q735085
 5,810,815,David,WORK,NIL
 5,1157,1177,Nativity of Our Lady,WORK,NIL
-7,1941,1970,altar of S. Jacopo in Pistoia,WORK,Q3613122
 9,139,199,"Pope Leo, Cardinal Giulio de' Medici, and Cardinal de' Rossi",WORK,Q733662
 9,430,445,Cencio Guasconi,WORK,NIL
 10,1756,1796,S. Augustine disputing with the heretics,WORK,NIL
@@ -41,7 +39,6 @@ id,begin,end,surface,type,value
 16,1895,1905,S. Antonio,WORK,NIL
 16,2311,2331,head of Appius Cæcus,WORK,NIL
 17,120,138,stories of S. Paul,WORK,NIL
-17,189,210,tomb of Maestro Paolo,WORK,NIL
 19,755,773,Nativity of Christ,WORK,Q3605542
 19,835,847,Annunciation,WORK,NIL
 19,941,1006,"S. Filippo, the founder of that Servite Order, assuming the habit",WORK,Q4015931
@@ -109,8 +106,8 @@ id,begin,end,surface,type,value
 49,981,990,Ecce Homo,WORK,Q4411819
 49,1124,1189,"Our Lady with other figures the size of life, of men and children",WORK,NIL
 49,1386,1421,Angel Raphael with Tobias and a dog,WORK,NIL
-50,1444,1464,altar of S. Giovanni,WORK,Q24933218
 51,2343,2350,Madonna,WORK,NIL
+51,1745,1753,Crucifix,WORK,NIL
 53,1223,1238,Transfiguration,WORK,NIL
 53,1244,1271,Marriage of Cana in Galilee,WORK,NIL
 53,1281,1313,Centurion kneeling before Christ,WORK,NIL
