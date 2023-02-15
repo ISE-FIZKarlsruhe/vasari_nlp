@@ -10,21 +10,28 @@ def eval_ner(path_data, path_model):
     fp = []
     fn = []
     matches = []
+    matched_sf=0
 
     for entity1 in data:
         id1 = int(entity1["id"])
         start_pos1 = int(entity1["start_pos"])
         end_pos1 = int(entity1["end_pos"])
         ent_type1 = entity1["type"]
+        matched_sf_value = False
         for entity2 in model_result:
             id2 = int(entity2["id"])
             start_pos2 = int(entity2["start_pos"])
             end_pos2 = int(entity2["end_pos"])
             ent_type2 = entity2["type"]
-            if id2 == id1 and start_pos2==start_pos1 \
-                and end_pos2 == end_pos1 and ent_type1==ent_type2:
-                matches.append(entity1)
-                tp.append(entity2)
+            if id2 == id1 and len(set(range(start_pos1,end_pos1)).intersection(set(range(start_pos2,end_pos2))))>0:
+                if ent_type1==ent_type2:
+                    matches.append(entity1)
+                    tp.append(entity2)
+                    break
+                else:
+                    matched_sf_value = True
+        if matched_sf_value==True:
+            matched_sf+=1
             
     for entity1 in data:
         if entity1 not in matches:
@@ -47,6 +54,7 @@ def eval_ner(path_data, path_model):
         output.write("Precision: "+ str(precision)+ "\n\n")
         output.write("Recall: "+ str(recall)+ "\n\n")
         output.write("F1: "+ str(f1)+"\n\n")
+        output.write("Matched Sf: "+ str(matched_sf)+"\n\n")
     
     
     p_keys = matches[0].keys()
