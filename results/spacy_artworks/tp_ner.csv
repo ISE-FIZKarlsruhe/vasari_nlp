@@ -6,7 +6,6 @@ id,surface,start_pos,end_pos,type
 10,Christ and Saints,1814,1831,WORK_OF_ART
 13,Our Lady,258,266,WORK_OF_ART
 14,Dead Christ,838,849,WORK_OF_ART
-14,Magdalene,874,883,WORK_OF_ART
 14,Nativity,1119,1127,WORK_OF_ART
 14,Adoration of the Magi,1149,1170,WORK_OF_ART
 14,Flight into Egypt,1176,1193,WORK_OF_ART
@@ -21,7 +20,6 @@ id,surface,start_pos,end_pos,type
 19,Annunciation,835,847,WORK_OF_ART
 20,Old Testament,1642,1655,WORK_OF_ART
 29,life of Joseph,235,249,WORK_OF_ART
-29,Trinity,668,675,WORK_OF_ART
 30,Peter and Andrew,1321,1337,WORK_OF_ART
 30,Feast of Simon,1376,1390,WORK_OF_ART
 30,Magdalene,1399,1408,WORK_OF_ART

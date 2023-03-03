@@ -8,66 +8,34 @@ id,surface,start_pos,end_pos,type
 3,State,983,988,WORK_OF_ART
 5,Palace,680,686,WORK_OF_ART
 7,Piazza degli Agli,619,636,WORK_OF_ART
-10,Christ and Saints,1814,1831,WORK_OF_ART
 11,Pope Paul III,749,762,WORK_OF_ART
-13,Our Lady,258,266,WORK_OF_ART
 14,Life of Perino del Vaga,166,189,WORK_OF_ART
-14,Dead Christ,838,849,WORK_OF_ART
 14,Magdalene,874,883,WORK_OF_ART
-14,Nativity,1119,1127,WORK_OF_ART
-14,Nativity,1465,1473,WORK_OF_ART
-14,Descent of the Holy Spirit,1616,1642,WORK_OF_ART
 14,German,1763,1769,WORK_OF_ART
-14,Christ on the Cross,2044,2063,WORK_OF_ART
 15,Pontiffs,590,598,WORK_OF_ART
 15,Pope Paul III,625,638,WORK_OF_ART
-15,Madonna,1899,1906,WORK_OF_ART
 19,Florentines,1718,1729,WORK_OF_ART
-20,Old Testament,1642,1655,WORK_OF_ART
 22,Life of,1142,1149,WORK_OF_ART
 23,Pope Paul II,15,27,WORK_OF_ART
 24,Lives of the Painters,680,701,WORK_OF_ART
 25,Venetian gentleman,2143,2161,WORK_OF_ART
 28,Triumph of Paulus Emilius,2192,2217,WORK_OF_ART
-29,life of Joseph,235,249,WORK_OF_ART
 29,Trinity,668,675,WORK_OF_ART
 29,Madonna,869,876,WORK_OF_ART
 29,Our Lady,1048,1056,WORK_OF_ART
-30,Peter and Andrew,1321,1337,WORK_OF_ART
-30,Feast of Simon,1376,1390,WORK_OF_ART
-30,Magdalene,1399,1408,WORK_OF_ART
 31,Emperor Charles V,1173,1190,WORK_OF_ART
 32,Alberti,2335,2342,WORK_OF_ART
 33,Marquis of Mantua,38,55,WORK_OF_ART
 34,Mercury and Venus,3096,3113,WORK_OF_ART
 36,Oratory of Orsanmichele,762,785,WORK_OF_ART
 37,Oratory of Orsanmichele,60,83,WORK_OF_ART
-38,Magi,1427,1431,WORK_OF_ART
 39,Life of Giovanni Bellini,123,147,WORK_OF_ART
-39,Christ appearing to Mary Magdalene,1165,1199,WORK_OF_ART
-39,Madonna,1839,1846,WORK_OF_ART
-39,Our Lady,2020,2028,WORK_OF_ART
-39,Madonna,2178,2185,WORK_OF_ART
-41,Madonna,94,101,WORK_OF_ART
-41,Madonna with the Child,822,844,WORK_OF_ART
 41,Canto alla Croce,1433,1449,WORK_OF_ART
 43,Grand Penitentiary,74,92,WORK_OF_ART
 43,Monte at Bologna,178,194,WORK_OF_ART
-45,Christ and Our Lady,888,907,WORK_OF_ART
-45,Dead Christ,1109,1120,WORK_OF_ART
-45,Assumption of Our Lady,1160,1182,WORK_OF_ART
-45,Our Lady,1402,1410,WORK_OF_ART
-45,Our Lady,1544,1552,WORK_OF_ART
-45,Our Lady,1843,1851,WORK_OF_ART
-45,Our Lady,1968,1976,WORK_OF_ART
 46,Pope Clement VII,1524,1540,WORK_OF_ART
-49,Our Lady,387,395,WORK_OF_ART
-49,Our Lady,1124,1132,WORK_OF_ART
-49,Tobias and a dog in the Church of S. Marziliano,1405,1452,WORK_OF_ART
 49,Grand Canal,2066,2077,WORK_OF_ART
 53,Belvedere,232,241,WORK_OF_ART
 53,Pope Paul IV,274,286,WORK_OF_ART
-53,Centurion,1281,1290,WORK_OF_ART
 53,Belvedere,1623,1632,WORK_OF_ART
-53,Angel,2028,2033,WORK_OF_ART
 53,Pope Pius IV,2790,2802,WORK_OF_ART
