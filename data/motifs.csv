@@ -261,7 +261,7 @@ id,start_pos,end_pos,surface,type,value,is_nested
 45,1578,1584,Saints,SUBJ,11H(SAINT),
 45,1631,1663,Beheading of S. John the Baptist,SUBJ,73C1333,
 45,1644,1663,S. John the Baptist,SUBJ,11H(JOHN THE BAPTIST),1
-45,1728,1740,Annunciation,THEME,73A5,
+45,1728,1740,Annunciation,SUBJ,73A5,
 45,1802,1810,S. Rocco,SUBJ,11H(ROCH),
 45,1812,1824,S. Sebastian,SUBJ,11H(SEBASTIAN),
 45,1843,1851,Our Lady,SUBJ,11F,
