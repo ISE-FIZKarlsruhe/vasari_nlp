@@ -1,4 +1,4 @@
-# Knowledge Extraction for the Historical Biographies of Giorgio Vasari
+# Entity Extraction for the Historical Biographies of Giorgio Vasari
 
 This repository contains data and source code used for the Entity Extraction experiments of Entity Recognition and Entity Linking on Giorgio Vasari's *Lives of The Artists*.
 
