@@ -13,7 +13,7 @@ The `data` directory contains 7 csv files:
 7. `spans.csv`: containing links between the annotation of subjects (`SUBJ`) and the annotation of further predicated states (`STATE`) in `motifs.csv`
 
 
-For further information related to the annotation, Guidelines are available on \[1\]. All the data was annotated using [Inception](https://inception-project.github.io/).
+For further information related to the annotation, [Guidelines](https://doi.org/10.5281/zenodo.7991340) are available on \[1\]. All the data was annotated using [Inception](https://inception-project.github.io/).
 
 The `results` directory contains the results obtained by testing several general-purpose Entity Recognition and Entity Linking models on the Named Entities in `entities.csv`. 
 Moreover, it contains the results of a [domain-specific Spacy NER model for artworks](https://github.com/HPI-Information-Systems/art-ner-dataset) on the artwork references annotated in `works.csv`.
