@@ -1,0 +1,167 @@
+text_idx,x_start,x_end,x,y_start,y_end,y,relation
+0,474,491,Madonna di Loreto,417,437,Antonio da San Gallo,creator
+0,593,605,Duke Lorenzo,610,623,Duke Giuliano,sibling
+0,610,623,Duke Giuliano,593,605,Duke Lorenzo,sibling
+1,57,67,Montorsoli,103,111,Florence,located in the administrative territorial entity
+1,7,37,Michele d'Agnolo of Poggibonzi,103,111,Florence,place of birth
+1,7,37,Michele d'Agnolo of Poggibonzi,127,134,Bologna,place of death
+2,445,456,Fontebranda,133,138,Siena,located in the administrative territorial entity
+2,445,456,Fontebranda,371,375,1190,inception
+2,527,540,Customs-house,133,138,Siena,located in the administrative territorial entity
+3,529,536,Pistola,541,545,Pisa,located in the administrative territorial entity
+3,529,536,Pistola,541,545,Pisa,shares border with
+3,763,775,Malborghetto,712,717,Siena,located in the administrative territorial entity
+4,180,203,Michelagnolo di Viviano,163,172,goldsmith,occupation
+4,101,135,Lorenzo de' Medici the Magnificent,50,58,Florence,place of birth
+4,801,809,Giuliano,864,882,Piazza di S. Croce,notable work
+4,864,882,Piazza di S. Croce,801,809,Giuliano,architect
+5,648,661,Medici Palace,565,573,Florence,located in the administrative territorial entity
+5,601,616,David of Donato,648,661,Medici Palace,location
+6,111,114,art,565,571,beauty,has quality
+6,706,711,clods,745,749,gold,made from material
+6,565,571,beauty,556,561,grace,subclass of
+7,145,174,Ser Brunellesco di Lippo Lapi,715,719,1398,date of birth
+7,145,174,Ser Brunellesco di Lippo Lapi,29,37,Florence,place of birth
+7,145,174,Ser Brunellesco di Lippo Lapi,774,781,Filippo,child
+7,145,174,Ser Brunellesco di Lippo Lapi,29,37,Florence,place of death
+8,518,537,Giuliano Bugiardini,603,607,1529,date of birth
+8,518,537,Giuliano Bugiardini,20,28,Florence,place of birth
+8,823,831,Bertoldo,884,907,Michelagnolo Buonarroti,student
+9,526,539,Baccio Valori,544,559,Olmo a Castello,located in the administrative territorial entity
+9,526,539,Baccio Valori,544,559,Olmo a Castello,located on terrain feature
+9,526,539,Baccio Valori,544,559,Olmo a Castello,location
+10,769,784,Marco Calavrese,872,878,Naples,work location
+10,769,784,Marco Calavrese,872,878,Naples,place of birth
+10,769,784,Marco Calavrese,872,878,Naples,place of death
+11,69,87,Cola dalla Matrice,129,135,Ascoli,place of death
+11,69,87,Cola dalla Matrice,129,135,Ascoli,place of birth
+11,61,87,Maestro Cola dalla Matrice,129,135,Ascoli,place of death
+12,98,106,Lombardy,108,115,Tuscany,located in the administrative territorial entity
+12,273,288,Cosimo Rosselli,322,337,Piero di Cosimo,student
+12,98,106,Lombardy,108,115,Tuscany,shares border with
+13,131,152,Chapel of the Tedaldi,94,122,Church of the Servite Friars,part of
+13,776,787,S. Antonino,789,811,Archbishop of Florence,position held
+13,131,152,Chapel of the Tedaldi,94,122,Church of the Servite Friars,location
+14,83,115,Girolamo Siciolante of Sermoneta,106,115,Sermoneta,place of birth
+14,244,260,Castel S. Angelo,23,27,Rome,work location
+14,83,115,Girolamo Siciolante of Sermoneta,23,27,Rome,place of death
+15,3,19,Jacopo del Conte,23,33,Florentine,place of birth
+15,2571,2587,Jacopo del Conte,72,76,Rome,place of death
+16,804,837,Giovanni da Santo Stefano a Ponte,841,849,Florence,place of birth
+16,804,837,Giovanni da Santo Stefano a Ponte,841,849,Florence,place of death
+16,832,849,Ponte of Florence,841,849,Florence,located in the administrative territorial entity
+17,26,45,Chapel of the Scali,63,71,Florence,located in the administrative territorial entity
+17,26,45,Chapel of the Scali,49,59,S. Trinita,located in the administrative territorial entity
+17,49,59,S. Trinita,63,71,Florence,located in the administrative territorial entity
+18,166,182,Andrea del Sarto,244,252,painting,field of work
+18,166,182,Andrea del Sarto,21,26,Lives,described by source
+19,941,951,S. Filippo,973,986,Servite Order,religious order
+19,973,986,Servite Order,941,951,S. Filippo,founded by
+20,554,569,Piero dal Borgo,572,584,San Sepolcro,award received
+20,554,569,Piero dal Borgo,609,616,Ferrara,place of birth
+20,554,569,Piero dal Borgo,572,584,San Sepolcro,religious order
+21,26,31,Cosmè,41,48,Ferrara,place of birth
+21,26,31,Cosmè,41,48,Ferrara,place of death
+21,171,176,organ,184,189,Duomo,location
+22,1066,1076,Florentine,1681,1686,Italy,country
+22,1066,1086,Florentine architect,462,470,building,field of this occupation
+22,1066,1086,Florentine architect,462,471,buildings,field of this occupation
+23,34,65,Church of the Madonna of Loreto,59,65,Loreto,located in the administrative territorial entity
+23,34,65,Church of the Madonna of Loreto,270,288,Giuliano da Maiano,architect
+23,34,65,Church of the Madonna of Loreto,451,455,1526,inception
+24,680,721,Lives of the Painters and other Craftsmen,800,822,Fra Giocondo of Verona,author
+24,800,822,Fra Giocondo of Verona,680,721,Lives of the Painters and other Craftsmen,notable work
+25,43,55,Fra Giocondo,252,270,Republic of Venice,country of citizenship
+25,352,359,lagoons,252,270,Republic of Venice,country
+25,43,55,Fra Giocondo,252,270,Republic of Venice,time period
+26,915,925,Vespignano,282,290,Florence,located in the administrative territorial entity
+26,263,269,Giotto,915,925,Vespignano,place of birth
+26,263,269,Giotto,282,290,Florence,place of birth
+27,30,57,Guido Tarlati da Pietramala,94,110,Massa di Maremma,place of death
+27,30,57,Guido Tarlati da Pietramala,59,65,Bishop,position held
+27,30,57,Guido Tarlati da Pietramala,302,321,Dolfo da Pietramala,sibling
+27,302,321,Dolfo da Pietramala,30,57,Guido Tarlati da Pietramala,sibling
+28,615,633,Lorenzo de' Medici,731,743,Michelagnolo,student
+28,615,633,Lorenzo de' Medici,511,529,Francesco Granacci,student
+28,615,633,Lorenzo de' Medici,603,614,Magnificent,position held
+29,3,20,Florence Granacci,280,300,Borgo Sant' Apostolo,has works in the collection
+29,3,20,Florence Granacci,3,11,Florence,work location
+29,688,702,God the Father,723,732,Crucified,significant event
+30,47,71,Domenico del Ghirlandajo,101,113,Pinturicchio,student
+30,101,113,Pinturicchio,91,95,Rome,work location
+30,101,113,Pinturicchio,91,95,Rome,place of death
+31,590,613,Company of the Nunziata,617,623,Arezzo,headquarters location
+31,590,613,Company of the Nunziata,617,623,Arezzo,location of formation
+31,119,127,L'Indaco,617,623,Arezzo,place of death
+32,1499,1507,painting,121,124,art,subclass of
+32,1499,1507,painting,200,209,invention,subclass of
+32,147,155,painters,82,91,craftsmen,subclass of
+33,117,125,Nunziata,154,162,Florence,located in the administrative territorial entity
+33,131,150,Church of the Servi,154,162,Florence,located in the administrative territorial entity
+33,117,125,Nunziata,194,206,Leon Batista,architect
+34,1055,1068,art of design,333,336,art,subclass of
+34,1093,1101,contours,1086,1091,lines,part of
+34,87,93,Giotto,1055,1068,art of design,field of work
+35,152,169,Pope Alexander VI,80,88,Florence,place of death
+35,927,946,Church of S. Pietro,497,501,Rome,located in the administrative territorial entity
+35,12,24,Michelagnolo,80,88,Florence,place of death
+35,231,243,Michelagnolo,80,88,Florence,place of death
+36,762,785,Oratory of Orsanmichele,683,691,Florence,located in the administrative territorial entity
+36,773,785,Orsanmichele,683,691,Florence,located in the administrative territorial entity
+36,0,24,Nanni d'Antonio di Banco,683,691,Florence,place of death
+37,71,83,Orsanmichele,60,67,Oratory,instance of
+37,60,83,Oratory of Orsanmichele,158,163,Nanni,creator
+37,60,83,Oratory of Orsanmichele,112,129,Guild of Farriers,commissioned by
+38,381,386,Palma,372,380,Venetian,work location
+38,372,386,Venetian Palma,461,469,painting,field of work
+38,461,469,painting,555,569,labours of art,part of
+39,737,746,S. Helena,766,785,Emperor Constantine,child
+40,0,26,Parri di Spinello Spinelli,39,45,Arezzo,place of birth
+40,0,26,Parri di Spinello Spinelli,125,133,Florence,place of birth
+40,0,26,Parri di Spinello Spinelli,176,182,Arezzo,place of birth
+41,293,300,Braccio,388,392,1422,date of death
+41,348,361,Lazzaro Ricco,388,392,1422,date of death
+42,309,335,Raffaello Sanzio da Urbino,758,781,Michelagnolo Buonarroti,influenced by
+42,309,335,Raffaello Sanzio da Urbino,758,781,Michelagnolo Buonarroti,sponsor
+42,758,781,Michelagnolo Buonarroti,309,318,Raffaello,notable work
+43,12,25,Lorenzo Pucci,27,35,Cardinal,position held
+43,12,25,Lorenzo Pucci,27,52,Cardinal of Santi Quattro,position held
+43,267,283,Elena dall' Olio,187,194,Bologna,place of death
+44,760,765,David,770,791,Benedetto Ghirlandajo,sibling
+44,770,791,Benedetto Ghirlandajo,760,765,David,sibling
+44,1151,1156,David,865,873,Domenico,sibling
+44,1151,1172,Benedetto Ghirlandajo,1151,1156,David,sibling
+44,1151,1172,Benedetto Ghirlandajo,1187,1195,Domenico,sibling
+44,1187,1195,Domenico,760,765,David,sibling
+44,1331,1339,Domenico,770,791,Benedetto Ghirlandajo,sibling
+44,770,791,Benedetto Ghirlandajo,865,873,Domenico,sibling
+44,865,873,Domenico,770,791,Benedetto Ghirlandajo,sibling
+45,60,76,Lorenzo di Credi,96,115,Andrea del Ceraiolo,student
+45,776,795,Church of S. Felice,799,805,Piazza,located on street
+45,776,795,Church of S. Felice,846,855,Camaldoli,located in the administrative territorial entity
+46,0,19,Michele San Michele,37,43,Verona,place of birth
+46,0,19,Michele San Michele,56,60,1484,date of birth
+46,127,135,Giovanni,0,19,Michele San Michele,child
+46,127,135,Giovanni,37,43,Verona,place of birth
+47,238,261,Chapel of the Guareschi,265,278,S. Bernardino,located in the administrative territorial entity
+47,238,261,Chapel of the Guareschi,161,167,Verona,located in the administrative territorial entity
+47,238,278,Chapel of the Guareschi in S. Bernardino,161,167,Verona,located in the administrative territorial entity
+48,414,426,Gian Bellini,287,293,Venice,work location
+48,0,7,Tiziano,20,26,Cadore,place of birth
+48,923,930,Tiziano,130,134,1480,date of birth
+48,923,930,Tiziano,287,293,Venice,work location
+49,69,89,Fondaco de' Tedeschi,10,19,Giorgione,architect
+49,69,89,Fondaco de' Tedeschi,140,147,Tiziano,architect
+49,10,19,Giorgione,69,89,Fondaco de' Tedeschi,notable work
+50,0,21,Andrea del Verrocchio,25,35,Florentine,place of birth
+50,0,21,Andrea del Verrocchio,54,63,goldsmith,occupation
+50,0,21,Andrea del Verrocchio,92,100,sculptor,field of work
+51,686,705,Giuliano de' Medici,745,752,Lorenzo,sibling
+51,745,752,Lorenzo,686,705,Giuliano de' Medici,sibling
+51,846,853,Lorenzo,773,791,S. Maria del Fiore,place of death
+52,0,15,Francesco Maria,152,156,1529,date of birth
+52,234,240,Taddeo,87,91,Vado,place of birth
+52,0,15,Francesco Maria,87,91,Vado,place of birth
+53,892,909,Federigo Zucchero,926,932,Taddeo,sibling
+53,926,932,Taddeo,892,909,Federigo Zucchero,sibling
+53,232,241,Belvedere,390,403,Pirro Ligorio,architect
