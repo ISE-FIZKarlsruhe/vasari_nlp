@@ -25,7 +25,7 @@ id,start_pos,end_pos,surface,type,value,is_nested
 9,430,445,Cencio Guasconi,SUBJ,61B2(Cencio Guasconi),
 10,1756,1768,S. Augustine,SUBJ,11H(AUGUSTINE),
 10,1769,1796,disputing with the heretics,STATE,11L532,
-10,1814,1831,Christ and Saints,SUBJ,11D334,
+10,1803,1831,stories of Christ and Saints,SUBJ,11D334,
 10,1814,1820,Christ,SUBJ,11D,1
 10,1825,1831,Saints,SUBJ,11H,1
 13,258,266,Our Lady,SUBJ,11F,
