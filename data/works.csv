@@ -15,7 +15,7 @@ id,start_pos,end_pos,surface,type,value,is_nested
 5,810,815,David,WORK,NIL,
 5,1157,1177,Nativity of Our Lady,WORK,NIL,
 7,1941,1970,altar of S. Jacopo in Pistoia,WORK,Q3613122,
-9,56,199,"copy of the picture in which Raffaello da Urbino had formerly painted portraits of Pope Leo, Cardinal Giulio de' Medici, and Cardinal de' Rossi",WORK,NIL
+9,56,199,"copy of the picture in which Raffaello da Urbino had formerly painted portraits of Pope Leo, Cardinal Giulio de' Medici, and Cardinal de' Rossi",WORK,NIL,
 9,139,199,"Pope Leo, Cardinal Giulio de' Medici, and Cardinal de' Rossi",WORK,Q733662,
 9,418,445,portrait of Cencio Guasconi,WORK,NIL,
 10,1605,1644,high-altar of the Church of S. Agostino,WORK,NIL,
