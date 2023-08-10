@@ -10,7 +10,7 @@ id,start_pos,end_pos,surface,type,value,is_nested
 0,2056,2068,Duke Lorenzo,WORK,Q3937601,
 0,2389,2394,works,WORK,300387357,
 1,1725,1752,tomb of M. Raffaello Maffei,WORK,NIL,
-5,374,403,David who was holding Goliath,WORK, NIL
+5,374,403,David who was holding Goliath,WORK,NIL,
 5,601,606,David,WORK,Q735085,
 5,810,815,David,WORK,NIL,
 5,1157,1177,Nativity of Our Lady,WORK,NIL,
