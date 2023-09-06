@@ -6,10 +6,10 @@ def eval_ner(path_data, path_model):
     with open(path_model+"output.csv", "r") as f2:
         model_result = list(csv.DictReader(f2, delimiter=","))
     
-    tp = [] #true positive
-    fp = [] #false positive
-    fn = [] #false negative
-    matches = [] #matched annotations
+    tp = []
+    fp = []
+    fn = []
+    matches = []
     matched_sf=0
 
     for entity1 in data:
