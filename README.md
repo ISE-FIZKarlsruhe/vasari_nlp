@@ -32,7 +32,5 @@ Scripts for the evaluation are available in `scripts_eval`.
 |                 | Precision | Recall | F1 |
 | --------------- | --------- | ------ | ----- |
 | `flair/ner-english-large` | 0.847     | 0.811  | 0.829 |
-| --------------- | --------- | ------ | ----- |
 | `flair/ner-english-ontonotes-large` | **0.917**     | 0.692  | 0.789 |
-| --------------- | --------- | ------ | ----- |
 | `Babelscape/wikineural-multilingual-ner` | 0.855     | **0.836**  | **0.846** |
