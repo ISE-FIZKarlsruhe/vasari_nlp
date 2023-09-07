@@ -21,3 +21,18 @@ pip install --editable ./
 ```
 
 Moreover, for running the mGENRE model you need to download [fairseq_multilingual_entity_disambiguation](https://dl.fbaipublicfiles.com/GENRE/fairseq_multilingual_entity_disambiguation.tar.gz), [titles_lang_all105_trie_with_redirect.pkl](http://dl.fbaipublicfiles.com/GENRE/titles_lang_all105_trie_with_redirect.pkl) and [lang_title2wikidataID-normalized_with_redirect](https://dl.fbaipublicfiles.com/GENRE/lang_title2wikidataID-normalized_with_redirect.pkl)
+
+
+## Results 
+
+Scripts for the evaluation are available in `scripts_eval`. 
+
+### Named Entity Recognition
+
+|                 | Precision | Recall | F1 |
+| --------------- | --------- | ------ | ----- |
+| `flair/ner-english-large` | 0.847     | 0.811  | 0.829 |
+| --------------- | --------- | ------ | ----- |
+| `flair/ner-english-ontonotes-large` | **0.917**     | 0.692  | 0.789 |
+| --------------- | --------- | ------ | ----- |
+| `Babelscape/wikineural-multilingual-ner` | 0.855     | **0.836**  | **0.846** |
