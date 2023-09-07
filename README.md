@@ -1,16 +1,23 @@
 # Entity Extraction for the Historical Biographies of Giorgio Vasari
 
-This repository contains data and source code used for the Entity Extraction experiments of Entity Recognition and Entity Linking on Giorgio Vasari's *Lives of The Artists*.
+This repository contains data and source code used for the Entity Extraction experiments of Entity Recognition and Entity Disambiguation on Giorgio Vasari's *Lives of The Artists*.
 
+## Requirements
 
+This code has been tested with **Python 3.9** and the following [requirements](requirements.txt).
 
-# Acknowledgments
+The code to run different Entity Recognition models is available in the Jupyter notebooks in the `notebooks_ner` directory.
 
-We would like to thank [Dr. Lisa Dieckmann](https://nfdi4culture.de/about-us/people/fdcb9926-ef37-400a-8a64-064d7d48f198.html) for contributing to this project by providing comments and suggestions on artwork annotations.
+The Entity Linking scripts in `scripts_disambiguation` rely on the [mGENRE](https://github.com/facebookresearch/GENRE) model from facebook. To run these scripts, you should install both **fairseq** and the **GENRE** library from source.
 
+```
+git clone --branch fixing_prefix_allowed_tokens_fn https://github.com/nicola-decao/fairseq
+git clone https://github.com/facebookresearch/GENRE.git 
+cd fairseq
+pip install --editable ./
+cd ../
+cd GENRE
+pip install --editable ./
+```
 
-# References
-
-\[1\] Santini, Cristian, Tan, Mary Ann, Bruns, Oleksandra, Tietz, Tabea, Posthumus, Etienne, & Sack, Harald. (2023). Guidelines for the Annotation of ExtrART: Evaluation Dataset for Entity Extraction from The Lives Of The Artists (1550). Zenodo. [https://doi.org/10.5281/zenodo.7991340](https://doi.org/10.5281/zenodo.7991340)
-
-
+Moreover, for running the mGENRE model you need to download [fairseq_multilingual_entity_disambiguation](https://dl.fbaipublicfiles.com/GENRE/fairseq_multilingual_entity_disambiguation.tar.gz), [titles_lang_all105_trie_with_redirect.pkl](http://dl.fbaipublicfiles.com/GENRE/titles_lang_all105_trie_with_redirect.pkl) and [lang_title2wikidataID-normalized_with_redirect](https://dl.fbaipublicfiles.com/GENRE/lang_title2wikidataID-normalized_with_redirect.pkl)
