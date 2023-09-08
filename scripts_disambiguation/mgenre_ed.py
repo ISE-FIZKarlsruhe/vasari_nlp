@@ -3,7 +3,6 @@ import re
 import csv
 import json
 from tqdm import tqdm
-
 import pickle
 from genre.trie import Trie, MarisaTrie
 from genre.fairseq_model import mGENRE
@@ -43,8 +42,16 @@ for item in data:
     for ent in surface_forms:
         start_pos = ent[0]
         end_pos = ent[1]
+        if start_pos >= 500:
+            history_start = start_pos-500
+        else:
+            history_start = 0
+        if end_pos + 500 <= len(text):
+            future_end = end_pos+500
+        else:
+            future_end = len(text)
         label = ent[2]
-        context = text[0:start_pos]+" [START] "+ text[start_pos:end_pos]+ " [END]"+text[end_pos:]
+        mention = text[history_start:start_pos]+" [START] "+ text[start_pos:end_pos]+ " [END]"+text[end_pos:future_end]
         begin.append(start_pos)
         end.append(end_pos)
         labels.append(label)
@@ -57,7 +64,10 @@ for item in data:
             text_to_id=lambda x: max(lang_title2wikidataID[tuple(reversed(x.split(" >> ")))], key=lambda y: int(y[1:])),
             marginalize=True,
         )
-# Example output =    [[{"text":["Leonardo"], "score":8.924, "id": "q3"}]]
+# Example output =    [[{'id': 'Q937', 
+#    'texts': ['Albert Einstein >> it','Alberto Einstein >> it',    'Einstein >> it'],   
+#    'scores': tensor([-0.0808, -1.4619, -1.5765]), 'score': tensor(-0.0884)}]]
+    
     for result in results:
         candidate = result[0]
         name = candidate["texts"][0]
@@ -85,7 +95,7 @@ pbar.close()
 
 keys = output[0].keys()
 
-a_file = open("../results/mgenre_nel/output_nel.csv", "w")
+a_file = open("../results/mgenre_ed/output.csv", "w")
 dict_writer = csv.DictWriter(a_file, keys)
 dict_writer.writeheader()
 dict_writer.writerows(output)

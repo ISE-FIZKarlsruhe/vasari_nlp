@@ -8,14 +8,10 @@ This code has been tested with **Python 3.9** and the following [requirements](r
 
 The code to run different Entity Recognition models is available in the Jupyter notebooks in the `notebooks_ner` directory.
 
-The Entity Linking scripts in `scripts_disambiguation` rely on the [mGENRE](https://github.com/facebookresearch/GENRE) model from facebook. To run these scripts, you should install both **fairseq** and the **GENRE** library from source.
+The Entity Linking scripts in `scripts_disambiguation` rely on the [mGENRE](https://github.com/facebookresearch/GENRE) model from facebook. To run these scripts, you should install the **GENRE** library from source.
 
 ```
-git clone --branch fixing_prefix_allowed_tokens_fn https://github.com/nicola-decao/fairseq
 git clone https://github.com/facebookresearch/GENRE.git 
-cd fairseq
-pip install --editable ./
-cd ../
 cd GENRE
 pip install --editable ./
 ```
