@@ -1,5 +1,4 @@
-from langchain import HuggingFacePipeline
-from langchain import PromptTemplate,  LLMChain
+from langchain import HuggingFacePipeline, PromptTemplate,  LLMChain
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from nltk.tokenize import sent_tokenize
 import transformers
@@ -7,7 +6,10 @@ import torch
 import csv
 import ast
 import re
-import tqdm
+from tqdm import tqdm
+
+
+print(torch.cuda.memory_summary(device=None, abbreviated=False))
 
 model = "Universal-NER/UniNER-7B-all"
 
@@ -27,7 +29,7 @@ pipeline = transformers.pipeline(
 
 )
 
-llm = HuggingFacePipeline(pipeline = pipeline, model_kwargs = {'temperature':0})
+llm = HuggingFacePipeline(pipeline = pipeline, model_kwargs = {'temperature':0, 'batch_size': 4})
 
 template = """
               A virtual assistant answers questions from a user based on the provided text.
