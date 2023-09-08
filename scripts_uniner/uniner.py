@@ -3,33 +3,43 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from nltk.tokenize import sent_tokenize
 import transformers
 import torch
+from torch.nn import DataParallel
+from transformers import AutoTokenizer, AutoModelForCausalLM
+import transformers
 import csv
 import ast
 import re
 from tqdm import tqdm
 
+device_ids = [0, 1]
 
-print(torch.cuda.memory_summary(device=None, abbreviated=False))
 
 model = "Universal-NER/UniNER-7B-all"
 
 tokenizer = AutoTokenizer.from_pretrained(model)
+
+# Initialize the model on multiple GPUs
+model = AutoModelForCausalLM.from_pretrained(model)
+model = DataParallel(model, device_ids=device_ids)  # Parallelize the model
+model = model.to(device_ids[0])  # Move the model to the first GPU
+
+tokenizer = AutoTokenizer.from_pretrained(model)
 pipeline = transformers.pipeline(
-    "text-generation", #task
-    model=model,
+    "text-generation",  # task
+    model=model.module,  # Use model.module when using DataParallel
     tokenizer=tokenizer,
     trust_remote_code=True,
-    device_map="auto",
+    device_map=device_ids,
     torch_dtype=torch.bfloat16,
     max_length=1000,
     do_sample=True,
     top_k=10,
     num_return_sequences=1,
     eos_token_id=tokenizer.eos_token_id,
-
 )
 
-llm = HuggingFacePipeline(pipeline = pipeline, model_kwargs = {'temperature':0, 'batch_size': 4})
+
+llm = HuggingFacePipeline(pipeline = pipeline, model_kwargs = {'temperature':0, 'batch_size': 1})
 
 template = """
               A virtual assistant answers questions from a user based on the provided text.

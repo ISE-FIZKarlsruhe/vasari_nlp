@@ -145,6 +145,6 @@ def eval_nel(path_data, path_results):
     fn_file.close()
 
 
-#eval_nel(path_data="../data/", path_results="../results/mgenre_nel/")
+eval_nel(path_data="../data/", path_results="../results/mgenre_nel/")
 
 
