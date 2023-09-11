@@ -77,7 +77,7 @@ def eval_ner(path_data, path_model):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_ner(path_data="../data/", path_model="../results/uniner_works/")
+eval_ner(path_data="../data/", path_model="../results/wikineural_ufet_t5/")
 
 
 
