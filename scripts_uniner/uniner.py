@@ -101,7 +101,7 @@ for sample in data:
                             counter=span[0]
                             break
             except Exception as e:
-                print(e)
+                print(sentence, e)
                 continue
         curr_pos=curr_pos+len(sentence)+1
     if len(output)>0:
