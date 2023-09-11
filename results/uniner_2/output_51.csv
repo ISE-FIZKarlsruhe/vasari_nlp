@@ -1,0 +1,4 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+51,0,197,205,197,205,miracoli,Artwork
+51,4,1745,1753,433,441,Crucifix,Artwork
+51,7,2343,2350,77,84,Madonna,Artwork

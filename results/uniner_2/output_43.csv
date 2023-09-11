@@ -1,0 +1,5 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+43,0,152,183,152,183, panel for S. Giovanni in Monte,Artwork
+43,0,196,201,196,201,which,Artwork
+43,0,345,348,345,348,art,Artwork
+43,2,690,709,42,61,musical instruments,Artwork
