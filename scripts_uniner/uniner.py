@@ -78,31 +78,26 @@ for sample in data:
     curr_pos = 0
     for sentence_id, sentence in enumerate(sentences): # (sentence_id, sentence)
         for _type in entity_types: # set of entity types
-            # example result = "['Madonna', 'S. Cosimo', 'Annunciation']"
-            try: 
-                result_string = llm_chain.run({"input_text":sentence,"entity_type":_type})
-                result_lst = json.loads(result_string)
-                counter = 0
-                for ent in result_lst:
-                    matches = re.finditer(ent, sentence)
-                    spans = [(match.start(), match.end()) for match in matches]
-                    for span in spans:
-                        if span[0]>=counter:
-                            output.append({
-                                "doc_id":doc_id,
-                                "sent_id":sentence_id,
-                                "doc_start_pos":curr_pos+span[0],
-                                "doc_end_pos":curr_pos+span[1],
-                                "sent_start_pos":span[0],
-                                "sent_end_pos":span[1],
-                                "surface":sentence[span[0]:span[1]],
-                                "type":_type
-                            })
-                            counter=span[0]
-                            break
-            except Exception as e:
-                print(sentence, e)
-                continue
+            result_string = llm_chain.run({"input_text":sentence,"entity_type":_type})
+            result_lst = json.loads(result_string)
+            counter = 0
+            for ent in result_lst:
+                matches = re.finditer(ent, sentence)
+                spans = [(match.start(), match.end()) for match in matches]
+                for span in spans:
+                    if span[0]>=counter:
+                        output.append({
+                            "doc_id":doc_id,
+                            "sent_id":sentence_id,
+                            "doc_start_pos":curr_pos+span[0],
+                            "doc_end_pos":curr_pos+span[1],
+                            "sent_start_pos":span[0],
+                            "sent_end_pos":span[1],
+                            "surface":sentence[span[0]:span[1]],
+                            "type":_type
+                        })
+                        counter=span[0]
+                        break
         curr_pos=curr_pos+len(sentence)+1
     if len(output)>0:
         keys = output[0].keys()
