@@ -16,6 +16,7 @@ def eval_ner(path_data, path_model):
         fuzzy_start = entity1["start_pos"].split("|")
         fuzzy_end = entity1["end_pos"].split("|")
         fuzzy_surface = entity1["surface"].split("|")
+        matched = None
         for start, end, surface in zip(fuzzy_start, fuzzy_end, fuzzy_surface):
             start_pos1 = int(start)
             end_pos1 = int(end)
@@ -27,10 +28,10 @@ def eval_ner(path_data, path_model):
                 surface2 = set(entity2["surface"].split(" "))
                 if id2 == id1 and len(set(range(start_pos1, end_pos1)).intersection(set(range(start_pos2, end_pos2))))>0 \
                     and len(surface1.intersection(surface2))>0:
-                    matches.append(entity1)
+                    matched=True
                     tp.append(entity2)
-                    break
-            break
+        if matched==True:
+            matches.append(entity1)
             
     for entity1 in data:
         if entity1 not in matches:
@@ -76,7 +77,7 @@ def eval_ner(path_data, path_model):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_ner(path_data="../data/", path_model="../results/ontonotes_works/")
+eval_ner(path_data="../data/", path_model="../results/uniner/")
 
 
 
