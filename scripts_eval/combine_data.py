@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 combined_df = pd.DataFrame()
-folder_path = '../results/uniner_works/'  # Change this to your folder path
+folder_path = '../results/uniner_subj/'  # Change this to your folder path
 
 for filename in os.listdir(folder_path):
     if filename.endswith(".csv"):
