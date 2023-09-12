@@ -1,0 +1,86 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+0,0,474,491,474,491,Madonna di Loreto,Artwork
+0,1,582,589,89,96,statues,Artwork
+0,2,901,908,16,23,statues,Artwork
+0,6,2336,2341,30,35,Frate,Artwork
+0,6,2584,2590,278,284,figure,Artwork
+1,6,1761,1775,210,224,Il  Volterrano,Artwork
+10,6,1576,1589,114,127,panel-picture,Artwork
+10,6,1659,1675,197,213,ornamental frame,Artwork
+11,6,1619,1639,188,208,many works in fresco,Artwork
+11,6,1644,1663,213,232,many other pictures,Artwork
+14,1,457,468,76,87,altar-piece,Artwork
+14,2,717,728,11,22,altar-piece,Artwork
+14,6,1953,1992,8,47,high-altar of S. Jacopo degli Spagnuoli,Artwork
+14,6,2015,2026,70,81,altar-piece,Artwork
+14,6,2132,2150,187,205,two large pictures,Artwork
+15,1,387,401,194,208,altar-pictures,Artwork
+15,1,406,421,213,228,works in fresco,Artwork
+15,6,1895,1917,281,303,the Madonna in a swoon,Artwork
+15,7,2132,2141,117,126,portraits,Artwork
+16,2,1847,1867,107,127,Chapel of S. Onofrio,Artwork
+17,0,26,59,26,59,Chapel of the Scali in S. Trinita,Artwork
+28,2,1578,1589,347,358,altar-piece,Artwork
+28,3,1813,1821,117,125,pictures,Artwork
+28,4,2192,2217,299,324,Triumph of Paulus Emilius,Artwork
+29,1,628,641,37,50,round picture,Artwork
+29,4,1062,1069,4,11,drawing,Artwork
+3,6,1922,1929,299,306,statues,Artwork
+30,6,1621,1628,7,14,Trinità,Artwork
+31,2,552,557,110,115,panel,Artwork
+31,4,1247,1259,127,139,coat of arms,Artwork
+31,5,1340,1353,4,17,the best work,Artwork
+31,5,1435,1449,99,113,a little study,Artwork
+33,6,2170,2203,90,123,models of the Church of S. Andrea,Artwork
+33,6,2300,2307,220,227,temples,Artwork
+35,0,98,105,98,105,cartoon,Artwork
+36,0,122,131,122,131,sculpture,Artwork
+38,3,1105,1117,201,213,altar-pieces,Artwork
+38,3,1127,1131,223,227,head,Artwork
+39,4,998,1011,75,88,panel-picture,Artwork
+39,4,1085,1093,162,170,predella,Artwork
+39,6,1443,1457,62,76,panel-pictures,Artwork
+39,7,1610,1623,3,16,S. Apollinare,Artwork
+39,9,1951,1965,43,57,panel-pictures,Artwork
+39,11,2404,2409,90,95,panel,Artwork
+40,0,318,329,318,329,S. Giovanni,Artwork
+41,2,799,804,125,130,panel,Artwork
+43,5,1297,1314,14,31,S. Mary Magdalene,Artwork
+43,6,1602,1614,43,55,S. Augustine,Artwork
+43,6,1619,1642,60,83,S. John the Evangelist.,Artwork
+44,4,1363,1374,212,223,altar-piece,Artwork
+44,4,1396,1412,245,261,S. Maria Novella,Artwork
+44,4,1522,1530,371,379,predella,Artwork
+45,2,645,664,187,206,Michele di Ridolfo.,Artwork
+45,4,876,887,115,126,altar-piece,Artwork
+45,6,1272,1283,70,81,altar-piece,Artwork
+45,7,1436,1455,8,27,Chapel of the Segni,Artwork
+45,8,1753,1764,11,22,altar-piece,Artwork
+45,8,1770,1778,28,36,S. Rocco,Artwork
+47,3,1033,1053,17,37,the whole work curve,Artwork
+47,3,1112,1152,96,136,"in it, with their pediments and cornices",Artwork
+47,3,1167,1188,151,172,the space of the door,Artwork
+47,3,1349,1387,333,371,which is a very difficult thing to do.,Artwork
+47,4,1535,1543,147,155,carvings,Artwork
+47,4,1559,1566,171,178,columns,Artwork
+47,4,1568,1576,180,188,capitals,Artwork
+47,4,1578,1585,190,197,foliage,Artwork
+47,4,1587,1597,199,209,grotesques,Artwork
+47,4,1606,1615,218,227,pilasters,Artwork
+47,6,1893,1897,30,34,work,Artwork
+48,2,778,791,282,295,ancient works,Artwork
+48,6,2626,2634,130,138,pictures,Artwork
+49,6,1505,1524,254,273,S. John the Baptist,Artwork
+5,0,81,100,81,100,Chamber of Our Lady,Artwork
+50,4,994,999,99,104,copes,Artwork
+50,4,1092,1095,197,200,cup,Artwork
+50,6,1618,1626,75,83,Apostles,Artwork
+51,0,40,46,40,46,images,Artwork
+51,0,157,170,157,170,votive images,Artwork
+51,6,2045,2058,4,17,second figure,Artwork
+51,7,2570,2579,304,313,fountains,Artwork
+53,6,1587,1593,22,28,frieze,Artwork
+53,7,2007,2015,25,33,Federigo,Artwork
+53,9,2776,2786,73,83,escutcheon,Artwork
+7,7,1901,1909,119,127,prophets,Artwork
+9,2,563,583,79,99,tabernacle in fresco,Artwork

@@ -1,0 +1,4 @@
+einops==0.6.1
+accelerate==0.22.0
+langchain==0.0.284
+bitsandbytes==0.41.1

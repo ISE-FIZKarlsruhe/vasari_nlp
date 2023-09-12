@@ -1,0 +1,61 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+0,0,474,491,474,491,Madonna di Loreto,Artwork
+10,6,1576,1589,114,127,panel-picture,Artwork
+10,6,1689,1697,227,235,pictures,Artwork
+13,0,131,152,131,152,Chapel of the Tedaldi,Artwork
+14,1,457,468,76,87,altar-piece,Artwork
+14,4,1394,1405,67,78,altar-piece,Artwork
+14,6,1953,1992,8,47,high-altar of S. Jacopo degli Spagnuoli,Artwork
+14,6,2009,2026,64,81,large altar-piece,Artwork
+14,6,2132,2150,187,205,two large pictures,Artwork
+15,6,1895,1906,281,292,the Madonna,Artwork
+16,3,1963,1971,24,32,pictures,Artwork
+17,0,26,45,26,45,Chapel of the Scali,Artwork
+17,0,49,59,49,59,S. Trinita,Artwork
+20,3,1265,1286,103,124,chapel in S. Domenico,Artwork
+24,2,1245,1254,113,122,portraits,Artwork
+27,4,2381,2388,624,631,picture,Artwork
+28,2,1578,1589,347,358,altar-piece,Artwork
+29,1,626,641,35,50,a round picture,Artwork
+29,2,891,897,157,163,Girdle,Artwork
+3,6,1859,1867,236,244,prophets,Artwork
+30,6,1621,1628,7,14,Trinità,Artwork
+33,6,2300,2307,220,227,temples,Artwork
+35,0,367,371,367,371,tomb,Artwork
+37,0,178,195,178,195,the marble shrine,Artwork
+38,0,372,387,372,387,Venetian Palma.,Artwork
+38,3,1105,1117,201,213,altar-pieces,Artwork
+38,3,1127,1131,223,227,head,Artwork
+38,4,1192,1204,11,23,altar-pieces,Artwork
+39,1,391,404,186,199,panel-picture,Artwork
+39,6,1443,1457,62,76,panel-pictures,Artwork
+39,6,1459,1462,78,81,one,Artwork
+39,9,1951,1965,43,57,panel-pictures,Artwork
+39,11,2404,2409,90,95,panel,Artwork
+40,4,1295,1304,25,34,distemper,Artwork
+40,4,1323,1329,53,59,fresco,Artwork
+41,2,942,955,268,281,S. Laurentino,Artwork
+41,2,960,973,286,299,S. Pergentino,Artwork
+41,5,1607,1612,30,35,panel,Artwork
+41,5,1727,1731,150,154,work,Artwork
+44,4,1363,1374,212,223,altar-piece,Artwork
+44,4,1382,1392,231,241,high-altar,Artwork
+44,4,1522,1530,371,379,predella,Artwork
+45,4,876,887,115,126,altar-piece,Artwork
+45,6,1272,1283,70,81,altar-piece,Artwork
+45,8,1753,1764,11,22,altar-piece,Artwork
+46,3,1208,1219,71,82,S. Domenico,Artwork
+47,4,1535,1543,147,155,carvings,Artwork
+48,2,778,791,282,295,ancient works,Artwork
+48,6,2626,2634,130,138,pictures,Artwork
+50,4,1092,1095,197,200,cup,Artwork
+50,6,1597,1626,54,83,large figures of the Apostles,Artwork
+51,3,1085,1093,134,142,skeleton,Artwork
+51,4,1741,1753,429,441,the Crucifix,Artwork
+51,7,2270,2275,4,9,third,Artwork
+51,7,2570,2579,304,313,fountains,Artwork
+53,0,327,342,327,342,ancient statues,Artwork
+53,6,1585,1593,20,28,a frieze,Artwork
+7,7,1901,1909,119,127,prophets,Artwork
+8,6,1994,2033,177,216,painting the chapel in S. Maria Novella,Artwork
+9,2,563,573,79,89,tabernacle,Artwork

@@ -104,7 +104,7 @@ for sample in data:
     pbar.update(1)
     if len(output)>0:
         keys = output[0].keys()
-        a_file = open("../results/uniner_subj/output_"+doc_id+".csv", "w", encoding="utf-8")
+        a_file = open("../results/uniner_works/5/output_"+doc_id+".csv", "w", encoding="utf-8")
         dict_writer = csv.DictWriter(a_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(output)

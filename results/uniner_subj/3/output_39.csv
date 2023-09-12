@@ -1,0 +1,23 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+39,1,472,481,267,276,Communion,Subject
+39,1,489,497,284,292,Apostles,Subject
+39,2,612,623,47,58,Dead Christ,Subject
+39,2,737,746,172,181,S. Helena,Subject
+39,2,762,785,197,220,the Emperor Constantine,Subject
+39,2,805,814,240,249,the Cross,Subject
+39,3,851,863,35,47,S. Sebastian,Subject
+39,5,1328,1352,173,197,Baptism of Jesus Christ;,Subject
+39,6,1521,1580,140,199,"three martyrs, S. Cantius, S. Cantianus, and S. Cantianilla",Subject
+39,7,1706,1725,99,118,S. John the Baptist,Subject
+39,7,1731,1744,124,137,S. Sebastian.,Subject
+39,8,1835,1846,90,101,the Madonna,Subject
+39,8,1866,1892,121,147,Virgin Martyr S. Catharine,Subject
+39,8,1897,1906,152,161,S. Jerome,Subject
+39,9,1912,1924,4,16,S. Francesco,Subject
+39,9,1974,1986,66,78,S. Catharine,Subject
+39,9,1991,2001,83,93,S. Francis,Subject
+39,9,2020,2028,112,120,Our Lady,Subject
+39,9,2034,2054,126,146,S. James the Apostle,Subject
+39,10,2178,2185,92,99,Madonna,Subject
+39,11,2415,2426,101,112,S. Laurence,Subject
+39,11,2431,2441,117,127,S. Francis,Subject

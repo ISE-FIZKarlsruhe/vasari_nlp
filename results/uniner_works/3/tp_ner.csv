@@ -1,0 +1,75 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+0,2,980,989,95,104,S. Cosimo,Artwork
+0,2,996,1006,111,121,S. Damiano,Artwork
+0,2,1049,1056,164,171,Madonna,Artwork
+1,6,1725,1775,174,224,"tomb of M. Raffaello Maffei, called Il  Volterrano",Artwork
+5,1,374,379,85,90,David,Artwork
+5,1,396,403,107,114,Goliath,Artwork
+5,3,1157,1177,237,257,Nativity of Our Lady,Artwork
+10,6,1756,1796,294,334,S. Augustine disputing with the heretics,Artwork
+14,2,838,849,132,143,Dead Christ,Artwork
+14,2,851,859,145,153,Our Lady,Artwork
+14,2,861,868,155,162,S. John,Artwork
+14,2,870,883,164,177,the Magdalene,Artwork
+14,3,1119,1143,186,210,Nativity of Jesus Christ,Artwork
+14,3,1149,1170,216,237,Adoration of the Magi,Artwork
+14,3,1176,1193,243,260,Flight into Egypt,Artwork
+14,3,1203,1228,270,295,Massacre of the Innocents,Artwork
+14,4,1465,1489,138,162,Nativity of Jesus Christ,Artwork
+14,4,1616,1660,289,333,Descent of the Holy Spirit upon the Apostles,Artwork
+14,5,1927,1943,234,250,Life of Our Lady,Artwork
+15,5,1429,1440,17,28,Dead Christ,Artwork
+15,6,1799,1822,185,208,altar-picture of Christ,Artwork
+16,2,1895,1905,155,165,S. Antonio,Artwork
+17,0,131,138,131,138,S. Paul,Artwork
+17,0,189,210,189,210,tomb of Maestro Paolo,Artwork
+19,2,755,773,84,102,Nativity of Christ,Artwork
+19,2,835,847,164,176,Annunciation,Artwork
+27,4,2045,2053,288,296,Crucifix,Artwork
+29,1,716,732,125,141,Christ Crucified,Artwork
+29,2,799,809,65,75,Assumption,Artwork
+30,4,1219,1253,172,206,Apostles receiving the Holy Spirit,Artwork
+30,4,1296,1408,249,361,"Christ—in one His taking Peter and Andrew from their nets, and in the other the Feast of Simon and the Magdalene",Artwork
+30,4,1296,1408,249,361,"Christ—in one His taking Peter and Andrew from their nets, and in the other the Feast of Simon and the Magdalene",Artwork
+30,4,1296,1408,249,361,"Christ—in one His taking Peter and Andrew from their nets, and in the other the Feast of Simon and the Magdalene",Artwork
+30,5,1547,1558,63,74,Dead Christ,Artwork
+31,2,639,651,197,209,Annunciation,Artwork
+31,2,659,683,217,241,God the Father in Heaven,Artwork
+35,0,43,48,43,48,Pietà,Artwork
+36,2,697,706,39,48,S. Philip,Artwork
+39,1,472,481,267,276,Communion,Artwork
+39,2,612,623,47,58,Dead Christ,Artwork
+39,3,851,863,35,47,S. Sebastian,Artwork
+39,4,931,958,8,35,altar of S. Maria Maddalena,Artwork
+39,5,1324,1352,169,197,the Baptism of Jesus Christ;,Artwork
+39,8,1839,1846,94,101,Madonna,Artwork
+39,8,1866,1892,121,147,Virgin Martyr S. Catharine,Artwork
+39,8,1897,1906,152,161,S. Jerome,Artwork
+39,9,1974,1986,66,78,S. Catharine,Artwork
+39,10,2178,2185,92,99,Madonna,Artwork
+39,11,2396,2442,82,128,another panel with S. Laurence and S. Francis.,Artwork
+41,0,94,101,94,101,Madonna,Artwork
+41,2,822,856,148,182,Madonna with the Child in her arms,Artwork
+41,2,868,901,194,227,angels who are opening her mantle,Artwork
+41,6,1862,1874,108,120,Annunciation,Artwork
+41,7,2128,2145,84,101,S. Mary Magdalene,Artwork
+41,7,2312,2320,268,276,Crucifix,Artwork
+43,0,153,183,153,183,panel for S. Giovanni in Monte,Artwork
+44,4,1611,1621,460,470,S. Stephen,Artwork
+44,4,1737,1748,586,597,S. Antonino,Artwork
+44,4,1778,1800,627,649,S. Catharine of Siena.,Artwork
+44,5,1821,1846,20,45,altar-picture of S. Lucia,Artwork
+45,4,888,894,127,133,Christ,Artwork
+45,4,899,907,138,146,Our Lady,Artwork
+45,5,1160,1182,152,174,Assumption of Our Lady,Artwork
+45,6,1402,1427,200,225,Our Lady and some Saints.,Artwork
+45,7,1627,1663,199,235,the Beheading of S. John the Baptist,Artwork
+45,7,1706,1740,278,312,an altar-piece of the Annunciation,Artwork
+45,9,2101,2108,55,62,S. Anne,Artwork
+49,4,981,990,161,170,Ecce Homo,Artwork
+49,6,1386,1411,135,160,Angel Raphael with Tobias,Artwork
+51,7,2343,2350,77,84,Madonna,Artwork
+53,3,1223,1238,180,195,Transfiguration,Artwork
+53,3,1244,1271,201,228,Marriage of Cana in Galilee,Artwork
+53,7,2028,2065,46,83,Angel slaying the first-born in Egypt,Artwork
+53,9,2804,2879,101,176,"two figures larger than life, Justice and Equity, which were much extolled;",Artwork

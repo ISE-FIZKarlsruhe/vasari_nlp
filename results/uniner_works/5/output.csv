@@ -1,0 +1,137 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+0,0,474,491,474,491,Madonna di Loreto,Artwork
+0,2,980,989,95,104,S. Cosimo,Artwork
+0,2,996,1006,111,121,S. Damiano,Artwork
+0,2,1049,1056,164,171,Madonna,Artwork
+1,6,1725,1775,174,224,"tomb of M. Raffaello Maffei, called Il  Volterrano",Artwork
+10,6,1576,1589,114,127,panel-picture,Artwork
+10,6,1689,1697,227,235,pictures,Artwork
+13,0,81,86,81,86,panel,Artwork
+13,0,131,152,131,152,Chapel of the Tedaldi,Artwork
+14,1,457,468,76,87,altar-piece,Artwork
+14,2,838,849,132,143,Dead Christ,Artwork
+14,3,1119,1143,186,210,Nativity of Jesus Christ,Artwork
+14,3,1149,1170,216,237,Adoration of the Magi,Artwork
+14,3,1176,1193,243,260,Flight into Egypt,Artwork
+14,3,1203,1228,270,295,Massacre of the Innocents,Artwork
+14,4,1394,1405,67,78,altar-piece,Artwork
+14,4,1465,1489,138,162,Nativity of Jesus Christ,Artwork
+14,4,1616,1660,289,333,Descent of the Holy Spirit upon the Apostles,Artwork
+14,6,1953,1992,8,47,high-altar of S. Jacopo degli Spagnuoli,Artwork
+14,6,2009,2026,64,81,large altar-piece,Artwork
+14,6,2132,2150,187,205,two large pictures,Artwork
+15,5,1429,1458,17,46,Dead Christ in an altar-piece,Artwork
+15,6,1799,1822,185,208,altar-picture of Christ,Artwork
+15,6,1895,1906,281,292,the Madonna,Artwork
+16,1,1688,1710,555,577,Assumption of Our Lady,Artwork
+16,2,1892,1905,152,165,of S. Antonio,Artwork
+16,3,1963,1971,24,32,pictures,Artwork
+16,3,2311,2331,372,392,head of Appius Cæcus,Artwork
+17,0,26,45,26,45,Chapel of the Scali,Artwork
+17,0,49,59,49,59,S. Trinita,Artwork
+17,0,109,138,109,138,one of the stories of S. Paul,Artwork
+19,2,755,773,84,102,Nativity of Christ,Artwork
+19,2,835,847,164,176,Annunciation,Artwork
+19,2,941,951,270,280,S. Filippo,Artwork
+20,3,1265,1286,103,124,chapel in S. Domenico,Artwork
+24,2,1245,1254,113,122,portraits,Artwork
+27,4,2045,2053,288,296,Crucifix,Artwork
+27,4,2381,2388,624,631,picture,Artwork
+28,2,1578,1589,347,358,altar-piece,Artwork
+29,1,626,641,35,50,a round picture,Artwork
+29,1,664,675,73,84,the Trinity,Artwork
+29,1,688,733,97,142,God the Father supporting a Christ Crucified.,Artwork
+29,2,799,809,65,75,Assumption,Artwork
+29,2,891,897,157,163,Girdle,Artwork
+3,6,1859,1867,236,244,prophets,Artwork
+30,4,1219,1253,172,206,Apostles receiving the Holy Spirit,Artwork
+30,5,1547,1558,63,74,Dead Christ,Artwork
+30,6,1621,1628,7,14,Trinità,Artwork
+31,2,639,651,197,209,Annunciation,Artwork
+31,2,659,673,217,231,God the Father,Artwork
+33,6,2300,2307,220,227,temples,Artwork
+35,0,43,48,43,48,Pietà,Artwork
+35,0,71,76,71,76,Giant,Artwork
+35,0,367,371,367,371,tomb,Artwork
+36,2,697,706,39,48,S. Philip,Artwork
+37,0,24,33,24,33,the S. Lo,Artwork
+37,0,178,195,178,195,the marble shrine,Artwork
+38,0,372,387,372,387,Venetian Palma.,Artwork
+38,3,1105,1117,201,213,altar-pieces,Artwork
+38,3,1127,1131,223,227,head,Artwork
+38,4,1192,1204,11,23,altar-pieces,Artwork
+38,5,1423,1431,69,77,the Magi,Artwork
+39,1,391,404,186,199,panel-picture,Artwork
+39,1,472,481,267,276,Communion,Artwork
+39,2,612,623,47,58,Dead Christ,Artwork
+39,3,851,863,35,47,S. Sebastian,Artwork
+39,5,1328,1352,173,197,Baptism of Jesus Christ;,Artwork
+39,6,1443,1457,62,76,panel-pictures,Artwork
+39,6,1459,1462,78,81,one,Artwork
+39,7,1706,1725,99,118,S. John the Baptist,Artwork
+39,7,1731,1744,124,137,S. Sebastian.,Artwork
+39,8,1839,1846,94,101,Madonna,Artwork
+39,8,1866,1892,121,147,Virgin Martyr S. Catharine,Artwork
+39,8,1897,1906,152,161,S. Jerome,Artwork
+39,9,1951,1965,43,57,panel-pictures,Artwork
+39,9,1974,1986,66,78,S. Catharine,Artwork
+39,9,1991,2001,83,93,S. Francis,Artwork
+39,9,2020,2085,112,177,"Our Lady with S. James the Apostle, S. Francis, and many figures.",Artwork
+39,10,2178,2185,92,99,Madonna,Artwork
+39,11,2404,2409,90,95,panel,Artwork
+40,4,1295,1304,25,34,distemper,Artwork
+40,4,1323,1329,53,59,fresco,Artwork
+41,2,822,856,148,182,Madonna with the Child in her arms,Artwork
+41,2,942,955,268,281,S. Laurentino,Artwork
+41,2,960,973,286,299,S. Pergentino,Artwork
+41,5,1607,1612,30,35,panel,Artwork
+41,5,1727,1731,150,154,work,Artwork
+41,6,1862,1874,108,120,Annunciation,Artwork
+41,6,2011,2043,257,289,"S. Catherine, virgin and martyr.",Artwork
+41,7,2128,2145,84,101,S. Mary Magdalene,Artwork
+41,7,2312,2338,268,294,Crucifix with four figures,Artwork
+44,4,1363,1374,212,223,altar-piece,Artwork
+44,4,1382,1392,231,241,high-altar,Artwork
+44,4,1522,1530,371,379,predella,Artwork
+44,4,1611,1621,460,470,S. Stephen,Artwork
+44,4,1737,1748,586,597,S. Antonino,Artwork
+44,4,1778,1799,627,648,S. Catharine of Siena,Artwork
+44,5,1821,1846,20,45,altar-picture of S. Lucia,Artwork
+45,4,876,887,115,126,altar-piece,Artwork
+45,4,888,907,127,146,Christ and Our Lady,Artwork
+45,5,1160,1201,152,193,"Assumption of Our Lady, with some Saints.",Artwork
+45,6,1272,1283,70,81,altar-piece,Artwork
+45,6,1402,1410,200,208,Our Lady,Artwork
+45,7,1544,1552,116,124,Our Lady,Artwork
+45,7,1554,1561,126,133,S. Anne,Artwork
+45,7,1631,1663,203,235,Beheading of S. John the Baptist,Artwork
+45,7,1728,1740,300,312,Annunciation,Artwork
+45,8,1753,1764,11,22,altar-piece,Artwork
+45,9,2101,2108,55,62,S. Anne,Artwork
+46,3,1208,1219,71,82,S. Domenico,Artwork
+47,4,1535,1543,147,155,carvings,Artwork
+48,2,778,791,282,295,ancient works,Artwork
+48,6,2626,2634,130,138,pictures,Artwork
+49,4,981,990,161,170,Ecce Homo,Artwork
+49,6,1386,1411,135,160,Angel Raphael with Tobias,Artwork
+5,1,374,379,85,90,David,Artwork
+5,1,396,403,107,114,Goliath,Artwork
+5,3,1157,1177,237,257,Nativity of Our Lady,Artwork
+50,4,1092,1095,197,200,cup,Artwork
+50,5,1403,1423,109,129,two scenes in silver,Artwork
+50,6,1597,1626,54,83,large figures of the Apostles,Artwork
+51,3,1085,1093,134,142,skeleton,Artwork
+51,4,1741,1753,429,441,the Crucifix,Artwork
+51,7,2270,2275,4,9,third,Artwork
+51,7,2343,2350,77,84,Madonna,Artwork
+51,7,2570,2579,304,313,fountains,Artwork
+53,0,327,342,327,342,ancient statues,Artwork
+53,3,1223,1238,180,195,Transfiguration,Artwork
+53,3,1244,1271,201,228,Marriage of Cana in Galilee,Artwork
+53,6,1585,1593,20,28,a frieze,Artwork
+53,6,1686,1714,121,149,stories of Moses and Pharaoh,Artwork
+53,9,2804,2852,101,149,"two figures larger than life, Justice and Equity",Artwork
+7,7,1901,1909,119,127,prophets,Artwork
+8,6,1994,2033,177,216,painting the chapel in S. Maria Novella,Artwork
+9,0,68,75,68,75,picture,Artwork
+9,2,563,573,79,89,tabernacle,Artwork

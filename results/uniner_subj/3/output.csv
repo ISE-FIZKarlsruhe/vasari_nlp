@@ -1,0 +1,280 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+0,2,980,989,95,104,S. Cosimo,Art Subject
+0,2,996,1006,111,121,S. Damiano,Art Subject
+0,2,1049,1056,164,171,Madonna,Art Subject
+10,6,1756,1796,294,334,S. Augustine disputing with the heretics,Art Subject
+10,6,1814,1820,352,358,Christ,Art Subject
+10,6,1825,1831,363,369,Saints,Art Subject
+13,0,258,266,258,266,Our Lady,Art Subject
+13,0,421,432,421,432,Holy Spirit,Art Subject
+13,4,1178,1186,7,15,predella,Art Subject
+13,4,1203,1216,32,45,little scenes,Art Subject
+14,1,636,644,255,263,S. Peter,Art Subject
+14,1,646,656,265,275,S. Stephen,Art Subject
+14,1,662,681,281,300,S. John the Baptist,Art Subject
+14,2,838,849,132,143,Dead Christ,Art Subject
+14,3,1119,1143,186,210,Nativity of Jesus Christ,Art Subject
+14,3,1149,1170,216,237,Adoration of the Magi,Art Subject
+14,3,1176,1193,243,260,Flight into Egypt,Art Subject
+14,3,1203,1228,270,295,Massacre of the Innocents,Art Subject
+14,4,1465,1489,138,162,Nativity of Jesus Christ,Art Subject
+14,4,1616,1660,289,333,Descent of the Holy Spirit upon the Apostles,Art Subject
+14,5,1927,1943,234,250,Life of Our Lady,Art Subject
+14,6,2044,2063,99,118,Christ on the Cross,Art Subject
+14,6,2074,2080,129,135,Angels,Art Subject
+14,6,2092,2100,147,155,Our Lady,Art Subject
+14,6,2106,2113,161,168,S. John,Art Subject
+14,6,2233,2253,288,308,S. James the Apostle,Art Subject
+14,6,2258,2279,313,334,S. Alfonso the Bishop,Art Subject
+15,2,472,481,7,16,portraits,Art Subject
+15,5,1429,1440,17,28,Dead Christ,Art Subject
+15,6,1816,1822,202,208,Christ,Art Subject
+15,6,1843,1848,229,234,Cross,Art Subject
+15,6,1859,1866,245,252,Thieves,Art Subject
+15,6,1899,1906,285,292,Madonna,Art Subject
+15,7,2062,2069,47,54,figures,Art Subject
+15,7,2132,2141,117,126,portraits,Art Subject
+16,1,1688,1710,555,577,Assumption of Our Lady,Art Subject
+16,3,1963,1971,24,32,pictures,Art Subject
+16,3,2311,2331,372,392,head of Appius Cæcus,Art Subject
+18,0,244,252,244,252,painting,Art Subject
+18,0,277,292,277,292,draughtsmanship,Art Subject
+18,0,294,303,294,303,colouring,Art Subject
+18,0,309,318,309,318,invention,Art Subject
+19,2,755,773,84,102,Nativity of Christ,Art Subject
+19,2,835,847,164,176,Annunciation,Art Subject
+20,4,1642,1655,301,314,Old Testament,Art Subject
+29,1,668,675,77,84,Trinity,Art Subject
+29,1,688,733,97,142,God the Father supporting a Christ Crucified.,Art Subject
+29,2,799,809,65,75,Assumption,Art Subject
+3,6,1859,1867,236,244,prophets,Art Subject
+30,4,1219,1227,172,180,Apostles,Art Subject
+30,4,1385,1390,338,343,Simon,Art Subject
+30,4,1399,1408,352,361,Magdalene,Art Subject
+30,5,1547,1558,63,74,Dead Christ,Art Subject
+31,2,639,651,197,209,Annunciation,Art Subject
+31,2,659,683,217,241,God the Father in Heaven,Art Subject
+31,2,703,709,261,267,angels,Art Subject
+32,3,1462,1474,602,614,architecture,Art Subject
+32,3,1479,1490,619,630,perspective,Art Subject
+32,3,1499,1507,639,647,painting,Art Subject
+34,0,1062,1068,1062,1068,design,Art Subject
+34,0,1220,1229,1220,1229,sculpture,Art Subject
+34,0,1242,1254,1242,1254,architecture,Art Subject
+34,2,1821,1829,83,91,painting,Art Subject
+34,2,1834,1843,96,105,sculpture,Art Subject
+34,2,1852,1864,114,126,architecture,Art Subject
+35,0,43,48,43,48,Pietà,Art Subject
+36,0,122,131,122,131,sculpture,Art Subject
+39,1,472,481,267,276,Communion,Art Subject
+39,2,612,623,47,58,Dead Christ,Art Subject
+39,2,805,814,240,249,the Cross,Art Subject
+39,3,851,863,35,47,S. Sebastian,Art Subject
+39,5,1328,1352,173,197,Baptism of Jesus Christ;,Art Subject
+39,6,1473,1478,92,97,Saint,Art Subject
+39,6,1536,1546,155,165,S. Cantius,Art Subject
+39,6,1548,1560,167,179,S. Cantianus,Art Subject
+39,6,1566,1580,185,199,S. Cantianilla,Art Subject
+39,7,1706,1725,99,118,S. John the Baptist,Art Subject
+39,7,1731,1743,124,136,S. Sebastian,Art Subject
+39,9,1974,1986,66,78,S. Catharine,Art Subject
+39,9,2020,2028,112,120,Our Lady,Art Subject
+39,9,2034,2054,126,146,S. James the Apostle,Art Subject
+41,2,822,844,148,170,Madonna with the Child,Art Subject
+41,2,942,955,268,281,S. Laurentino,Art Subject
+41,2,960,973,286,299,S. Pergentino,Art Subject
+41,5,1632,1641,55,64,martyrdom,Art Subject
+41,6,1862,1874,108,120,Annunciation,Art Subject
+41,6,2011,2023,257,269,S. Catherine,Art Subject
+41,7,2128,2145,84,101,S. Mary Magdalene,Art Subject
+41,7,2312,2320,268,276,Crucifix,Art Subject
+41,8,2429,2440,38,49,S. Nicholas,Art Subject
+44,4,1611,1621,460,470,S. Stephen,Art Subject
+44,4,1737,1748,586,597,S. Antonino,Art Subject
+44,4,1778,1799,627,648,S. Catharine of Siena,Art Subject
+44,5,1821,1834,20,33,altar-picture,Art Subject
+44,5,1942,1951,141,150,paintings,Art Subject
+44,5,1956,1964,155,163,pictures,Art Subject
+45,5,1160,1182,152,174,Assumption of Our Lady,Art Subject
+45,6,1402,1410,200,208,Our Lady,Art Subject
+45,6,1420,1426,218,224,Saints,Art Subject
+45,7,1631,1663,203,235,Beheading of S. John the Baptist,Art Subject
+45,7,1728,1740,300,312,Annunciation,Art Subject
+45,8,1753,1764,11,22,altar-piece,Art Subject
+45,8,1770,1778,28,36,S. Rocco,Art Subject
+45,8,1812,1824,70,82,S. Sebastian,Art Subject
+45,8,1843,1851,101,109,Our Lady,Art Subject
+45,8,1996,2004,254,262,S. James,Art Subject
+45,8,2023,2044,281,302,S. Martino alla Palma,Art Subject
+45,9,2101,2108,55,62,S. Anne,Art Subject
+48,2,663,671,167,175,painting,Art Subject
+48,5,2095,2099,57,61,nude,Art Subject
+49,2,457,467,97,107,landscapes,Art Subject
+49,2,667,674,307,314,verdure,Art Subject
+49,5,1124,1132,37,45,Our Lady,Art Subject
+5,1,374,379,85,90,David,Art Subject
+5,1,396,403,107,114,Goliath,Art Subject
+5,3,1157,1177,237,257,Nativity of Our Lady,Art Subject
+5,4,1329,1334,150,155,works,Art Subject
+51,7,2343,2350,77,84,Madonna,Art Subject
+53,2,998,1008,343,353,grotesques,Art Subject
+53,3,1223,1238,180,195,Transfiguration,Art Subject
+53,3,1244,1271,201,228,Marriage of Cana in Galilee,Art Subject
+53,6,1686,1714,121,149,stories of Moses and Pharaoh,Art Subject
+53,9,2944,2953,241,250,Caprarola,Art Subject
+7,5,1423,1426,63,66,art,Art Subject
+7,7,1807,1813,25,31,niello,Art Subject
+8,0,0,28,0,28,Before the siege of Florence,Art Subject
+0,0,221,245,221,245,the Life of Michelagnolo,Subject
+10,6,1756,1796,294,334,S. Augustine disputing with the heretics,Subject
+10,6,1814,1820,352,358,Christ,Subject
+10,6,1825,1831,363,369,Saints,Subject
+13,0,258,266,258,266,Our Lady,Subject
+13,0,421,432,421,432,Holy Spirit,Subject
+13,4,1273,1284,102,113,S. Margaret,Subject
+14,2,838,849,132,143,Dead Christ,Subject
+14,2,851,859,145,153,Our Lady,Subject
+14,2,861,868,155,162,S. John,Subject
+14,2,870,883,164,177,the Magdalene,Subject
+14,4,1465,1489,138,162,Nativity of Jesus Christ,Subject
+14,4,1616,1660,289,333,Descent of the Holy Spirit upon the Apostles,Subject
+14,5,1927,1943,234,250,Life of Our Lady,Subject
+14,6,2044,2063,99,118,Christ on the Cross,Subject
+14,6,2074,2090,129,145,Angels about Him,Subject
+14,6,2092,2100,147,155,Our Lady,Subject
+14,6,2106,2113,161,168,S. John,Subject
+14,6,2233,2253,288,308,S. James the Apostle,Subject
+14,6,2258,2279,313,334,S. Alfonso the Bishop,Subject
+15,5,1429,1440,17,28,Dead Christ,Subject
+15,6,1816,1822,202,208,Christ,Subject
+15,6,1843,1848,229,234,Cross,Subject
+15,6,1859,1866,245,252,Thieves,Subject
+15,6,1899,1906,285,292,Madonna,Subject
+15,7,2168,2171,153,156,men,Subject
+15,7,2176,2181,161,166,women,Subject
+16,1,1688,1710,555,577,Assumption of Our Lady,Subject
+16,3,1963,1971,24,32,pictures,Subject
+16,3,2360,2366,421,427,marble,Subject
+16,3,2403,2410,464,471,epitaph,Subject
+18,0,244,252,244,252,painting,Art Subject
+18,0,277,292,277,292,draughtsmanship,Art Subject
+18,0,294,303,294,303,colouring,Art Subject
+18,0,309,318,309,318,invention,Art Subject
+19,2,755,773,84,102,Nativity of Christ,Subject
+19,2,835,847,164,176,Annunciation,Subject
+19,2,941,951,270,280,S. Filippo,Subject
+2,1,527,540,297,310,Customs-house,Subject
+20,4,1642,1655,301,314,Old Testament,Subject
+20,6,1925,1929,88,92,life,Subject
+20,6,2000,2009,163,172,that life,Subject
+22,3,1142,1146,177,181,Life,Subject
+26,5,1893,1898,114,119,sheep,Subject
+29,0,243,249,243,249,Joseph,Subject
+29,0,535,542,535,542,Pharaoh,Subject
+29,1,668,675,77,84,Trinity,Subject
+29,2,869,876,135,142,Madonna,Subject
+29,2,891,897,157,163,Girdle,Subject
+3,6,1859,1867,236,244,prophets,Subject
+30,4,1219,1227,172,180,Apostles,Subject
+30,4,1376,1408,329,361,Feast of Simon and the Magdalene,Subject
+30,5,1547,1558,63,74,Dead Christ,Subject
+30,6,1693,1717,79,103,Coronation of Our  Lady.,Subject
+31,2,639,651,197,209,Annunciation,Subject
+31,2,659,673,217,231,God the Father,Subject
+32,3,1462,1474,602,614,architecture,Subject
+32,3,1479,1490,619,630,perspective,Subject
+32,3,1499,1507,639,647,painting,Subject
+32,6,2423,2432,147,156,geography,Subject
+32,6,2441,2467,165,191,proportions of antiquities,Subject
+32,6,2481,2488,205,212,writing,Subject
+33,0,185,190,185,190,model,Subject
+34,0,1062,1068,1062,1068,design,Art Subject
+34,0,1220,1229,1220,1229,sculpture,Art Subject
+34,0,1242,1254,1242,1254,architecture,Art Subject
+34,2,1821,1829,83,91,painting,Art Subject
+34,2,1834,1843,96,105,sculpture,Art Subject
+34,2,1852,1864,114,126,architecture,Art Subject
+35,0,43,48,43,48,Pietà,Art Subject
+36,0,122,131,122,131,sculpture,Art Subject
+38,5,1423,1431,69,77,the Magi,Subject
+38,5,1462,1468,108,114,Christ,Subject
+39,1,472,481,267,276,Communion,Subject
+39,1,489,497,284,292,Apostles,Subject
+39,2,612,623,47,58,Dead Christ,Subject
+39,2,737,746,172,181,S. Helena,Subject
+39,2,762,785,197,220,the Emperor Constantine,Subject
+39,2,805,814,240,249,the Cross,Subject
+39,3,851,863,35,47,S. Sebastian,Subject
+39,5,1328,1352,173,197,Baptism of Jesus Christ;,Subject
+39,6,1521,1580,140,199,"three martyrs, S. Cantius, S. Cantianus, and S. Cantianilla",Subject
+39,7,1706,1725,99,118,S. John the Baptist,Subject
+39,7,1731,1744,124,137,S. Sebastian.,Subject
+39,8,1835,1846,90,101,the Madonna,Subject
+39,8,1866,1892,121,147,Virgin Martyr S. Catharine,Subject
+39,8,1897,1906,152,161,S. Jerome,Subject
+39,9,1912,1924,4,16,S. Francesco,Subject
+39,9,1974,1986,66,78,S. Catharine,Subject
+39,9,1991,2001,83,93,S. Francis,Subject
+39,9,2020,2028,112,120,Our Lady,Subject
+39,9,2034,2054,126,146,S. James the Apostle,Subject
+39,10,2178,2185,92,99,Madonna,Subject
+39,11,2415,2426,101,112,S. Laurence,Subject
+39,11,2431,2441,117,127,S. Francis,Subject
+41,1,567,574,20,27,Madonna,Subject
+41,1,578,588,31,41,S. Gregory,Subject
+41,1,616,626,69,79,S. Donatus,Subject
+41,5,1632,1661,55,84,martyrdom of those two Saints,Subject
+41,6,1862,1874,108,120,Annunciation,Subject
+41,6,2011,2023,257,269,S. Catherine,Subject
+41,7,2312,2320,268,276,Crucifix,Subject
+43,5,1297,1314,14,31,S. Mary Magdalene,Subject
+44,4,1611,1621,460,470,S. Stephen,Subject
+44,4,1737,1748,586,597,S. Antonino,Subject
+44,4,1778,1799,627,648,S. Catharine of Siena,Subject
+45,4,888,894,127,133,Christ,Subject
+45,4,899,907,138,146,Our Lady,Subject
+45,4,939,953,178,192,God the Father,Subject
+45,4,987,993,226,232,Saints,Subject
+45,5,1109,1120,101,112,Dead Christ,Subject
+45,6,1402,1410,200,208,Our Lady,Subject
+45,6,1420,1426,218,224,Saints,Subject
+45,7,1544,1552,116,124,Our Lady,Subject
+45,7,1554,1561,126,133,S. Anne,Subject
+45,7,1644,1663,216,235,S. John the Baptist,Subject
+45,7,1728,1740,300,312,Annunciation,Subject
+45,8,1753,1764,11,22,altar-piece,Subject
+45,8,1770,1778,28,36,S. Rocco,Subject
+45,8,1812,1824,70,82,S. Sebastian,Subject
+45,8,1843,1851,101,109,Our Lady,Subject
+45,8,1996,2004,254,262,S. James,Subject
+45,8,2023,2033,281,291,S. Martino,Subject
+45,9,2101,2108,55,62,S. Anne,Subject
+48,2,663,671,167,175,painting,Art Subject
+48,5,2095,2099,57,61,nude,Art Subject
+49,2,457,467,97,107,landscapes,Subject
+49,2,667,674,307,314,verdure,Subject
+49,3,731,738,55,62,animals,Subject
+49,5,1124,1132,37,45,Our Lady,Subject
+49,6,1405,1411,154,160,Tobias,Subject
+49,6,1505,1524,254,273,S. John the Baptist,Subject
+5,1,374,379,85,90,David,Subject
+5,1,396,403,107,114,Goliath,Subject
+5,3,1157,1177,237,257,Nativity of Our Lady,Subject
+50,3,859,867,39,47,sciences,Subject
+50,3,885,893,65,73,geometry,Subject
+50,4,1105,1112,210,217,animals,Subject
+50,4,1114,1121,219,226,foliage,Subject
+50,4,1133,1148,238,253,bizarre fancies,Subject
+50,4,1268,1293,373,398,dance of little children.,Subject
+50,5,1403,1413,109,119,two scenes,Subject
+51,9,2919,2922,5,8,art,Subject
+53,6,1686,1714,121,149,stories of Moses and Pharaoh,Subject
+7,4,973,980,92,99,letters,Subject
+7,5,1423,1426,63,66,art,Subject
+7,5,1431,1440,71,80,mechanics,Subject
+7,5,1460,1470,100,110,arithmetic,Subject
+7,5,1475,1482,115,122,writing,Subject
+7,5,1512,1531,152,171,the goldsmith's art,Subject
+7,5,1584,1590,224,230,design,Subject
+8,0,0,28,0,28,Before the siege of Florence,Art Subject
+9,1,430,445,48,63,Cencio Guasconi,Subject

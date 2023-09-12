@@ -1,0 +1,3 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+16,1,1507,1525,374,392,life of that Saint,Subject
+16,1,1688,1710,555,577,Assumption of Our Lady,Subject
