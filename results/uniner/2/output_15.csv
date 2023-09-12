@@ -1,0 +1,25 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+15,0,3,19,3,19,Jacopo del Conte,PER
+15,0,72,76,72,76,Rome,LOC
+15,1,198,204,5,11,Jacopo,PER
+15,1,447,451,254,258,Rome,LOC
+15,2,625,638,160,173,Pope Paul III,PER
+15,2,828,848,363,383,Signor Piero Strozzi,PER
+15,2,1058,1062,593,597,Rome,LOC
+15,5,1429,1440,17,28,Dead Christ,MISC
+15,5,1447,1458,35,46,altar-piece,MISC
+15,5,1540,1560,128,148,Chapel of S. Dionigi,MISC
+15,5,1607,1612,195,200,Saint,PER
+15,5,1474,1494,62,82,Church of the Popolo,LOC
+15,5,1540,1572,128,160,Chapel of S. Dionigi in S. Luigi,LOC
+15,6,1751,1761,137,147,Florentine,MISC
+15,6,1777,1789,163,175,Misericordia,MISC
+15,6,1816,1822,202,208,Christ,PER
+15,6,1899,1906,285,292,Madonna,PER
+15,6,1751,1789,137,175,Florentine Company of the Misericordia,ORG
+15,7,2148,2152,133,137,nude,MISC
+15,7,2157,2163,142,148,draped,MISC
+15,7,2052,2056,37,41,Rome,LOC
+15,8,2437,2458,179,200,Signora Livia Colonna,PER
+15,8,2383,2388,125,130,Rome;,LOC
+15,9,2571,2587,25,41,Jacopo del Conte,PER

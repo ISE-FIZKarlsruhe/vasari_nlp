@@ -1,0 +1,14 @@
+True Positives: 840
+
+False Positives: 152
+
+False Negatives: 413
+
+Precision: 0.8467741935483871
+
+Recall: 0.6703910614525139
+
+F1: 0.7483296213808462
+
+Matched Sf: 104
+

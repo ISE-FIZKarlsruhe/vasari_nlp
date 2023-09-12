@@ -5,6 +5,7 @@ def eval_ner(path_data, path_model):
         data = list(csv.DictReader(f1, delimiter=","))
     with open(path_model+"output.csv", "r") as f2:
         model_result = list(csv.DictReader(f2, delimiter=","))
+
     
     tp = [] #true positive
     fp = [] #false positive
@@ -81,9 +82,8 @@ def eval_ner(path_data, path_model):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_ner(path_data="../data/", path_model="../results/ontonotes/")
-eval_ner(path_data="../data/", path_model="../results/flair_ner/")
-eval_ner(path_data="../data/", path_model="../results/wikineural/")
+eval_ner(path_data="../data/", path_model="../results/uniner/2/")
+
 
 # # Evaluation without nested entities
 

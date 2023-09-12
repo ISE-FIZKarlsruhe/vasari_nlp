@@ -1,0 +1,14 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+40,0,9,26,9,26,Spinello Spinelli,PER
+40,0,151,172,151,172,Messer Leonardo Bruni,PER
+40,0,204,220,204,220,Lorenzo Ghiberti,PER
+40,0,39,45,39,45,Arezzo,LOC
+40,0,125,133,125,133,Florence,LOC
+40,0,318,329,318,329,S. Giovanni,LOC
+40,1,516,536,55,75,Masolino da Panicale,PER
+40,1,673,698,212,237,Don Lorenzo degli Angeli.,PER
+40,2,699,704,0,5,Parri,PER
+40,4,1526,1532,256,262,Giotto,PER
+40,5,1569,1574,0,5,Parri,PER
+40,6,2189,2194,0,5,Parri,PER
+40,6,2315,2321,126,132,Arezzo,LOC

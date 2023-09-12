@@ -1,0 +1,12 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+47,0,161,167,161,167,Verona,ORG
+47,0,0,7,0,7,Michele,PER
+47,0,161,167,161,167,Verona,LOC
+47,0,265,278,265,278,S. Bernardino,LOC
+47,2,1009,1015,262,268,Italy.,LOC
+47,3,1020,1027,4,11,Michele,PER
+47,3,1267,1287,251,271,Filippo Brunelleschi,PER
+47,3,1339,1347,323,331,Florence,LOC
+47,4,1388,1395,0,7,Michele,PER
+47,5,1857,1861,188,192,Rome,LOC
+47,6,1936,1943,73,80,Michele,PER

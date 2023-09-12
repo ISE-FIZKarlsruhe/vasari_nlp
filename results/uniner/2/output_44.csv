@@ -1,0 +1,16 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+44,3,760,765,0,5,David,PER
+44,3,770,791,10,31,Benedetto Ghirlandajo,PER
+44,3,865,873,105,113,Domenico,PER
+44,4,1151,1156,0,5,David,PER
+44,4,1187,1195,36,44,Domenico,PER
+44,4,1300,1309,149,158,Benedetto,PER
+44,4,1550,1559,399,408,Niccolaio,PER
+44,4,1658,1676,507,525,Francesco Granacci,PER
+44,4,1737,1748,586,597,S. Antonino,PER
+44,4,1778,1800,627,649,S. Catharine of Siena.,PER
+44,5,1838,1846,37,45,S. Lucia,PER
+44,5,1838,1846,37,45,S. Lucia,LOC
+44,6,2096,2105,84,93,Benedetto,PER
+44,6,2047,2053,35,41,France,LOC
+44,6,2118,2126,106,114,Florence,LOC

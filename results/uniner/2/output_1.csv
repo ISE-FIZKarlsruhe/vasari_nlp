@@ -1,0 +1,22 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+1,0,7,23,7,23,Michele d'Agnolo,PER
+1,0,17,24,17,24,Agnolo ,PER
+1,0,27,37,27,37,Poggibonzi,LOC
+1,0,57,67,57,67,Montorsoli,LOC
+1,0,103,111,103,111,Florence,LOC
+1,0,127,134,127,134,Bologna,LOC
+1,1,474,481,222,229,Fiesole,LOC
+1,2,514,520,0,6,Agnolo,PER
+1,2,586,605,72,91,Francesco del Tadda,PER
+1,3,822,841,48,67,Francesco del Tadda,PER
+1,3,847,861,73,87,Maestro Andrea,PER
+1,3,877,884,103,110,Fiesole,LOC
+1,4,1081,1088,29,36,Michele,PER
+1,4,1101,1107,49,55,Agnolo,PER
+1,4,1162,1166,110,114,Rome,LOC
+1,5,1410,1414,26,30,Rome,LOC
+1,5,1453,1460,69,76,Perugia,LOC
+1,6,1733,1752,182,201,M. Raffaello Maffei,PER
+1,6,1761,1775,210,224,Il  Volterrano,PER
+1,6,1584,1591,33,40,Perugia,LOC
+1,6,1780,1789,229,238,Volterra;,LOC

@@ -1,0 +1,42 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+45,0,34,41,34,41,Ridolfo,PER
+45,0,60,76,60,76,Lorenzo di Credi,PER
+45,0,96,115,96,115,Andrea del Ceraiolo,PER
+45,0,124,131,124,131,Michele,PER
+45,1,231,238,5,12,Michele,PER
+45,1,270,277,44,51,Ridolfo,PER
+45,2,458,465,0,7,Michele,PER
+45,2,478,485,20,27,Ridolfo,PER
+45,2,458,465,0,7,Michele,ORG
+45,2,478,485,20,27,Ridolfo,ORG
+45,4,888,894,127,133,Christ,PER
+45,4,899,907,138,146,Our Lady,PER
+45,4,939,953,178,192,God the Father,PER
+45,4,987,993,226,232,Saints,PER
+45,4,799,805,38,44,Piazza,LOC
+45,5,1194,1201,186,193,Saints.,MISC
+45,5,1011,1022,3,14,S. Felicita,PER
+45,5,1131,1137,123,129,Maries,PER
+45,5,1174,1182,166,174,Our Lady,PER
+45,5,1194,1201,186,193,Saints.,PER
+45,5,1011,1022,3,14,S. Felicita,LOC
+45,6,1402,1410,200,208,Our Lady,PER
+45,6,1326,1333,124,131,Cortona,LOC
+45,7,1544,1552,116,124,Our Lady,PER
+45,7,1554,1561,126,133,S. Anne,PER
+45,7,1644,1663,216,235,S. John the Baptist,PER
+45,7,1590,1613,162,185,the Company of the Neri,ORG
+45,7,1436,1455,8,27,Chapel of the Segni,LOC
+45,7,1480,1500,52,72,Church of S. Spirito,LOC
+45,7,1677,1686,249,258,Monachine,LOC
+45,7,1690,1705,262,277,Borgo S. Friano,LOC
+45,8,1770,1778,28,36,S. Rocco,PER
+45,8,1812,1824,70,82,S. Sebastian,PER
+45,8,1843,1851,101,109,Our Lady,PER
+45,8,1996,2004,254,262,S. James,PER
+45,8,2023,2033,281,291,S. Martino,PER
+45,8,1871,1897,129,155,the Company of S. Bastiano,ORG
+45,9,2077,2098,31,52,S. Alessandro Vitelli,PER
+45,9,2101,2108,55,62,S. Anne,PER
+45,9,2139,2156,93,110,Città di Castello,LOC
+45,9,2199,2210,153,164,S. Fiorido.,LOC

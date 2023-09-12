@@ -1,0 +1,26 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+46,0,0,19,0,19,Michele San Michele,PER
+46,0,127,135,127,135,Giovanni,PER
+46,0,150,161,150,161,Bartolommeo,PER
+46,0,303,309,303,309,Jacopo,PER
+46,0,360,371,360,371,Don Camillo,PER
+46,0,37,43,37,43,Verona,LOC
+46,0,226,230,226,230,Rome,LOC
+46,1,640,644,220,224,Rome,LOC
+46,2,736,743,33,40,Orvieto,PER
+46,2,736,743,33,40,Orvieto,LOC
+46,2,908,922,205,219,Monte Fiascone,LOC
+46,3,1264,1272,127,135,Petrucci,PER
+46,3,1208,1219,71,82,S. Domenico,LOC
+46,3,1223,1237,86,100,Monte Fiascone,LOC
+46,3,1288,1293,151,156,Siena,LOC
+46,4,1416,1430,60,74,private houses,LOC
+46,5,1524,1540,10,26,Pope Clement VII,PER
+46,5,1697,1717,183,203,Antonio da San Gallo,PER
+46,5,1663,1668,149,154,Italy,LOC
+46,5,1950,1955,436,441,Parma,LOC
+46,5,1960,1968,446,454,Piacenza,LOC
+46,5,2018,2022,504,508,Rome,LOC
+46,6,2110,2117,35,42,Michele,PER
+46,6,2122,2129,47,54,Antonio,PER
+46,6,2327,2336,252,261,Venetians,LOC

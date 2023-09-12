@@ -1,0 +1,21 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+33,0,20,55,20,55,"Lodovico Gonzaga, Marquis of Mantua",PER
+33,0,194,207,194,207,Leon Batista;,PER
+33,0,154,162,154,162,Florence,LOC
+33,2,1100,1112,35,47,Leon Batista,PER
+33,4,1619,1631,5,17,Leon Batista,PER
+33,5,1942,1951,67,76,difficult,MISC
+33,5,1976,1983,101,108,courage,MISC
+33,5,2003,2015,128,140,Leon Batista,PER
+33,6,2112,2128,32,48,Marquis Lodovico,PER
+33,6,2140,2152,60,72,Leon Batista,PER
+33,6,2132,2138,52,58,Mantua,LOC
+33,6,2268,2273,188,193,Padua,LOC
+33,7,2366,2378,34,46,Leon Batista,PER
+33,7,2410,2428,78,96,Salvestro Fancelli,PER
+33,7,2471,2479,139,147,Florence,LOC
+33,8,2676,2686,44,54,Florentine,MISC
+33,8,2668,2672,36,40,Luca,PER
+33,8,2763,2771,131,139,Filarete,PER
+33,8,2802,2807,170,175,Luchi,PER
+33,8,2645,2651,13,19,Mantua,LOC

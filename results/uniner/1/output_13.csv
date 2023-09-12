@@ -1,0 +1,25 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+13,0,40,45,40,45,Piero,PER
+13,0,200,210,200,210,S. Filippo,PER
+13,0,258,266,258,266,Our Lady,PER
+13,0,421,432,421,432,Holy Spirit,PER
+13,1,466,468,8,10,he,PER
+13,1,583,594,125,136,S. Margaret,PER
+13,1,601,613,143,155,S. Catherine,PER
+13,1,658,666,200,208,S. Peter,PER
+13,1,671,693,213,235,S. John the Evangelist,PER
+13,1,741,751,283,293,S. Filippo,PER
+13,1,753,770,295,312,the Servite Friar,PER
+13,1,776,787,318,329,S. Antonino,PER
+13,1,803,811,345,353,Florence,LOC
+13,3,1124,1129,203,208,Piero,PER
+13,4,1178,1186,7,15,predella,MISC
+13,4,1273,1284,102,113,S. Margaret,PER
+13,5,1697,1712,161,176, marine monster,MISC
+13,5,1877,1883,341,347,Nature,MISC
+13,5,1938,1952,402,416,her creations.,MISC
+13,5,1759,1778,223,242,Giuliano de' Medici,PER
+13,6,1994,2016,41,63,Duke Cosimo de' Medici,PER
+13,6,2061,2066,108,113,Piero,PER
+13,6,2240,2257,287,304,M. Cosimo Bartoli,PER
+13,6,2270,2281,317,328,S. Giovanni,LOC

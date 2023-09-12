@@ -1,0 +1,15 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+43,0,12,25,12,25,Lorenzo Pucci,PER
+43,0,94,103,94,103,Raffaello,PER
+43,0,259,283,259,283,Blessed Elena dall' Olio,PER
+43,0,39,52,39,52,Santi Quattro,LOC
+43,0,163,183,163,183,S. Giovanni in Monte,LOC
+43,0,187,194,187,194,Bologna,LOC
+43,1,423,433,11,21,S. Cecilia,PER
+43,2,764,768,116,120,real,MISC
+43,2,773,777,125,129,true,MISC
+43,3,923,930,9,16,S. Paul,PER
+43,5,1297,1314,14,31,S. Mary Magdalene,PER
+43,6,1602,1614,43,55,S. Augustine,PER
+43,6,1619,1642,60,83,S. John the Evangelist.,PER
+43,7,1711,1720,68,77,Raffaello,PER

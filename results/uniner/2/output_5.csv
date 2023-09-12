@@ -1,0 +1,34 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+5,0,0,8,0,8,Pope Leo,PER
+5,0,144,167,144,167,Maestro Andrea Contucci,PER
+5,0,81,100,81,100,Chamber of Our Lady,LOC
+5,0,104,110,104,110,Loreto,LOC
+5,0,171,186,171,186,Monte Sansovino,LOC
+5,1,306,312,17,23,Baccio,PER
+5,1,335,339,46,50,Pope,PER
+5,1,374,379,85,90,David,PER
+5,1,396,403,107,114,Goliath,PER
+5,1,610,616,321,327,Donato,PER
+5,1,555,561,266,272,Medici,ORG
+5,1,713,720,424,431,Signori,ORG
+5,1,321,325,32,36,Rome,LOC
+5,1,565,573,276,284,Florence,LOC
+5,2,722,730,0,8,The Pope,PER
+5,2,747,753,25,31,Baccio,PER
+5,2,810,815,88,93,David,PER
+5,2,847,853,125,131,Andrea,PER
+5,3,974,988,54,68,Maestro Andrea,PER
+5,3,1058,1062,138,142,Pope,PER
+5,3,938,944,18,24,Loreto,LOC
+5,4,1179,1185,0,6,Baccio,PER
+5,4,1434,1448,255,269,Maestro Andrea,PER
+5,5,1604,1610,20,26,Baccio,PER
+5,5,1623,1637,39,53,Maestro Andrea,PER
+5,6,1961,1967,4,10,Baccio,PER
+5,6,2018,2032,61,75,Maestro Andrea,PER
+5,6,2101,2111,144,154,Bandinelli,PER
+5,7,2218,2224,46,52,Baccio,PER
+5,7,2210,2216,38,44,Loreto,LOC
+5,7,2250,2256,78,84,Ancona,LOC
+5,8,2393,2415,37,59,Raffaello da Montelupo,PER
+5,8,2464,2470,108,114,Andrea,PER

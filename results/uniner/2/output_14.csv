@@ -1,0 +1,30 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+14,0,83,102,83,102,Girolamo Siciolante,PER
+14,0,174,189,174,189,Perino del Vaga,PER
+14,0,23,27,23,27,Rome,LOC
+14,0,244,260,244,260,Castel S. Angelo,LOC
+14,1,420,428,39,47,Girolamo,PER
+14,1,636,644,255,263,S. Peter,PER
+14,1,646,656,265,275,S. Stephen,PER
+14,1,662,681,281,300,S. John the Baptist,PER
+14,1,548,571,167,190,the Badia of S. Stefano,LOC
+14,1,597,606,216,225,Sermoneta,LOC
+14,2,894,902,188,196, figures,MISC
+14,2,851,859,145,153,Our Lady,PER
+14,2,861,868,155,162,S. John,PER
+14,2,870,883,164,177,the Magdalene,PER
+14,2,774,795,68,89,Church of S. Apostolo,LOC
+14,2,800,804,94,98,Rome,LOC
+14,3,945,949,12,16,Pace,PER
+14,3,977,991,44,58,Cardinal Cesis,PER
+14,4,1374,1382,47,55,Girolamo,PER
+14,4,1606,1610,279,283,Rome,LOC
+14,5,1763,1776,70,83,German colony,MISC
+14,5,1927,1944,234,251,Life of Our Lady.,MISC
+14,5,1856,1869,163,176,Giulio Romano,PER
+14,6,2044,2050,99,105,Christ,PER
+14,6,2074,2080,129,135,Angels,PER
+14,6,2092,2100,147,155,Our Lady,PER
+14,6,2106,2113,161,168,S. John,PER
+14,6,2233,2253,288,308,S. James the Apostle,PER
+14,6,2258,2279,313,334,S. Alfonso the Bishop,PER

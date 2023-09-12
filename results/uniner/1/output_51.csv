@@ -1,0 +1,23 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+51,0,197,205,197,205,miracoli,MISC
+51,0,60,68,60,68,Florence,LOC
+51,1,391,397,147,153,Andrea,PER
+51,1,496,502,252,258,Orsino,PER
+51,2,686,705,57,76,Giuliano de' Medici,PER
+51,2,745,752,116,123,Lorenzo,PER
+51,2,773,791,144,162,S. Maria del Fiore,LOC
+51,3,961,967,10,16,Orsino,PER
+51,3,1066,1072,115,121,Andrea,PER
+51,4,1674,1704,362,392,Church of the Nuns of Chiarito,LOC
+51,4,1712,1727,400,415,Via di S. Gallo,LOC
+51,5,1809,1816,34,41,Lorenzo,PER
+51,6,2129,2137,88,96,Florence,LOC
+51,6,2160,2190,119,149,Servite Church of the Nunziata,LOC
+51,7,2381,2399,115,133,Lorenzo de' Medici,PER
+51,7,2601,2607,335,341,Cosimo,PER
+51,7,2288,2309,22,43,S. Maria degli Angeli,LOC
+51,7,2313,2319,47,53,Assisi,LOC
+51,7,2487,2495,221,229,S. Maria,LOC
+51,7,2534,2546,268,280,S. Francesco,LOC
+51,8,2666,2679,21,34,images of wax,MISC
+51,8,2737,2743,92,98,Orsino,PER

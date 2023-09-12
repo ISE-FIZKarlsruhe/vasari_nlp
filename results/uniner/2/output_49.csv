@@ -1,0 +1,29 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+49,0,10,19,10,19,Giorgione,PER
+49,0,107,116,107,116,Barberigo,PER
+49,0,140,147,140,147,Tiziano,PER
+49,0,69,89,69,89,Fondaco de' Tedeschi,LOC
+49,0,195,203,195,203,Merceria,LOC
+49,1,311,329,106,124,M. Andrea Loredano,PER
+49,1,347,358,142,153,S. Marcuola,LOC
+49,2,613,620,253,260,Germans,MISC
+49,2,652,662,292,302,landscapes,MISC
+49,2,667,674,307,314,verdure,MISC
+49,2,387,395,27,35,Our Lady,PER
+49,2,501,508,141,148,Tiziano,PER
+49,2,407,412,47,52,Egypt,LOC
+49,4,842,860,22,40,M. Giovanni D'Anna,PER
+49,4,1028,1035,208,215,Tiziano,PER
+49,5,1124,1132,37,45,Our Lady,PER
+49,6,1325,1334,74,83,Venetians,MISC
+49,6,1405,1411,154,160,Tobias,MISC
+49,6,1280,1302,29,51,the Emperor Maximilian,PER
+49,6,1336,1343,85,92,Tiziano,PER
+49,6,1425,1452,174,201,the Church of S. Marziliano,LOC
+49,6,1695,1719,444,468,the Fondaco de' Tedeschi,LOC
+49,7,1779,1788,58,67,Giorgione,PER
+49,7,1829,1836,108,115,Tiziano,PER
+49,7,2013,2021,292,300,Merceria,LOC
+49,7,2066,2077,345,356,Grand Canal,LOC
+49,8,2101,2110,22,31,Giorgione,PER
+49,8,2141,2148,62,69,Tiziano,PER

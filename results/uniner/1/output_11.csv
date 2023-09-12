@@ -1,0 +1,21 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+11,0,24,31,24,31,Niccola,PER
+11,0,61,87,61,87,Maestro Cola dalla Matrice,PER
+11,0,116,124,116,124,Calabria,LOC
+11,0,129,135,129,135,Ascoli,LOC
+11,0,144,150,144,150,Norcia,LOC
+11,1,393,399,104,110,Ascoli,LOC
+11,2,455,459,0,4,Cola,PER
+11,2,749,763,294,308,Pope Paul III.,PER
+11,2,483,487,28,32,Rome,LOC
+11,2,533,539,78,84,Ascoli,LOC
+11,3,800,803,36,39,her,PER
+11,3,800,811,36,47,her husband,PER
+11,3,823,831,59,67,soldiers,PER
+11,3,894,905,130,141,young woman,PER
+11,4,1288,1294,192,198,Ascoli,LOC
+11,5,1367,1379,71,83,Maestro Cola,PER
+11,6,1456,1481,25,50,Signor Alessandro Vitelli,PER
+11,6,1524,1536,93,105,Maestro Cola,PER
+11,6,1506,1513,75,82,Matrice,LOC
+11,6,1557,1574,126,143,Città di Castello,LOC

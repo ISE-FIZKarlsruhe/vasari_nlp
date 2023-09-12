@@ -1,0 +1,23 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+23,0,16,28,16,28,Pope Paul II,PER
+23,0,270,288,270,288,Giuliano da Maiano,PER
+23,0,356,365,356,365,Sixtus IV,PER
+23,0,430,437,430,437,Clement,PER
+23,1,720,727,10,17,Antonio,PER
+23,1,749,761,39,51,Pope Clement,PER
+23,1,823,829,113,119,Loreto,LOC
+23,2,1235,1244,44,53,transepts,MISC
+23,2,1256,1262,65,71,aisles,MISC
+23,2,1270,1276,79,85,church,MISC
+23,2,1292,1301,101,110,mouldings,MISC
+23,2,1309,1320,118,129,architraves,MISC
+23,2,1322,1329,131,138,friezes,MISC
+23,2,1335,1343,144,152,cornices,MISC
+23,2,1354,1360,163,169,arches,MISC
+23,2,1430,1436,239,245,socles,MISC
+23,2,1455,1459,264,268,pier,MISC
+23,2,1478,1483,287,292,sides,MISC
+23,2,1491,1498,300,307,tribune,MISC
+23,2,1571,1578,380,387,chapels,MISC
+23,2,1610,1622,419,431,central nave,MISC
+23,3,1687,1694,63,70,Antonio,PER

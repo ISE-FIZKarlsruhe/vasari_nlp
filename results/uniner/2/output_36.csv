@@ -1,0 +1,11 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+36,0,0,24,0,24,Nanni d'Antonio di Banco,PER
+36,1,492,498,42,48,Donato,PER
+36,2,697,706,39,48,S. Philip,PER
+36,2,683,691,25,33,Florence,LOC
+36,3,822,828,35,41,Donato,PER
+36,3,975,980,188,193,Nanni,PER
+36,4,1219,1225,141,147,Donato,PER
+36,4,1563,1568,485,490,Nanni,PER
+36,5,1696,1702,90,96,Donato,PER
+36,6,1904,1906,12,14,we,PER

@@ -1,0 +1,17 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+28,1,511,529,0,18,Francesco Granacci,PER
+28,1,615,633,104,122,Lorenzo de' Medici,PER
+28,1,731,743,220,232,Michelagnolo,PER
+28,1,1221,1229,710,718,Granacci,PER
+28,2,1296,1316,65,85,Domenico Ghirlandajo,PER
+28,2,1339,1347,108,116,Granacci,PER
+28,2,1387,1410,156,179,Ghirlandajo's young men,PER
+28,2,1505,1510,274,279,David,PER
+28,2,1515,1536,284,305,Benedetto Ghirlandajo,PER
+28,2,1611,1627,380,396,S. Maria Novella,LOC
+28,3,1709,1717,13,21,Granacci,PER
+28,4,2036,2044,143,151,Carnival,MISC
+28,4,2092,2110,199,217,Lorenzo de' Medici,PER
+28,5,2369,2377,65,73,Granacci,PER
+28,6,2512,2530,47,65,Lorenzo de' Medici,PER
+28,6,2667,2675,202,210,Florence,LOC

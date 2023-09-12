@@ -1,0 +1,12 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+42,0,309,335,309,335,Raffaello Sanzio da Urbino,PER
+42,1,758,781,80,103,Michelagnolo Buonarroti,PER
+42,1,815,824,137,146,Raffaello,PER
+42,2,1307,1316,450,459,Raffaello,PER
+42,3,1679,1698,114,133,Raffaello da Urbino,PER
+42,4,1989,1998,0,9,Raffaello,PER
+42,4,2130,2148,141,159,Giovanni de' Santi,PER
+42,4,2011,2017,22,28,Urbino,LOC
+42,4,2041,2046,52,57,Italy,LOC
+42,5,2365,2373,10,18,Giovanni,PER
+42,5,2495,2504,140,149,Raffaello,PER

@@ -1,0 +1,16 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+20,1,523,540,34,51,Galasso Ferrarese,PER
+20,1,554,584,65,95,Piero dal Borgo a San Sepolcro,PER
+20,1,554,559,65,70,Piero,PER
+20,1,572,584,83,95,San Sepolcro,LOC
+20,1,609,616,120,127,Ferrara,LOC
+20,2,944,950,85,91,Venice,LOC
+20,2,1153,1160,294,301,Ferrara,LOC
+20,3,1183,1190,21,28,Bologna,LOC
+20,3,1275,1286,113,124,S. Domenico,LOC
+20,4,1424,1436,83,95,Black Friars,PER
+20,4,1514,1527,173,186,Casa di Mezzo,PER
+20,4,1390,1408,49,67,S. Maria del Monte,LOC
+20,4,1445,1452,104,111,Bologna,LOC
+20,4,1465,1484,124,143,Porta di S. Mammolo,LOC
+20,4,1514,1527,173,186,Casa di Mezzo,LOC

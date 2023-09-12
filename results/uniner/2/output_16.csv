@@ -1,0 +1,22 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+16,0,804,837,804,837,Giovanni da Santo Stefano a Ponte,PER
+16,0,841,849,841,849,Florence,LOC
+16,1,1171,1192,38,59,Buonamico Buffalmacco,PER
+16,1,1181,1192,48,59,Buffalmacco,PER
+16,1,1702,1710,569,577,Our Lady,PER
+16,1,1417,1437,284,304,Chapel of S. Lorenzo,LOC
+16,1,1446,1461,313,328,Pieve of Empoli,LOC
+16,1,1575,1581,442,448,Arezzo,LOC
+16,1,1726,1738,593,605,S. Francesco,LOC
+16,2,1895,1905,155,165,S. Antonio,PER
+16,3,2054,2065,115,126,Duke Cosimo,PER
+16,3,2319,2331,380,392,Appius Cæcus,PER
+16,3,1985,1996,46,57,S. Giustina,LOC
+16,3,2004,2013,65,74,S. Matteo,LOC
+16,4,2500,2508,0,8,Giovanni,PER
+16,4,2723,2738,223,238,S. Michelagnolo,PER
+16,4,2529,2537,29,37,Florence,LOC
+16,4,2612,2630,112,130,Ponte a S. Trinita,LOC
+16,5,3007,3026,141,160,Giovanni dal Ponte.,PER
+16,6,3030,3034,3,7,Pisa,LOC
+16,6,3134,3156,107,129,S. Paolo a Ripa d'Arno,LOC

@@ -1,0 +1,25 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+25,0,43,55,43,55,Fra Giocondo,PER
+25,1,252,270,38,56,Republic of Venice,LOC
+25,3,847,859,24,36,Fra Giocondo,PER
+25,3,869,876,46,53,Signori,PER
+25,4,1193,1205,62,74,Fra Giocondo,PER
+25,4,1296,1301,165,170,Italy,LOC
+25,5,1588,1600,150,162,River Brenta,LOC
+25,5,1682,1690,244,252,Chioggia,LOC
+25,5,1751,1757,313,319,Venice,LOC
+25,6,2143,2151,106,114,Venetian,MISC
+25,6,2291,2301,254,264,silting up,MISC
+25,6,2325,2332,288,295,lagoons,MISC
+25,6,2269,2281,232,244,Fra Giocondo,ORG
+25,6,2107,2139,70,102,Magnificent Messer Luigi Cornaro,PER
+25,6,2269,2281,232,244,Fra Giocondo,PER
+25,6,2336,2344,299,307,Chioggia,LOC
+25,6,2410,2416,373,379,Venice,LOC
+25,7,2867,2876,390,399,expedient,MISC
+25,7,2881,2889,404,412,grandeur,MISC
+25,7,2894,2902,417,425,nobility,MISC
+25,7,2911,2921,434,444,marvellous,MISC
+25,7,2486,2498,9,21,Messer Luigi,PER
+25,7,2532,2544,55,67,Fra Giocondo,PER
+25,7,2630,2636,153,159,Venice,LOC

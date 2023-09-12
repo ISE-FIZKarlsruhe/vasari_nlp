@@ -1,0 +1,21 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+34,0,87,93,87,93,Giotto,PER
+34,2,1869,1875,131,137,Tuscan,MISC
+34,2,2054,2059,316,321,Italy,MISC
+34,2,1869,1875,131,137,Tuscan,LOC
+34,2,2054,2059,316,321,Italy,LOC
+34,2,2082,2090,344,352,Florence,LOC
+34,3,2340,2362,72,94,fateful and happy star,MISC
+34,3,2479,2513,211,245,most noble and most ancient family,MISC
+34,3,2403,2441,135,173,Lodovico di Leonardo Buonarroti Simoni,PER
+34,3,2303,2312,35,44,Casentino,LOC
+34,4,2548,2556,8,16,Lodovico,PER
+34,4,2668,2678,128,138,S. Francis,PER
+34,4,2840,2852,300,312,Michelagnolo,PER
+34,4,2613,2619,73,79,Chiusi,LOC
+34,4,2624,2631,84,91,Caprese,LOC
+34,4,2642,2660,102,120,Sasso della Vernia,LOC
+34,4,2709,2726,169,186,Diocese of Arezzo,LOC
+34,5,3332,3340,39,47,Lodovico,PER
+34,5,3353,3361,60,68,Florence,LOC
+34,5,3392,3402,99,109,Settignano,LOC

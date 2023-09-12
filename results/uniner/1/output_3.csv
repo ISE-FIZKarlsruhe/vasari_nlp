@@ -1,0 +1,24 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+3,0,46,54,46,54,Giovanni,PER
+3,0,193,199,193,199,Agnolo,PER
+3,0,322,330,322,330,Agostino,PER
+3,0,100,119,100,119,Vescovado of Arezzo,LOC
+3,1,399,407,38,46,Giovanni,PER
+3,1,529,536,168,175,Pistola,LOC
+3,1,541,545,180,184,Pisa,LOC
+3,2,700,708,132,140,the Nine,ORG
+3,2,719,727,151,159,Agostino,PER
+3,2,712,717,144,149,Siena,LOC
+3,2,763,775,195,207,Malborghetto,LOC
+3,3,1084,1089,279,284,Duomo,MISC
+3,3,1215,1227,410,422,Porta Romana,MISC
+3,3,1335,1351,530,546,Porta S. Martino,MISC
+3,3,915,923,110,118,Giovanni,PER
+3,3,890,895,85,90,Siena,LOC
+3,5,1491,1499,46,54,Agostino,PER
+3,5,1504,1510,59,65,Agnolo,PER
+3,5,1586,1603,141,158,Cardinal di Gaeta,PER
+3,6,1672,1679,49,56,Tolomei,PER
+3,6,1718,1726,95,103,Agostino,PER
+3,6,1731,1737,108,114,Agnolo,PER
+3,6,1709,1716,86,93,Orvieto,LOC

@@ -1,0 +1,22 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+35,0,12,24,12,24,Michelagnolo,PER
+35,0,152,169,152,169,Pope Alexander VI,PER
+35,0,186,195,186,195,Julius II,PER
+35,0,80,88,80,88,Florence,LOC
+35,1,497,501,23,27,Rome,LOC
+35,2,594,600,16,22,Pope's,PER
+35,2,697,709,119,131,Michelagnolo,PER
+35,3,850,861,10,21,Pope Julius,PER
+35,3,950,954,110,114,Rome,LOC
+35,4,1035,1047,7,19,Michelagnolo,PER
+35,4,1229,1246,201,218,Alamanno Salviati,PER
+35,4,1123,1130,95,102,Carrara,LOC
+35,4,1250,1258,222,230,Florence,LOC
+35,5,1466,1474,206,214,ancients,MISC
+35,5,1409,1417,149,157,quarries,LOC
+35,6,1665,1669,129,133,Rome,LOC
+35,6,1698,1717,162,181,Piazza di S. Pietro,LOC
+35,6,1731,1742,195,206,S. Caterina,LOC
+35,6,1801,1809,265,273,Castello,LOC
+35,7,1825,1837,14,26,Michelagnolo,PER
+35,7,1937,1941,126,130,Pope,PER

@@ -1,0 +1,16 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+26,0,263,269,263,269,Giotto,PER
+26,0,282,290,282,290,Florence,LOC
+26,1,711,717,106,112,Giotto,PER
+26,2,1033,1040,168,175,Bondone,PER
+26,2,915,925,50,60,Vespignano,LOC
+26,2,946,954,81,89,Florence,LOC
+26,3,1134,1140,50,56,Giotto,PER
+26,4,1674,1680,214,220,stones,MISC
+26,4,1685,1695,225,235,the ground,MISC
+26,4,1703,1707,243,247,sand,MISC
+26,4,1464,1471,4,11,Bondone,PER
+26,5,1789,1796,10,17,Cimabue,PER
+26,5,1875,1881,96,102,Giotto,PER
+26,5,1845,1853,66,74,Florence,LOC
+26,5,1857,1867,78,88,Vespignano,LOC

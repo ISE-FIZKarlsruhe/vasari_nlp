@@ -1,0 +1,17 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+8,0,33,43,33,43,population,MISC
+8,0,423,435,423,435,customs-dues,MISC
+8,1,518,537,68,87,Giuliano Bugiardini,PER
+8,2,884,907,236,259,Michelagnolo Buonarroti,PER
+8,2,897,907,249,259,Buonarroti,PER
+8,2,1036,1044,388,396,Giuliano,PER
+8,2,744,762,96,114,Piazza di S. Marco,LOC
+8,3,1161,1169,13,21,Giuliano,PER
+8,3,1312,1322,164,174,Buonarroti,PER
+8,4,1480,1488,55,63,Giuliano,PER
+8,5,1656,1668,10,22,Michelagnolo,PER
+8,6,1823,1831,6,14,Giuliano,PER
+8,6,1917,1927,100,110,Buonarroti,PER
+8,6,1932,1940,115,123,Granacci,PER
+8,6,1948,1968,131,151,Domenico Ghirlandajo,PER
+8,6,2017,2034,200,217,S. Maria Novella.,LOC

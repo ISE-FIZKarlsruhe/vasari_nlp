@@ -1,0 +1,20 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+4,0,282,288,282,288,niello,MISC
+4,0,101,119,101,119,Lorenzo de' Medici,PER
+4,0,180,203,180,203,Michelagnolo di Viviano,PER
+4,0,50,58,50,58,Florence,LOC
+4,0,207,214,207,214,Gaiuole,LOC
+4,1,364,376,5,17,Michelagnolo,PER
+4,1,687,695,328,336,Florence,LOC
+4,2,700,703,3,6,him,PER
+4,2,720,727,23,30,Lorenzo,PER
+4,2,801,809,104,112,Giuliano,PER
+4,2,864,882,167,185,Piazza di S. Croce,LOC
+4,3,1059,1066,86,93,Lorenzo,PER
+4,4,1360,1383,8,31,Michelagnolo the Medici,PER
+4,4,1409,1417,57,65,Florence,LOC
+4,5,1772,1782,116,126,Florentine,MISC
+4,5,1691,1703,35,47,Michelagnolo,PER
+4,5,1726,1737,70,81,Bartolommeo,PER
+4,5,1817,1824,161,168,Baccio.,PER
+4,6,1825,1837,0,12,Michelagnolo,PER

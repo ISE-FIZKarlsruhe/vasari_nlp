@@ -1,0 +1,14 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+7,0,145,174,145,174,Ser Brunellesco di Lippo Lapi,PER
+7,0,209,215,209,215,Cambio,PER
+7,0,303,328,303,328,Maestro Ventura Bacherini,PER
+7,0,29,37,29,37,Florence,LOC
+7,1,334,349,4,19,Ser Brunellesco,PER
+7,1,424,429,94,99,Spini,PER
+7,2,619,637,83,101,Piazza degli Agli.,LOC
+7,3,774,781,136,143,Filippo,PER
+7,4,1224,1239,343,358,Ser Brunellesco,PER
+7,6,1628,1635,36,43,Filippo,PER
+7,7,1807,1813,25,31,niello,MISC
+7,7,2046,2062,264,280,Wardens of Works,PER
+7,7,1963,1970,181,188,Pistoia,LOC

@@ -1,0 +1,28 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+41,0,481,491,481,491,God's poor,MISC
+41,0,78,83,78,83,Parri,PER
+41,0,94,101,94,101,Madonna,PER
+41,0,293,300,293,300,Braccio,PER
+41,0,348,361,348,361,Lazzaro Ricco,PER
+41,0,11,27,11,27,Audience Chamber,LOC
+41,0,35,76,35,76,Fraternity of S. Maria della Misericordia,LOC
+41,0,141,147,141,147,Arezzo,LOC
+41,1,593,597,46,50,Pope,MISC
+41,1,628,634,81,87,Bishop,MISC
+41,1,639,648,92,101,Protector,MISC
+41,1,567,574,20,27,Madonna,PER
+41,1,578,588,31,41,S. Gregory,PER
+41,1,616,626,69,79,S. Donatus,PER
+41,1,666,673,119,126,Arezzo.,LOC
+41,2,763,768,89,94,Parri,PER
+41,3,1317,1320,322,325,SS.,MISC
+41,3,1250,1257,255,262,Forzore,PER
+41,3,1270,1275,275,280,Parri,PER
+41,4,1433,1449,112,128,Canto alla Croce,LOC
+41,4,1466,1472,145,151,church,LOC
+41,6,1836,1841,82,87,Parri,PER
+41,6,2011,2023,257,269,S. Catherine,PER
+41,6,1757,1768,3,14,Borgo Piano,LOC
+41,7,2061,2069,17,25,Muriello,PER
+41,8,2429,2440,38,49,S. Nicholas,PER
+41,8,2536,2551,145,160,the executioner,PER

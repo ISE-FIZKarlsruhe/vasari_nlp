@@ -1,0 +1,11 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+50,0,0,21,0,21,Andrea del Verrocchio,PER
+50,0,25,35,25,35,Florentine,LOC
+50,2,682,688,112,118,Andrea,PER
+50,4,1114,1121,219,226,foliage,MISC
+50,4,1141,1148,246,253,fancies,MISC
+50,4,1014,1032,119,137,S. Maria del Fiore,LOC
+50,4,1036,1044,141,149,Florence,LOC
+50,5,1376,1394,82,100,Guild of Merchants,ORG
+50,6,1786,1792,243,249,Andrea,PER
+50,6,1578,1582,35,39,Rome,LOC

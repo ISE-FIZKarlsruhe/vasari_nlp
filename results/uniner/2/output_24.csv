@@ -1,0 +1,14 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+24,0,3,21,3,21,writers of history,PER
+24,1,800,812,184,196,Fra Giocondo,PER
+24,1,816,822,200,206,Verona,LOC
+24,3,1465,1478,74,87,Fra Giocondo.,PER
+24,4,1552,1564,73,85,Fra Giocondo,PER
+24,4,1570,1592,91,113,Fra Giovanni Giocondo.,PER
+24,5,1606,1614,13,21,Giovanni,PER
+24,5,1684,1696,91,103,Fra Giocondo,PER
+24,6,1848,1853,138,143,Greek,MISC
+24,6,2075,2083,365,373,Scaliger,PER
+24,6,2115,2121,405,411,Cardan,PER
+24,6,2139,2143,429,433,Budé,PER
+24,6,1959,1964,249,254,Italy,LOC

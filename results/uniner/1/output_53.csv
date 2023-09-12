@@ -1,0 +1,44 @@
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+53,0,27,42,27,42,Cardinal Emulio,PER
+53,0,56,60,56,60,Pope,PER
+53,0,274,286,274,286,Pope Paul IV,PER
+53,0,390,403,390,403,Pirro Ligorio,PER
+53,0,228,241,228,241,the Belvedere,LOC
+53,1,484,500,79,95,Federigo Barocci,PER
+53,1,542,556,137,151,Leonardo Cungi,PER
+53,1,561,577,156,172,Durante del Nero,PER
+53,1,504,510,99,105,Urbino,LOC
+53,1,587,605,182,200,Borgo San Sepolcro,LOC
+53,2,942,952,287,297,Sclavonian,MISC
+53,2,749,759,94,104,Santi Titi,PER
+53,2,892,909,237,254,Federigo Zucchero,PER
+53,2,926,932,271,277,Taddeo,PER
+53,2,953,971,298,316,Giovanni dal Carso,PER
+53,2,774,782,119,127,Florence,LOC
+53,2,828,832,173,177,room,LOC
+53,3,1223,1238,180,195,Transfiguration,MISC
+53,3,1244,1271,201,228,Marriage of Cana in Galilee,MISC
+53,3,1128,1136,85,93,Federigo,PER
+53,3,1181,1187,138,144,Christ,PER
+53,3,1277,1290,234,247,the Centurion,PER
+53,4,1392,1401,77,86,Bolognese,MISC
+53,4,1370,1388,55,73,Orazio Sammacchini,PER
+53,4,1438,1451,123,136,Lorenzo Costa,PER
+53,4,1392,1401,77,86,Bolognese,LOC
+53,4,1455,1462,140,147,Mantua.,LOC
+53,5,1472,1489,9,26,Federigo Zucchero,PER
+53,6,1662,1678,97,113,spiral staircase,MISC
+53,6,1832,1840,267,275,Federigo,PER
+53,6,1885,1907,320,342,Don Vincenzio Borghini,PER
+53,6,1619,1632,54,67,the Belvedere,LOC
+53,7,2028,2033,46,51,Angel,MISC
+53,7,2007,2015,25,33,Federigo,PER
+53,7,2060,2065,78,83,Egypt,LOC
+53,8,2232,2240,74,82,Federigo,PER
+53,8,2341,2345,183,187,Rome,LOC
+53,8,2361,2369,203,211,Florence,LOC
+53,9,2722,2730,19,27,Federigo,PER
+53,9,2790,2802,87,99,Pope Pius IV,PER
+53,9,2900,2906,197,203,Taddeo,PER
+53,9,2944,2953,241,250,Caprarola,LOC
+53,9,2972,2983,269,280,S. Marcello,LOC
