@@ -66,9 +66,13 @@ with open("../data/sentences.csv", "r", encoding="utf-8") as f:
     data = csv.DictReader(f, delimiter=",")
     data = list(data)
 
-entity_types = {"Artwork"}
+entity_types = {"Person", "Location", "Organization", "Miscellaneous"}
 pbar = tqdm(total=len(data))
 
+
+def convert_label(label):
+    mapping_dict = {"Person":"PER", "Location":"LOC", "Organization":"ORG", "Miscellaneous":"MISC"}
+    return mapping_dict[label]
 
 for sample in data:
     llm_chain = LLMChain(prompt=prompt, llm=llm)
@@ -96,7 +100,7 @@ for sample in data:
                                 "sent_start_pos":span[0],
                                 "sent_end_pos":span[1],
                                 "surface":sentence[span[0]:span[1]],
-                                "type":_type
+                                "type":convert_label[_type]
                             })
                             counter=span[0]
                             break
@@ -104,7 +108,7 @@ for sample in data:
     pbar.update(1)
     if len(output)>0:
         keys = output[0].keys()
-        a_file = open("../results/uniner_works/5/output_"+doc_id+".csv", "w", encoding="utf-8")
+        a_file = open("../results/uniner/1/output_"+doc_id+".csv", "w", encoding="utf-8")
         dict_writer = csv.DictWriter(a_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(output)
