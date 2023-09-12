@@ -1,6 +1,0 @@
-doc_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type,labels
-2,185,189,185,189,Life,MISC,"['object', 'art', 'writing', 'art form', 'artwork', 'book', 'creation', 'history', 'publication', 'script', 'sculptor', 'story', 'art history', 'feature story', 'life history', 'life story']"
-18,21,26,21,26,Lives,MISC,"['person', 'art', 'artist', 'art form', 'art historian', 'art student', 'artwork', 'creator', 'history', 'master', 'painter', 'painting', 'profession', 'traditional art', 'art history', 'master class']"
-30,1621,1628,7,14,Trinità,LOC,"['location', 'object', 'place', 'art', 'building', 'city', 'structure', 'area', 'art collection', 'art gallery', 'art school', 'artwork', 'church', 'city state', 'home', 'lady', 'landmark', 'main building', 'municipality', 'museum', 'place name', 'shrine', 'space', 'address space', 'museum piece', 'space group', 'artifact']"
-49,1699,1719,448,468,Fondaco de'Tedeschi,LOC,"['person', 'art', 'artist', 'art form', 'art historian', 'artwork', 'creation', 'creator', 'painter', 'painting', 'visual artist']"
-53,1370,1388,55,73,Orazio Sammacchini,PER,"['person', 'art', 'artist', 'musician', 'adult', 'art form', 'art historian', 'art student', 'artwork', 'creator', 'maker', 'male', 'master', 'paint', 'painter', 'painting', 'performer', 'professional', 'visual artist']"
