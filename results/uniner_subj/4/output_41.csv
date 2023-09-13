@@ -1,9 +1,0 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
-41,0,94,101,94,101,Madonna,Subject
-41,1,567,574,20,27,Madonna,Subject
-41,2,822,844,148,170,Madonna with the Child,Subject
-41,2,942,955,268,281,S. Laurentino,Subject
-41,2,960,973,286,299,S. Pergentino,Subject
-41,6,1862,1874,108,120,Annunciation,Subject
-41,6,2011,2042,257,288,"S. Catherine, virgin and martyr",Subject
-41,7,2312,2320,268,276,Crucifix,Subject

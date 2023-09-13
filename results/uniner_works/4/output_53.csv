@@ -1,9 +1,0 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
-53,3,1223,1238,180,195,Transfiguration,Artwork
-53,3,1244,1271,201,228,Marriage of Cana in Galilee,Artwork
-53,3,1281,1314,238,271,Centurion kneeling before Christ.,Artwork
-53,6,1587,1593,22,28,frieze,Artwork
-53,7,2007,2015,25,33,Federigo,Artwork
-53,9,2776,2786,73,83,escutcheon,Artwork
-53,9,2834,2841,131,138,Justice,Artwork
-53,9,2846,2852,143,149,Equity,Artwork

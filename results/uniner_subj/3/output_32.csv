@@ -1,7 +1,0 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
-32,3,1462,1474,602,614,architecture,Subject
-32,3,1479,1490,619,630,perspective,Subject
-32,3,1499,1507,639,647,painting,Subject
-32,6,2423,2432,147,156,geography,Subject
-32,6,2441,2467,165,191,proportions of antiquities,Subject
-32,6,2481,2488,205,212,writing,Subject

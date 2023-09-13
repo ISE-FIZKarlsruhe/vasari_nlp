@@ -1,5 +1,0 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
-0,0,225,229,225,229,Life,Subject
-0,3,1343,1352,67,76,the Frate,Subject
-0,3,1410,1420,134,144,Buonarroti,Subject
-0,3,1544,1550,268,274,Vasari,Subject

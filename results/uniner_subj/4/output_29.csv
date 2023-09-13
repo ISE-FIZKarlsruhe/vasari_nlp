@@ -1,7 +1,0 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
-29,1,668,675,77,84,Trinity,Subject
-29,1,688,702,97,111,God the Father,Subject
-29,1,716,732,125,141,Christ Crucified,Subject
-29,2,799,809,65,75,Assumption,Subject
-29,2,869,876,135,142,Madonna,Subject
-29,4,1084,1091,26,33,figures,Subject
