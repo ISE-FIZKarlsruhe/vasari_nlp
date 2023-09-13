@@ -1,100 +1,34 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
-0,6,2336,2341,30,35,Frate,Subject
-16,3,1963,1971,24,32,pictures,Subject
-2,1,445,456,215,226,Fontebranda,Subject
-2,1,527,540,297,310,Customs-house,Subject
-24,1,712,721,96,105,Craftsmen,Subject
-24,6,1757,1764,47,54,letters,Subject
-24,6,1798,1809,88,99,philosopher,Subject
-24,6,1814,1824,104,114,theologian,Subject
-24,6,1848,1853,138,143,Greek,Subject
-24,6,2157,2164,447,454,De Asse,Subject
-24,6,2212,2220,502,510,Pandects,Subject
-27,1,623,627,72,76,tomb,Subject
-28,6,2677,2682,212,217,Canti,Subject
-29,0,355,379,355,379,story of the same Joseph,Subject
-34,2,1821,1829,83,91,painting,Subject
-34,2,1834,1843,96,105,sculpture,Subject
-34,2,1852,1864,114,126,architecture,Subject
-37,0,121,128,121,128,Farrier,Subject
-4,5,1772,1789,116,133,Florentine custom,Subject
-41,2,979,986,305,312,martyrs,Subject
-41,4,1567,1575,246,254,festival,Subject
-41,5,1632,1661,55,84,martyrdom of those two Saints,Subject
-41,7,2128,2145,84,101,S. Mary Magdalene,Subject
-45,8,1770,1778,28,36,S. Rocco,Subject
-45,8,2023,2044,281,302,S. Martino alla Palma,Subject
-50,3,859,867,39,47,sciences,Subject
-50,3,885,893,65,73,geometry,Subject
-50,4,1105,1112,210,217,animals,Subject
-50,4,1114,1121,219,226,foliage,Subject
-50,4,1133,1148,238,253,bizarre fancies,Subject
-50,4,1268,1273,373,378,dance,Subject
-7,5,1460,1470,100,110,arithmetic,Subject
-7,5,1475,1482,115,122,writing,Subject
-0,6,2336,2341,30,35,Frate,Subject
-16,3,1963,1971,24,32,pictures,Subject
-2,1,445,456,215,226,Fontebranda,Subject
-2,1,527,540,297,310,Customs-house,Subject
-24,1,712,721,96,105,Craftsmen,Subject
-24,6,1757,1764,47,54,letters,Subject
-24,6,1798,1809,88,99,philosopher,Subject
-24,6,1814,1824,104,114,theologian,Subject
-24,6,1848,1853,138,143,Greek,Subject
-24,6,2157,2164,447,454,De Asse,Subject
-24,6,2212,2220,502,510,Pandects,Subject
-27,1,623,627,72,76,tomb,Subject
-28,6,2677,2682,212,217,Canti,Subject
-29,0,355,379,355,379,story of the same Joseph,Subject
-34,2,1821,1829,83,91,painting,Subject
-34,2,1834,1843,96,105,sculpture,Subject
-34,2,1852,1864,114,126,architecture,Subject
-37,0,121,128,121,128,Farrier,Subject
-4,5,1772,1789,116,133,Florentine custom,Subject
-41,2,979,986,305,312,martyrs,Subject
-41,4,1567,1575,246,254,festival,Subject
-41,5,1632,1661,55,84,martyrdom of those two Saints,Subject
-41,7,2128,2145,84,101,S. Mary Magdalene,Subject
-45,8,1770,1778,28,36,S. Rocco,Subject
-45,8,2023,2044,281,302,S. Martino alla Palma,Subject
-50,3,859,867,39,47,sciences,Subject
-50,3,885,893,65,73,geometry,Subject
-50,4,1105,1112,210,217,animals,Subject
-50,4,1114,1121,219,226,foliage,Subject
-50,4,1133,1148,238,253,bizarre fancies,Subject
-50,4,1268,1273,373,378,dance,Subject
-7,5,1460,1470,100,110,arithmetic,Subject
-7,5,1475,1482,115,122,writing,Subject
-0,6,2336,2341,30,35,Frate,Subject
-16,3,1963,1971,24,32,pictures,Subject
-2,1,445,456,215,226,Fontebranda,Subject
-2,1,527,540,297,310,Customs-house,Subject
-24,1,712,721,96,105,Craftsmen,Subject
-24,6,1757,1764,47,54,letters,Subject
-24,6,1798,1809,88,99,philosopher,Subject
-24,6,1814,1824,104,114,theologian,Subject
-24,6,1848,1853,138,143,Greek,Subject
-24,6,2157,2164,447,454,De Asse,Subject
-24,6,2212,2220,502,510,Pandects,Subject
-27,1,623,627,72,76,tomb,Subject
-28,6,2677,2682,212,217,Canti,Subject
-29,0,355,379,355,379,story of the same Joseph,Subject
-34,2,1821,1829,83,91,painting,Subject
-34,2,1834,1843,96,105,sculpture,Subject
-34,2,1852,1864,114,126,architecture,Subject
-37,0,121,128,121,128,Farrier,Subject
-4,5,1772,1789,116,133,Florentine custom,Subject
-41,2,979,986,305,312,martyrs,Subject
-41,4,1567,1575,246,254,festival,Subject
-41,5,1632,1661,55,84,martyrdom of those two Saints,Subject
-41,7,2128,2145,84,101,S. Mary Magdalene,Subject
-45,8,1770,1778,28,36,S. Rocco,Subject
-45,8,2023,2044,281,302,S. Martino alla Palma,Subject
-50,3,859,867,39,47,sciences,Subject
-50,3,885,893,65,73,geometry,Subject
-50,4,1105,1112,210,217,animals,Subject
-50,4,1114,1121,219,226,foliage,Subject
-50,4,1133,1148,238,253,bizarre fancies,Subject
-50,4,1268,1273,373,378,dance,Subject
-7,5,1460,1470,100,110,arithmetic,Subject
-7,5,1475,1482,115,122,writing,Subject
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type,matched_sf
+0,6,2336,2341,30,35,Frate,Subject,
+16,3,1963,1971,24,32,pictures,Subject,
+2,1,445,456,215,226,Fontebranda,Subject,
+2,1,527,540,297,310,Customs-house,Subject,
+24,1,712,721,96,105,Craftsmen,Subject,
+24,6,1757,1764,47,54,letters,Subject,
+24,6,1798,1809,88,99,philosopher,Subject,
+24,6,1814,1824,104,114,theologian,Subject,
+24,6,1848,1853,138,143,Greek,Subject,
+24,6,2157,2164,447,454,De Asse,Subject,
+24,6,2212,2220,502,510,Pandects,Subject,
+27,1,623,627,72,76,tomb,Subject,
+28,6,2677,2682,212,217,Canti,Subject,
+29,0,355,379,355,379,story of the same Joseph,Subject,
+34,2,1821,1829,83,91,painting,Subject,
+34,2,1834,1843,96,105,sculpture,Subject,
+34,2,1852,1864,114,126,architecture,Subject,
+37,0,121,128,121,128,Farrier,Subject,
+4,5,1772,1789,116,133,Florentine custom,Subject,
+41,2,979,986,305,312,martyrs,Subject,
+41,4,1567,1575,246,254,festival,Subject,
+41,5,1632,1661,55,84,martyrdom of those two Saints,Subject,
+41,7,2128,2145,84,101,S. Mary Magdalene,Subject,
+45,8,1770,1778,28,36,S. Rocco,Subject,
+45,8,2023,2044,281,302,S. Martino alla Palma,Subject,
+50,3,859,867,39,47,sciences,Subject,
+50,3,885,893,65,73,geometry,Subject,
+50,4,1105,1112,210,217,animals,Subject,
+50,4,1114,1121,219,226,foliage,Subject,
+50,4,1133,1148,238,253,bizarre fancies,Subject,
+50,4,1268,1273,373,378,dance,Subject,
+7,5,1460,1470,100,110,arithmetic,Subject,
+7,5,1475,1482,115,122,writing,Subject,

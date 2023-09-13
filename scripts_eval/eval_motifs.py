@@ -20,11 +20,12 @@ def eval_ner(path_data, path_model):
             start_pos2 = int(entity2["doc_start_pos"])
             end_pos2 = int(entity2["doc_end_pos"])
             if id2 == id1 and len(set(range(start_pos1, end_pos1)).intersection(set(range(start_pos2, end_pos2))))>1:
-                if len(tp)>0 and tp[-1]["surface"]==entity2["surface"] and tp[-1]["doc_start_pos"]==str(start_pos2):
+                if len(tp)>0 and tp[-1]["surface"]==entity2["surface"] and tp[-1]["doc_start_pos"]==start_pos2:
                     print(entity2.values(), entity1.values())
                     continue
                 else:
                     tp.append(entity2)
+                    tp[-1]["matched_sf"]=entity1["surface"]
                     matches.append(entity1)
             
     for entity1 in data:
