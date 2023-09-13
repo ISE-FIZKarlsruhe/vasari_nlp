@@ -1,113 +1,125 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type,matched_sf
-3,6,1858,1867,235,244, prophets,Subject,prophets
-5,1,374,379,85,90,David,Subject,David
-5,1,396,403,107,114,Goliath,Subject,Goliath
-9,1,430,445,48,63,Cencio Guasconi,Subject,Cencio Guasconi
-10,6,1756,1796,294,334,S. Augustine disputing with the heretics,Subject,S. Augustine
-10,6,1814,1820,352,358,Christ,Subject,Christ
-10,6,1825,1831,363,369,Saints,Subject,Saints
-10,6,1814,1820,352,358,Christ,Subject,Christ
-10,6,1825,1831,363,369,Saints,Subject,Saints
-13,0,258,266,258,266,Our Lady,Subject,Our Lady
-13,0,421,432,421,432,Holy Spirit,Subject,Holy Spirit
-13,4,1273,1321,102,150,S. Margaret issuing from the belly of the Dragon,Subject,S. Margaret
-14,1,636,644,255,263,S. Peter,Subject,S. Peter
-14,1,646,656,265,275,S. Stephen,Subject,S. Stephen
-14,1,662,681,281,300,S. John the Baptist,Subject,S. John the Baptist
-14,2,838,849,132,143,Dead Christ,Subject,Dead Christ
-14,2,851,859,145,153,Our Lady,Subject,Our Lady
-14,2,861,868,155,162,S. John,Subject,S. John
-14,2,870,883,164,177,the Magdalene,Subject,Magdalene
-14,3,1119,1143,186,210,Nativity of Jesus Christ,Subject,Nativity of Jesus Christ
-14,3,1149,1170,216,237,Adoration of the Magi,Subject,Adoration of the Magi
-14,3,1176,1193,243,260,Flight into Egypt,Subject,Flight into Egypt
-14,3,1203,1228,270,295,Massacre of the Innocents,Subject,Massacre of the Innocents
-14,4,1465,1489,138,162,Nativity of Jesus Christ,Subject,Nativity of Jesus Christ
-14,4,1616,1660,289,333,Descent of the Holy Spirit upon the Apostles,Subject,Descent of the Holy Spirit upon the Apostles
-14,5,1927,1943,234,250,Life of Our Lady,Subject,Life of Our Lady
-14,6,2044,2063,99,118,Christ on the Cross,Subject,Christ on the Cross
-14,6,2074,2090,129,145,Angels about Him,Subject,Angels
-14,6,2092,2100,147,155,Our Lady,Subject,Our Lady
-14,6,2106,2113,161,168,S. John,Subject,S. John
-14,6,2233,2253,288,308,S. James the Apostle,Subject,S. James the Apostle
-14,6,2258,2279,313,334,S. Alfonso the Bishop,Subject,S. Alfonso the Bishop
-15,5,1429,1440,17,28,Dead Christ,Subject,Dead Christ
-15,6,1816,1822,202,208,Christ,Subject,Christ
-15,6,1859,1866,245,252,Thieves,Subject,Thieves
-15,6,1899,1906,285,292,Madonna,Subject,Madonna
-15,7,2168,2181,153,166,men and women,Subject,men
-16,1,1507,1525,374,392,life of that Saint,Subject,life of that Saint
-16,1,1688,1710,555,577,Assumption of Our Lady,Subject,Assumption of Our Lady
-19,2,755,773,84,102,Nativity of Christ,Subject,Nativity of Christ
-19,2,835,847,164,176,Annunciation,Subject,Annunciation
-19,2,941,951,270,280,S. Filippo,Subject,"S. Filippo, the founder of that Servite Order"
-20,4,1642,1655,301,314,Old Testament,Subject,stories of the Old Testament
-28,4,2192,2217,299,324,Triumph of Paulus Emilius,Subject,Triumph of Paulus Emilius
-29,1,668,675,77,84,Trinity,Subject,Trinity
-29,1,688,702,97,111,God the Father,Subject,God the Father
-29,1,716,732,125,141,Christ Crucified,Subject,Christ Crucified
-29,2,799,809,65,75,Assumption,Subject,Assumption
-29,2,869,876,135,142,Madonna,Subject,Madonna
-30,4,1376,1408,329,361,Feast of Simon and the Magdalene,Subject,Feast of Simon and the Magdalene
-30,5,1547,1558,63,74,Dead Christ,Subject,Dead Christ
-30,6,1693,1716,79,102,Coronation of Our  Lady,Subject,Coronation of Our  Lady
-31,2,639,651,197,209,Annunciation,Subject,Annunciation
-31,2,659,683,217,241,God the Father in Heaven,Subject,God the Father
-31,2,703,709,261,267,angels,Subject,angels
-39,1,454,460,249,255,Christ,Subject,Christ
-39,1,489,497,284,292,Apostles,Subject,Apostles
-39,2,612,623,47,58,Dead Christ,Subject,Dead Christ
-39,2,737,746,172,181,S. Helena,Subject,S. Helena
-39,2,762,785,197,220,the Emperor Constantine,Subject,Emperor Constantine
-39,3,851,863,35,47,S. Sebastian,Subject,S. Sebastian
-39,7,1706,1725,99,118,S. John the Baptist,Subject,S. John the Baptist
-39,7,1731,1744,124,137,S. Sebastian.,Subject,S. Sebastian
-39,8,1839,1846,94,101,Madonna,Subject,Madonna
-39,8,1866,1892,121,147,Virgin Martyr S. Catharine,Subject,Virgin Martyr S. Catharine
-39,8,1897,1906,152,161,S. Jerome,Subject,S. Jerome
-39,9,1974,1986,66,78,S. Catharine,Subject,S. Catharine
-39,9,1991,2001,83,93,S. Francis,Subject,S. Francis
-39,9,2020,2028,112,120,Our Lady,Subject,Our Lady
-39,9,2034,2054,126,146,S. James the Apostle,Subject,S. James the Apostle
-39,11,2415,2426,101,112,S. Laurence,Subject,S. Laurence
-39,11,2431,2441,117,127,S. Francis,Subject,S. Francis
-41,0,94,101,94,101,Madonna,Subject,Madonna
-41,2,822,844,148,170,Madonna with the Child,Subject,Madonna
-41,2,942,955,268,281,S. Laurentino,Subject,S. Laurentino
-41,2,960,973,286,299,S. Pergentino,Subject,S. Pergentino
-41,6,1862,1874,108,120,Annunciation,Subject,Annunciation
-41,6,2011,2042,257,288,"S. Catherine, virgin and martyr",Subject,S. Catherine
-41,7,2312,2320,268,276,Crucifix,Subject,Crucifix
-43,1,423,433,11,21,S. Cecilia,Subject,S. Cecilia
-44,4,1611,1621,460,470,S. Stephen,Subject,S. Stephen
-44,4,1737,1748,586,597,S. Antonino,Subject,"S. Antonino, Archbishop of Florence"
-44,4,1778,1799,627,648,S. Catharine of Siena,Subject,S. Catharine of Siena
-45,4,888,894,127,133,Christ,Subject,Christ
-45,4,899,907,138,146,Our Lady,Subject,Christ and Our Lady in the air
-45,4,888,894,127,133,Christ,Subject,Christ
-45,4,939,953,178,192,God the Father,Subject,God the Father
-45,4,987,993,226,232,Saints,Subject,Saints
-45,5,1105,1120,97,112,the Dead Christ,Subject,Dead Christ with the  Maries
-45,5,1156,1182,148,174,the Assumption of Our Lady,Subject,Assumption of Our Lady
-45,5,1189,1200,181,192,some Saints,Subject,Saints
-45,6,1402,1410,200,208,Our Lady,Subject,Our Lady
-45,6,1420,1426,218,224,Saints,Subject,Saints
-45,7,1544,1552,116,124,Our Lady,Subject,Our Lady
-45,7,1554,1561,126,133,S. Anne,Subject,S. Anne
-45,7,1631,1663,203,235,Beheading of S. John the Baptist,Subject,Beheading of S. John the Baptist
-45,7,1728,1740,300,312,Annunciation,Subject,Annunciation
-45,8,1812,1824,70,82,S. Sebastian,Subject,S. Sebastian
-45,8,1843,1851,101,109,Our Lady,Subject,Our Lady
-45,8,1996,2004,254,262,S. James,Subject,S. James
-45,9,2101,2108,55,62,S. Anne,Subject,S. Anne
-49,3,731,738,55,62,animals,Subject,animals
-49,4,981,990,161,170,Ecce Homo,Subject,Ecce Homo
-49,5,1124,1132,37,45,Our Lady,Subject,Our Lady
-49,6,1505,1524,254,273,S. John the Baptist,Subject,S. John the Baptist
-53,3,1219,1238,176,195,the Transfiguration,Subject,Transfiguration
-53,3,1240,1271,197,228,the Marriage of Cana in Galilee,Subject,Marriage of Cana in Galilee
-53,3,1277,1314,234,271,the Centurion kneeling before Christ.,Subject,Centurion kneeling before Christ
-53,6,1686,1714,121,149,stories of Moses and Pharaoh,Subject,stories of Moses and Pharaoh
-53,7,2028,2056,46,74,Angel slaying the first-born,Subject,Angel
-53,9,2834,2841,131,138,Justice,Subject,Justice
-53,9,2846,2852,143,149,Equity,Subject,Equity
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
+3,6,1858,1867,235,244, prophets,Subject
+5,1,374,379,85,90,David,Subject
+5,1,396,403,107,114,Goliath,Subject
+9,1,430,445,48,63,Cencio Guasconi,Subject
+10,6,1756,1796,294,334,S. Augustine disputing with the heretics,Subject
+10,6,1814,1820,352,358,Christ,Subject
+10,6,1825,1831,363,369,Saints,Subject
+10,6,1814,1820,352,358,Christ,Subject
+10,6,1825,1831,363,369,Saints,Subject
+13,0,258,266,258,266,Our Lady,Subject
+13,0,421,432,421,432,Holy Spirit,Subject
+13,4,1273,1321,102,150,S. Margaret issuing from the belly of the Dragon,Subject
+14,1,636,644,255,263,S. Peter,Subject
+14,1,646,656,265,275,S. Stephen,Subject
+14,1,662,681,281,300,S. John the Baptist,Subject
+14,2,838,849,132,143,Dead Christ,Subject
+14,2,851,859,145,153,Our Lady,Subject
+14,2,861,868,155,162,S. John,Subject
+14,2,870,883,164,177,the Magdalene,Subject
+14,3,1119,1143,186,210,Nativity of Jesus Christ,Subject
+14,3,1149,1170,216,237,Adoration of the Magi,Subject
+14,3,1176,1193,243,260,Flight into Egypt,Subject
+14,3,1203,1228,270,295,Massacre of the Innocents,Subject
+14,4,1465,1489,138,162,Nativity of Jesus Christ,Subject
+14,4,1616,1660,289,333,Descent of the Holy Spirit upon the Apostles,Subject
+14,5,1927,1943,234,250,Life of Our Lady,Subject
+14,6,2044,2063,99,118,Christ on the Cross,Subject
+14,6,2074,2090,129,145,Angels about Him,Subject
+14,6,2092,2100,147,155,Our Lady,Subject
+14,6,2106,2113,161,168,S. John,Subject
+14,6,2074,2090,129,145,Angels about Him,Subject
+14,6,2092,2100,147,155,Our Lady,Subject
+14,6,2106,2113,161,168,S. John,Subject
+14,6,2233,2253,288,308,S. James the Apostle,Subject
+14,6,2258,2279,313,334,S. Alfonso the Bishop,Subject
+15,5,1429,1440,17,28,Dead Christ,Subject
+15,6,1816,1822,202,208,Christ,Subject
+15,6,1843,1848,229,234,Cross,Subject
+15,6,1859,1866,245,252,Thieves,Subject
+15,6,1899,1906,285,292,Madonna,Subject
+15,7,2168,2181,153,166,men and women,Subject
+16,1,1507,1525,374,392,life of that Saint,Subject
+16,1,1688,1710,555,577,Assumption of Our Lady,Subject
+18,3,1074,1082,38,46,children,Subject
+18,3,1090,1095,54,59,women,Subject
+18,3,1092,1095,56,59,men,Subject
+18,3,1090,1095,54,59,women,Subject
+18,3,1092,1095,56,59,men,Subject
+19,2,755,773,84,102,Nativity of Christ,Subject
+19,2,835,847,164,176,Annunciation,Subject
+19,2,941,951,270,280,S. Filippo,Subject
+20,4,1642,1655,301,314,Old Testament,Subject
+28,4,2192,2217,299,324,Triumph of Paulus Emilius,Subject
+29,1,668,675,77,84,Trinity,Subject
+29,1,688,702,97,111,God the Father,Subject
+29,1,716,732,125,141,Christ Crucified,Subject
+29,2,799,809,65,75,Assumption,Subject
+29,2,869,876,135,142,Madonna,Subject
+30,4,1219,1227,172,180,Apostles,Subject
+30,4,1376,1408,329,361,Feast of Simon and the Magdalene,Subject
+30,5,1547,1558,63,74,Dead Christ,Subject
+30,6,1693,1716,79,102,Coronation of Our  Lady,Subject
+31,2,639,651,197,209,Annunciation,Subject
+31,2,659,683,217,241,God the Father in Heaven,Subject
+31,2,703,709,261,267,angels,Subject
+39,1,454,460,249,255,Christ,Subject
+39,1,489,497,284,292,Apostles,Subject
+39,2,612,623,47,58,Dead Christ,Subject
+39,2,737,746,172,181,S. Helena,Subject
+39,2,762,785,197,220,the Emperor Constantine,Subject
+39,2,805,815,240,250,the Cross.,Subject
+39,3,851,863,35,47,S. Sebastian,Subject
+39,7,1706,1725,99,118,S. John the Baptist,Subject
+39,7,1731,1744,124,137,S. Sebastian.,Subject
+39,8,1839,1846,94,101,Madonna,Subject
+39,8,1866,1892,121,147,Virgin Martyr S. Catharine,Subject
+39,8,1897,1906,152,161,S. Jerome,Subject
+39,9,1974,1986,66,78,S. Catharine,Subject
+39,9,1991,2001,83,93,S. Francis,Subject
+39,9,2020,2028,112,120,Our Lady,Subject
+39,9,2034,2054,126,146,S. James the Apostle,Subject
+39,11,2415,2426,101,112,S. Laurence,Subject
+39,11,2431,2441,117,127,S. Francis,Subject
+41,0,94,101,94,101,Madonna,Subject
+41,2,822,844,148,170,Madonna with the Child,Subject
+41,2,942,955,268,281,S. Laurentino,Subject
+41,2,960,973,286,299,S. Pergentino,Subject
+41,6,1862,1874,108,120,Annunciation,Subject
+41,6,2011,2042,257,288,"S. Catherine, virgin and martyr",Subject
+41,7,2312,2320,268,276,Crucifix,Subject
+43,1,423,433,11,21,S. Cecilia,Subject
+44,4,1611,1621,460,470,S. Stephen,Subject
+44,4,1737,1748,586,597,S. Antonino,Subject
+44,4,1778,1799,627,648,S. Catharine of Siena,Subject
+45,4,888,894,127,133,Christ,Subject
+45,4,899,907,138,146,Our Lady,Subject
+45,4,888,894,127,133,Christ,Subject
+45,4,939,953,178,192,God the Father,Subject
+45,4,987,993,226,232,Saints,Subject
+45,5,1105,1120,97,112,the Dead Christ,Subject
+45,5,1156,1182,148,174,the Assumption of Our Lady,Subject
+45,5,1189,1200,181,192,some Saints,Subject
+45,6,1402,1410,200,208,Our Lady,Subject
+45,6,1420,1426,218,224,Saints,Subject
+45,7,1544,1552,116,124,Our Lady,Subject
+45,7,1554,1561,126,133,S. Anne,Subject
+45,7,1631,1663,203,235,Beheading of S. John the Baptist,Subject
+45,7,1728,1740,300,312,Annunciation,Subject
+45,8,1812,1824,70,82,S. Sebastian,Subject
+45,8,1843,1851,101,109,Our Lady,Subject
+45,8,1996,2004,254,262,S. James,Subject
+45,9,2101,2108,55,62,S. Anne,Subject
+49,3,731,738,55,62,animals,Subject
+49,4,981,990,161,170,Ecce Homo,Subject
+49,5,1124,1132,37,45,Our Lady,Subject
+49,6,1405,1411,154,160,Tobias,Subject
+49,6,1505,1524,254,273,S. John the Baptist,Subject
+53,3,1219,1238,176,195,the Transfiguration,Subject
+53,3,1240,1271,197,228,the Marriage of Cana in Galilee,Subject
+53,3,1277,1314,234,271,the Centurion kneeling before Christ.,Subject
+53,6,1686,1714,121,149,stories of Moses and Pharaoh,Subject
+53,7,2028,2056,46,74,Angel slaying the first-born,Subject
+53,9,2834,2841,131,138,Justice,Subject
+53,9,2846,2852,143,149,Equity,Subject
