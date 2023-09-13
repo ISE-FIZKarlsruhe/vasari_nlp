@@ -1,62 +1,69 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
-0,2,980,989,95,104,S. Cosimo,Artwork
-0,2,996,1006,111,121,S. Damiano,Artwork
-0,2,1049,1056,164,171,Madonna,Artwork
-1,6,1725,1789,174,238,"tomb of M. Raffaello Maffei, called Il  Volterrano, at Volterra;",Artwork
-5,1,374,379,85,90,David,Artwork
-5,1,396,403,107,114,Goliath,Artwork
-5,3,1153,1177,233,257,the Nativity of Our Lady,Artwork
-14,2,838,849,132,143,Dead Christ,Artwork
-14,4,1465,1489,138,162,Nativity of Jesus Christ,Artwork
-14,4,1616,1660,289,333,Descent of the Holy Spirit upon the Apostles,Artwork
-15,5,1429,1440,17,28,Dead Christ,Artwork
-15,6,1799,1822,185,208,altar-picture of Christ,Artwork
-16,1,1688,1710,555,577,Assumption of Our Lady,Artwork
-16,2,1887,1905,147,165,that of S. Antonio,Artwork
-16,3,2311,2331,372,392,head of Appius Cæcus,Artwork
-19,2,755,773,84,102,Nativity of Christ,Artwork
-19,2,835,847,164,176,Annunciation,Artwork
-19,2,941,951,270,280,S. Filippo,Artwork
-27,4,2045,2053,288,296,Crucifix,Artwork
-29,1,716,733,125,142,Christ Crucified.,Artwork
-29,2,784,809,50,75,picture of the Assumption,Artwork
-30,4,1219,1253,172,206,Apostles receiving the Holy Spirit,Artwork
-30,5,1547,1558,63,74,Dead Christ,Artwork
-31,2,639,651,197,209,Annunciation,Artwork
-31,2,659,683,217,241,God the Father in Heaven,Artwork
-35,0,43,48,43,48,Pietà,Artwork
-36,2,697,706,39,48,S. Philip,Artwork
-38,5,1427,1468,73,114,Magi presenting their offerings to Christ,Artwork
-39,1,454,497,249,292,Christ giving the Communion to the Apostles,Artwork
-39,2,612,623,47,58,Dead Christ,Artwork
-39,3,851,863,35,47,S. Sebastian,Artwork
-39,5,1328,1352,173,197,Baptism of Jesus Christ;,Artwork
-39,6,1439,1534,58,153,"two panel-pictures, one with that Saint consecrating the church, and in the other three martyrs",Artwork
-39,7,1706,1725,99,118,S. John the Baptist,Artwork
-39,7,1731,1744,124,137,S. Sebastian.,Artwork
-39,8,1839,1846,94,101,Madonna,Artwork
-39,8,1866,1892,121,147,Virgin Martyr S. Catharine,Artwork
-39,8,1897,1907,152,162,S. Jerome.,Artwork
-39,11,2415,2426,101,112,S. Laurence,Artwork
-39,11,2431,2441,117,127,S. Francis,Artwork
-41,0,94,101,94,101,Madonna,Artwork
-41,2,822,856,148,182,Madonna with the Child in her arms,Artwork
-41,2,868,874,194,200,angels,Artwork
-41,6,1862,1874,108,120,Annunciation,Artwork
-41,6,2011,2023,257,269,S. Catherine,Artwork
-41,7,2128,2145,84,101,S. Mary Magdalene,Artwork
-41,7,2312,2320,268,276,Crucifix,Artwork
-43,0,152,183,152,183, panel for S. Giovanni in Monte,Artwork
-45,5,1160,1182,152,174,Assumption of Our Lady,Artwork
-45,6,1402,1427,200,225,Our Lady and some Saints.,Artwork
-45,7,1627,1663,199,235,the Beheading of S. John the Baptist,Artwork
-45,8,1812,1824,70,82,S. Sebastian,Artwork
-45,8,1843,1851,101,109,Our Lady,Artwork
-45,8,1996,2004,254,262,S. James,Artwork
-45,9,2099,2108,53,62,a S. Anne,Artwork
-49,4,981,990,161,170,Ecce Homo,Artwork
-51,7,2343,2350,77,84,Madonna,Artwork
-53,3,1223,1238,180,195,Transfiguration,Artwork
-53,3,1244,1271,201,228,Marriage of Cana in Galilee,Artwork
-53,9,2833,2841,130,138, Justice,Artwork
-53,9,2846,2852,143,149,Equity,Artwork
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type,matched_sf
+0,0,474,491,474,491,Madonna di Loreto,Artwork,Madonna di Loreto
+0,2,980,989,95,104,S. Cosimo,Artwork,S. Cosimo
+0,2,996,1006,111,121,S. Damiano,Artwork,S. Damiano
+0,2,1049,1056,164,171,Madonna,Artwork,Madonna
+1,6,1725,1789,174,238,"tomb of M. Raffaello Maffei, called Il  Volterrano, at Volterra;",Artwork,tomb of M. Raffaello Maffei
+5,1,374,379,85,90,David,Artwork,David who was holding Goliath
+5,1,396,403,107,114,Goliath,Artwork,David who was holding Goliath
+5,3,1153,1177,233,257,the Nativity of Our Lady,Artwork,Nativity of Our Lady
+7,7,1884,1909,102,127,"two, half-length prophets",Artwork,"two, half-length prophets"
+14,2,838,849,132,143,Dead Christ,Artwork,"Dead Christ, Our Lady, S. John, the Magdalene, and other figures"
+14,4,1465,1489,138,162,Nativity of Jesus Christ,Artwork,Nativity of Jesus Christ
+14,4,1616,1660,289,333,Descent of the Holy Spirit upon the Apostles,Artwork,Descent of the Holy Spirit upon the Apostles
+14,6,1953,1992,8,47,high-altar of S. Jacopo degli Spagnuoli,Artwork,high-altar of S. Jacopo degli Spagnuoli
+15,5,1429,1440,17,28,Dead Christ,Artwork,Dead Christ
+15,6,1799,1822,185,208,altar-picture of Christ,Artwork,Christ taken down from the Cross
+16,1,1688,1710,555,577,Assumption of Our Lady,Artwork,Assumption of Our Lady
+16,2,1843,1867,103,127,the Chapel of S. Onofrio,Artwork,Chapel of S. Onofrio
+16,2,1887,1905,147,165,that of S. Antonio,Artwork,S. Antonio
+16,3,2311,2331,372,392,head of Appius Cæcus,Artwork,head of Appius Cæcus
+17,0,26,45,26,45,Chapel of the Scali,Artwork,Chapel of the Scali
+19,2,755,773,84,102,Nativity of Christ,Artwork,Nativity of Christ
+19,2,835,847,164,176,Annunciation,Artwork,Annunciation
+19,2,941,951,270,280,S. Filippo,Artwork,"S. Filippo, the founder of that Servite Order, assuming the habit"
+27,4,2045,2053,288,296,Crucifix,Artwork,Crucifix
+29,1,716,733,125,142,Christ Crucified.,Artwork,Trinity|God the Father supporting a Christ Crucified
+29,2,784,809,50,75,picture of the Assumption,Artwork,Assumption
+30,4,1219,1253,172,206,Apostles receiving the Holy Spirit,Artwork,Apostles receiving the Holy Spirit
+30,5,1547,1558,63,74,Dead Christ,Artwork,Dead Christ
+31,2,639,651,197,209,Annunciation,Artwork,Annunciation
+31,2,659,683,217,241,God the Father in Heaven,Artwork,God the Father in Heaven
+35,0,43,48,43,48,Pietà,Artwork,Pietà
+36,2,697,706,39,48,S. Philip,Artwork,S. Philip
+38,5,1427,1468,73,114,Magi presenting their offerings to Christ,Artwork,Magi presenting their offerings to Christ
+39,1,454,497,249,292,Christ giving the Communion to the Apostles,Artwork,Christ giving the Communion to the Apostles
+39,2,612,623,47,58,Dead Christ,Artwork,Dead Christ
+39,3,851,863,35,47,S. Sebastian,Artwork,S. Sebastian
+39,5,1328,1352,173,197,Baptism of Jesus Christ;,Artwork,Baptism of Jesus Christ
+39,6,1439,1534,58,153,"two panel-pictures, one with that Saint consecrating the church, and in the other three martyrs",Artwork,that Saint consecrating the church
+39,7,1706,1725,99,118,S. John the Baptist,Artwork,S. John the Baptist
+39,7,1731,1744,124,137,S. Sebastian.,Artwork,S. Sebastian
+39,8,1839,1846,94,101,Madonna,Artwork,Madonna placed between the Virgin Martyr S. Catharine and S. Jerome
+39,8,1866,1892,121,147,Virgin Martyr S. Catharine,Artwork,Madonna placed between the Virgin Martyr S. Catharine and S. Jerome
+39,8,1897,1907,152,162,S. Jerome.,Artwork,Madonna placed between the Virgin Martyr S. Catharine and S. Jerome
+39,11,2415,2426,101,112,S. Laurence,Artwork,S. Laurence and S. Francis
+39,11,2431,2441,117,127,S. Francis,Artwork,S. Laurence and S. Francis
+41,0,94,101,94,101,Madonna,Artwork,Madonna who has under her mantle the people of Arezzo
+41,2,822,856,148,182,Madonna with the Child in her arms,Artwork,"Madonna with the Child in her arms, with some angels who are opening her mantle"
+41,2,868,874,194,200,angels,Artwork,"Madonna with the Child in her arms, with some angels who are opening her mantle"
+41,6,1862,1874,108,120,Annunciation,Artwork,Annunciation
+41,6,2011,2023,257,269,S. Catherine,Artwork,S. Catherine
+41,7,2128,2145,84,101,S. Mary Magdalene,Artwork,S. Mary Magdalene
+41,7,2312,2320,268,276,Crucifix,Artwork,Crucifix with four figures
+43,0,152,183,152,183, panel for S. Giovanni in Monte,Artwork,panel for S. Giovanni in Monte at Bologna
+44,4,1363,1412,212,261,altar-piece of the high-altar in S. Maria Novella,Artwork,altar-piece of the high-altar in S. Maria Novella
+45,5,1160,1182,152,174,Assumption of Our Lady,Artwork,"Assumption of Our Lady, with some Saints"
+45,6,1402,1427,200,225,Our Lady and some Saints.,Artwork,Our Lady and some Saints
+45,7,1627,1663,199,235,the Beheading of S. John the Baptist,Artwork,Beheading of S. John the Baptist
+45,8,1812,1824,70,82,S. Sebastian,Artwork,"S. Rocco, S. Sebastian, and between them Our Lady"
+45,8,1843,1851,101,109,Our Lady,Artwork,"S. Rocco, S. Sebastian, and between them Our Lady"
+45,8,1996,2004,254,262,S. James,Artwork,"Our Lady, S. Sebastian, and S. James"
+45,9,2099,2108,53,62,a S. Anne,Artwork,S. Anne
+49,4,981,990,161,170,Ecce Homo,Artwork,Ecce Homo
+51,4,1745,1753,433,441,Crucifix,Artwork,Crucifix
+51,7,2343,2350,77,84,Madonna,Artwork,Madonna
+53,3,1223,1238,180,195,Transfiguration,Artwork,Transfiguration
+53,3,1244,1271,201,228,Marriage of Cana in Galilee,Artwork,Marriage of Cana in Galilee
+53,9,2833,2841,130,138, Justice,Artwork,Justice
+53,9,2846,2852,143,149,Equity,Artwork,Equity

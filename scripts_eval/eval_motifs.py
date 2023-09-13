@@ -27,8 +27,12 @@ def eval_ner(path_data, path_model):
                 surface2 = set(entity2["surface"].split(" "))
                 if id2 == id1 and len(set(range(start_pos1, end_pos1)).intersection(set(range(start_pos2, end_pos2))))>0 \
                     and len(surface_tokens.intersection(surface2))>0:
-                    tp.append(entity2)
-                    matches.append(entity1)
+                    if len(tp)>0 and tp[-1]["surface"]==entity2["surface"]:
+                        continue
+                    else:
+                        tp.append(entity2)#
+                        tp[-1]["matched_sf"]=entity1["surface"]
+                        matches.append(entity1)
             
     for entity1 in data:
         if entity1 not in matches and not entity1["type"]=="STATE":
@@ -54,7 +58,7 @@ def eval_ner(path_data, path_model):
     
     p_keys = tp[0].keys()
     n_keys = fn[0].keys()
-
+    print(n_keys)
     tp_file = open(path_model+"tp_ner.csv", "w")
     dict_writer = csv.DictWriter(tp_file, p_keys)
     dict_writer.writeheader()
@@ -66,12 +70,11 @@ def eval_ner(path_data, path_model):
     dict_writer.writeheader()
     dict_writer.writerows(fp)
     fp_file.close()
-    # print(fn)
-    # fn_file = open(path_model+"fn_ner.csv", "w")
-    # dict_writer = csv.DictWriter(fn_file, n_keys)
-    # dict_writer.writeheader()
-    # dict_writer.writerows(fn)
-    # fn_file.close()
+    fn_file = open(path_model+"fn_ner.csv", "w")
+    dict_writer = csv.DictWriter(fn_file, n_keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(fn)
+    fn_file.close()
 
 eval_ner(path_data="../data/", path_model="../results/uniner_subj/5/")
 

@@ -1,50 +1,50 @@
-doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type
-0,0,225,229,225,229,Life,Subject
-0,3,1343,1352,67,76,the Frate,Subject
-0,3,1410,1420,134,144,Buonarroti,Subject
-0,3,1544,1550,268,274,Vasari,Subject
-11,1,329,341,40,52,architecture,Subject
-15,6,1843,1848,229,234,Cross,Subject
-18,3,1074,1082,38,46,children,Subject
-18,3,1090,1095,54,59,women,Subject
-18,3,1092,1095,56,59,men,Subject
-18,3,1146,1151,110,115,young,Subject
-18,3,1156,1159,120,123,old,Subject
-2,1,527,540,297,310,Customs-house,Subject
-22,3,1142,1146,177,181,Life,Subject
-24,2,1167,1175,35,43,them all,Subject
-27,3,1273,1298,201,226,panel with little figures,Subject
-29,4,1084,1091,26,33,figures,Subject
-30,4,1219,1227,172,180,Apostles,Subject
-32,3,1462,1474,602,614,architecture,Subject
-32,3,1479,1490,619,630,perspective,Subject
-32,3,1499,1507,639,647,painting,Subject
-32,6,2423,2432,147,156,geography,Subject
-32,6,2441,2467,165,191,proportions of antiquities,Subject
-32,6,2481,2488,205,212,writing,Subject
-33,7,2366,2378,34,46,Leon Batista,Subject
-34,2,1821,1829,83,91,painting,Subject
-34,2,1834,1843,96,105,sculpture,Subject
-34,2,1852,1864,114,126,architecture,Subject
-39,2,805,815,240,250,the Cross.,Subject
-41,1,567,574,20,27,Madonna,Subject
-45,8,1770,1778,28,36,S. Rocco,Subject
-45,8,2023,2044,281,302,S. Martino alla Palma,Subject
-49,6,1405,1411,154,160,Tobias,Subject
-49,7,1738,1744,17,23,façade,Subject
-50,4,1105,1112,210,217,animals,Subject
-50,4,1114,1121,219,226,foliage,Subject
-50,4,1133,1148,238,253,bizarre fancies,Subject
-50,4,1268,1292,373,397,dance of little children,Subject
-53,8,2679,2686,521,528,studies,Subject
-53,8,2697,2701,539,543,work,Subject
-6,1,654,657,208,211,art,Subject
-7,4,973,980,92,99,letters,Subject
-7,4,1286,1292,405,411,notary,Subject
-7,5,1423,1426,63,66,art,Subject
-7,5,1431,1440,71,80,mechanics,Subject
-7,5,1460,1470,100,110,arithmetic,Subject
-7,5,1475,1482,115,122,writing,Subject
-7,5,1516,1531,156,171,goldsmith's art,Subject
-8,2,800,803,152,155,art,Subject
-9,2,563,573,79,89,tabernacle,Subject
+doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,type,matched_sf
+0,0,225,229,225,229,Life,Subject,
+0,3,1343,1352,67,76,the Frate,Subject,
+0,3,1410,1420,134,144,Buonarroti,Subject,
+0,3,1544,1550,268,274,Vasari,Subject,
+11,1,329,341,40,52,architecture,Subject,
+15,6,1843,1848,229,234,Cross,Subject,
+18,3,1074,1082,38,46,children,Subject,
+18,3,1090,1095,54,59,women,Subject,
+18,3,1092,1095,56,59,men,Subject,
+18,3,1146,1151,110,115,young,Subject,
+18,3,1156,1159,120,123,old,Subject,
+2,1,527,540,297,310,Customs-house,Subject,
+22,3,1142,1146,177,181,Life,Subject,
+24,2,1167,1175,35,43,them all,Subject,
+27,3,1273,1298,201,226,panel with little figures,Subject,
+29,4,1084,1091,26,33,figures,Subject,
+30,4,1219,1227,172,180,Apostles,Subject,
+32,3,1462,1474,602,614,architecture,Subject,
+32,3,1479,1490,619,630,perspective,Subject,
+32,3,1499,1507,639,647,painting,Subject,
+32,6,2423,2432,147,156,geography,Subject,
+32,6,2441,2467,165,191,proportions of antiquities,Subject,
+32,6,2481,2488,205,212,writing,Subject,
+33,7,2366,2378,34,46,Leon Batista,Subject,
+34,2,1821,1829,83,91,painting,Subject,
+34,2,1834,1843,96,105,sculpture,Subject,
+34,2,1852,1864,114,126,architecture,Subject,
+39,2,805,815,240,250,the Cross.,Subject,
+41,1,567,574,20,27,Madonna,Subject,
+45,8,1770,1778,28,36,S. Rocco,Subject,
+45,8,2023,2044,281,302,S. Martino alla Palma,Subject,
+49,6,1405,1411,154,160,Tobias,Subject,
+49,7,1738,1744,17,23,façade,Subject,
+50,4,1105,1112,210,217,animals,Subject,
+50,4,1114,1121,219,226,foliage,Subject,
+50,4,1133,1148,238,253,bizarre fancies,Subject,
+50,4,1268,1292,373,397,dance of little children,Subject,
+53,8,2679,2686,521,528,studies,Subject,
+53,8,2697,2701,539,543,work,Subject,
+6,1,654,657,208,211,art,Subject,
+7,4,973,980,92,99,letters,Subject,
+7,4,1286,1292,405,411,notary,Subject,
+7,5,1423,1426,63,66,art,Subject,
+7,5,1431,1440,71,80,mechanics,Subject,
+7,5,1460,1470,100,110,arithmetic,Subject,
+7,5,1475,1482,115,122,writing,Subject,
+7,5,1516,1531,156,171,goldsmith's art,Subject,
+8,2,800,803,152,155,art,Subject,
+9,2,563,573,79,89,tabernacle,Subject,

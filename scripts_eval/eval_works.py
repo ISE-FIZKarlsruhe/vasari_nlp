@@ -29,7 +29,11 @@ def eval_ner(path_data, path_model):
                 if id2 == id1 and len(set(range(start_pos1, end_pos1)).intersection(set(range(start_pos2, end_pos2))))>0 \
                     and len(surface1.intersection(surface2))>0:
                     matched=True
-                    tp.append(entity2)
+                    if len(tp)>0 and tp[-1]["surface"]==entity2["surface"]:
+                        continue
+                    else:
+                        tp.append(entity2)
+                        tp[-1]["matched_sf"]=entity1["surface"]
         if matched==True:
             matches.append(entity1)
             
@@ -77,7 +81,7 @@ def eval_ner(path_data, path_model):
     dict_writer.writerows(fn)
     fn_file.close()
 
-eval_ner(path_data="../data/", path_model="../results/wikineural_ufet_t5/")
+eval_ner(path_data="../data/", path_model="../results/uniner_works/5/")
 
 
 
