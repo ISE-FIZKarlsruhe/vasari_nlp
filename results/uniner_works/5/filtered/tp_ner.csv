@@ -7,10 +7,7 @@ doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,typ
 5,1,374,379,85,90,David,Artwork,David who was holding Goliath
 5,1,396,403,107,114,Goliath,Artwork,David who was holding Goliath
 5,3,1157,1177,237,257,Nativity of Our Lady,Artwork,Nativity of Our Lady
-7,7,1901,1909,119,127,prophets,Artwork,"two, half-length prophets"
 8,6,1994,2033,177,216,painting the chapel in S. Maria Novella,Artwork,chapel in S. Maria Novella
-9,0,68,75,68,75,picture,Artwork,"copy of the picture in which Raffaello da Urbino had formerly painted portraits of Pope Leo, Cardinal Giulio de' Medici, and Cardinal de' Rossi"
-13,0,81,86,81,86,panel,Artwork,"panel in the Church of the Servite Friars|Our Lady standing, raised from the ground on a pedestal, and uplifting her head towards Heaven, with a book in her hand, but without her Son; and above her is the Holy Spirit, bathing her with light"
 14,2,838,849,132,143,Dead Christ,Artwork,"Dead Christ, Our Lady, S. John, the Magdalene, and other figures"
 14,3,1119,1143,186,210,Nativity of Jesus Christ,Artwork,Nativity of Jesus Christ
 14,3,1149,1170,216,237,Adoration of the Magi,Artwork,Adoration of the Magi
@@ -62,8 +59,6 @@ doc_id,sent_id,doc_start_pos,doc_end_pos,sent_start_pos,sent_end_pos,surface,typ
 41,6,2011,2043,257,289,"S. Catherine, virgin and martyr.",Artwork,S. Catherine
 41,7,2128,2145,84,101,S. Mary Magdalene,Artwork,S. Mary Magdalene
 41,7,2312,2338,268,294,Crucifix with four figures,Artwork,Crucifix with four figures
-44,4,1363,1374,212,223,altar-piece,Artwork,altar-piece of the high-altar in S. Maria Novella
-44,4,1382,1392,231,241,high-altar,Artwork,altar-piece of the high-altar in S. Maria Novella
 44,4,1611,1621,460,470,S. Stephen,Artwork,S. Stephen
 44,4,1737,1748,586,597,S. Antonino,Artwork,"S. Antonino, Archbishop of Florence"
 44,4,1778,1799,627,648,S. Catharine of Siena,Artwork,S. Catharine of Siena

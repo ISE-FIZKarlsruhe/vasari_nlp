@@ -1,0 +1,33 @@
+doc_id,doc_start_pos,doc_end_pos,sentence_id,sent_start_pos,sent_end_pos,surface,type,score,matched_sf
+0,474,481,0,474,481,Madonna,work,0.979957640171051,Madonna di Loreto
+0,1049,1056,2,164,171,Madonna,work,0.9995837807655334,Madonna
+14,851,859,2,145,153,Our Lady,work,0.8049492537975311,"Dead Christ, Our Lady, S. John, the Magdalene, and other figures"
+14,1616,1623,4,289,296,Descent,work,0.8526130318641663,Descent of the Holy Spirit upon the Apostles
+14,1636,1642,4,309,315,Spirit,work,0.9591825008392334,Descent of the Holy Spirit upon the Apostles
+14,1652,1660,4,325,333,Apostles,work,0.9961819648742676,Descent of the Holy Spirit upon the Apostles
+14,2092,2100,6,147,155,Our Lady,work,0.5146544128656387,"Christ on the Cross with some Angels about Him, Our Lady, and S. John"
+14,2246,2253,6,301,308,Apostle,work,0.9711544513702393,S. James the Apostle
+14,2273,2279,6,328,334,Bishop,work,0.9822379946708679,S. Alfonso the Bishop
+16,1417,1423,1,284,290,Chapel,work,0.6664227843284607,"Chapel of S. Lorenzo, in the Pieve of Empoli|scenes of the life of that Saint"
+16,1446,1461,1,313,328,Pieve of Empoli,work,0.730407198270162,"Chapel of S. Lorenzo, in the Pieve of Empoli|scenes of the life of that Saint"
+29,668,675,1,77,84,Trinity,work,0.9960307478904724,Trinity|God the Father supporting a Christ Crucified
+30,1399,1408,4,352,361,Magdalene,work,0.998982846736908,Feast of Simon and the Magdalene
+35,71,76,0,71,76,Giant,work,0.9992849230766296,Giant
+36,697,716,2,39,58,S . Philip of marble,work,0.8194340765476227,S. Philip
+37,29,33,0,29,33,. Lo,work,0.6176693141460419,S. Lo
+39,612,623,2,47,58,Dead Christ,work,0.779193103313446,Dead Christ
+39,1706,1708,7,99,101,S.,work,0.66159588098526,S. John the Baptist
+39,1866,1879,8,121,134,Virgin Martyr,work,0.7885647416114807,Madonna placed between the Virgin Martyr S. Catharine and S. Jerome
+39,2178,2185,10,92,99,Madonna,work,0.9991500377655029,Madonna and many figures
+41,2128,2145,7,84,101,S . Mary Magdalene,work,0.8751557469367981,S. Mary Magdalene
+43,178,194,0,178,194,Monte at Bologna,work,0.9980367422103882,panel for S. Giovanni in Monte at Bologna
+44,1645,1650,4,494,499,Saint,work,0.945570170879364,disputation of that Saint
+44,1750,1760,4,599,609,Archbishop,work,0.9983853101730347,"S. Antonino, Archbishop of Florence"
+45,1544,1552,7,116,124,Our Lady,work,0.8963021039962769,"Our Lady, S. Anne, and many other Saints"
+45,1728,1740,7,300,312,Annunciation,work,0.9981728792190552,Annunciation
+45,1968,1976,8,226,234,Our Lady,work,0.9453006386756897,"Our Lady, S. Sebastian, and S. James"
+49,981,990,4,161,170,Ecce Homo,work,0.9946005046367645,Ecce Homo
+49,1124,1132,5,37,45,Our Lady,work,0.7157387584447861,"Our Lady with other figures the size of life, of men and children"
+49,1392,1399,6,141,148,Raphael,work,0.8880661725997925,Angel Raphael with Tobias and a dog
+51,2343,2350,7,77,84,Madonna,work,0.5601174235343933,Madonna
+53,2846,2852,9,143,149,Equity,work,0.9977946281433105,Equity

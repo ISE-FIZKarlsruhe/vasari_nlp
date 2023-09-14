@@ -2,11 +2,11 @@ True Positives: 81
 
 False Positives: 78
 
-False Negatives: 58
+False Negatives: 57
 
 Precision: 0.5094339622641509
 
-Recall: 0.5827338129496403
+Recall: 0.5869565217391305
 
-F1: 0.5436241610738255
+F1: 0.5454545454545454
 
