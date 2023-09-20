@@ -26,7 +26,7 @@ The model [Universal-NER](https://github.com/universal-ner/universal-ner) was us
 | --------------- | --------- | ------ | ----- |
 | `Universal-NER/UniNER-7B-all` (Artworks)| 54.862 (±5.76)  | 56.532 (±4.79)  | 55.606 (±4.79) |
 | `Universal-NER/UniNER-7B-all` (Artworks filtered) | 73.921 (±6)     | 54.055 (±3,6)  | 62.38 (±4) |
-| ``Universal-NER/UniNER-7B-all` (Subjects)` | 78.885 (±3,68)     | 48.748 (±2,63)  | 60.242 (±2,86) |
+| `Universal-NER/UniNER-7B-all` (Subjects)` | 78.885 (±3,68)     | 48.748 (±2,63)  | 60.242 (±2,86) |
 
 
 ## Results 
