@@ -29,7 +29,7 @@ The model [Universal-NER](https://github.com/universal-ner/universal-ner) was us
 | `Universal-NER/UniNER-7B-all` (Subjects) | 78.885 (±3,68)     | 48.748 (±2,63)  | 60.242 (±2,86) |
 
 
-## Results 
+## Entity Linking Results 
 
 Scripts for the evaluation are available in `scripts_eval`. 
 
