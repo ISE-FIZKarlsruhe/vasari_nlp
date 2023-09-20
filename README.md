@@ -18,6 +18,16 @@ pip install --editable ./
 
 Moreover, for running the mGENRE model you need to download [fairseq_multilingual_entity_disambiguation](https://dl.fbaipublicfiles.com/GENRE/fairseq_multilingual_entity_disambiguation.tar.gz), [titles_lang_all105_trie_with_redirect.pkl](http://dl.fbaipublicfiles.com/GENRE/titles_lang_all105_trie_with_redirect.pkl) and [lang_title2wikidataID-normalized_with_redirect](https://dl.fbaipublicfiles.com/GENRE/lang_title2wikidataID-normalized_with_redirect.pkl).
 
+## UniversalNER Results 
+
+The model [Universal-NER](https://github.com/universal-ner/universal-ner) was used for Artwork and Subject Recognition. Scripts for inference are in `scripts_uniner` and the evaluation scripts are available in `scripts_eval`. 
+
+|                 | Precision | Recall | F1 |
+| --------------- | --------- | ------ | ----- |
+| `Universal-NER/UniNER-7B-all` (Artworks)| 54.862 (±5.76)  | 56.532 (±4.79)  | 55.606 (±4.79) |
+| `Universal-NER/UniNER-7B-all` (Artworks filtered) | 73.921 (±6)     | 54.055 (±3,6)  | 62.38 (±4) |
+| ``Universal-NER/UniNER-7B-all` (Subjects)` | 78.885 (±3,68)     | 48.748 (±2,63)  | 60.242 (±2,86) |
+
 
 ## Results 
 
@@ -27,9 +37,9 @@ Scripts for the evaluation are available in `scripts_eval`.
 
 |                 | Precision | Recall | F1 |
 | --------------- | --------- | ------ | ----- |
-| `flair/ner-english-large` | 0.847     | 0.811  | 0.829 |
-| `flair/ner-english-ontonotes-large` | **0.917**     | 0.692  | 0.789 |
-| `Babelscape/wikineural-multilingual-ner` | 0.855     | **0.836**  | **0.846** |
+| `flair/ner-english-large` | 84.7     | 81.1  | 82.9 |
+| `flair/ner-english-ontonotes-large` | **91.7**     | 69.2  | 78.9 |
+| `Babelscape/wikineural-multilingual-ner` | 85.5     | **83.6**  | **84.6** |
 
 
 ### Entity Disambiguation
