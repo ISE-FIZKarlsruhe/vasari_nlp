@@ -1,0 +1,113 @@
+doc_id,surface,doc_start_pos,doc_end_pos,type
+0,Frate,532,537,PERSON
+0,Buonarroti,1411,1421,PERSON
+0,Buonarroti,1411,1421,PERSON
+0,Vasari,1546,1552,PERSON
+1,S. Pietro,1218,1227,PERSON
+5,David,374,379,PERSON
+5,Goliath,396,403,PERSON
+5,the Nativity of Our Lady,1153,1177,PERSON
+8,Michelagnolo Buonarroti,884,907,PERSON
+8,Buonarroti,938,948,PERSON
+8,Michelagnolo,973,985,PERSON
+8,Giuliano,1038,1046,PERSON
+9,Raffaello da Urbino,85,104,PERSON
+9,Leo,144,147,PERSON
+9,Giulio de ' Medici,159,177,PERSON
+9,de ' Rossi,193,203,PERSON
+9,Leo,144,147,PERSON
+9,Giulio de ' Medici,159,177,PERSON
+9,de ' Rossi,193,203,PERSON
+9,Cibo,268,272,PERSON
+14,Christ,845,851,PERSON
+14,S. John,865,872,PERSON
+14,Magdalene,879,888,PERSON
+14,Jesus Christ,1131,1143,PERSON
+14,the Adoration of the Magi,1146,1171,WORK_OF_ART
+14,the Massacre of the Innocents,1202,1231,WORK_OF_ART
+14,the Nativity of Jesus Christ,1467,1495,WORK_OF_ART
+14,the Sacristy of the Church of S. Spirito,1573,1613,WORK_OF_ART
+14,the Descent of the Holy Spirit upon the Apostles,1624,1672,WORK_OF_ART
+14,Giulio Romano,1856,1869,PERSON
+14,Christ,2044,2050,PERSON
+14,S. John,2108,2115,PERSON
+15,Paul III,630,638,PERSON
+15,Colonna,803,810,PERSON
+15,Orsini,822,828,PERSON
+15,Piero Strozzi,838,851,PERSON
+15,Madonna,1899,1906,PERSON
+15,Signora Livia Colonna,2437,2458,PERSON
+16,the Assumption of Our Lady,1684,1710,PERSON
+16,S. Matteo,2004,2013,PERSON
+17,S. Paul,133,140,PERSON
+17,Paolo,208,213,PERSON
+20,the Old Testament,1638,1655,WORK_OF_ART
+26,slab,1968,1972,PERSON
+29,Jacopo da Pontormo,142,160,PERSON
+29,Andrea del Sarto,163,179,PERSON
+29,Francesco Ubertini,186,204,PERSON
+29,Joseph,247,253,PERSON
+29,Pier Francesco 's,259,276,PERSON
+29,Borgo Sant ',286,298,PERSON
+29,Joseph,381,387,PERSON
+29,Joseph,524,530,PERSON
+29,Pharaoh,546,553,PERSON
+29,Joseph,243,249,PERSON
+29,Joseph,373,379,PERSON
+29,Joseph,513,519,PERSON
+29,Pharaoh,535,542,PERSON
+29,God the Father,690,704,PERSON
+33,the said tribune,346,362,PERSON
+33,Leon Batista,2366,2378,PERSON
+33,Leon Batista,2366,2378,PERSON
+35,Pietà,43,48,PERSON
+37,the S. Lo,24,33,PERSON
+38,Christ,1462,1468,PERSON
+39,Christ,454,460,PERSON
+39,the Communion to the Apostles,468,497,PERSON
+39,a Dead Christ,610,623,PERSON
+39,S. Helena,737,746,PERSON
+39,Constantine,775,786,PERSON
+39,S. Sebastian,851,863,PERSON
+39,S. Cantius,1541,1551,PERSON
+39,S. Cantianus,1554,1566,PERSON
+39,S. Cantianilla,1573,1587,PERSON
+39,S. Catharine,1977,1989,PERSON
+39,S. Francis,1994,2004,PERSON
+39,Our Lady,2024,2032,WORK_OF_ART
+39,S. James the Apostle,2038,2058,PERSON
+39,S. Francis,2061,2071,PERSON
+39,S. Laurence,2415,2426,PERSON
+39,S. Francis,2431,2441,PERSON
+41,Madonna,822,829,PERSON
+41,S. Catherine,2011,2023,PERSON
+41,a S. Mary Magdalene,2126,2145,PERSON
+41,Crucifix,2312,2320,WORK_OF_ART
+41,S. Nicholas,2429,2440,PERSON
+43,S. Giovanni,163,174,WORK_OF_ART
+43,Raffaello,406,415,PERSON
+45,Christ,888,894,PERSON
+45,God the Father,940,954,PERSON
+45,S. John the Baptist,1644,1663,PERSON
+45,Annunciation,1730,1742,WORK_OF_ART
+45,S. Rocco,1802,1810,PERSON
+45,Sebastian,1816,1825,PERSON
+45,a S. Anne,2099,2108,PERSON
+47,Bronzo,552,558,PERSON
+49,Tiziano,503,510,PERSON
+49,"an "" Ecce Homo",979,993,WORK_OF_ART
+49,Tiziano,1033,1040,PERSON
+49,an Angel Raphael,1383,1399,PERSON
+49,S. John the Baptist,1508,1527,PERSON
+50,Andrea,682,688,PERSON
+53,Paul IV,280,287,PERSON
+53,Pirro Ligorio,392,405,PERSON
+53,Christ,1178,1184,PERSON
+53,Moses,1697,1702,PERSON
+53,Pharaoh,1707,1714,PERSON
+53,Federigo,1836,1844,PERSON
+53,Vincenzio Borghini,1893,1911,PERSON
+53,the Angel,2024,2033,PERSON
+53,Pius IV,2795,2802,PERSON
+53,Taddeo,2904,2910,PERSON
+53,Caprarola,2950,2959,PERSON

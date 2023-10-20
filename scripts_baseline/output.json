@@ -1,0 +1,112 @@
+{"id": "0", "surface": "Frate", "start_pos": 532, "end_pos": 537, "type": "PERSON"}
+{"id": "0", "surface": "Buonarroti", "start_pos": 1411, "end_pos": 1421, "type": "PERSON"}
+{"id": "0", "surface": "Buonarroti", "start_pos": 1411, "end_pos": 1421, "type": "PERSON"}
+{"id": "0", "surface": "Vasari", "start_pos": 1546, "end_pos": 1552, "type": "PERSON"}
+{"id": "1", "surface": "S. Pietro", "start_pos": 1218, "end_pos": 1227, "type": "PERSON"}
+{"id": "5", "surface": "David", "start_pos": 374, "end_pos": 379, "type": "PERSON"}
+{"id": "5", "surface": "Goliath", "start_pos": 396, "end_pos": 403, "type": "PERSON"}
+{"id": "5", "surface": "the Nativity of Our Lady", "start_pos": 1153, "end_pos": 1177, "type": "PERSON"}
+{"id": "8", "surface": "Michelagnolo Buonarroti", "start_pos": 884, "end_pos": 907, "type": "PERSON"}
+{"id": "8", "surface": "Buonarroti", "start_pos": 938, "end_pos": 948, "type": "PERSON"}
+{"id": "8", "surface": "Michelagnolo", "start_pos": 973, "end_pos": 985, "type": "PERSON"}
+{"id": "8", "surface": "Giuliano", "start_pos": 1038, "end_pos": 1046, "type": "PERSON"}
+{"id": "9", "surface": "Raffaello da Urbino", "start_pos": 85, "end_pos": 104, "type": "PERSON"}
+{"id": "9", "surface": "Leo", "start_pos": 144, "end_pos": 147, "type": "PERSON"}
+{"id": "9", "surface": "Giulio de ' Medici", "start_pos": 159, "end_pos": 177, "type": "PERSON"}
+{"id": "9", "surface": "de ' Rossi", "start_pos": 193, "end_pos": 203, "type": "PERSON"}
+{"id": "9", "surface": "Leo", "start_pos": 144, "end_pos": 147, "type": "PERSON"}
+{"id": "9", "surface": "Giulio de ' Medici", "start_pos": 159, "end_pos": 177, "type": "PERSON"}
+{"id": "9", "surface": "de ' Rossi", "start_pos": 193, "end_pos": 203, "type": "PERSON"}
+{"id": "9", "surface": "Cibo", "start_pos": 268, "end_pos": 272, "type": "PERSON"}
+{"id": "14", "surface": "Christ", "start_pos": 845, "end_pos": 851, "type": "PERSON"}
+{"id": "14", "surface": "S. John", "start_pos": 865, "end_pos": 872, "type": "PERSON"}
+{"id": "14", "surface": "Magdalene", "start_pos": 879, "end_pos": 888, "type": "PERSON"}
+{"id": "14", "surface": "Jesus Christ", "start_pos": 1131, "end_pos": 1143, "type": "PERSON"}
+{"id": "14", "surface": "the Adoration of the Magi", "start_pos": 1146, "end_pos": 1171, "type": "WORK_OF_ART"}
+{"id": "14", "surface": "the Massacre of the Innocents", "start_pos": 1202, "end_pos": 1231, "type": "WORK_OF_ART"}
+{"id": "14", "surface": "the Nativity of Jesus Christ", "start_pos": 1467, "end_pos": 1495, "type": "WORK_OF_ART"}
+{"id": "14", "surface": "the Sacristy of the Church of S. Spirito", "start_pos": 1573, "end_pos": 1613, "type": "WORK_OF_ART"}
+{"id": "14", "surface": "the Descent of the Holy Spirit upon the Apostles", "start_pos": 1624, "end_pos": 1672, "type": "WORK_OF_ART"}
+{"id": "14", "surface": "Giulio Romano", "start_pos": 1856, "end_pos": 1869, "type": "PERSON"}
+{"id": "14", "surface": "Christ", "start_pos": 2044, "end_pos": 2050, "type": "PERSON"}
+{"id": "14", "surface": "S. John", "start_pos": 2108, "end_pos": 2115, "type": "PERSON"}
+{"id": "15", "surface": "Paul III", "start_pos": 630, "end_pos": 638, "type": "PERSON"}
+{"id": "15", "surface": "Colonna", "start_pos": 803, "end_pos": 810, "type": "PERSON"}
+{"id": "15", "surface": "Orsini", "start_pos": 822, "end_pos": 828, "type": "PERSON"}
+{"id": "15", "surface": "Piero Strozzi", "start_pos": 838, "end_pos": 851, "type": "PERSON"}
+{"id": "15", "surface": "Madonna", "start_pos": 1899, "end_pos": 1906, "type": "PERSON"}
+{"id": "15", "surface": "Signora Livia Colonna", "start_pos": 2437, "end_pos": 2458, "type": "PERSON"}
+{"id": "16", "surface": "the Assumption of Our Lady", "start_pos": 1684, "end_pos": 1710, "type": "PERSON"}
+{"id": "16", "surface": "S. Matteo", "start_pos": 2004, "end_pos": 2013, "type": "PERSON"}
+{"id": "17", "surface": "S. Paul", "start_pos": 133, "end_pos": 140, "type": "PERSON"}
+{"id": "17", "surface": "Paolo", "start_pos": 208, "end_pos": 213, "type": "PERSON"}
+{"id": "20", "surface": "the Old Testament", "start_pos": 1638, "end_pos": 1655, "type": "WORK_OF_ART"}
+{"id": "26", "surface": "slab", "start_pos": 1968, "end_pos": 1972, "type": "PERSON"}
+{"id": "29", "surface": "Jacopo da Pontormo", "start_pos": 142, "end_pos": 160, "type": "PERSON"}
+{"id": "29", "surface": "Andrea del Sarto", "start_pos": 163, "end_pos": 179, "type": "PERSON"}
+{"id": "29", "surface": "Francesco Ubertini", "start_pos": 186, "end_pos": 204, "type": "PERSON"}
+{"id": "29", "surface": "Joseph", "start_pos": 247, "end_pos": 253, "type": "PERSON"}
+{"id": "29", "surface": "Pier Francesco 's", "start_pos": 259, "end_pos": 276, "type": "PERSON"}
+{"id": "29", "surface": "Borgo Sant '", "start_pos": 286, "end_pos": 298, "type": "PERSON"}
+{"id": "29", "surface": "Joseph", "start_pos": 381, "end_pos": 387, "type": "PERSON"}
+{"id": "29", "surface": "Joseph", "start_pos": 524, "end_pos": 530, "type": "PERSON"}
+{"id": "29", "surface": "Pharaoh", "start_pos": 546, "end_pos": 553, "type": "PERSON"}
+{"id": "29", "surface": "Joseph", "start_pos": 243, "end_pos": 249, "type": "PERSON"}
+{"id": "29", "surface": "Joseph", "start_pos": 373, "end_pos": 379, "type": "PERSON"}
+{"id": "29", "surface": "Joseph", "start_pos": 513, "end_pos": 519, "type": "PERSON"}
+{"id": "29", "surface": "Pharaoh", "start_pos": 535, "end_pos": 542, "type": "PERSON"}
+{"id": "29", "surface": "God the Father", "start_pos": 690, "end_pos": 704, "type": "PERSON"}
+{"id": "33", "surface": "the said tribune", "start_pos": 346, "end_pos": 362, "type": "PERSON"}
+{"id": "33", "surface": "Leon Batista", "start_pos": 2366, "end_pos": 2378, "type": "PERSON"}
+{"id": "33", "surface": "Leon Batista", "start_pos": 2366, "end_pos": 2378, "type": "PERSON"}
+{"id": "35", "surface": "Piet\u00e0", "start_pos": 43, "end_pos": 48, "type": "PERSON"}
+{"id": "37", "surface": "the S. Lo", "start_pos": 24, "end_pos": 33, "type": "PERSON"}
+{"id": "38", "surface": "Christ", "start_pos": 1462, "end_pos": 1468, "type": "PERSON"}
+{"id": "39", "surface": "Christ", "start_pos": 454, "end_pos": 460, "type": "PERSON"}
+{"id": "39", "surface": "the Communion to the Apostles", "start_pos": 468, "end_pos": 497, "type": "PERSON"}
+{"id": "39", "surface": "a Dead Christ", "start_pos": 610, "end_pos": 623, "type": "PERSON"}
+{"id": "39", "surface": "S. Helena", "start_pos": 737, "end_pos": 746, "type": "PERSON"}
+{"id": "39", "surface": "Constantine", "start_pos": 775, "end_pos": 786, "type": "PERSON"}
+{"id": "39", "surface": "S. Sebastian", "start_pos": 851, "end_pos": 863, "type": "PERSON"}
+{"id": "39", "surface": "S. Cantius", "start_pos": 1541, "end_pos": 1551, "type": "PERSON"}
+{"id": "39", "surface": "S. Cantianus", "start_pos": 1554, "end_pos": 1566, "type": "PERSON"}
+{"id": "39", "surface": "S. Cantianilla", "start_pos": 1573, "end_pos": 1587, "type": "PERSON"}
+{"id": "39", "surface": "S. Catharine", "start_pos": 1977, "end_pos": 1989, "type": "PERSON"}
+{"id": "39", "surface": "S. Francis", "start_pos": 1994, "end_pos": 2004, "type": "PERSON"}
+{"id": "39", "surface": "Our Lady", "start_pos": 2024, "end_pos": 2032, "type": "WORK_OF_ART"}
+{"id": "39", "surface": "S. James the Apostle", "start_pos": 2038, "end_pos": 2058, "type": "PERSON"}
+{"id": "39", "surface": "S. Francis", "start_pos": 2061, "end_pos": 2071, "type": "PERSON"}
+{"id": "39", "surface": "S. Laurence", "start_pos": 2415, "end_pos": 2426, "type": "PERSON"}
+{"id": "39", "surface": "S. Francis", "start_pos": 2431, "end_pos": 2441, "type": "PERSON"}
+{"id": "41", "surface": "Madonna", "start_pos": 822, "end_pos": 829, "type": "PERSON"}
+{"id": "41", "surface": "S. Catherine", "start_pos": 2011, "end_pos": 2023, "type": "PERSON"}
+{"id": "41", "surface": "a S. Mary Magdalene", "start_pos": 2126, "end_pos": 2145, "type": "PERSON"}
+{"id": "41", "surface": "Crucifix", "start_pos": 2312, "end_pos": 2320, "type": "WORK_OF_ART"}
+{"id": "41", "surface": "S. Nicholas", "start_pos": 2429, "end_pos": 2440, "type": "PERSON"}
+{"id": "43", "surface": "S. Giovanni", "start_pos": 163, "end_pos": 174, "type": "WORK_OF_ART"}
+{"id": "43", "surface": "Raffaello", "start_pos": 406, "end_pos": 415, "type": "PERSON"}
+{"id": "45", "surface": "Christ", "start_pos": 888, "end_pos": 894, "type": "PERSON"}
+{"id": "45", "surface": "God the Father", "start_pos": 940, "end_pos": 954, "type": "PERSON"}
+{"id": "45", "surface": "S. John the Baptist", "start_pos": 1644, "end_pos": 1663, "type": "PERSON"}
+{"id": "45", "surface": "Annunciation", "start_pos": 1730, "end_pos": 1742, "type": "WORK_OF_ART"}
+{"id": "45", "surface": "S. Rocco", "start_pos": 1802, "end_pos": 1810, "type": "PERSON"}
+{"id": "45", "surface": "Sebastian", "start_pos": 1816, "end_pos": 1825, "type": "PERSON"}
+{"id": "45", "surface": "a S. Anne", "start_pos": 2099, "end_pos": 2108, "type": "PERSON"}
+{"id": "47", "surface": "Bronzo", "start_pos": 552, "end_pos": 558, "type": "PERSON"}
+{"id": "49", "surface": "Tiziano", "start_pos": 503, "end_pos": 510, "type": "PERSON"}
+{"id": "49", "surface": "an \" Ecce Homo", "start_pos": 979, "end_pos": 993, "type": "WORK_OF_ART"}
+{"id": "49", "surface": "Tiziano", "start_pos": 1033, "end_pos": 1040, "type": "PERSON"}
+{"id": "49", "surface": "an Angel Raphael", "start_pos": 1383, "end_pos": 1399, "type": "PERSON"}
+{"id": "49", "surface": "S. John the Baptist", "start_pos": 1508, "end_pos": 1527, "type": "PERSON"}
+{"id": "50", "surface": "Andrea", "start_pos": 682, "end_pos": 688, "type": "PERSON"}
+{"id": "53", "surface": "Paul IV", "start_pos": 280, "end_pos": 287, "type": "PERSON"}
+{"id": "53", "surface": "Pirro Ligorio", "start_pos": 392, "end_pos": 405, "type": "PERSON"}
+{"id": "53", "surface": "Christ", "start_pos": 1178, "end_pos": 1184, "type": "PERSON"}
+{"id": "53", "surface": "Moses", "start_pos": 1697, "end_pos": 1702, "type": "PERSON"}
+{"id": "53", "surface": "Pharaoh", "start_pos": 1707, "end_pos": 1714, "type": "PERSON"}
+{"id": "53", "surface": "Federigo", "start_pos": 1836, "end_pos": 1844, "type": "PERSON"}
+{"id": "53", "surface": "Vincenzio Borghini", "start_pos": 1893, "end_pos": 1911, "type": "PERSON"}
+{"id": "53", "surface": "the Angel", "start_pos": 2024, "end_pos": 2033, "type": "PERSON"}
+{"id": "53", "surface": "Pius IV", "start_pos": 2795, "end_pos": 2802, "type": "PERSON"}
+{"id": "53", "surface": "Taddeo", "start_pos": 2904, "end_pos": 2910, "type": "PERSON"}
+{"id": "53", "surface": "Caprarola", "start_pos": 2950, "end_pos": 2959, "type": "PERSON"}

@@ -1,0 +1,88 @@
+doc_id,surface,doc_start_pos,doc_end_pos,type,matched_sf
+5,David,374,379,PERSON,David
+5,Goliath,396,403,PERSON,Goliath
+5,Goliath,396,403,PERSON,Goliath
+5,the Nativity of Our Lady,1153,1177,PERSON,Our Lady
+5,the Nativity of Our Lady,1153,1177,PERSON,Our Lady
+9,Leo,144,147,PERSON,Pope Leo
+9,Leo,144,147,PERSON,Pope Leo
+9,Giulio de ' Medici,159,177,PERSON,Cardinal Giulio de' Medici
+9,Giulio de ' Medici,159,177,PERSON,Cardinal Giulio de' Medici
+9,de ' Rossi,193,203,PERSON,Cardinal de' Rossi
+9,de ' Rossi,193,203,PERSON,Cardinal de' Rossi
+9,Cibo,268,272,PERSON,Cardinal Cibo
+9,Cibo,268,272,PERSON,Cardinal Cibo
+14,Christ,845,851,PERSON,Dead Christ
+14,S. John,865,872,PERSON,S. John
+14,Magdalene,879,888,PERSON,Magdalene
+14,Jesus Christ,1131,1143,PERSON,Jesus Christ
+14,Jesus Christ,1131,1143,PERSON,Jesus Christ
+14,the Adoration of the Magi,1146,1171,WORK_OF_ART,Adoration of the Magi
+14,the Massacre of the Innocents,1202,1231,WORK_OF_ART,Massacre of the Innocents
+14,the Nativity of Jesus Christ,1467,1495,WORK_OF_ART,Jesus Christ
+14,the Nativity of Jesus Christ,1467,1495,WORK_OF_ART,Jesus Christ
+14,the Descent of the Holy Spirit upon the Apostles,1624,1672,WORK_OF_ART,Apostles
+14,the Descent of the Holy Spirit upon the Apostles,1624,1672,WORK_OF_ART,Apostles
+14,the Descent of the Holy Spirit upon the Apostles,1624,1672,WORK_OF_ART,Apostles
+14,Christ,2044,2050,PERSON,Christ on the Cross
+14,S. John,2108,2115,PERSON,S. John
+14,S. John,2108,2115,PERSON,S. John
+15,Madonna,1899,1906,PERSON,Madonna
+15,Signora Livia Colonna,2437,2458,PERSON,Signora Livia Colonna
+16,the Assumption of Our Lady,1684,1710,PERSON,Our Lady
+16,the Assumption of Our Lady,1684,1710,PERSON,Our Lady
+17,S. Paul,133,140,PERSON,S. Paul
+20,the Old Testament,1638,1655,WORK_OF_ART,stories of the Old Testament
+29,Joseph,247,253,PERSON,Joseph
+29,Joseph,243,249,PERSON,Joseph
+29,Joseph,247,253,PERSON,Joseph
+29,Joseph,243,249,PERSON,Joseph
+29,Joseph,513,519,PERSON,Joseph
+29,Joseph,524,530,PERSON,ministering to Pharaoh
+29,Pharaoh,535,542,PERSON,ministering to Pharaoh
+29,God the Father,690,704,PERSON,God the Father
+35,Pietà,43,48,PERSON,Pietà
+37,the S. Lo,24,33,PERSON,S. Lo
+38,Christ,1462,1468,PERSON,Christ
+38,Christ,1462,1468,PERSON,Christ
+39,Christ,454,460,PERSON,Christ
+39,the Communion to the Apostles,468,497,PERSON,Apostles
+39,the Communion to the Apostles,468,497,PERSON,Apostles
+39,a Dead Christ,610,623,PERSON,Christ
+39,a Dead Christ,610,623,PERSON,Christ
+39,S. Helena,737,746,PERSON,S. Helena
+39,Constantine,775,786,PERSON,Emperor Constantine
+39,S. Sebastian,851,863,PERSON,S. Sebastian
+39,S. Cantius,1541,1551,PERSON,S. Cantianus
+39,S. Cantius,1541,1551,PERSON,S. Cantianus
+39,S. Cantianus,1554,1566,PERSON,S. Cantianus
+39,S. Cantianilla,1573,1587,PERSON,S. Cantianilla
+39,S. Catharine,1977,1989,PERSON,S. Catharine
+39,S. Francis,1994,2004,PERSON,S. Francis
+39,Our Lady,2024,2032,WORK_OF_ART,Our Lady
+39,S. James the Apostle,2038,2058,PERSON,S. Francis
+39,S. James the Apostle,2038,2058,PERSON,S. Francis
+39,S. Francis,2061,2071,PERSON,S. Francis
+39,S. Laurence,2415,2426,PERSON,S. Laurence
+39,S. Francis,2431,2441,PERSON,S. Francis
+41,Madonna,822,829,PERSON,Madonna
+41,S. Catherine,2011,2023,PERSON,S. Catherine
+41,Crucifix,2312,2320,WORK_OF_ART,Crucifix
+41,S. Nicholas,2429,2440,PERSON,S. Nicholas
+45,Christ,888,894,PERSON,Christ
+45,Christ,888,894,PERSON,Christ
+45,God the Father,940,954,PERSON,God the Father
+45,S. John the Baptist,1644,1663,PERSON,S. John the Baptist
+45,S. John the Baptist,1644,1663,PERSON,S. John the Baptist
+45,Annunciation,1730,1742,WORK_OF_ART,Annunciation
+45,S. Rocco,1802,1810,PERSON,S. Rocco
+45,Sebastian,1816,1825,PERSON,S. Sebastian
+45,a S. Anne,2099,2108,PERSON,S. Anne
+49,"an "" Ecce Homo",979,993,WORK_OF_ART,Ecce Homo
+49,an Angel Raphael,1383,1399,PERSON,Angel Raphael
+49,S. John the Baptist,1508,1527,PERSON,S. John the Baptist
+53,Christ,1178,1184,PERSON,Christ
+53,Moses,1697,1702,PERSON,Moses
+53,Pharaoh,1707,1714,PERSON,stories of Moses and Pharaoh
+53,Moses,1697,1702,PERSON,Moses
+53,the Angel,2024,2033,PERSON,Angel
